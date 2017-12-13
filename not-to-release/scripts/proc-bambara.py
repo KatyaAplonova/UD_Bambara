@@ -5,8 +5,8 @@ def get_udtags(lem, pos, gloss, all_glosses):
 	""" Convert a tuple of (lemma, part-of-speech, gloss) to a UD part-of-speech
 	    tag and a list of morphological features """
 	tags = ['X', []]
-
-	if lem in [',', '.', '!', '"', ';', ':', '(', ')']:
+# FIXME maybe, it's better to make a table and read it?
+	if lem in [',', '.', '!', '"', ';', ':', '(', ')', '?']:
 		return ['PUNCT',[]]
 #	print(lem, pos, gloss, all_glosses, file=sys.stderr)
 #	part of speech tags
@@ -230,6 +230,7 @@ def get_val(token, tip, attr):
 		vals.append(v.text)
 	if len(val) > 0:
 		return (val[0].text, vals)
+	# FIXME why we return twice the same value? return (vals[0], vals[1:])
 	else:
 		return ('_', [])
 
@@ -248,6 +249,7 @@ sent_id = 1
 # For each of the sentences in the file
 for sent in root.findall('.//span[@class="sent"]'):
 	# If the sentence has some kind of HTML tag in, skip it.
+	# FIXME Delete? As we loose a sentence
 	if sent.text.count('<h') > 0 or sent.text.count('<c') > 0:
 		continue
 	# Print out the sentence ID and the original text as a comment
