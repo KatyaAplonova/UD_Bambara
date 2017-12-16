@@ -49,6 +49,8 @@ def get_udtags(lem, pos, gloss, all_glosses):
 		tags[0] = 'DET'
 	if pos == 'prt':
 		tags[0] = 'PART'
+	if pos == 'intj':
+		tags[0] = 'INTJ'	
 #	then glosses
 	if gloss == 'ABR':
 		tags[1].append('Abbr=Yes')
