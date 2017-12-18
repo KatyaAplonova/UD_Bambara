@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import sys
 import xml.etree.ElementTree as ET
 
@@ -36,7 +38,7 @@ def get_udtags(lem, pos, gloss, all_glosses):
 	if pos == 'prn':
 		tags[0] = 'PRON'
 	if pos == 'pm':
-		tags[0] = 'AUX' 
+		tags[0] = 'AUX'
 	if pos == 'conj' and lem in ["bàri", "jàa", "jàga", "kélen", "kòni", "nká", "nk'", "ô", "ôo", "wô", "tàrí", "tɛ̀rí", "wà", "wáa", "w'", "wálà", "wàlámà", "wàlímà", "wáli", "wó","àni"]:
 		tags[0] = 'CCONJ'
 	if pos == 'conj' and lem in ["bárì", "bárìsá", "bárì sá", "báwò", "bɛ́ɛ", "bína", "bíɲa", "dàma", "dɔ́rɔn", "jànkó", "jàngó", "kàsɔrɔ", "kàtugu", "kàtuguni", "kɔ́ntɛ̀", "mînkɛ́", "mînkɛ́ni", "ní", "n'ó tɛ́","n'",  "nóntɛ́", "nɔ́ntɛ", "sá", "sábu", "sáabu", "sábi", "sábula", "sàfɛ", "sánì", "sánni", "sán'", "sánn'", "sànkó", "sàngó", "tɛ́sɛ", "tílen", "wálasa", "wáasa", "wálisa", "yáa", "yála", "yálasa", "yáasa", "yála", "yálisa", "jáasa", "yànni", "yànn'", "yàli"]:
@@ -80,7 +82,7 @@ def get_udtags(lem, pos, gloss, all_glosses):
 		tags[1].append('Mood=Imp')
 	if gloss == 'PROG.NEG':
 		tags[1].append('Polarity=Neg')
-		tags[1].append('Aspect=Prog')	
+		tags[1].append('Aspect=Prog')
 	if gloss == 'PROG.AFF':
 		tags[1].append('Polarity=Pos')
 		tags[1].append('Aspect=Prog')
@@ -103,10 +105,10 @@ def get_udtags(lem, pos, gloss, all_glosses):
 	if gloss == 'INFR':
 		tags[1].append('Evident=Infer')
 		tags[1].append('Aspect=Perf')
-		tags[1].append('Polarity=Pos')				
-	if gloss == 'IMP':	     
+		tags[1].append('Polarity=Pos')
+	if gloss == 'IMP':
 		tags[1].append('Mood=Imp')
-		tags[1].append('Polarity=Pos')	
+		tags[1].append('Polarity=Pos')
 	if gloss == 'FUT.NEG':
 		tags[1].append('Polarity=Neg')
 		tags[1].append('Tense=Fut')
@@ -115,9 +117,9 @@ def get_udtags(lem, pos, gloss, all_glosses):
 		tags[1].append('Polarity=Pos')
 	if gloss == 'CERT':
 		tags[1].append('Tense=Fut')
-		tags[1].append('Polarity=Pos')	
+		tags[1].append('Polarity=Pos')
 	if gloss == 'BE':
-		tags[1].append('Polarity=Pos')				
+		tags[1].append('Polarity=Pos')
 	if gloss == 'COP.NEG':
 		tags[1].append('Polarity=Neg')
 	if gloss == 'COND.NEG':
@@ -201,7 +203,7 @@ def get_udtags(lem, pos, gloss, all_glosses):
 	if 'NMLZ' in all_glosses:
 		tags[1].append('VerbalForm=Vnoun')
 	if 'ADJ' in all_glosses:
-		tags[1].append('AdjType=Attr')	
+		tags[1].append('AdjType=Attr')
 	if 'ORD' in all_glosses:
 		tags[1].append('NumType=Ord')
 	if 'CARDINAL' in all_glosses:
@@ -213,7 +215,7 @@ def get_udtags(lem, pos, gloss, all_glosses):
 #now two ni
 	if lem == "ní́" and 'et' in gloss:
 		tags[0] = 'CCONJ'
-	if lem == "n'" and 'et' in gloss:	
+	if lem == "n'" and 'et' in gloss:
 		tags[0] = 'CCONJ'
 	if lem == "ní" and 'si' in gloss:
 		tags[0] = 'SCONJ'
@@ -251,9 +253,6 @@ sent_id = 1
 # For each of the sentences in the file
 for sent in root.findall('.//span[@class="sent"]'):
 	# If the sentence has some kind of HTML tag in, skip it.
-	# FIXME Delete? As we loose a sentence
-	if sent.text.count('<h') > 0 or sent.text.count('<c') > 0:
-		continue
 	# Print out the sentence ID and the original text as a comment
 	print('# sent_id = %s:%d' % (doc_id, sent_id))
 	print('# text = %s' % (sent.text.strip()))
@@ -263,16 +262,16 @@ for sent in root.findall('.//span[@class="sent"]'):
 	for token in tokens:
 		morf = ''
 		# What kind of token are we looking at?
-		klass = token.attrib["class"] 
+		klass = token.attrib["class"]
 		# If the token is not punctuation or a word then skip it.
-		if klass != 'c' and klass != 'w': 
+		if klass != 'c' and klass != 'w':
 			continue
 		# The word form is the contents of the span
 		w = token.text
 		# Get the language-specific part-of-speech tag and the gloss
 		(xpos, ps) = get_val(token, 'sub', 'ps');
 		(gloss, glosses)  = get_val(token, 'sub', 'gloss');
-		# If the type of token is punctuation, then the lemma is the 
+		# If the type of token is punctuation, then the lemma is the
 		# same as the surface form
 		if klass == 'c':
 			lem = w
