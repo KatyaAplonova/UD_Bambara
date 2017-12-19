@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
 import sys
 import xml.etree.ElementTree as ET
 
@@ -7,7 +8,7 @@ def get_udtags(lem, pos, gloss, all_glosses):
 	""" Convert a tuple of (lemma, part-of-speech, gloss) to a UD part-of-speech
 	    tag and a list of morphological features """
 	tags = ['X', []]
-# FIXME maybe, it's better to make a table and read in?
+# FIXME maybe, it's better to make a table and read it?
 	if lem in [',', '.', '!', '"', ';', ':', '(', ')', '?']:
 		return ['PUNCT',[]]
 #	print(lem, pos, gloss, all_glosses, file=sys.stderr)
@@ -44,15 +45,13 @@ def get_udtags(lem, pos, gloss, all_glosses):
 	if pos == 'conj' and lem in ["bárì", "bárìsá", "bárì sá", "báwò", "bɛ́ɛ", "bína", "bíɲa", "dàma", "dɔ́rɔn", "jànkó", "jàngó", "kàsɔrɔ", "kàtugu", "kàtuguni", "kɔ́ntɛ̀", "mînkɛ́", "mînkɛ́ni", "ní", "n'ó tɛ́","n'",  "nóntɛ́", "nɔ́ntɛ", "sá", "sábu", "sáabu", "sábi", "sábula", "sàfɛ", "sánì", "sánni", "sán'", "sánn'", "sànkó", "sàngó", "tɛ́sɛ", "tílen", "wálasa", "wáasa", "wálisa", "yáa", "yála", "yálasa", "yáasa", "yála", "yálisa", "jáasa", "yànni", "yànn'", "yàli"]:
 		tags[0] = 'SCONJ'
 	if pos == 'cop':
-		tags[0] = 'VERB'
+		tags[0] = 'COP'
 	if pos == 'pp':
 		tags[0] = 'ADP'
 	if pos == 'dtm':
 		tags[0] = 'DET'
 	if pos == 'prt':
 		tags[0] = 'PART'
-	if pos == 'intj':
-		tags[0] = 'INTJ'	
 #	then glosses
 	if gloss == 'ABR':
 		tags[1].append('Abbr=Yes')
