@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import sys
+import sys, re
 import xml.etree.ElementTree as ET
 
 def get_udtags(lem, pos, gloss, all_glosses):
@@ -249,12 +249,24 @@ doc_id = sys.argv[1]
 # Set the sentence ID to 1
 sent_id = 1
 
+def clean_str(s):
+	o = s
+	o = o.replace('&#65279;', '')
+	o = o.replace('﻿', '')
+	o = o.replace('\n', ' ')
+	o = re.sub('  *', ' ', o)
+	return o
+
 # For each of the sentences in the file
 for sent in root.findall('.//span[@class="sent"]'):
 	# If the sentence has some kind of HTML tag in, skip it.
 	# Print out the sentence ID and the original text as a comment
+	txt = clean_str(sent.text).strip()
+	if txt == '':
+		continue
+	#print('@@', ' '.join([repr(x) +'/'+ str(ord(x)) for x in txt]))
 	print('# sent_id = %s:%d' % (doc_id, sent_id))
-	print('# text = %s' % (sent.text.strip()))
+	print('# text = %s' % (txt))
 	tok_id = 1
 	# Find all the tokens in the sentence
 	tokens = sent.findall(".//span")
@@ -266,7 +278,10 @@ for sent in root.findall('.//span[@class="sent"]'):
 		if klass != 'c' and klass != 'w':
 			continue
 		# The word form is the contents of the span
-		w = token.text
+		w = clean_str(token.text).strip()
+		#print('@@', w, ' '.join([repr(x) +'/'+ str(ord(x)) for x in w]))
+		if w == '': 
+			continue
 		# Get the language-specific part-of-speech tag and the gloss
 		(xpos, ps) = get_val(token, 'sub', 'ps');
 		(gloss, glosses)  = get_val(token, 'sub', 'gloss');
