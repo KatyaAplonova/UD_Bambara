@@ -263,6 +263,7 @@ for sent in root.findall('.//span[@class="sent"]'):
 	# Print out the sentence ID and the original text as a comment
 	txt = clean_str(sent.text).strip()
 	if txt == '':
+		sent_id = sent_id + 1
 		continue
 	#print('@@', ' '.join([repr(x) +'/'+ str(ord(x)) for x in txt]))
 	print('# sent_id = %s:%d' % (doc_id, sent_id))
