@@ -6,6 +6,13 @@ The UD Bambara treebank is a section of the Corpus Référence du Bambara annota
 
 Tbd.
 
+# Source files for UD_Bambara
+
+* `html/`: the original `.html` files from the CBR
+* `scripts/`: helper scripts for converting the data from CBR to UD (morphology and POS)
+
+`.conllu` files in this directory are the result of manual annotation of the output of the conversion script.
+
 # Acknowledgments 
 
 The conversion and annotation has been done by Katya Aplonova and Francis M. Tyers at the Higher School of Economics

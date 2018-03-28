@@ -9,7 +9,7 @@ def get_udtags(lem, pos, gloss, all_glosses):
 	    tag and a list of morphological features """
 	tags = ['X', []]
 # FIXME maybe, it's better to make a table and read it?
-	if lem in [',', '.', '!', '"', ';', ':', '(', ')', '?']:
+	if lem in [',', '.', '!', '"', ';', ':', '(', ')', '?', '-']:
 		return ['PUNCT',[]]
 #	print(lem, pos, gloss, all_glosses, file=sys.stderr)
 #	part of speech tags
@@ -44,8 +44,14 @@ def get_udtags(lem, pos, gloss, all_glosses):
 		tags[0] = 'CCONJ'
 	if pos == 'conj' and lem in ["bárì", "bárìsá", "bárì sá", "báwò", "bɛ́ɛ", "bína", "bíɲa", "dàma", "dɔ́rɔn", "jànkó", "jàngó", "kàsɔrɔ", "kàtugu", "kàtuguni", "kɔ́ntɛ̀", "mînkɛ́", "mînkɛ́ni", "ní", "n'ó tɛ́","n'",  "nóntɛ́", "nɔ́ntɛ", "sá", "sábu", "sáabu", "sábi", "sábula", "sàfɛ", "sánì", "sánni", "sán'", "sánn'", "sànkó", "sàngó", "tɛ́sɛ", "tílen", "wálasa", "wáasa", "wálisa", "yáa", "yála", "yálasa", "yáasa", "yála", "yálisa", "jáasa", "yànni", "yànn'", "yàli"]:
 		tags[0] = 'SCONJ'
+	if pos == 'part' and lem in ["dé", "dún", "dɔ́rɔn"]:
+		tags[0] = 'DET'
 	if pos == 'cop':
-		tags[0] = 'COP'
+		tags[0] = 'VERB'
+	if pos == 'intj':
+		tags[0] = 'INTJ'
+	if pos == 'onomat':
+		tags[0] = 'INTJ'
 	if pos == 'pp':
 		tags[0] = 'ADP'
 	if pos == 'dtm':
@@ -281,7 +287,7 @@ for sent in root.findall('.//span[@class="sent"]'):
 		# The word form is the contents of the span
 		w = clean_str(token.text).strip()
 		#print('@@', w, ' '.join([repr(x) +'/'+ str(ord(x)) for x in w]))
-		if w == '': 
+		if w == '':
 			continue
 		# Get the language-specific part-of-speech tag and the gloss
 		(xpos, ps) = get_val(token, 'sub', 'ps');
