@@ -1,4 +1,3 @@
-
 PATH "/var/lib/manatee/data/corbama-ud"
 VERTICAL "/var/lib/manatee/vert/corbama-ud.vert"
 ENCODING "utf-8"
@@ -39,3 +38,4 @@ STRUCTURE s {
 SHORTREF "=doc.id,#"
 MAXCONTEXT 100
 MAXDETAIL 200
+SIMPLEQUERY '[word="%s" | dep="%s"]'
