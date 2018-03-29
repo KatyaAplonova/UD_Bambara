@@ -1,0 +1,28 @@
+BEGIN {
+  FS="\t";
+  OFS="\t";
+  }
+NR == 1 {
+  printf "<doc id=%s>\n", FILENAME;
+}
+NF < 1 {next}
+/^# sent_id/ {
+  if (NR>1) {print "</s>"};
+  match($0, /^.*sent_id = ([a-zA-Z0-9.:_-]+)/, ids);
+  printf "<s id=%s", ids[1];
+  sclosed = 0;
+  next
+}
+/^# text/ {next}
+/^# label/ {
+  match($0, /^.*label = (.*)$/, lbls);
+  printf " label=\"%s\">\n", lbls[1];
+  sclosed = 1;
+  next
+}
+/^[^#]/ && NF > 1 && sclosed == 0 { printf ">\n"; sclosed = 1 }
+{print $2, $3, $4, $6, $1, $7, $8, $10, $5}
+END {
+  print "</s>";
+  print "</doc>"
+}
