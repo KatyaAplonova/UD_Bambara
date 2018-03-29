@@ -1,0 +1,41 @@
+
+PATH "/var/lib/manatee/data/corbama-ud"
+VERTICAL "/var/lib/manatee/vert/corbama-ud.vert"
+ENCODING "utf-8"
+LANGUAGE "Bambara"
+LOCALE "bm_ML"
+MAINTAINER "Ekaterina Aplonova"
+INFO "Corpus Bambara de Reference (syntactically annotated subcorpus)"
+INFOHREF "http://cormand.huma-num.fr/"
+TAGSETDOC "TBD"
+WPOSLIST ",ADJ,adjective,ADV,adverb,INTJ,interjection,NOUN,noun,PROPN,proper name,VERB,verb,ADP,adposition,AUX,auxiliary,CCONJ,coordinating conjunction,DET,determiner,NUM,numeral,PART,particle,PRON,pronoun,SCONJ,subordinating conjunction,PUNCT,punctuation,X,other"
+
+ATTRIBUTE word
+ATTRIBUTE lemma
+ATTRIBUTE tag
+ATTRIBUTE feature {
+    MULTIVALUE yes
+    MULTISEP "|"
+}
+ATTRIBUTE id
+ATTRIBUTE head
+ATTRIBUTE dep
+ATTRIBUTE gloss {
+    MULTIVALUE yes
+    MULTISEP "|"
+    LOCALE "fr_FR"
+}
+ATTRIBUTE brc_pos
+
+STRUCTURE doc {
+    ATTRIBUTE id
+    ATTRIBUTE wordcount
+}
+
+STRUCTURE s
+}
+ATTRIBUTE id
+}
+SHORTREF "=doc.id,#"
+MAXCONTEXT 100
+MAXDETAIL 200
