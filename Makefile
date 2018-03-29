@@ -10,17 +10,21 @@ RSYNC=rsync -avP --stats -e ssh
 
 corpusfiles := $(wildcard conllu/*.conllu)
 vertfiles := $(patsubst conllu/%.conllu,vert/%.vert,$(corpusfiles))
-
+rawfiles := $(filter-out $(patsubst conllu/%,raw/%,$(corpusfiles)), $(patsubst html/%.html,raw/%.conllu,$(wildcard html/*.html)))
 vert/%.vert: conllu/%.conllu
 	gawk -f scripts/conllu2vert $< > $@
 
-conllu/%.conllu: html/%.html
+print-%:
+	$(info $*=$($*))
+
+raw/%.conllu: html/%.html
 	python3 scripts/proc-bambara.py $< > $@
 
 corbama-ud.vert: $(vertfiles)
 	mkdir -p vert/
 	cat $(vertfiles) > $@
 
+convert: 
 compile: corbama-ud.vert config/corbama-ud
 	rm -rf export/data/corbama-ud
 	rm -f export/registry/corbama-ud
