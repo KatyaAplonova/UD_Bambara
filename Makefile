@@ -14,6 +14,9 @@ vertfiles := $(patsubst conllu/%.conllu,vert/%.vert,$(corpusfiles))
 vert/%.vert: conllu/%.conllu
 	gawk -f scripts/conllu2vert $< > $@
 
+conllu/%.conllu: html/%.html
+	python3 scripts/proc-bambara.py $< > $@
+
 corbama-ud.vert: $(vertfiles)
 	mkdir -p vert/
 	cat $(vertfiles) > $@
