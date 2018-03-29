@@ -32,9 +32,9 @@ STRUCTURE doc {
     ATTRIBUTE wordcount
 }
 
-STRUCTURE s
-}
-ATTRIBUTE id
+STRUCTURE s {
+    ATTRIBUTE id
+    ATTRIBUTE label
 }
 SHORTREF "=doc.id,#"
 MAXCONTEXT 100
