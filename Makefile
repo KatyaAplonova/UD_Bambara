@@ -20,7 +20,7 @@ print-%:
 raw/%.conllu: html/%.html
 	python3 scripts/proc-bambara.py $< > $@
 
-corbama-ud.vert: $(vertfiles)
+corbama-ud.vert: $(vertfiles) scripts/conllu2vert
 	mkdir -p vert/
 	cat $(vertfiles) > $@
 
