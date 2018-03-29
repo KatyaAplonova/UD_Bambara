@@ -1,0 +1,614 @@
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:1
+# text = <h>MANSAKÈ DENMUSO FURULI</h>
+1	MANSAKÈ	màsa.kɛ̀	NOUN	n	_	2	nmod:poss	_	Gloss=roi|Morf=roi,roi,mâle
+2	DENMUSO	dén.muso	NOUN	n	_	3	nmod:poss	_	Gloss=fille|Morf=fille,enfant,femme
+3	FURULI	furuli	NOUN	n	VerbalForm=Vnoun	0	root	_	Gloss=épouser|Morf=épouser,NMLZ
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:2
+# text = ntalen.
+1	ntalen	ntàlen	NOUN	n	_	0	root	_	Gloss=parabole
+2	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:3
+# text = mansakè dò don kurun dò bè a rò.
+1	mansakè	màsakɛ̀	NOUN	n	_	3	nsubj	_	Gloss=roi|Morf=roi,roi,mâle
+2	dò	dɔ́	DET	dtm	_	1	det	_	Gloss=certain
+3	don	dòn	VERB	cop	_	0	root	_	Gloss=ID
+4	kurun	kùrun	NOUN	n	_	6	nsubj	_	Gloss=boule
+5	dò	dɔ́	DET	dtm	_	4	det	_	Gloss=certain
+6	bè	bɛ́	VERB	cop	_	3	parataxis	_	Gloss=être
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	6	obl	_	Gloss=3SG
+8	rò	rɔ́	ADP	pp	_	7	case	_	Gloss=IN
+9	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:4
+# text = a ko mògò tè ale den sòrò fo ni min ye o ci a kaya la.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+2	ko	kó	 VERB	cop	_	0	root	_	Gloss=QUOT
+3	mògò	mɔ̀gɔ	NOUN	n	_	7	nsubj	_	Gloss=homme
+4	tè	tɛ	AUX	pm	Polarity=Neg|Aspect=Imp	7	aux	_	Gloss=IPFV.NEG
+5	ale	àlê	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	6	nmod:poss	_	Gloss=3SG.EMPH
+6	den	dén	NOUN	n	_	7	obj	_	Gloss=enfant
+7	sòrò	sɔ̀rɔ	VERB	v	_	2	ccomp	_	Gloss=obtenir
+8	fo	fó	SCONJ	conj	_	13	mark	_	Gloss=jusqu'à
+9	ni	ní	SCONJ	conj	_	8	fixed	_	Gloss=si
+10	min	mîn	PRON	prn	PronType=Rel	13	nsubj	_	Gloss=REL
+11	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	13	aux	_	Gloss=PFV.TR
+12	o	ò	PRON	prn	_	13	obj	_	Gloss=ce
+13	ci	cì	VERB	v	_	7	advcl	_	Gloss=frapper
+14	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	15	nmod:poss	_	Gloss=3SG
+15	kaya	kàya	NOUN	n	_	13	obl	_	Gloss=bourses
+16	la	lá	ADP	pp	_	15	case	_	Gloss=à
+17	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:5
+# text = o ye duguw yaala.
+1	o	ò	PRON	prn	_	4	nsubj	_	Gloss=ce
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+3	duguw	duguw	NOUN	n	Number=Plur	4	obj	_	Gloss=terre|Morf=terre,PL
+4	yaala	yáala	VERB	v	_	0	root	_	Gloss=errer
+5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:6
+# text = jamana wèrèw la, o ye o bèè yaala.
+1	jamana	jàmana	NOUN	n	_	9	dislocated	_	Gloss=pays
+2	wèrèw	wɛrɛw	ADJ	adj	Number=Plur	1	amod	_	Gloss=autre|Morf=autre,PL
+3	la	lá	ADP	pp	_	1	case	_	Gloss=à
+4	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+5	o	ò	PRON	prn	_	9	nsubj	_	Gloss=ce
+6	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	9	aux	_	Gloss=PFV.TR
+7	o	ò	PRON	prn	_	9	obj	_	Gloss=ce
+8	bèè	bɛ́ɛ	DET	dtm	_	7	det	_	Gloss=tout
+9	yaala	yáala	VERB	v	_	0	root	_	Gloss=errer
+10	.	.	PUNCT	_	_	9	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:7
+# text = u ma mògò sòrò min bè se ka kurun nin ci a fòrò la.
+1	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	4	nsubj	_	Gloss=3PL
+2	ma	ma	AUX	pm	Polarity=Neg|Aspect=Perf	4	aux	_	Gloss=PFV.NEG
+3	mògò	mɔ̀gɔ	NOUN	n	_	4	obj	_	Gloss=homme
+4	sòrò	sɔ̀rɔ	VERB	v	_	0	root	_	Gloss=obtenir
+5	min	mîn	PRON	prn	PronType=Rel	7	nsubj	_	Gloss=REL
+6	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	7	aux	_	Gloss=IPFV.AFF
+7	se	sé	VERB	v	_	3	acl	_	Gloss=arriver
+8	ka	kà	AUX	pm	_	11	aux	_	Gloss=INF
+9	kurun	kùrun	NOUN	n	_	11	obj	_	Gloss=boule
+10	nin	nìn	DET	dtm	PronType=Dem|Definite-Def	9	det	_	Gloss=DEM
+11	ci	cì	VERB	v	_	7	xcomp	_	Gloss=frapper
+12	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	13	nmod:poss	_	Gloss=3SG
+13	fòrò	fɔ́rɔ	NOUN	n	_	11	obl	_	Gloss=membre.viril
+14	la	lá	ADP	pp	_	13	case	_	Gloss=à
+15	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:8
+# text = cè dò wulila ko ale bè taga mansakè den nò fè.
+1	cè	cɛ̀	NOUN	n	_	3	nsubj	_	Gloss=mâle
+2	dò	dɔ́	DET	dtm	_	1	det	_	Gloss=certain
+3	wulila	wulila	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=se.lever|Morf=se.lever,PFV.INTR
+4	ko	kó	PART	cop	_	7	discourse	_	Gloss=QUOT
+5	ale	àlê	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	7	nsubj	_	Gloss=3SG.EMPH
+6	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	7	aux	_	Gloss=IPFV.AFF
+7	taga	tága	VERB	v	_	3	parataxis:obj	_	Gloss=aller
+8	mansakè	màsakɛ	NOUN	n	_	9	nmod:poss	_	Gloss=roi|Morf=roi,roi,mâle
+9	den	dén	NOUN	n	_	7	obl	_	Gloss=enfant
+10	nòfè	nɔ̀fɛ̀̀	ADP	pp	_	9	case	_	Gloss=derrière|Morf=derrière,trace,par
+11	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:9
+# text = o wulila, a tagara.
+1	o	ò	PRON	prn	_	2	nsubj	_	Gloss=ce
+2	wulila	wulila	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=se.lever|Morf=se.lever,PFV.INTR
+3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
+5	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	2	parataxis	_	Gloss=aller|Morf=aller,PFV.INTR
+6	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:10
+# text = a ni musokòrònin dò bènna sira rò.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
+2	ni	ni	CCONJ	conj	_	3	cc	_	Gloss=et
+3	musokòrònin	mùsokɔrɔnin	NOUN	n	_	1	conj	_	Gloss=vieille.femme|Morf=vieille.femme,vieille.femme,femme,vieux,DIM
+4	dò	dɔ́	DET	dtm	_	3	det	_	Gloss=certain
+5	bènna	bɛnna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=se.rencontrer|Morf=se.rencontrer,PFV.INTR
+6	sira	síra	NOUN	n	_	5	obl	_	Gloss=chemin
+7	rò	rɔ́	ADP	pp	_	6	case	_	Gloss=IN
+8	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:11
+# text = a ko a ye ko cè i bè taga min ?
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	obl	_	Gloss=3SG
+4	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	3	case	_	Gloss=PFV.TR
+5	ko	kó	PART	cop	_	9	discourse	_	Gloss=QUOT
+6	cè	cɛ̀	NOUN	n	_	9	vocative	_	Gloss=mâle
+7	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	9	nsubj	_	Gloss=2SG
+8	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	9	aux	_	Gloss=IPFV.AFF
+9	taga	tága	VERB	v	_	2	parataxis:obj	_	Gloss=aller
+10	min	mîn	PRON	prn	PronType=Rel	9	obl	_	Gloss=REL
+11	?	?	PUNCT	_	_	2	punct	_	Gloss=?
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:12
+# text = ko n fana ye o mèn ko mansakè den bè yen, ko a cè ka nyi, a nyògòn tè a na kun,a nyògòn tè walina kun.
+1	ko	kó	PART	cop	_	6	discourse	_	Gloss=QUOT
+2	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	6	nsubj	_	Gloss=1SG
+3	fana	fána	PART	prt	_	2	discourse	_	Gloss=aussi
+4	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	6	aux	_	Gloss=PFV.TR
+5	o	ò	PRON	prn	_	6	obj	_	Gloss=ce
+6	mèn	mɛ́n	VERB	v	_	0	root	_	Gloss=entendre
+7	ko	kó	PART	cop	_	10	discourse	_	Gloss=QUOT
+8	mansakè	màsakɛ̀	NOUN	n	_	9	nmod:poss	_	Gloss=roi|Morf=roi,roi,mâle
+9	den	dén	NOUN	n	_	10	nsubj	_	Gloss=enfant
+10	bè	bɛ́	VERB	cop	_	6	parataxis	_	Gloss=être
+11	yen	yèn	ADV	adv	_	10	advcl	_	Gloss=là-bas
+12	,	,	PUNCT	_	_	10	punct	_	Gloss=,
+13	ko	kó	PART	cop	_	17	discourse	_	Gloss=QUOT
+14	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	15	nmod:poss	_	Gloss=3SG
+15	cè	cɛ̀	NOUN	n	_	17	nsubj	_	Gloss=aspect
+16	ka	ka	AUX	pm	Polarity=Pos	17	aux	_	Gloss=QUAL.AFF
+17	nyi	ɲì	VERB	vq	_	10	parataxis	_	Gloss=bon
+18	,	,	PUNCT	_	_	17	punct	_	Gloss=,
+19	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	20	nmod:poss	_	Gloss=3SG
+20	nyògòn	ɲɔ̀gɔn	NOUN	n	_	21	nsubj	_	Gloss=pareil
+21	tè	tɛ́	VERB	cop	Polarity=Neg	17	parataxis	_	Gloss=COP.NEG
+22	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	23	nmod:poss	_	Gloss=3SG
+23	na	nà	NOUN	n	_	21	obl	_	Gloss=mère
+24	kun	kùn	ADP	pp	_	6	case	_	Gloss=sur
+25	,	,	PUNCT	_	_	21	punct	_	Gloss=,
+26	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	27	nmod:poss	_	Gloss=3SG
+27	nyògòn	ɲɔ̀gɔn	NOUN	n	_	28	nsubj	_	Gloss=pareil
+28	tè	tɛ́	VERB	cop	Polarity=Neg	21	parataxis	_	Gloss=COP.NEG
+29	walina	walina	NOUN	n	_	28	obl	_	Gloss=autrui|Morf=autrui,mère
+30	kun	kùn	ADP	pp	_	29	case	_	Gloss=sur
+31	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:13
+# text = sisan, ni n fana bè se ka kurun nin ci, ni n bè a ci,o bè musonin di n ma.
+1	sisan	sísàn	ADV	adv	_	7	obl	_	Gloss=maintenant
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+3	ni	ní	SCONJ	conj	_	7	mark	_	Gloss=si
+4	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	7	nsubj	_	Gloss=1SG
+5	fana	fána	PART	prt	_	4	discourse	_	Gloss=aussi
+6	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	7	aux	_	Gloss=IPFV.AFF
+7	se	sé	VERB	v	_	22	advcl	_	Gloss=arriver
+8	ka	kà	AUX	pm	_	11	aux	_	Gloss=INF
+9	kurun	kùrun	NOUN	n	_	11	obj	_	Gloss=boule
+10	nin	nìn	DET	dtm	PronType=Dem|Definite-Def	9	det	_	Gloss=DEM
+11	ci	cì	VERB	v	_	7	xcomp	_	Gloss=frapper
+12	,	,	PUNCT	_	_	11	punct	_	Gloss=,
+13	ni	ní	SCONJ	conj	_	17	mark	_	Gloss=si
+14	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	17	nsubj	_	Gloss=1SG
+15	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	17	aux	_	Gloss=IPFV.AFF
+16	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	17	obj	_	Gloss=3SG
+17	ci	cì	VERB	v	_	22	advmod	_	Gloss=frapper
+18	,	,	PUNCT	_	_	17	punct	_	Gloss=,
+19	o	ò	PRON	prn	_	22	nsubj	_	Gloss=ce
+20	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	22	aux	_	Gloss=IPFV.AFF
+21	musonin	musonin	NOUN	n	_	22	obj	_	Gloss=femme|Morf=femme,DIM
+22	di	dí	VERB	v	_	0	root	_	Gloss=donner
+23	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	22	obl	_	Gloss=1SG
+24	ma	mà	ADP	pp	_	23	case	_	Gloss=ADR
+25	.	.	PUNCT	_	_	22	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:14
+# text = ni n tè se ka a ci, n bè a to yen.
+1	ni	ní	SCONJ	conj	_	4	mark	_	Gloss=si
+2	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	4	nsubj	_	Gloss=1SG
+3	tè	tɛ	AUX	pm	Polarity=Neg|Aspect=Imp	4	aux	_	Gloss=IPFV.NEG
+4	se	sé	VERB	v	_	12	advcl	_	Gloss=arriver
+5	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	obj	_	Gloss=3SG
+7	ci	cì	VERB	v	_	4	xcomp	_	Gloss=frapper
+8	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+9	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	12	nsubj	_	Gloss=1SG
+10	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	12	aux	_	Gloss=IPFV.AFF
+11	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	12	obj	_	Gloss=3SG
+12	to	tó	VERB	v	_	0	root	_	Gloss=rester
+13	yen	yèn	ADV	adv	_	12	obl	_	Gloss=là-bas
+14	.	.	PUNCT	_	_	12	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:15
+# text = musokòrònin ko sisan, na yan, a ko ne ka doni filè, ne dèmè n ka doni ka sanba.
+1	musokòrònin	mùsokɔrɔnin	NOUN	n	_	2	nsubj	_	Gloss=vieille.femme|Morf=vieille.femme,vieille.femme,femme,vieux,DIM
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+3	sisan	sísàn	ADV	adv	_	5	advmod	_	Gloss=maintenant
+4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+5	na	nà	VERB	v	_	2	parataxis:obj	_	Gloss=venir
+6	yan	yàn	ADV	adv	_	5	advcl	_	Gloss=ici
+7	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	9	nsubj	_	Gloss=3SG
+9	ko	kó	VERB	cop	_	2	parataxis	_	Gloss=QUOT
+10	ne	nê	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	12	nmod:poss	_	Gloss=1SG.EMPH
+11	ka	ka	ADP	pp	_	10	case	_	Gloss=POSS
+12	doni	dòni	NOUN	n	_	13	obj	_	Gloss=charge
+13	filè	fílɛ	VERB	v	_	9	parataxis:obj	_	Gloss=regarder
+14	,	,	PUNCT	_	_	13	punct	_	Gloss=,
+15	ne	nê	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	16	obj	_	Gloss=1SG.EMPH
+16	dèmè	dɛ̀mɛ	VERB	v	_	13	parataxis	_	Gloss=aider
+17	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	19	nmod:poss	_	Gloss=1SG
+18	ka	ka	ADP	pp	_	17	case	_	Gloss=POSS
+19	doni	dòni	NOUN	n	_	21	obj	_	Gloss=charge
+20	ka	kà	AUX	pm	_	21	aux	_	Gloss=INF
+21	sanba	sàma	VERB	v	_	16	xcomp	_	Gloss=rapporter.cadeau
+22	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:16
+# text = a ko ayiwa, ko baasi tè.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+3	ayiwa	áyiwa	INTJ	intj	_	7	discourse	_	Gloss=bon
+4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+5	ko	kó	PART	cop	_	7	discourse	_	Gloss=QUOT
+6	baasi	báasi	NOUN	n	_	7	nsubj	_	Gloss=problème
+7	tè	tɛ́	VERB	cop	Polarity=Neg	2	parataxis:obj	_	Gloss=COP.NEG
+8	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:17
+# text = a ye o ka doni ta.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	6	nsubj	_	Gloss=3SG
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	6	aux	_	Gloss=PFV.TR
+3	o	ò	PRON	prn	_	5	nmod:poss	_	Gloss=ce
+4	ka	ka	ADP	pp	_	3	case	_	Gloss=POSS
+5	doni	dòni	NOUN	n	_	6	obj	_	Gloss=charge
+6	ta	tà	VERB	v	_	0	root	_	Gloss=prendre
+7	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:18
+# text = a ni a tagara, a ni a tagara.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
+2	ni	ni	CCONJ	conj	_	3	cc	_	Gloss=et
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	1	conj	_	Gloss=3SG
+4	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+5	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	9	nsubj	_	Gloss=3SG
+7	ni	ni	CCONJ	conj	_	8	cc	_	Gloss=et
+8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	6	conj	_	Gloss=3SG
+9	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	4	parataxis	_	Gloss=aller|Morf=aller,PFV.INTR
+10	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:19
+# text = musokòrònin ye furamugu ta ka a di a ma.
+1	musokòrònin	mùsokɔrɔnin	NOUN	n	_	4	nsubj	_	Gloss=vieille.femme|Morf=vieille.femme,vieille.femme,femme,vieux,DIM
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+3	furamugu	fúramugu	NOUN	n	_	4	obj	_	Gloss=remède.en.poudre|Morf=remède.en.poudre,feuille,poudre
+4	ta	tà	VERB	v	_	0	root	_	Gloss=prendre
+5	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	obj	_	Gloss=3SG
+7	di	dí	VERB	v	_	4	xcomp	_	Gloss=donner
+8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	obl	_	Gloss=3SG
+9	ma	mà	ADP	pp	_	8	case	_	Gloss=ADR
+10	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:20
+# text = a ye furamugu ta ka a di a ma tuma min, a seginna.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+3	furamugu	fúramugu	NOUN	n	_	4	obj	_	Gloss=remède.en.poudre|Morf=remède.en.poudre,feuille,poudre
+4	ta	tà	VERB	v	_	14	acl	_	Gloss=prendre
+5	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	obj	_	Gloss=3SG
+7	di	dí	VERB	v	_	4	xcomp	_	Gloss=donner
+8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	obl	_	Gloss=3SG
+9	ma	mà	ADP	pp	_	8	case	_	Gloss=ADR
+10	tuma	tùma	NOUN	n	_	7	advmod	_	Gloss=moment
+11	min	mîn	DET	dtm	PronType=Rel	10	det:rel	_	Gloss=REL
+12	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+13	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	14	nsubj	_	Gloss=3SG
+14	seginna	seginna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=revenir|Morf=revenir,PFV.INTR
+15	.	.	PUNCT	_	_	14	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:21
+# text = ònhòn, a ko ni i tagara, i bè a susa i fòrò la.
+# label = rel_elided
+1	ònhòn	ɔ̀nhɔ́n	INTJ	intj	_	4	discourse	_	Gloss=oui
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
+4	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+5	ni	ní	SCONJ	conj	_	7	mark	_	Gloss=si
+6	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	7	nsubj	_	Gloss=2SG
+7	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	12	advmod	_	Gloss=aller|Morf=aller,PFV.INTR
+8	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+9	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	12	nsubj	_	Gloss=2SG
+10	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	12	aux	_	Gloss=IPFV.AFF
+11	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	12	obj	_	Gloss=3SG
+12	susa	sùsa	VERB	v	_	4	parataxis:obj	_	Gloss=essuyer
+13	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	14	nmod:poss	_	Gloss=2SG
+14	fòrò	fɔ́rɔ	NOUN	n	_	12	obl	_	Gloss=membre.viril
+15	la	lá	ADP	pp	_	14	case	_	Gloss=à
+16	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:22
+# text = ni i ye a susa i fòrò la, i bè a susa bèlè la, i bè a ci.
+1	ni	ní	SCONJ	conj	_	5	mark	_	Gloss=si
+2	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	5	nsubj	_	Gloss=2SG
+3	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	obj	_	Gloss=3SG
+5	susa	sùsa	VERB	v	_	13	advcl	_	Gloss=essuyer
+6	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	7	nmod:poss	_	Gloss=2SG
+7	fòrò	fɔ́rɔ	NOUN	n	_	5	obl	_	Gloss=membre.viril
+8	la	lá	ADP	pp	_	7	case	_	Gloss=à
+9	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+10	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	13	nsubj	_	Gloss=2SG
+11	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	13	aux	_	Gloss=IPFV.AFF
+12	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	13	obj	_	Gloss=3SG
+13	susa	sùsa	VERB	v	_	0	root	_	Gloss=essuyer
+14	bèlè	bɛ̀lɛ	NOUN	n	_	13	obl	_	Gloss=gravier
+15	la	lá	ADP	pp	_	14	case	_	Gloss=à
+16	,	,	PUNCT	_	_	13	punct	_	Gloss=,
+17	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	20	nsubj	_	Gloss=2SG
+18	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	20	aux	_	Gloss=IPFV.AFF
+19	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	20	obj	_	Gloss=3SG
+20	ci	cì	VERB	v	_	13	parataxis	_	Gloss=frapper
+21	.	.	PUNCT	_	_	13	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:23
+# text = a ko baasi tè.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+3	baasi	báasi	NOUN	n	_	4	nsubj	_	Gloss=problème
+4	tè	tɛ́	VERB	cop	Polarity=Neg	2	parataxis:obj	_	Gloss=COP.NEG
+5	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:24
+# text = a tagara mansakè bara.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+3	mansakè	màsakɛ̀	NOUN	n	_	2	obl	_	Gloss=roi|Morf=roi,roi,mâle
+4	bara	bára	ADP	pp	_	3	case	_	Gloss=chez
+5	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:25
+# text = a tagara tuma min, ko mansakè !
+# label = rel_elided
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	7	acl	_	Gloss=aller|Morf=aller,PFV.INTR
+3	tuma	tùma	NOUN	n	_	2	obl	_	Gloss=moment
+4	min	mîn	DET	dtm	PronType=Rel	3	det:rel	_	Gloss=REL
+5	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+6	ko	kó	PART	cop	_	7	discourse	_	Gloss=QUOT
+7	mansakè	màsakɛ̀	NOUN	n	_	0	root	_	Gloss=roi|Morf=roi,roi,mâle
+8	!	!	PUNCT	_	_	7	punct	_	Gloss=!
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:26
+# text = a ko aw ni su !
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+3	aw	áw	PRON	pers	PronType=Prs|Number=Plur|Person=2|PronType=Emp	2	parataxis:obj	_	Gloss=2PL.EMPH
+4	ni	ni	CCONJ	conj	_	5	cc	_	Gloss=et
+5	su	sú	NOUN	n	_	3	conj	_	Gloss=nuit
+6	!	!	PUNCT	_	_	2	punct	_	Gloss=!
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:27
+# text = a ko nba !
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+3	nba	nbá	INTJ	intj	_	2	parataxis:obj	_	Gloss=salut
+4	!	!	PUNCT	_	_	2	punct	_	Gloss=!
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:28
+# text = a ko è ne fana ye kibaru mèn, ne nana o de nò fè.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+3	è	ɛ́	INTJ	intj	_	8	discourse	_	Gloss=ah!
+4	ne	nê	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	8	nsubj	_	Gloss=1SG.EMPH
+5	fana	fána	PART	prt	_	4	discourse	_	Gloss=aussi
+6	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	8	aux	_	Gloss=PFV.TR
+7	kibaru	kìbaru	NOUN	n	_	8	obj	_	Gloss=nouvelle
+8	mèn	mɛ́n	VERB	v	_	2	parataxis:obj	_	Gloss=entendre
+9	,	,	PUNCT	_	_	8	punct	_	Gloss=,
+10	ne	nê	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	11	nsubj	_	Gloss=1SG.EMPH
+11	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	8	parataxis	_	Gloss=venir|Morf=venir,PFV.INTR
+12	o	ò	PRON	prn	_	11	obl	_	Gloss=ce
+13	de	dè	PART	prt	_	12	discourse	_	Gloss=FOC
+14	nòfè	nɔ̀fɛ̀	ADP	pp	_	12	case	_	Gloss=derrière|Morf=derrière,trace,par
+15	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:29
+# text = ko i nana o de nò fè ?
+1	ko	kó	PART	cop	_	3	discourse	_	Gloss=QUOT
+2	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	3	nsubj	_	Gloss=2SG
+3	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
+4	o	ò	PRON	prn	_	3	obl	_	Gloss=ce
+5	de	dè	PART	prt	_	4	discourse	_	Gloss=FOC
+6	nòfè	nɔ̀fɛ̀	ADP	pp	_	4	case	_	Gloss=derrière|Morf=derrière,trace,par
+7	?	?	PUNCT	_	_	3	punct	_	Gloss=?
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:30
+# text = a ko ayiwa, baasi tè.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+3	ayiwa	áyiwa	INTJ	intj	_	6	discourse	_	Gloss=bon
+4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+5	baasi	báasi	NOUN	n	_	6	nsubj	_	Gloss=problème
+6	tè	tɛ́	VERB	cop	Polarity=Neg	2	parataxis:obj	_	Gloss=COP.NEG
+7	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:31
+# text = kurun nin filè nin ye yan.
+1	kurun	kùrun	NOUN	n	_	3	obj	_	Gloss=boule
+2	nin	nìn	DET	dtm	PronType=Dem|Definite-Def	1	det	_	Gloss=DEM
+3	filè	fílɛ	VERB	v	_	0	root	_	Gloss=regarder
+4	nin	nìn	PRON	prn	_	3	obl	_	Gloss=ceci
+5	ye	yé	ADP	pp	_	4	case	_	Gloss=PP
+6	yan	yàn	ADV	adv	_	3	obl	_	Gloss=ici
+7	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:32
+# text = a ko kuma caman tè a rò.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+3	kuma	kúma	NOUN	n	_	5	nsubj	_	Gloss=parole
+4	caman	cáman	ADJ	adj	AdjType=Attr	3	amod	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ
+5	tè	tɛ́	VERB	cop	Polarity=Neg	2	parataxis:obj	_	Gloss=COP.NEG
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	obl	_	Gloss=3SG
+7	rò	rɔ́	ADP	pp	_	6	case	_	Gloss=IN
+8	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:33
+# text = i bè taga kurun nin kan, ni i sera ka kurun nin ci, a ko n denmuso filè i nyè yan, n bè a ta ka a di i ma.
+1	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	3	nsubj	_	Gloss=2SG
+2	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	3	aux	_	Gloss=IPFV.AFF
+3	taga	tága	VERB	v	_	0	root	_	Gloss=aller
+4	kurun	kùrun	NOUN	n	_	3	obl	_	Gloss=boule
+5	nin	nìn	DET	dtm	PronType=Dem|Definite-Def	4	det	_	Gloss=DEM
+6	kan	kàn	ADP	pp	_	4	case	_	Gloss=sur
+7	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+8	ni	ní	SCONJ	conj	_	10	mark	_	Gloss=si
+9	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	10	nsubj	_	Gloss=2SG
+10	sera	sera	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	17	advmod	_	Gloss=arriver|Morf=arriver,PFV.INTR
+11	ka	kà	AUX	pm	_	14	aux	_	Gloss=INF
+12	kurun	kùrun	NOUN	n	_	14	obj	_	Gloss=boule
+13	nin	nìn	DET	dtm	PronType=Dem|Definite-Def	12	det	_	Gloss=DEM
+14	ci	cì	VERB	v	_	10	xcomp	_	Gloss=frapper
+15	,	,	PUNCT	_	_	14	punct	_	Gloss=,
+16	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	17	nsubj	_	Gloss=3SG
+17	ko	kó	VERB	cop	_	3	parataxis	_	Gloss=QUOT
+18	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	19	nmod:poss	_	Gloss=1SG
+19	denmuso	dénmuso	NOUN	n	_	20	obj	_	Gloss=fille|Morf=fille,enfant,femme
+20	filè	fílɛ	VERB	v	_	17	parataxis:obj	_	Gloss=regarder
+21	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	20	obl	_	Gloss=2SG
+22	nyè	ɲɛ́	ADP	pp	_	21	case	_	Gloss=devant
+23	yan	yàn	ADV	adv	_	20	obl	_	Gloss=ici
+24	,	,	PUNCT	_	_	20	punct	_	Gloss=,
+25	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	28	nsubj	_	Gloss=1SG
+26	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	28	aux	_	Gloss=IPFV.AFF
+27	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	28	obj	_	Gloss=3SG
+28	ta	tà	VERB	v	_	20	parataxis	_	Gloss=prendre
+29	ka	kà	AUX	pm	_	31	aux	_	Gloss=INF
+30	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	31	obj	_	Gloss=3SG
+31	di	dí	VERB	v	_	28	xcomp	_	Gloss=donner
+32	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	31	obl	_	Gloss=2SG
+33	ma	mà	ADP	pp	_	32	case	_	Gloss=ADR
+34	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:34
+# text = a ko ayiwa, baasi tè.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+3	ayiwa	áyiwa	INTJ	intj	_	6	discourse	_	Gloss=bon
+4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+5	baasi	báasi	NOUN	n	_	6	nsubj	_	Gloss=problème
+6	tè	tɛ́	VERB	cop	Polarity=Neg	2	parataxis:obj	_	Gloss=COP.NEG
+7	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:35
+# text = cè nin fana tagara kurun nin na, ka kulusi bò, ka a fòrò minè a bolo, ka a gosi fara la.
+1	cè	cɛ̀	NOUN	n	_	4	nsubj	_	Gloss=mâle
+2	nin	nìn	DET	dtm	PronType=Dem|Definite-Def	1	det	_	Gloss=DEM
+3	fana	fána	PART	prt	_	1	discourse	_	Gloss=aussi
+4	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+5	kurun	kùrun	NOUN	n	_	4	obl	_	Gloss=boule
+6	nin	nìn	DET	dtm	PronType=Dem|Definite-Def	5	det	_	Gloss=DEM
+7	na	ná	ADP	pp	_	5	case	_	Gloss=à
+8	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+9	ka	kà	AUX	pm	_	11	aux	_	Gloss=INF
+10	kulusi	kùlusi	NOUN	n	_	11	obj	_	Gloss=pantalon
+11	bò	bɔ́	VERB	v	_	4	xcomp	_	Gloss=sortir
+12	,	,	PUNCT	_	_	11	punct	_	Gloss=,
+13	ka	kà	AUX	pm	_	16	aux	_	Gloss=INF
+14	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	15	nmod:poss	_	Gloss=3SG
+15	fòrò	fɔ́rɔ	NOUN	n	_	16	obj	_	Gloss=membre.viril
+16	minè	mìnɛ	VERB	v	_	11	xcomp	_	Gloss=attraper
+17	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	16	obl	_	Gloss=3SG
+18	bolo	bólo	ADP	n	_	17	case	_	Gloss=bras
+19	,	,	PUNCT	_	_	16	punct	_	Gloss=,
+20	ka	kà	AUX	pm	_	22	aux	_	Gloss=INF
+21	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	22	obj	_	Gloss=3SG
+22	gosi	gòsi	VERB	v	_	16	xcomp	_	Gloss=battre
+23	fara	fára	NOUN	n	_	22	obl	_	Gloss=pierre
+24	la	lá	ADP	pp	_	23	case	_	Gloss=à
+25	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:36
+# text = cè nin ye kurun ci.
+1	cè	cɛ̀	NOUN	n	_	5	nsubj	_	Gloss=mâle
+2	nin	nìn	DET	dtm	PronType=Dem|Definite-Def	1	det	_	Gloss=DEM
+3	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+4	kurun	kùrun	NOUN	n	_	5	obj	_	Gloss=boule
+5	ci	cì	VERB	v	_	0	root	_	Gloss=frapper
+6	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:37
+# text = o ye a ci tuma min na, mansakè tagara ka denmuso minè, ka a ko ka saniya, ka sanu di a ma, ka wari di a ma, ka a di a ma.
+# label = rel_elided
+1	o	ò	PRON	prn	_	4	nsubj	_	Gloss=ce
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	obj	_	Gloss=3SG
+4	ci	cì	VERB	v	_	10	acl	_	Gloss=frapper
+5	tuma	tùma	NOUN	n	_	4	advmod	_	Gloss=moment
+6	min	mîn	DET	dtm	PronType=Rel	5	det:rel	_	Gloss=REL
+7	na	ná	ADP	pp	_	5	case	_	Gloss=à
+8	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+9	mansakè	màsakɛ̀	NOUN	n	_	10	nsubj	_	Gloss=roi|Morf=roi,roi,mâle
+10	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+11	ka	kà	AUX	pm	_	13	aux	_	Gloss=INF
+12	denmuso	dénmuso	NOUN	n	_	13	obj	_	Gloss=fille|Morf=fille,enfant,femme
+13	minè	mìnɛ	VERB	v	_	10	xcomp	_	Gloss=attraper
+14	,	,	PUNCT	_	_	13	punct	_	Gloss=,
+15	ka	kà	AUX	pm	_	17	aux	_	Gloss=INF
+16	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	17	nsubj	_	Gloss=3SG
+17	ko	kò	VERB	v	_	13	xcomp	_	Gloss=laver
+18	ka	kà	AUX	pm	_	19	aux	_	Gloss=INF
+19	saniya	saniya	VERB	v	_	17	xcomp	_	Gloss=peigner|Morf=peigner,ABSTR
+20	,	,	PUNCT	_	_	19	punct	_	Gloss=,
+21	ka	kà	AUX	pm	_	23	aux	_	Gloss=INF
+22	sanu	sánu	NOUN	n	_	23	obj	_	Gloss=or
+23	di	dí	VERB	v	_	19	xcomp	_	Gloss=donner
+24	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	23	obl	_	Gloss=3SG
+25	ma	mà	ADP	pp	_	24	case	_	Gloss=ADR
+26	,	,	PUNCT	_	_	23	punct	_	Gloss=,
+27	ka	kà	AUX	pm	_	29	aux	_	Gloss=INF
+28	wari	wári	NOUN	n	_	29	obj	_	Gloss=argent
+29	di	dí	VERB	v	_	23	xcomp	_	Gloss=donner
+30	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	29	obl	_	Gloss=3SG
+31	ma	mà	ADP	pp	_	30	case	_	Gloss=ADR
+32	,	,	PUNCT	_	_	29	punct	_	Gloss=,
+33	ka	kà	AUX	pm	_	35	aux	_	Gloss=INF
+34	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	35	obj	_	Gloss=3SG
+35	di	dí	VERB	v	_	29	xcomp	_	Gloss=donner
+36	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	35	obl	_	Gloss=3SG
+37	ma	mà	ADP	pp	_	36	case	_	Gloss=ADR
+38	.	.	PUNCT	_	_	10	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.html:38
+# text = u tagara.
+1	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	2	nsubj	_	Gloss=3PL
+2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+3	.	.	PUNCT	_	_	2	punct	_	Gloss=.
