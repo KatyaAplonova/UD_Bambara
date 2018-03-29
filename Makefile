@@ -11,7 +11,8 @@ RSYNC=rsync -avP --stats -e ssh
 corpusfiles := $(wildcard conllu/*.conllu)
 vertfiles := $(patsubst conllu/%.conllu,vert/%.vert,$(corpusfiles))
 rawfiles := $(filter-out $(patsubst conllu/%,raw/%,$(corpusfiles)), $(patsubst html/%.html,raw/%.conllu,$(wildcard html/*.html)))
-vert/%.vert: conllu/%.conllu
+
+vert/%.vert: conllu/%.conllu scripts/conllu2vert
 	gawk -f scripts/conllu2vert $< > $@
 
 print-%:
@@ -20,7 +21,7 @@ print-%:
 raw/%.conllu: html/%.html
 	python3 scripts/proc-bambara.py $< > $@
 
-corbama-ud.vert: $(vertfiles) scripts/conllu2vert
+corbama-ud.vert: $(vertfiles) 
 	mkdir -p vert/
 	cat $(vertfiles) > $@
 
@@ -80,3 +81,8 @@ rollback: stop-production
 	ssh $(HOST) mv $(PRODUCTION) $(TESTING)
 	ssh $(HOST) mv $(ROLLBACK) $(PRODUCTION)
 
+update-corpus:
+	make compile
+	make stop-testing
+	make install-testing
+	make start-testing
