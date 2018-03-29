@@ -4,13 +4,13 @@ BEGIN {
   }
 NR == 1 {
   match(FILENAME, /conllu\/(.*)\.dis\.conllu/, fn);
-  printf "<doc id=%s>\n", fn[1];
+  printf "<doc id=\"%s\">\n", fn[1];
 }
 NF < 1 {next}
 /^# sent_id/ {
   if (NR>1) {print "</s>"};
   match($0, /^.*sent_id = ([a-zA-Z0-9.:_-]+)/, ids);
-  printf "<s id=%s", ids[1];
+  printf "<s id=\"%s\"", ids[1];
   sclosed = 0;
   next
 }
