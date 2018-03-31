@@ -1,3 +1,9 @@
+remote-setup:
+	@echo Remote host: $(HOST)
+	@echo Corpus archive basename: $(corpbasename)
+	@echo Corpus site name: $(corpsite)
+	@echo A list of corpora to be installed: $(corpora)
+
 install-remote-scripts:
 	$(RSYNC) remote/*.sh $(HOST):bin
 
