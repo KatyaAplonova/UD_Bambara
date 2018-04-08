@@ -1,0 +1,1844 @@
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:1
+# text = <h>CÈNIN KEGUNMAN</h>
+1	CÈNIN	cɛ̀nin	NOUN	n	_	0	root	_	Gloss=jeune.homme|Morf=jeune.homme,mâle,DIM
+2	KEGUNMAN	kègunman	ADJ	adj	AdjType=Attr	1	amod	_	Gloss=malin|Morf=malin,malin,ADJ
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:2
+# text = nsiirinin, nsiirinin
+1	nsiirinin	nsíirinnin	NOUN	n	_	0	root	_	Gloss=conte|Morf=conte,DIM
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+3	nsiirinin	nsíirinnin	NOUN	n	_	1	parataxis	_	Gloss=conte|Morf=conte,DIM
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:3
+# text = ko muso kònòma dò tun tagara lògònyiniyòrò.
+1	ko	kó	PART	cop	_	6	discourse	_	Gloss=QUOT
+2	muso	mùso	NOUN	n	_	6	nsubj	_	Gloss=femme
+3	kònòma	kɔ́nɔma	ADJ	adj	_	2	amod	_	Gloss=enceinte|Morf=enceinte,ventre,COM
+4	dò	dɔ́	DET	dtm	_	2	det	_	Gloss=certain
+5	tun	tùn	PART	prt	Tense=Past|Tense=Past	6	aux	_	Gloss=PST
+6	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+7	lògònyiniyòrò	dɔ́gɔɲiniyɔrɔ	NOUN	n	_	6	obl	_	Gloss=fagot|Morf=fagot,chercher,lieu
+8	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:4
+# text = a ye lògò nyini, a ye lògò caman nyini ka a bila.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+3	lògò	dɔ́gɔ	NOUN	n	_	4	obj	_	Gloss=fagot
+4	nyini	ɲíni	VERB	v	_	0	root	_	Gloss=chercher
+5	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	10	nsubj	_	Gloss=3SG
+7	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	10	aux	_	Gloss=PFV.TR
+8	lògò	dɔ́gɔ	NOUN	n	_	10	obj	_	Gloss=fagot
+9	caman	cá.man	ADJ	adj	AdjType=Attr	8	amod	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ
+10	nyini	ɲíni	VERB	v	_	4	parataxis	_	Gloss=chercher
+11	ka	kà	AUX	pm	_	13	aux	_	Gloss=INF
+12	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	13	obj	_	Gloss=3SG
+13	bila	bìla	VERB	v	_	10	xcomp	_	Gloss=mettre
+14	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:5
+# text = a ma se ka i yèrè nyun.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	3	nsubj	_	Gloss=3SG
+2	ma	má	AUX	pm	_	3	aux	_	Gloss=PFV:NEG
+3	se	sé	VERB	v	_	0	root	_	Gloss=arriver
+4	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
+5	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	7	obj	_	Gloss=REFL
+6	yèrè	yɛ̀rɛ	DET	dtm	_	5	det	_	Gloss=même
+7	nyun	ɲún	VERB	v	_	3	xcomp	_	Gloss=charger.sur.la.tête
+8	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:6
+# text = den min bè a kònò, a ko: n na, ne wolo, ko ne bè e nyun.
+1	den	dén	NOUN	n	_	3	nsubj	_	Gloss=enfant
+2	min	mín	DET	prn	PronType=Rel	1	det:rel	_	Gloss=REL
+3	bè	bɛ́	VERB	cop	Polarity=Pos	0	root	_	Gloss=BE
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	3	obl	_	Gloss=3SG
+5	kònò	kɔ́nɔ	ADP	pp	_	4	case	_	Gloss=à.l’intérieur
+6	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	nsubj	_	Gloss=3SG
+8	ko	kó	VERB	cop	_	3	parataxis	_	Gloss=QUOT
+9	:	:	PUNCT	_	_	8	punct	_	Gloss=:
+10	n	ń	PRON	pers	PronType=Prs	11	nmod:poss	_	Gloss=je
+11	na	nà	NOUN	n	_	14	vocative	_	Gloss=mère
+12	,	,	PUNCT	_	_	11	punct	_	Gloss=,
+13	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	14	obj	_	Gloss=1SG.EMPH
+14	wolo	wólo	VERB	v	_	8	parataxis:obj	_	Gloss=accoucher
+15	,	,	PUNCT	_	_	14	punct	_	Gloss=,
+16	ko	kó	PART	cop	_	20	discourse	_	Gloss=QUOT
+17	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	20	nsubj	_	Gloss=1SG.EMPH
+18	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	20	aux	_	Gloss=IPFV.AFF
+19	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	20	obj	_	Gloss=2SG.EMPH
+20	nyun	ɲún	VERB	v	_	14	parataxis	_	Gloss=charger.sur.la.tête
+21	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:7
+# text = ko : hén, den min kumana, a be a ba kònò, ko o tè se ka i yèrè wolowolo wa ?
+1	ko	kó	PART	cop	_	7	discourse	_	Gloss=QUOT
+2	:	:	PUNCT	_	_	1	punct	_	Gloss=:
+3	hén	hén	INTJ	_	_	7	discourse	_	Gloss=EMPR
+4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+5	den	dén	NOUN	n	_	7	nsubj	_	Gloss=enfant
+6	min	mín	DET	prn	PronType=Rel	5	det:rel	_	Gloss=REL
+7	kumana	kumana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	9	acl	_	Gloss=parler|Morf=parler,PFV.INTR
+8	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	10	nsubj	_	Gloss=3SG
+10	be	bé	VERB	pm	Polarity=Pos|Aspect=Imp	0	root	_	Gloss=IPFV.AFF
+11	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	12	nmod:poss	_	Gloss=3SG
+12	ba	bá	NOUN	n	_	10	obl	_	Gloss=mère
+13	kònò	kɔ́nɔ	ADP	pp	_	12	case	_	Gloss=à.l’intérieur
+14	,	,	PUNCT	_	_	10	punct	_	Gloss=,
+15	ko	kó	PART	cop	_	18	discourse	_	Gloss=QUOT
+16	o	ò	PRON	prn	_	18	nsubj	_	Gloss=ce
+17	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	18	aux	_	Gloss=IPFV.NEG
+18	se	sé	VERB	v	_	_	_	_	Gloss=arriver
+19	ka	kà	AUX	pm	_	22	aux	_	Gloss=INF
+20	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	22	obj	_	Gloss=REFL
+21	yèrè	yɛ̀rɛ	DET	dtm	_	20	det	_	Gloss=même
+22	wolowolo	wólo.wolo	VERB	v	_	18	xcomp	_	Gloss=accoucher|Morf=accoucher,accoucher
+23	wa	wà	PART	prt	_	22	discourse	_	Gloss=Q
+24	?	?	PUNCT	_	_	10	punct	_	Gloss=?
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:8
+# text = a ye i yèrè wolowolo.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+3	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	5	obj	_	Gloss=REFL
+4	yèrè	yɛ̀rɛ	DET	dtm	_	3	det	_	Gloss=même
+5	wolowolo	wólo.wolo	VERB	v	_	0	root	_	Gloss=accoucher|Morf=accoucher,accoucher
+6	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:9
+# text = ko: n na, ko ne kun li !
+1	ko	kó	PART	cop	_	9	discourse	_	Gloss=QUOT
+2	:	:	PUNCT	_	_	1	punct	_	Gloss=:
+3	n	ń	PRON	pers	PronType=Prs	4	nmod:poss	_	Gloss=je
+4	na	nà	NOUN	n	_	9	vocative	_	Gloss=mère
+5	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+6	ko	kó	PART	cop	_	9	discourse	_	Gloss=QUOT
+7	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	8	nmod:poss	_	Gloss=1SG.EMPH
+8	kun	kùn	NOUN	n	_	9	obj	_	Gloss=tête
+9	li	dí	VERB	v	_	0	root	_	Gloss=raser
+10	!	!	PUNCT	_	_	9	punct	_	Gloss=!
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:10
+# text = ko den min sera ka i yèrè wolowolo, ko e tè se ka i kun li wa ?
+1	ko	kó	PART	cop	_	4	discourse	_	Gloss=QUOT
+2	den	dén	NOUN	n	_	4	nsubj	_	Gloss=enfant
+3	min	mín	DET	prn	PronType=Rel	2	det:rel	_	Gloss=REL
+4	sera	sera	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=arriver|Morf=arriver,PFV.INTR
+5	ka	kà	AUX	pm	_	8	aux	_	Gloss=INF
+6	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	8	obj	_	Gloss=REFL
+7	yèrè	yɛ̀rɛ	DET	dtm	_	6	det	_	Gloss=même
+8	wolowolo	wólo.wolo	VERB	v	_	4	xcomp	_	Gloss=accoucher|Morf=accoucher,accoucher
+9	,	,	PUNCT	_	_	8	punct	_	Gloss=,
+10	ko	kó	PART	cop	_	13	discourse	_	Gloss=QUOT
+11	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	13	nsubj	_	Gloss=2SG.EMPH
+12	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	13	aux	_	Gloss=IPFV.NEG
+13	se	sé	VERB	v	_	8	parataxis	_	Gloss=arriver
+14	ka	kà	AUX	pm	_	17	aux	_	Gloss=INF
+15	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	16	nmod:poss	_	Gloss=REFL
+16	kun	kùn	NOUN	n	_	17	obj	_	Gloss=tête
+17	li	dí	VERB	v	_	13	xcomp	_	Gloss=raser
+18	wa	wà	PART	prt	_	17	discourse	_	Gloss=Q
+19	?	?	PUNCT	_	_	4	punct	_	Gloss=?
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:11
+# text = a ye i yèrè kun li.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	6	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	6	aux	_	Gloss=PFV.TR
+3	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	5	nmod:poss	_	Gloss=REFL
+4	yèrè	yɛ̀rɛ	DET	dtm	_	3	det	_	Gloss=même
+5	kun	kùn	NOUN	n	_	6	obj	_	Gloss=tête
+6	li	dí	VERB	v	_	0	root	_	Gloss=raser
+7	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:12
+# text = ko n na, ko n tògò la !
+1	ko	kó	PART	cop	_	8	discourse	_	Gloss=QUOT
+2	n	ń	PRON	pers	PronType=Prs	3	nmod:poss	_	Gloss=je
+3	na	nà	NOUN	n	_	8	vocative	_	Gloss=mère
+4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+5	ko	kó	PART	cop	_	8	discourse	_	Gloss=QUOT
+6	n	ń	PRON	pers	PronType=Prs	7	nmod:poss	_	Gloss=je
+7	tògò	tɔ́gɔ	NOUN	n	_	8	obj	_	Gloss=nom
+8	la	dá	VERB	v	_	0	root	_	Gloss=poser
+9	!	!	PUNCT	_	_	8	punct	_	Gloss=!
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:13
+# text = ko den min sera ka a kun li, ko e tè se ka a tògò la?
+1	ko	kó	PART	cop	_	4	discourse	_	Gloss=QUOT
+2	den	dén	NOUN	n	_	4	nsubj	_	Gloss=enfant
+3	min	mín	DET	prn	PronType=Rel	2	det	_	Gloss=REL
+4	sera	sera	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=arriver|Morf=arriver,PFV.INTR
+5	ka	kà	AUX	pm	_	8	aux	_	Gloss=INF
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	nmod:poss	_	Gloss=3SG
+7	kun	kùn	NOUN	n	_	8	obj	_	Gloss=tête
+8	li	dí	VERB	v	_	4	xcomp	_	Gloss=raser
+9	,	,	PUNCT	_	_	8	punct	_	Gloss=,
+10	ko	kó	PART	cop	_	13	discourse	_	Gloss=QUOT
+11	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	13	nsubj	_	Gloss=3SG.EMPH
+12	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	13	aux	_	Gloss=IPFV.NEG
+13	se	sé	VERB	v	_	4	parataxis	_	Gloss=arriver
+14	ka	kà	AUX	pm	_	17	aux	_	Gloss=INF
+15	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	16	nmod:poss	_	Gloss=3SG
+16	tògò	tɔ́gɔ	NOUN	n	_	17	obj	_	Gloss=nom
+17	la	dá	VERB	v	_	13	xcomp	_	Gloss=poser
+18	?	?	PUNCT	_	_	4	punct	_	Gloss=?
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:14
+# text = a ye a tògò la ko n tògò ye Barawulenin ye.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nmod:poss	_	Gloss=3SG
+4	tògò	tɔ́gɔ	NOUN	n	_	5	obj	_	Gloss=nom
+5	la	dá	VERB	v	_	0	root	_	Gloss=poser
+6	ko	kó	PART	cop	_	9	discourse	_	Gloss=QUOT
+7	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	8	nmod:poss	_	Gloss=1SG
+8	tògò	tɔ́gɔ	NOUN	n	_	9	nsubj	_	Gloss=nom
+9	ye	yé	VERB	cop	Polarity=Pos	5	parataxis:obj	_	Gloss=EQU
+10	Barawulenin	Barawulenin	PROPN	n.prop	_	9	obl	_	Gloss=NOM.M
+11	ye	yé	ADP	pp	_	10	case	_	Gloss=PP
+12	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:15
+# text = a ye bamuso nyun.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+3	bamuso	bá.muso	NOUN	n	_	4	obj	_	Gloss=mère|Morf=mère,mère,femme
+4	nyun	ɲún	VERB	v	_	0	root	_	Gloss=charger.sur.la.tête
+5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:16
+# text = o tagara.
+1	o	ò	PRON	prn	_	2	nsubj	_	Gloss=ce
+2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+3	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:17
+# text = u tagara se so kònò minkè, a kòròkèw ko, ko u bè taga sunguruntigèyòrò.
+1	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	2	nsubj	_	Gloss=3PL
+2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	10	advcl	_	Gloss=aller|Morf=aller,PFV.INTR
+3	se	sé	VERB	v	_	2	xcomp	_	Gloss=arriver
+4	so	só	NOUN	n	_	3	obl	_	Gloss=maison
+5	kònò	kɔ́nɔ	ADP	pp	_	4	case	_	Gloss=à.l’intérieur
+6	minkè	mínkɛ	SCONJ	conj	_	2	mark	_	Gloss=lorsque
+7	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	9	nmod:poss	_	Gloss=3SG
+9	kòròkèw	kɔrɔkɛw	NOUN	n	Number=Plur	10	nsubj	_	Gloss=frère.aîné|Morf=frère.aîné,aîné,mâle,PL
+10	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+11	,	,	PUNCT	_	_	10	punct	_	Gloss=,
+12	ko	kó	PART	cop	_	15	discourse	_	Gloss=QUOT
+13	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	15	nsubj	_	Gloss=3PL
+14	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	15	aux	_	Gloss=IPFV.AFF
+15	taga	tága	VERB	v	_	10	ccomp	_	Gloss=aller
+16	sunguruntigèyòrò	sunguruntigɛyɔrɔ	NOUN	n	_	15	obl	_	Gloss=débaucher|Morf=débaucher,jeune.fille,couper,lieu
+17	.	.	PUNCT	_	_	10	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:18
+# text = a tagara ni a ye.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+3	ni	ní	ADP	conj/prep	_	4	case	_	Gloss=et
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	obl	_	Gloss=3SG
+5	ye	yé	ADP	pp	_	4	case	_	Gloss=PP
+6	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:19
+# text = a kòròkè ko ni a tagara, ko o bè a bugò.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nmod:poss	_	Gloss=3SG
+2	kòròkè	kɔ̀rɔ.kɛ	NOUN	n	_	3	nsubj	_	Gloss=frère.aîné|Morf=frère.aîné,aîné,mâle
+3	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+4	ni	ní	SCONJ	conj	_	6	mark	_	Gloss=si
+5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	6	nsubj	_	Gloss=3SG
+6	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	12	advcl	_	Gloss=aller|Morf=aller,PFV.INTR
+7	,	,	PUNCT	_	_	6	punct	_	Gloss=,
+8	ko	kó	PART	cop	_	12	discourse	_	Gloss=QUOT
+9	o	ò	PRON	prn	_	12	nsubj	_	Gloss=ce
+10	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	12	aux	_	Gloss=IPFV.AFF
+11	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	12	obj	_	Gloss=3SG
+12	bugò	bùgɔ	VERB	v	_	3	ccomp	_	Gloss=frapper
+13	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:20
+# text = a banna, ka tugun o kò.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+2	banna	banna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=refuser|Morf=refuser,PFV.INTR
+3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+4	ka	kà	AUX	pm	_	5	aux	_	Gloss=INF
+5	tugun	tùgu	VERB	v	_	2	xcomp	_	Gloss=rabouter
+6	o	ò	PRON	prn	_	5	obl	_	Gloss=ce
+7	kò	kɔ́	ADP	pp	_	6	case	_	Gloss=après
+8	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:21
+# text = a kòròkèw ye a bugò ka segin.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nmod:poss	_	Gloss=3SG
+2	kòròkèw	kɔrɔkɛw	NOUN	n	Number=Plur	5	nsubj	_	Gloss=frère.aîné|Morf=frère.aîné,aîné,mâle,PL
+3	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	obj	_	Gloss=3SG
+5	bugò	bùgɔ	VERB	v	_	0	root	_	Gloss=frapper
+6	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
+7	segin	sègin	VERB	v	_	5	xcomp	_	Gloss=revenir
+8	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:22
+# text = a ye i yèrè yèlèma ka kè muru nyumannin dò ye a kòròkèw nyè.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+3	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	5	obj	_	Gloss=REFL
+4	yèrè	yɛ̀rɛ	DET	dtm	_	3	det	_	Gloss=même
+5	yèlèma	yɛ̀lɛma	VERB	v	_	0	root	_	Gloss=changer
+6	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
+7	kè	kɛ́	VERB	v	_	5	xcomp	_	Gloss=faire
+8	muru	mùru	NOUN	n	_	7	obl	_	Gloss=couteau
+9	nyumannin	ɲumannin	ADJ	adj	_	8	amod	_	Gloss=bon|Morf=bon,DIM
+10	dò	dɔ́	DET	dtm	_	8	det	_	Gloss=certain
+11	ye	yé	ADP	pp	_	8	case	_	Gloss=PP
+12	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	13	nmod:poss	_	Gloss=3SG
+13	kòròkèw	kɔrɔkɛw	NOUN	n	Number=Plur	7	obl	_	Gloss=frère.aîné|Morf=frère.aîné,aîné,mâle,PL
+14	nyè	ɲɛ́	ADP	pp	_	13	case	_	Gloss=devant
+15	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:23
+# text = a kòròkèw tagara, ko e, ni a ye a sòrò an dògònin Dawuda yèrè tun bè yan, ko an tun bè nin di a ma wa ?
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nmod:poss	_	Gloss=3SG
+2	kòròkèw	kɔrɔkɛw	NOUN	n	Number=Plur	3	nsubj	_	Gloss=frère.aîné|Morf=frère.aîné,aîné,mâle,PL
+3	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+5	ko	kó	PART	cop	_	18	discourse	_	Gloss=QUOT
+6	e	ée	INTJ	intj	_	18	discourse	_	Gloss=hé!
+7	,	,	PUNCT	_	_	6	punct	_	Gloss=,
+8	ni	ní	SCONJ	conj	_	12	mark	_	Gloss=si
+9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	12	nsubj	_	Gloss=3SG
+10	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	12	aux	_	Gloss=PFV.TR
+11	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	12	obj	_	Gloss=3SG
+12	sòrò	sɔ̀rɔ	VERB	v	_	18	advcl	_	Gloss=obtenir
+13	an	án	PRON	pers	PronType=Prs|Number=Plur|Person=1	14	nmod:poss	_	Gloss=1PL
+14	dògònin	dɔ́gɔ.nin	NOUN	n	_	15	nmod:poss	_	Gloss=cadet|Morf=cadet,cadet,DIM
+15	Dawuda	Dáwuda	PROPN	n.prop	_	18	nsubj	_	Gloss=NOM.M
+16	yèrè	yɛ̀rɛ	DET	dtm	_	15	det	_	Gloss=même
+17	tun	tùn	PART	prt	Tense=Past|Tense=Past	18	aux	_	Gloss=PST
+18	bè	bɛ́	VERB	cop	Polarity=Pos	3	parataxis:obj	_	Gloss=BE
+19	yan	yàn	ADV	adv/n	_	18	obl	_	Gloss=ici
+20	,	,	PUNCT	_	_	18	punct	_	Gloss=,
+21	ko	kó	PART	cop	_	26	discourse	_	Gloss=QUOT
+22	an	án	PRON	pers	PronType=Prs|Number=Plur|Person=1	26	nsubj	_	Gloss=1PL
+23	tun	tùn	PART	prt	Tense=Past|Tense=Past	24	aux	_	Gloss=PST
+24	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	26	aux	_	Gloss=IPFV.AFF
+25	nin	nìn	PRON	prn/dtm	PronType=Dem|Definite-Def	26	obj	_	Gloss=DEM
+26	di	dí	VERB	v	_	18	parataxis:obj	_	Gloss=donner
+27	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	26	obl	_	Gloss=3SG
+28	ma	mà	ADP	pp	_	27	case	_	Gloss=à
+29	wa	wà	PART	prt	_	26	discourse	_	Gloss=Q
+30	?	?	PUNCT	_	_	3	punct	_	Gloss=?
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:24
+# text = ko e, ko ale yèrè don !
+1	ko	kó	PART	cop	_	7	discourse	_	Gloss=QUOT
+2	e	ée	INTJ	intj	_	7	discourse	_	Gloss=hé!
+3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+4	ko	kó	PART	cop	_	7	discourse	_	Gloss=QUOT
+5	ale	àle	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	7	nsubj	_	Gloss=3SG.EMPH
+6	yèrè	yɛ̀rɛ	DET	dtm	_	5	det	_	Gloss=même
+7	don	dòn	VERB	cop	_	0	root	_	Gloss=PRES
+8	!	!	PUNCT	_	_	7	punct	_	Gloss=!
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:25
+# text = o ye a bugò bilen ka segin.
+1	o	ò	PRON	prn	_	4	nsubj	_	Gloss=ce
+2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	obj	_	Gloss=3SG
+4	bugò	bùgɔ	VERB	v	_	0	root	_	Gloss=frapper
+5	bilen	bìlen	PART	adv	_	4	discourse	_	Gloss=encore
+6	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
+7	segin	sègin	VERB	v	_	4	xcomp	_	Gloss=revenir
+8	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:26
+# text = a tagara à yèrè kè dulòki nyumannin dò ye o nyè fè tugun.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+3	à	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	obj	_	Gloss=3SG
+4	yèrè	yɛ̀rɛ	DET	dtm	_	3	det	_	Gloss=même
+5	kè	kɛ́	VERB	v	_	2	xcomp	_	Gloss=faire
+6	dulòki	dùlɔki	NOUN	n	_	5	obl	_	Gloss=chemise
+7	nyumannin	ɲumannin	ADJ	adj	_	6	amod	_	Gloss=bon|Morf=bon,DIM
+8	dò	dɔ́	DET	dtm	_	6	det	_	Gloss=certain
+9	ye	yé	ADP	pp	_	6	case	_	Gloss=PP
+10	o	ò	PRON	prn	_	5	obl	_	Gloss=ce
+11	nyèfè	ɲɛ́.fɛ̀	ADP	pp	_	10	case	_	Gloss=devant|Morf=devant,oeil,vers
+12	tugun	túgun	ADV	adv	_	5	discourse	_	Gloss=encore
+13	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:27
+# text = ko ni a ye a sòrò, an dògònin Dawuda yèrè tun bè yan, ko an tun bè nin di a ma wa ?
+1	ko	kó	PART	cop	_	6	discourse	_	Gloss=QUOT
+2	ni	ní	SCONJ	conj	_	6	mark	_	Gloss=si
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	6	nsubj	_	Gloss=3SG
+4	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	6	aux	_	Gloss=PFV.TR
+5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	6	obj	_	Gloss=3SG
+6	sòrò	sɔ̀rɔ	VERB	v	_	13	advcl	_	Gloss=obtenir
+7	,	,	PUNCT	_	_	6	punct	_	Gloss=,
+8	an	án	PRON	pers	PronType=Prs|Number=Plur|Person=1	9	nmod:poss	_	Gloss=1PL
+9	dògònin	dɔ́gɔ.nin	NOUN	n	_	10	nmod:poss	_	Gloss=cadet|Morf=cadet,cadet,DIM
+10	Dawuda	Dáwuda	PROPN	n.prop	_	13	nsubj	_	Gloss=NOM.M
+11	yèrè	yɛ̀rɛ	DET	dtm	_	10	det	_	Gloss=même
+12	tun	tún	PART	adv	_	13	aux	_	Gloss=encore
+13	bè	bɛ́	VERB	cop	Polarity=Pos	0	root	_	Gloss=BE
+14	yan	yàn	ADV	adv/n	_	13	obl	_	Gloss=ici
+15	,	,	PUNCT	_	_	13	punct	_	Gloss=,
+16	ko	kó	PART	cop	_	21	discourse	_	Gloss=QUOT
+17	an	án	PRON	pers	PronType=Prs|Number=Plur|Person=1	21	nsubj	_	Gloss=1PL
+18	tun	tùn	PART	prt	Tense=Past|Tense=Past	19	aux	_	Gloss=PST
+19	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	21	aux	_	Gloss=IPFV.AFF
+20	nin	nìn	PRON	prn/dtm	PronType=Dem|Definite-Def	21	obj	_	Gloss=DEM
+21	di	dí	VERB	v	_	13	parataxis	_	Gloss=donner
+22	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	21	obl	_	Gloss=3SG
+23	ma	mà	ADP	pp	_	22	case	_	Gloss=à
+24	wa	wà	PART	prt	_	21	discourse	_	Gloss=Q
+25	?	?	PUNCT	_	_	13	punct	_	Gloss=?
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:28
+# text = ko ale yèrè don !
+1	ko	kó	PART	cop	_	4	discourse	_	Gloss=QUOT
+2	ale	àle	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	4	nsubj	_	Gloss=3SG.EMPH
+3	yèrè	yɛ̀rɛ	DET	dtm	_	2	det	_	Gloss=même
+4	don	dòn	VERB	cop	_	0	root	_	Gloss=PRES
+5	!	!	PUNCT	_	_	4	punct	_	Gloss=!
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:29
+# text = a ye a bugò.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	obj	_	Gloss=3SG
+4	bugò	bùgɔ	VERB	v	_	0	root	_	Gloss=frapper
+5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:30
+# text = a ye i yèrè kè limògò ye ka tugun o kò.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+3	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	5	obj	_	Gloss=REFL
+4	yèrè	yɛ̀rɛ	DET	dtm	_	3	det	_	Gloss=même
+5	kè	kɛ́	VERB	v	_	0	root	_	Gloss=faire
+6	limògò	límɔgɔ	NOUN	n	_	5	obl	_	Gloss=mouche
+7	ye	yé	ADP	pp	_	6	case	_	Gloss=PP
+8	ka	kà	AUX	pm	_	9	aux	_	Gloss=INF
+9	tugun	tùgu	VERB	v	_	5	xcomp	_	Gloss=rabouter
+10	o	ò	PRON	prn	_	9	obl	_	Gloss=ce
+11	kò	kɔ́	ADP	n	_	10	case	_	Gloss=dos
+12	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:31
+# text = o tagara se kungo kònò.
+1	o	ò	PRON	prn	_	2	nsubj	_	Gloss=ce
+2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+3	se	sé	VERB	v	_	2	xcomp	_	Gloss=arriver
+4	kungo	kúngo	NOUN	n	_	3	obl	_	Gloss=brousse
+5	kònò	kɔ́nɔ	ADP	pp	_	4	case	_	Gloss=à.l’intérieur
+6	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:32
+# text = su kora o la, o ko : ni o ko ko o bè taga nyè fè, warabaw bè o dun, ni o ko ko o bè segin kò fè, warabaw bè o dun.
+1	su	sú	NOUN	n	_	2	nsubj	_	Gloss=nuit
+2	kora	kora	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=arriver|Morf=arriver,PFV.INTR
+3	o	ò	PRON	prn	_	2	obl	_	Gloss=ce
+4	la	lá	ADP	pp	_	3	case	_	Gloss=dans
+5	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+6	o	ò	PRON	prn	_	7	nsubj	_	Gloss=ce
+7	ko	kó	VERB	cop	_	2	parataxis	_	Gloss=QUOT
+8	:	:	PUNCT	_	_	7	punct	_	Gloss=:
+9	ni	ní	SCONJ	conj	_	11	mark	_	Gloss=si
+10	o	ò	PRON	prn	_	11	nsubj	_	Gloss=ce
+11	ko	kó	VERB	cop	_	22	advcl	_	Gloss=QUOT
+12	ko	kó	SCONJ	cop	_	15	mark	_	Gloss=QUOT
+13	o	ò	PRON	prn	_	15	nsubj	_	Gloss=ce
+14	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	15	aux	_	Gloss=IPFV.AFF
+15	taga	tága	VERB	v	_	11	parataxis:obj	_	Gloss=aller
+16	nyè	ɲɛ́	NOUN	n	_	15	obl	_	Gloss=oeil
+17	fè	fɛ̀	ADP	pp	_	16	case	_	Gloss=par
+18	,	,	PUNCT	_	_	15	punct	_	Gloss=,
+19	warabaw	warabaw	NOUN	n	Number=Plur	22	nsubj	_	Gloss=lion|Morf=lion,fauve,AUGM,PL
+20	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	22	aux	_	Gloss=IPFV.AFF
+21	o	ò	PRON	prn	_	22	obj	_	Gloss=ce
+22	dun	dún	VERB	v	_	7	parataxis:obj	_	Gloss=manger
+23	,	,	PUNCT	_	_	22	punct	_	Gloss=,
+24	ni	ní	SCONJ	conj	_	26	mark	_	Gloss=si
+25	o	ò	PRON	prn	_	26	nsubj	_	Gloss=ce
+26	ko	kó	VERB	cop	_	37	advcl	_	Gloss=QUOT
+27	ko	kó	PART	cop	_	30	discourse	_	Gloss=QUOT
+28	o	ò	PRON	prn	_	30	nsubj	_	Gloss=ce
+29	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	30	aux	_	Gloss=IPFV.AFF
+30	segin	sègin	VERB	v	_	26	parataxis:obj	_	Gloss=revenir
+31	kò	kó	NOUN	n	_	30	obl	_	Gloss=dos
+32	fè	fɛ̀	ADP	pp	_	31	case	_	Gloss=par
+33	,	,	PUNCT	_	_	30	punct	_	Gloss=,
+34	warabaw	warabaw	PROPN	n.prop	Number=Plur	37	nsubj	_	Gloss=NOM|Morf=NOM,PL
+35	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	37	aux	_	Gloss=IPFV.AFF
+36	o	ò	PRON	prn	_	37	obj	_	Gloss=ce
+37	dun	dún	VERB	v	_	22	parataxis	_	Gloss=manger
+38	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:33
+# text = ni o ko ko o bè don subagamuso fè yen, subagamuso fana bè o dun.
+1	ni	ní	SCONJ	conj	_	3	mark	_	Gloss=si
+2	o	ò	PRON	prn	_	3	nsubj	_	Gloss=ce
+3	ko	kó	VERB	cop	_	16	advcl	_	Gloss=QUOT
+4	ko	kó	SCONJ	cop	_	7	mark	_	Gloss=QUOT
+5	o	ò	PRON	prn	_	7	nsubj	_	Gloss=ce
+6	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	7	aux	_	Gloss=IPFV.AFF
+7	don	dòn	VERB	v	_	3	parataxis:obj	_	Gloss=entrer
+8	subagamuso	subagamuso	NOUN	n	_	7	obl	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
+9	fè	fɛ̀	ADP	pp	_	8	case	_	Gloss=vers
+10	yen	yèn	ADV	adv/n	_	8	advmod	_	Gloss=là-bas
+11	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+12	subagamuso	subagamuso	NOUN	n	_	16	nsubj	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
+13	fana	fána	PART	prt	_	16	discourse	_	Gloss=aussi
+14	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	16	aux	_	Gloss=IPFV.AFF
+15	o	ò	PRON	prn	_	16	obj	_	Gloss=ce
+16	dun	dún	VERB	v	_	0	root	_	Gloss=manger
+17	.	.	PUNCT	_	_	16	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:34
+# text = Dawuda sinna ka i yèrè yèlèma ka i kè a nò la, ko aw tun ma à fò ko ne ka segin wa ?
+1	Dawuda	Dáwuda	PROPN	n.prop	_	2	nsubj	_	Gloss=NOM.M
+2	sinna	sinna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=diriger|Morf=diriger,PFV.INTR
+3	ka	kà	AUX	pm	_	6	aux	_	Gloss=INF
+4	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	6	obj	_	Gloss=REFL
+5	yèrè	yɛ̀rɛ	DET	dtm	_	4	det	_	Gloss=même
+6	yèlèma	yɛ̀lɛma	VERB	v	_	2	xcomp	_	Gloss=changer
+7	ka	kà	AUX	pm	_	9	aux	_	Gloss=INF
+8	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	9	obj	_	Gloss=REFL
+9	kè	kɛ́	VERB	v	_	6	xcomp	_	Gloss=faire
+10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	11	nmod:poss	_	Gloss=3SG
+11	nò	nɔ̀	NOUN	n	_	9	obl	_	Gloss=trace
+12	la	lá	ADP	pp	_	11	case	_	Gloss=dans
+13	,	,	PUNCT	_	_	9	punct	_	Gloss=,
+14	ko	kó	PART	cop	_	19	discourse	_	Gloss=QUOT
+15	aw	áw	PRON	pers	PronType=Prs|Number=Plur|Person=2|PronType=Emp	19	nsubj	_	Gloss=2PL.EMPH
+16	tun	tùn	PART	prt	Tense=Past|Tense=Past	17	aux	_	Gloss=PST
+17	ma	má	AUX	pm	_	19	aux	_	Gloss=PFV:NEG
+18	à	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	19	obj	_	Gloss=3SG
+19	fò	fɔ́	VERB	v	_	9	parataxis	_	Gloss=dire
+20	ko	kó	PART	cop	_	23	discourse	_	Gloss=QUOT
+21	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	23	nsubj	_	Gloss=1SG.EMPH
+22	ka	ká	AUX	pm	_	23	aux	_	Gloss=OPT
+23	segin	sègin	VERB	v	_	19	parataxis	_	Gloss=revenir
+24	wa	wà	PART	prt	_	23	discourse	_	Gloss=Q
+25	?	?	PUNCT	_	_	2	punct	_	Gloss=?
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:35
+# text = ko ayiwa !
+1	ko	kó	PART	cop	_	2	discourse	_	Gloss=QUOT
+2	ayiwa	áyiwa	INTJ	intj	_	0	root	_	Gloss=bon
+3	!	!	PUNCT	_	_	2	punct	_	Gloss=!
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:36
+# text = an ka don subagamuso nin fè, subagamuso nin tè se ka foyi kè an na.
+1	an	án	PRON	pers	PronType=Prs|Number=Plur|Person=1	3	nsubj	_	Gloss=1PL
+2	ka	ká	AUX	pm	_	3	aux	_	Gloss=OPT
+3	don	dòn	VERB	v	_	0	root	_	Gloss=entrer
+4	subagamuso	subagamuso	NOUN	n	_	3	obl	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
+5	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	4	det	_	Gloss=DEM
+6	fè	fɛ̀	ADP	pp	_	4	case	_	Gloss=vers
+7	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+8	subagamuso	subagamuso	NOUN	n	_	11	nsubj	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
+9	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	8	det	_	Gloss=DEM
+10	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	11	aux	_	Gloss=IPFV.NEG
+11	se	sé	VERB	v	_	3	parataxis	_	Gloss=arriver
+12	ka	kà	AUX	pm	_	14	aux	_	Gloss=INF
+13	foyi	fóyi	NOUN	n	_	14	obj	_	Gloss=rien
+14	kè	kɛ́	VERB	v	_	11	xcomp	_	Gloss=faire
+15	an	án	PRON	pers	PronType=Prs|Number=Plur|Person=1	14	obl	_	Gloss=1PL
+16	na	ná	ADP	pp	_	15	case	_	Gloss=dans
+17	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:37
+# text = o donna.
+1	o	ò	PRON	prn	_	2	nsubj	_	Gloss=ce
+2	donna	donna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=entrer|Morf=entrer,PFV.INTR
+3	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:38
+# text = subagamuso nin ye layòrò di o ma.
+1	subagamuso	subagamuso	NOUN	n	_	5	nsubj	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
+2	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	1	det	_	Gloss=DEM
+3	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+4	layòrò	dá.yɔ́rɔ	NOUN	n	_	5	obj	_	Gloss=poser|Morf=poser,lieu
+5	di	dí	VERB	v	_	0	root	_	Gloss=donner
+6	o	ò	PRON	prn	_	5	obl	_	Gloss=ce
+7	ma	mà	ADP	pp	_	6	case	_	Gloss=à
+8	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:39
+# text = o lara.
+1	o	ò	PRON	prn	_	2	nsubj	_	Gloss=ce
+2	lara	dára	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=poser|Morf=poser,PFV.INTR
+3	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:40
+# text = subagamuso nin ye a ka muru ta
+1	subagamuso	subagamuso	NOUN	n	_	7	nsubj	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
+2	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	1	det	_	Gloss=DEM
+3	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	7	aux	_	Gloss=PFV.TR
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	6	nmod:poss	_	Gloss=3SG
+5	ka	ká	ADP	conj	_	4	case	_	Gloss=POSS
+6	muru	mùru	NOUN	n	_	7	obj	_	Gloss=couteau
+7	ta	tà	VERB	v	_	0	root	_	Gloss=prendre
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:41
+# text = ta ta ta ta ne ye a da gè!
+1	ta	ta	INTJ	_	_	9	discourse	_	Gloss=CHNT
+2	ta	ta	INTJ	_	_	1	compound:redup	_	Gloss=CHNT
+3	ta	ta	INTJ	_	_	1	compound:redup	_	Gloss=CHNT
+4	ta	ta	INTJ	_	_	1	compound:redup	_	Gloss=CHNT
+5	ne	nê	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	9	nsubj	_	Gloss=1SG.EMPH
+6	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	9	aux	_	Gloss=PFV.TR
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	nmod:poss	_	Gloss=3SG
+8	da	dá	NOUN	n	_	9	obj	_	Gloss=bouche
+9	gè	gɛ́n	VERB	v	_	0	root	_	Gloss=aiguiser
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:42
+# text = na ne ye n ka mògòfagamurunin da gè.
+1	na	nà	NOUN	n	_	8	vocative	_	Gloss=mère
+2	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	8	nsubj	_	Gloss=1SG.EMPH
+3	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	8	aux	_	Gloss=PFV.TR
+4	n	ń	PRON	pers	PronType=Prs	6	nmod:poss	_	Gloss=je
+5	ka	ká	ADP	conj	_	4	case	_	Gloss=POSS
+6	mògòfagamurunin	mɔgɔfagamurunin	NOUN	n	_	7	nmod:poss	_	Gloss=meurtre|Morf=meurtre,homme,tuer,couteau,DIM
+7	da	dá	NOUN	n	_	8	obj	_	Gloss=bouche
+8	gè	gɛ́n	VERB	v	_	0	root	_	Gloss=aiguiser
+9	.	.	PUNCT	_	_	8	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:43
+# text = Dawuda ko : en, en, en, a da gè! e diye n yèrè ta minè ka a da gè yan ko e, ko ale bilen ma sunògò ?
+1	Dawuda	Dáwuda	PROPN	n.prop	_	2	nsubj	_	Gloss=NOM.M
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+3	:	:	PUNCT	_	_	2	punct	_	Gloss=:
+4	en	en	INTJ	_	_	12	discourse	_	Gloss=CHNT
+5	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+6	en	en	INTJ	_	_	4	compound:redu	_	Gloss=CHNT
+7	,	,	PUNCT	_	_	6	punct	_	Gloss=,
+8	en	en	INTJ	_	_	4	compound:redup	_	Gloss=CHNT
+9	,	,	PUNCT	_	_	8	punct	_	Gloss=,
+10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	11	nmod:poss	_	Gloss=3SG
+11	da	dá	NOUN	n	_	12	obj	_	Gloss=bouche
+12	gè	gɛ́n	VERB	v	_	2	parataxis:obj	_	Gloss=aiguiser
+13	!	!	PUNCT	_	_	12	punct	_	Gloss=!
+14	e	ê	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	19	nsubj	_	Gloss=2SG.EMPH
+15	diye	dìyé	AUX	pm	_	19	aux	_	Gloss=SEQ
+16	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	18	nmod:poss	_	Gloss=1SG
+17	yèrè	yɛ̀rɛ̂	DET	dtm	_	16	det	_	Gloss=même
+18	ta	tá	NOUN	n	_	19	obj	_	Gloss=propriété
+19	minè	mìnɛ	VERB	v	_	12	parataxis	_	Gloss=attraper
+20	ka	kà	AUX	pm	_	23	aux	_	Gloss=INF
+21	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	22	nmod:poss	_	Gloss=3SG
+22	da	dá	NOUN	n	_	23	obj	_	Gloss=bouche
+23	gè	gɛ́n	VERB	v	_	19	xcomp	_	Gloss=aiguiser
+24	yan	yàn	ADV	adv	_	23	obl	_	Gloss=ici
+25	ko	kó	PART	cop	_	32	discourse	_	Gloss=QUOT
+26	e	ée	INTJ	intj	_	32	discourse	_	Gloss=hé!
+27	,	,	PUNCT	_	_	26	punct	_	Gloss=,
+28	ko	kó	PART	cop	_	32	discourse	_	Gloss=QUOT
+29	ale	àlê	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	32	nsubj	_	Gloss=3SG.EMPH
+30	bilen	bìlen	PART	adv	_	32	discourse	_	Gloss=encore
+31	ma	ma	AUX	pm	Polarity=Neg|Aspect=Perf	32	aux	_	Gloss=PFV.NEG
+32	sunògò	sùnɔgɔ	VERB	v	_	24	parataxis:obj	_	Gloss=dormir
+33	?	?	PUNCT	_	_	2	punct	_	Gloss=?
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:44
+# text = a ye a sòrò den saba tun bè subagamuso nin yèrè fè.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	obj	_	Gloss=3SG
+4	sòrò	sɔ̀rɔ	VERB	v	_	0	root	_	Gloss=obtenir
+5	den	dén	NOUN	n	_	8	nsubj	_	Gloss=enfant
+6	saba	sàba	NUM	num	_	5	nummod	_	Gloss=trois
+7	tun	tùn	PART	prt	Tense=Past|Tense=Past	8	aux	_	Gloss=PST
+8	bè	bɛ́	VERB	cop	Polarity=Pos	4	parataxis	_	Gloss=BE
+9	subagamuso	subagamuso	NOUN	n	_	8	obl	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
+10	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	9	det	_	Gloss=DEM
+11	yèrè	yɛ̀rɛ	DET	dtm	_	9	det	_	Gloss=même
+12	fè	fɛ̀	ADP	pp	_	9	case	_	Gloss=vers
+13	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:45
+# text = ko e bamuso tun bè to ka mun di a ma, e diye sunògò ?
+1	ko	kó	PART	cop	_	6	discourse	_	Gloss=QUOT
+2	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	3	nmod:poss	_	Gloss=2SG.EMPH
+3	bamuso	bá.muso	NOUN	n	_	6	nsubj	_	Gloss=mère|Morf=mère,mère,femme
+4	tun	tùn	PART	prt	Tense=Past|Tense=Past	5	aux	_	Gloss=PST
+5	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	6	aux	_	Gloss=IPFV.AFF
+6	to	tó	VERB	v	_	0	root	_	Gloss=rester
+7	ka	kà	AUX	pm	_	9	aux	_	Gloss=INF
+8	mun	mùn	PRON	prn	_	9	obj	_	Gloss=quoi
+9	di	dí	VERB	v	_	6	xcomp	_	Gloss=donner
+10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	9	obl	_	Gloss=3SG
+11	ma	mà	ADP	pp	_	10	case	_	Gloss=à
+12	,	,	PUNCT	_	_	9	punct	_	Gloss=,
+13	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	15	nsubj	_	Gloss=2SG.EMPH
+14	diye	dìyé	AUX	pm	_	15	aux	_	Gloss=SEQ
+15	sunògò	sùnɔgɔ	VERB	v	_	9	parataxis	_	Gloss=dormir
+16	?	?	PUNCT	_	_	6	punct	_	Gloss=?
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:46
+# text = ko a tun bè to ka to nyumannin tobi ka a di ne ma n diye sunògò.
+1	ko	kó	PART	cop	_	5	discourse	_	Gloss=QUOT
+2	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
+3	tun	tùn	PART	prt	Tense=Past|Tense=Past	4	aux	_	Gloss=PST
+4	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	5	aux	_	Gloss=IPFV.AFF
+5	to	tó	VERB	v	_	0	root	_	Gloss=rester
+6	ka	kà	AUX	pm	_	9	aux	_	Gloss=INF
+7	to	tò	NOUN	n	_	9	obj	_	Gloss=“to”
+8	nyumannin	ɲumannin	ADJ	adj	_	7	amod	_	Gloss=bon|Morf=bon,DIM
+9	tobi	tóbi	VERB	v	_	5	xcomp	_	Gloss=cuire
+10	ka	kà	AUX	pm	_	12	aux	_	Gloss=INF
+11	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	12	obj	_	Gloss=3SG
+12	di	dí	VERB	v	_	9	xcomp	_	Gloss=donner
+13	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	12	obl	_	Gloss=1SG.EMPH
+14	ma	mà	ADP	pp	_	13	case	_	Gloss=à
+15	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	17	nsubj	_	Gloss=1SG
+16	diye	dìyé	AUX	pm	_	17	aux	_	Gloss=SEQ
+17	sunògò	sùnɔgɔ	VERB	v	_	12	parataxis	_	Gloss=dormir
+18	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:47
+# text = a ye to nyumannin tobi ka a di a ma.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+3	to	tò	NOUN	n	_	5	obj	_	Gloss=“to”
+4	nyumannin	ɲumannin	ADJ	adj	_	3	amod	_	Gloss=bon|Morf=bon,DIM
+5	tobi	tóbi	VERB	v	_	0	root	_	Gloss=cuire
+6	ka	kà	AUX	pm	_	8	aux	_	Gloss=INF
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	obj	_	Gloss=3SG
+8	di	dí	VERB	v	_	5	xcomp	_	Gloss=donner
+9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	obl	_	Gloss=3SG
+10	ma	mà	ADP	pp	_	9	case	_	Gloss=à
+11	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:48
+# text = a ye o dun.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+3	o	ò	PRON	prn	_	4	obj	_	Gloss=ce
+4	dun	dún	VERB	v	_	0	root	_	Gloss=manger
+5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:49
+# text = a lara.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+2	lara	dára	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=poser|Morf=poser,PFV.INTR
+3	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:50
+# text = subagamuso nin ye muru ta tugun kò !
+1	subagamuso	subagamuso	NOUN	n	_	5	nsubj	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
+2	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	1	det	_	Gloss=DEM
+3	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+4	muru	mùru	NOUN	n	_	5	obj	_	Gloss=couteau
+5	ta	tà	VERB	v	_	0	root	_	Gloss=prendre
+6	tugun	túgun	ADV	adv	_	5	obl	_	Gloss=encore
+7	kò	kɔ́	ADP	pp	_	5	case	_	Gloss=après
+8	!	!	PUNCT	_	_	5	punct	_	Gloss=!
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:51
+# text = ta ta ta ta ne ye a da gè!
+1	ta	ta	INTJ	_	_	9	discourse	_	Gloss=CHNT
+2	ta	ta	INTJ	_	_	1	compound:redup	_	Gloss=CHNT
+3	ta	ta	INTJ	_	_	1	compound:redup	_	Gloss=CHNT
+4	ta	ta	INTJ	_	_	1	compound:redup	_	Gloss=CHNT
+5	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	9	nsubj	_	Gloss=1SG.EMPH
+6	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	9	aux	_	Gloss=PFV.TR
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	nmod:poss	_	Gloss=3SG
+8	da	dá	NOUN	n	_	9	obj	_	Gloss=bouche
+9	gè	gɛ́n	VERB	v	_	0	root	_	Gloss=aiguiser
+10	!	!	PUNCT	_	_	9	punct	_	Gloss=!
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:52
+# text = na, ne ye mògòfagamurunin da gè.
+1	na	nà	NOUN	n	_	7	vocative	_	Gloss=mère
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+3	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	7	nsubj	_	Gloss=1SG.EMPH
+4	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	7	aux	_	Gloss=PFV.TR
+5	mògòfagamurunin	mɔgɔfagamurunin	NOUN	n	_	6	nmod:poss	_	Gloss=meurtre|Morf=meurtre,homme,tuer,couteau,DIM
+6	da	dá	NOUN	n	_	7	obj	_	Gloss=bouche
+7	gè	gɛ́n	VERB	v	_	0	root	_	Gloss=aiguiser
+8	.	.	PUNCT	_	_	7	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:53
+# text = Dawuda ko : en, en, en, a da gè!
+1	Dawuda	Dáwuda	PROPN	n.prop	_	2	nsubj	_	Gloss=NOM.M
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+3	:	:	PUNCT	_	_	2	punct	_	Gloss=:
+4	en	en	INTJ	_	_	12	discourse	_	Gloss=CHNT
+5	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+6	en	en	INTJ	_	_	4	compound:redup	_	Gloss=CHNT
+7	,	,	PUNCT	_	_	6	punct	_	Gloss=,
+8	en	en	INTJ	_	_	4	compound:redup	_	Gloss=CHNT
+9	,	,	PUNCT	_	_	8	punct	_	Gloss=,
+10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	11	nmod:poss	_	Gloss=3SG
+11	da	dá	NOUN	n	_	12	nsubj	_	Gloss=bouche
+12	gè	gɛ́n	VERB	v	_	2	parataxis:obj	_	Gloss=aiguiser
+13	!	!	PUNCT	_	_	2	punct	_	Gloss=!
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:54
+# text = e diye n yèrè ta minè ka a da gè yan.
+1	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	6	nsubj	_	Gloss=2SG.EMPH
+2	diye	dìyé	AUX	pm	_	6	aux	_	Gloss=SEQ
+3	n	ń	PRON	pers	PronType=Prs	5	nmod:poss	_	Gloss=je
+4	yèrè	yɛ̀rɛ	DET	dtm	_	3	det	_	Gloss=même
+5	ta	tá	NOUN	n	_	6	obj	_	Gloss=propriété
+6	minè	mìnɛ	VERB	v	_	0	root	_	Gloss=attraper
+7	ka	kà	AUX	pm	_	10	aux	_	Gloss=INF
+8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	9	nmod:poss	_	Gloss=3SG
+9	da	dá	NOUN	n	_	10	obj	_	Gloss=bouche
+10	gè	gɛ́n	VERB	v	_	6	xcomp	_	Gloss=aiguiser
+11	yan	yàn	ADV	adv/n	_	10	obl	_	Gloss=ici
+12	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:55
+# text = ko e, ko ale bilen ma sunògò ?
+1	ko	kó	PART	cop	_	8	discourse	_	Gloss=QUOT
+2	e	ée	INTJ	intj	_	8	discourse	_	Gloss=hé!
+3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+4	ko	kó	PART	cop	_	8	discourse	_	Gloss=QUOT
+5	ale	àle	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	8	nsubj	_	Gloss=3SG.EMPH
+6	bilen	bìlen	PART	adv	_	8	discourse	_	Gloss=encore
+7	ma	má	AUX	pm	_	8	aux	_	Gloss=PFV:NEG
+8	sunògò	sùnɔgɔ	VERB	v	_	0	root	_	Gloss=dormir
+9	?	?	PUNCT	_	_	8	punct	_	Gloss=?
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:56
+# text = ko ne ma sunògò koyi.
+1	ko	kó	PART	cop	_	4	discourse	_	Gloss=QUOT
+2	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	4	nsubj	_	Gloss=1SG.EMPH
+3	ma	má	AUX	pm	_	4	aux	_	Gloss=PFV:NEG
+4	sunògò	sùnɔgɔ	VERB	v	_	0	root	_	Gloss=dormir
+5	koyi	kóyi	PART	prt	_	4	discourse	_	Gloss=certes
+6	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:57
+# text = ko e bamuso tun bè to ka mun di e ma, e diye sunògò ?
+1	ko	kó	PART	cop	_	6	discourse	_	Gloss=QUOT
+2	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	3	nmod:poss	_	Gloss=2SG.EMPH
+3	bamuso	bá.muso	NOUN	n	_	6	nsubj	_	Gloss=mère|Morf=mère,mère,femme
+4	tun	tùn	PART	prt	Tense=Past|Tense=Past	5	aux	_	Gloss=PST
+5	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	6	aux	_	Gloss=IPFV.AFF
+6	to	tó	VERB	v	_	0	root	_	Gloss=rester
+7	ka	kà	AUX	pm	_	9	aux	_	Gloss=INF
+8	mun	mùn	PRON	prn	_	9	nsubj	_	Gloss=quoi
+9	di	dí	VERB	v	_	6	xcomp	_	Gloss=donner
+10	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	9	obl	_	Gloss=2SG.EMPH
+11	ma	mà	ADP	pp	_	10	case	_	Gloss=à
+12	,	,	PUNCT	_	_	9	punct	_	Gloss=,
+13	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	15	nsubj	_	Gloss=2SG.EMPH
+14	diye	dìyé	AUX	pm	_	15	aux	_	Gloss=SEQ
+15	sunògò	sùnɔgɔ	VERB	v	_	9	parataxis	_	Gloss=dormir
+16	?	?	PUNCT	_	_	6	punct	_	Gloss=?
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:58
+# text = ko a tun bè taga kò la ka taga segi ta ka o fa ji la.
+1	ko	kó	PART	cop	_	5	discourse	_	Gloss=QUOT
+2	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
+3	tun	tùn	PART	prt	Tense=Past|Tense=Past	4	aux	_	Gloss=PST
+4	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	5	aux	_	Gloss=IPFV.AFF
+5	taga	tága	VERB	v	_	0	root	_	Gloss=aller
+6	kò	kɔ̀	NOUN	n	_	5	obl	_	Gloss=marigot
+7	la	lá	ADP	pp	_	6	case	_	Gloss=dans
+8	ka	kà	AUX	pm	_	9	aux	_	Gloss=INF
+9	taga	tága	VERB	v	_	5	xcomp	_	Gloss=aller
+10	segi	sègi	NOUN	n	_	11	obj	_	Gloss=corbeille
+11	ta	tà	VERB	v	_	9	xcomp	_	Gloss=prendre
+12	ka	kà	AUX	pm	_	14	aux	_	Gloss=INF
+13	o	ò	PRON	prn	_	14	obj	_	Gloss=ce
+14	fa	fá	VERB	v	_	11	xcomp	_	Gloss=remplir
+15	ji	jí	NOUN	n	_	14	obl	_	Gloss=eau
+16	la	lá	ADP	pp	_	15	case	_	Gloss=dans
+17	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:59
+# text = o nana o kè ka ne ko n diye sunògò.
+1	o	ò	PRON	prn	_	2	nsubj	_	Gloss=ce
+2	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
+3	o	ò	PRON	prn	_	4	obj	_	Gloss=ce
+4	kè	kɛ́	VERB	v	_	2	xcomp	_	Gloss=faire
+5	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
+6	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	7	obj	_	Gloss=1SG.EMPH
+7	ko	kò	VERB	v	_	4	xcomp	_	Gloss=laver
+8	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	10	nsubj	_	Gloss=1SG
+9	diye	dìyé	AUX	pm	_	10	aux	_	Gloss=SEQ
+10	sunògò	sùnɔgɔ	VERB	v	_	7	parataxis:obj	_	Gloss=dormir
+11	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:60
+# text = subagamuso nin tagara, a tagara kò la, a ye segi ta ka taga kò la, ka taga a fa, ji bònna ka taga a fa, ji bònna.
+1	subagamuso	subagamuso	NOUN	n	_	3	nsubj	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
+2	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	1	det	_	Gloss=DEM
+3	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	6	nsubj	_	Gloss=3SG
+6	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	3	parataxis	_	Gloss=aller|Morf=aller,PFV.INTR
+7	kò	kɔ̀	NOUN	n	_	6	obl	_	Gloss=marigot
+8	la	lá	ADP	pp	_	7	case	_	Gloss=dans
+9	,	,	PUNCT	_	_	6	punct	_	Gloss=,
+10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	13	nsubj	_	Gloss=3SG
+11	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	13	aux	_	Gloss=PFV.TR
+12	segi	sègi	NOUN	n	_	13	obj	_	Gloss=corbeille
+13	ta	tà	VERB	v	_	6	parataxis	_	Gloss=prendre
+14	ka	kà	AUX	pm	_	15	aux	_	Gloss=INF
+15	taga	tága	VERB	v	_	13	xcomp	_	Gloss=aller
+16	kò	kɔ̀	NOUN	n	_	15	obl	_	Gloss=marigot
+17	la	lá	ADP	pp	_	16	case	_	Gloss=dans
+18	,	,	PUNCT	_	_	15	punct	_	Gloss=,
+19	ka	kà	AUX	pm	_	20	aux	_	Gloss=INF
+20	taga	tága	VERB	v	_	15	xcomp	_	Gloss=aller
+21	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	22	obj	_	Gloss=3SG
+22	fa	fá	VERB	v	_	20	xcomp	_	Gloss=remplir
+23	,	,	PUNCT	_	_	20	punct	_	Gloss=,
+24	ji	jí	NOUN	n	_	25	nsubj	_	Gloss=eau
+25	bònna	bɔnna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	20	parataxis	_	Gloss=répandre|Morf=répandre,PFV.INTR
+26	ka	kà	AUX	pm	_	27	aux	_	Gloss=INF
+27	taga	tága	VERB	v	_	25	xcomp	_	Gloss=aller
+28	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	29	obj	_	Gloss=3SG
+29	fa	fá	VERB	v	_	27	xcomp	_	Gloss=remplir
+30	,	,	PUNCT	_	_	29	punct	_	Gloss=,
+31	ji	jí	NOUN	n	_	32	nsubj	_	Gloss=eau
+32	bònna	bɔnna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	29	parataxis	_	Gloss=répandre|Morf=répandre,PFV.INTR
+33	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:61
+# text = Dawuda yèrè kòròtòra a la, a yèrè tagara a nò fè ko ale bilen ma se ka a fa ?
+1	Dawuda	Dáwuda	PROPN	n.prop	_	3	nsubj	_	Gloss=NOM.M
+2	yèrè	yɛ̀rɛ	DET	dtm	_	1	det	_	Gloss=même
+3	kòròtòra	kɔrɔtɔra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=se.presser|Morf=se.presser,PFV.INTR
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	3	obl	_	Gloss=3SG
+5	la	lá	ADP	pp	_	4	case	_	Gloss=dans
+6	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	9	nsubj	_	Gloss=3SG
+8	yèrè	yɛ̀rɛ	DET	dtm	_	7	det	_	Gloss=même
+9	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	3	parataxis	_	Gloss=aller|Morf=aller,PFV.INTR
+10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	9	obl	_	Gloss=3SG
+11	nòfè	nɔ̀.fɛ̀	ADP	pp	_	10	case	_	Gloss=derrière|Morf=derrière,trace,vers
+12	ko	kó	PART	cop	_	16	discourse	_	Gloss=QUOT
+13	ale	àlê	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	16	nsubj	_	Gloss=3SG.EMPH
+14	bilen	bìlen	PART	adv	_	16	discourse	_	Gloss=encore
+15	ma	ma	AUX	pm	Polarity=Neg|Aspect=Perf	16	aux	_	Gloss=PFV.NEG
+16	se	sé	VERB	v	_	9	parataxis:obj	_	Gloss=arriver
+17	ka	kà	AUX	pm	_	19	aux	_	Gloss=INF
+18	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	19	obj	_	Gloss=3SG
+19	fa	fá	VERB	v	_	16	xcomp	_	Gloss=remplir
+20	?	?	PUNCT	_	_	3	punct	_	Gloss=?
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:62
+# text = ko onhòn !
+1	ko	kó	PART	cop	_	2	discourse	_	Gloss=QUOT
+2	onhòn	ɔ̀nhɔ́n	INTJ	intj	_	0	root	_	Gloss=oui
+3	!	!	PUNCT	_	_	2	punct	_	Gloss=!
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:63
+# text = a ye segi minè ka a fa.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+3	segi	sègi	NOUN	n	_	4	obj	_	Gloss=corbeille
+4	minè	mìnɛ	VERB	v	_	0	root	_	Gloss=attraper
+5	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	obj	_	Gloss=3SG
+7	fa	fá	VERB	v	_	4	xcomp	_	Gloss=remplir
+8	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:64
+# text = hali ji kelen ma toni diye a bòn a nò na ko a fa!
+1	hali	háli	PART	prt	_	5	discourse	_	Gloss=même
+2	ji	jí	NOUN	n	_	5	nsubj	_	Gloss=eau
+3	kelen	kélen	NUM	num	_	2	nummod	_	Gloss=un
+4	ma	má	AUX	pm	_	5	aux	_	Gloss=PFV:NEG
+5	toni	tóni	VERB	v	_	0	root	_	Gloss=goutter
+6	diye	dìyé	AUX	pm	_	8	aux	_	Gloss=SEQ
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	obj	_	Gloss=3SG
+8	bòn	bɔ̀n	VERB	v	_	5	xcomp	_	Gloss=répandre
+9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	10	nmod:poss	_	Gloss=3SG
+10	nò	nɔ̀	NOUN	n	_	8	obl	_	Gloss=trace
+11	na	ná	ADP	pp	_	10	case	_	Gloss=à
+12	ko	kó	PART	cop	_	14	discourse	_	Gloss=QUOT
+13	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	14	obj	_	Gloss=3SG
+14	fa	fá	VERB	v	_	8	parataxis:obj	_	Gloss=remplir
+15	!	!	PUNCT	_	_	5	punct	_	Gloss=!
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:65
+# text = ko e bè na ne sòrò so kònò.
+1	ko	kó	PART	cop	_	5	discourse	_	Gloss=QUOT
+2	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	5	nsubj	_	Gloss=2SG.EMPH
+3	bèna	bɛ́nà	AUX	pm	Tense=Fut|Polarity=Pos	5	aux	_	Gloss=FUT
+4	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	5	obj	_	Gloss=1SG.EMPH
+5	sòrò	sɔ̀rɔ	VERB	v	_	0	root	_	Gloss=obtenir
+6	so	só	NOUN	n	_	5	obl	_	Gloss=maison
+7	kònò	kɔ́nɔ	ADP	pp	_	6	case	_	Gloss=à.l’intérieur
+8	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:66
+# text = subagamuso nin mana a fò ko a bè a fa, a bèè bònna.
+1	subagamuso	subagamuso	NOUN	n	_	5	nsubj	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
+2	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	1	det	_	Gloss=DEM
+3	mana	mána	AUX	pm	Mood=Cnd|Polarity=Pos	5	aux	_	Gloss=COND.AFF
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	obj	_	Gloss=3SG
+5	fò	fɔ́	VERB	v	_	0	root	_	Gloss=dire
+6	ko	kó	PART	cop	_	10	discourse	_	Gloss=QUOT
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	10	nsubj	_	Gloss=3SG
+8	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	10	aux	_	Gloss=IPFV.AFF
+9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	10	obj	_	Gloss=3SG
+10	fa	fá	VERB	v	_	5	advcl	_	Gloss=remplir
+11	,	,	PUNCT	_	_	10	punct	_	Gloss=,
+12	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	14	nsubj	_	Gloss=3SG
+13	bèè	bɛ́ɛ	DET	dtm	_	12	det	_	Gloss=tout
+14	bònna	bɔnna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	10	parataxis	_	Gloss=répandre|Morf=répandre,PFV.INTR
+15	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:67
+# text = Dawuda yèrè tagara ka taga a yèrè ka finiw ni a kòròkèw taw ta, ka o don subagamuso nin taw la.
+1	Dawuda	Dáwuda	PROPN	n.prop	_	3	nsubj	_	Gloss=NOM.M
+2	yèrè	yɛ̀rɛ	DET	dtm	_	1	det	_	Gloss=même
+3	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+4	ka	kà	AUX	pm	_	5	aux	_	Gloss=INF
+5	taga	tága	VERB	v	_	3	xcomp	_	Gloss=aller
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	9	nmod:poss	_	Gloss=3SG
+7	yèrè	yɛ̀rɛ	DET	dtm	_	6	det	_	Gloss=même
+8	ka	ká	ADP	conj	_	6	case	_	Gloss=POSS
+9	finiw	finiw	NOUN	n	Number=Plur	14	obj	_	Gloss=tissu|Morf=tissu,PL
+10	ni	ní	CCONJ	conj/prep	_	13	cc	_	Gloss=et
+11	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	12	nmod:poss	_	Gloss=3SG
+12	kòròkèw	kɔrɔkɛw	NOUN	n	Number=Plur	13	nmod:poss	_	Gloss=frère.aîné|Morf=frère.aîné,aîné,mâle,PL
+13	taw	taw	NOUN	n	Number=Plur	9	compound	_	Gloss=propriété|Morf=propriété,PL
+14	ta	tà	VERB	v	_	5	xcomp	_	Gloss=prendre
+15	,	,	PUNCT	_	_	14	punct	_	Gloss=,
+16	ka	kà	AUX	pm	_	18	aux	_	Gloss=INF
+17	o	ò	PRON	prn	_	18	obj	_	Gloss=ce
+18	don	dòn	VERB	v	_	14	xcomp	_	Gloss=entrer
+19	subagamuso	subagamuso	NOUN	n	_	21	nmod:poss	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
+20	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	19	det	_	Gloss=DEM
+21	taw	taw	NOUN	n	Number=Plur	18	obl	_	Gloss=propriété|Morf=propriété,PL
+22	la	lá	ADP	pp	_	21	case	_	Gloss=dans
+23	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:68
+1	subagamuso	subagamuso	NOUN	n	_	3	nsubj	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
+2	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	1	det	_	Gloss=DEM
+3	kòròtòra	kɔrɔtɔra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=se.presser|Morf=se.presser,PFV.INTR
+4	ka	kà	AUX	pm	_	5	aux	_	Gloss=INF
+5	na	nà	VERB	v	_	3	xcomp	_	Gloss=venir
+6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:69
+# text = a nana ko : ta ta ta ta, n ye a da gè !
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+2	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
+3	ko	kó	VERB	cop	_	14	dep	_	Gloss=QUOT
+4	:	:	PUNCT	_	_	3	punct	_	Gloss=:
+5	ta	ta	INTJ	_	_	14	discourse	_	Gloss=CHNT
+6	ta	ta	INTJ	_	_	5	compound:redup	_	Gloss=CHNT
+7	ta	ta	INTJ	_	_	5	compound:redup	_	Gloss=CHNT
+8	ta	ta	INTJ	_	_	5	compound:redup	_	Gloss=CHNT
+9	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+10	n	ń	PRON	pers	PronType=Prs	14	nsubj	_	Gloss=je
+11	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	14	aux	_	Gloss=PFV.TR
+12	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	13	nmod:poss	_	Gloss=3SG
+13	da	dá	NOUN	n	_	14	obj	_	Gloss=bouche
+14	gè	gɛ́n	VERB	v	_	2	parataxis:obj	_	Gloss=aiguiser
+15	!	!	PUNCT	_	_	2	punct	_	Gloss=!
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:70
+# text = na, ne ye mògòfagamurunin da gè!
+1	na	nà	NOUN	n	_	7	discourse	_	Gloss=mère
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+3	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	7	nsubj	_	Gloss=1SG.EMPH
+4	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	7	aux	_	Gloss=PFV.TR
+5	mògòfagamurunin	mɔgɔfagamurunin	NOUN	n	_	6	nmod:obj	_	Gloss=meurtre|Morf=meurtre,homme,tuer,couteau,DIM
+6	da	dá	NOUN	n	_	7	obj	_	Gloss=bouche
+7	gè	gɛ́n	VERB	v	_	0	root	_	Gloss=aiguiser
+8	!	!	PUNCT	_	_	7	punct	_	Gloss=!
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:71
+# text = mògò ma kuma, a ye a fò bilen : ta ta ta ta, n ye a da gè !
+1	mògò	mɔ̀gɔ	NOUN	n	_	3	nsubj	_	Gloss=homme
+2	ma	má	AUX	pm	_	3	aux	_	Gloss=PFV:NEG
+3	kuma	kúma	VERB	v	_	0	root	_	Gloss=parler
+4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	nsubj	_	Gloss=3SG
+6	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	8	aux	_	Gloss=PFV.TR
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	obj	_	Gloss=3SG
+8	fò	fɔ́	VERB	v	_	3	parataxis	_	Gloss=dire
+9	bilen	bìlen	PART	adv	_	8	discourse	_	Gloss=encore
+10	:	:	PUNCT	_	_	8	punct	_	Gloss=:
+11	ta	ta	INTJ	_	_	20	discourse	_	Gloss=CHNT
+12	ta	ta	INTJ	_	_	11	compound:redup	_	Gloss=CHNT
+13	ta	ta	INTJ	_	_	11	compound:redup	_	Gloss=CHNT
+14	ta	ta	INTJ	_	_	11	compound:redup	_	Gloss=CHNT
+15	,	,	PUNCT	_	_	11	punct	_	Gloss=,
+16	n	ń	PRON	pers	PronType=Prs	20	nsubj	_	Gloss=je
+17	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	20	aux	_	Gloss=PFV.TR
+18	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	19	nmod:poss	_	Gloss=3SG
+19	da	dá	NOUN	n	_	20	obj	_	Gloss=bouche
+20	gè	gɛ́n	VERB	v	_	8	parataxis:obj	_	Gloss=aiguiser
+21	!	!	PUNCT	_	_	20	punct	_	Gloss=!
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:72
+# text = na, ne ye mògòfagamurunin da gè.
+1	na	nà	NOUN	n	_	7	discourse	_	Gloss=mère
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+3	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	7	nsubj	_	Gloss=1SG.EMPH
+4	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	7	aux	_	Gloss=PFV.TR
+5	mògòfagamurunin	mɔgɔfagamurunin	NOUN	n	_	6	nmod:poss	_	Gloss=meurtre|Morf=meurtre,homme,tuer,couteau,DIM
+6	da	dá	NOUN	n	_	7	obj	_	Gloss=bouche
+7	gè	gɛ́n	VERB	v	_	0	root	_	Gloss=aiguiser
+8	.	.	PUNCT	_	_	7	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:73
+# text = a sinna ka wuli, ka a den bèè kantigè.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+2	sinna	sinna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=diriger|Morf=diriger,PFV.INTR
+3	ka	kà	AUX	pm	_	4	aux	_	Gloss=INF
+4	wuli	wúli	VERB	v	_	2	xcomp	_	Gloss=se.lever
+5	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+6	ka	kà	AUX	pm	_	10	aux	_	Gloss=INF
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	nmod:poss	_	Gloss=3SG
+8	den	dén	NOUN	n	_	10	obj	_	Gloss=enfant
+9	bèè	bɛ́ɛ	DET	dtm	_	8	det	_	Gloss=tout
+10	kantigè	kán.tigɛ	VERB	v	_	2	xcomp	_	Gloss=égorger|Morf=égorger,cou,couper
+11	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:74
+# text = dugu jèra, Dawuda yèrè wulila ko woo ko e ye e denw faga !
+1	dugu	dùgu	NOUN	n	_	2	nsubj	_	Gloss=terre
+2	jèra	jɛra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=blanchir|Morf=blanchir,PFV.INTR
+3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+4	Dawuda	Dáwuda	PROPN	n.prop	_	6	nsubj	_	Gloss=NOM.M
+5	yèrè	yɛ̀rɛ	DET	dtm	_	4	det	_	Gloss=même
+6	wulila	wulila	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	2	parataxis	_	Gloss=se.lever|Morf=se.lever,PFV.INTR
+7	ko	kó	PART	cop	_	14	discourse	_	Gloss=QUOT
+8	woo	wòo	NOUN	n	_	14	discourse	_	Gloss=huée
+9	ko	kó	PART	cop	_	14	discourse	_	Gloss=QUOT
+10	e	ê	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	14	nsubj	_	Gloss=2SG.EMPH
+11	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	14	aux	_	Gloss=PFV.TR
+12	e	ê	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	13	nmod:poss	_	Gloss=2SG.EMPH
+13	denw	denw	NOUN	n	Number=Plur	14	obj	_	Gloss=enfant|Morf=enfant,PL
+14	faga	fàga	VERB	v	_	6	parataxis:obj	_	Gloss=tuer
+15	!	!	PUNCT	_	_	2	punct	_	Gloss=!
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:75
+# text = Dawuda ye a kòròkèw ni a yèrè kè fònyòn ye, diye wuli ka taga.
+1	Dawuda	Dáwuda	PROPN	n.prop	_	8	nsubj	_	Gloss=NOM.M
+2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	8	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nmod:poss	_	Gloss=3SG
+4	kòròkèw	kɔrɔkɛw	NOUN	n	Number=Plur	8	obj	_	Gloss=frère.aîné|Morf=frère.aîné,aîné,mâle,PL
+5	ni	ní	CCONJ	conj/prep	_	6	cc	_	Gloss=et
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	conj	_	Gloss=3SG
+7	yèrè	yɛ̀rɛ	DET	dtm	_	6	det	_	Gloss=même
+8	kè	kɛ́	VERB	v	_	0	root	_	Gloss=faire
+9	fònyòn	fíyɛn	NOUN	n	_	8	obl	_	Gloss=vent
+10	ye	yé	ADP	pp	_	9	case	_	Gloss=PP
+11	,	,	PUNCT	_	_	8	punct	_	Gloss=,
+12	diye	dìyé	AUX	pm	_	13	aux	_	Gloss=SEQ
+13	wuli	wúli	VERB	v	_	8	parataxis	_	Gloss=se.lever
+14	ka	kà	AUX	pm	_	15	aux	_	Gloss=INF
+15	taga	tága	VERB	v	_	13	xcomp	_	Gloss=aller
+16	.	.	PUNCT	_	_	8	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:76
+# text = subagamuso nin ma don a bè a ta sara cogo min, a ye i yèrè kè Dawuda ka kòròkè ka sungurun nyumannin ye.
+1	subagamuso	subagamuso	NOUN	n	_	4	nsubj	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
+2	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	1	det	_	Gloss=DEM
+3	ma	má	AUX	pm	_	4	aux	_	Gloss=PFV:NEG
+4	don	dɔ́n	VERB	v	_	0	root	_	Gloss=connaître
+5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	9	nsubj	_	Gloss=3SG
+6	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	9	aux	_	Gloss=IPFV.AFF
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	nmod:poss	_	Gloss=3SG
+8	ta	tá	NOUN	n	_	9	obj	_	Gloss=propriété
+9	sara	sàra	VERB	v	_	17	acl	_	Gloss=payer
+10	cogo	cógo	NOUN	n	_	9	obl	_	Gloss=manière
+11	min	mín	DET	prn	PronType=Rel	10	det:rel	_	Gloss=REL
+12	,	,	PUNCT	_	_	9	punct	_	Gloss=,
+13	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	17	nsubj	_	Gloss=3SG
+14	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	17	aux	_	Gloss=PFV.TR
+15	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	17	obj	_	Gloss=REFL
+16	yèrè	yɛ̀rɛ	DET	dtm	_	15	det	_	Gloss=même
+17	kè	kɛ́	VERB	v	_	4	parataxis	_	Gloss=faire
+18	Dawuda	Dáwuda	PROPN	n.prop	_	20	nmod:poss	_	Gloss=NOM.M
+19	ka	ká	ADP	conj	_	18	case	_	Gloss=POSS
+20	kòròkè	kɔ̀rɔ.kɛ	NOUN	n	_	22	nmod:poss	_	Gloss=frère.aîné|Morf=frère.aîné,aîné,mâle
+21	ka	ká	ADP	conj	_	20	case	_	Gloss=POSS
+22	sungurun	súngurun	NOUN	n	_	17	obl	_	Gloss=jeune.fille
+23	nyumannin	ɲumannin	ADJ	adj	_	22	amod	_	Gloss=bon|Morf=bon,DIM
+24	ye	yé	ADP	pp	_	22	obl	_	Gloss=PP
+25	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:77
+# text = a tagara sa.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+3	sa	sá	PART	prt	_	2	discourse	_	Gloss=enfin
+4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:78
+# text = su kora subagamuso nin tagara a donna Dawuda la kòròkè ka so kònò a ye baro kè.
+1	su	sú	NOUN	n	_	2	nsubj	_	Gloss=nuit
+2	kora	kora	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=arriver|Morf=arriver,PFV.INTR
+3	subagamuso	subagamuso	NOUN	n	_	5	nsubj	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
+4	nin	nìn	DET	dtm	PronType=Dem|Definite-Def	3	det	_	Gloss=DEM
+5	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	2	parataxis	_	Gloss=aller|Morf=aller,PFV.INTR
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	nsubj	_	Gloss=3SG
+7	donna	donna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	5	xcomp	_	Gloss=entrer|Morf=entrer,PFV.INTR
+8	Dawuda	Dáwuda	PROPN	n.prop	_	10	nmod:poss	_	Gloss=NOM.M
+9	la	lá	ADP	pp	_	8	case	_	Gloss=à
+10	kòròkè	kɔ̀rɔkɛ	NOUN	n	_	12	nmod:poss	_	Gloss=frère.aîné|Morf=frère.aîné,aîné,mâle
+11	ka	ka	ADP	pp	_	10	case	_	Gloss=POSS
+12	so	só	NOUN	n	_	7	obl	_	Gloss=maison
+13	kònò	kɔ́nɔ	ADP	pp	_	12	case	_	Gloss=dans
+14	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	17	nsubj	_	Gloss=3SG
+15	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	17	aux	_	Gloss=PFV.TR
+16	baro	bàro	NOUN	n	_	17	obj	_	Gloss=conversation
+17	kè	kɛ́	VERB	v	_	7	parataxis	_	Gloss=faire
+18	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:79
+# text = Dawuda ka kòròkè nana sunògò a ye Dawuda ka kòròkè nyèkili fila bò ka taga ni a ye.
+1	Dawuda	Dáwuda	PROPN	n.prop	_	3	nmod:poss	_	Gloss=NOM.M
+2	ka	ká	ADP	conj	_	1	case	_	Gloss=POSS
+3	kòròkè	kɔ̀rɔ.kɛ	NOUN	n	_	4	nsubj	_	Gloss=frère.aîné|Morf=frère.aîné,aîné,mâle
+4	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
+5	sunògò	sùnɔgɔ	VERB	v	_	4	xcomp	_	Gloss=dormir
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	13	nsubj	_	Gloss=3SG
+7	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	13	aux	_	Gloss=PFV.TR
+8	Dawuda	Dáwuda	PROPN	n.prop	_	10	nmod:poss	_	Gloss=NOM.M
+9	ka	ka	ADP	pp	_	8	case	_	Gloss=POSS
+10	kòròkè	kɔ̀rɔkɛ	NOUN	n	_	11	nmod:poss	_	Gloss=frère.aîné|Morf=frère.aîné,aîné,mâle
+11	nyèkili	ɲɛ́kili	NOUN	n	_	13	obj	_	Gloss=globe.oculaire|Morf=globe.oculaire,oeil,oeuf
+12	fila	fìla	NUM	num	_	11	nummod:poss	_	Gloss=deux
+13	bò	bɔ̀	VERB	v	_	4	parataxis	_	Gloss=arracher
+14	ka	kà	AUX	pm	_	15	aux	_	Gloss=INF
+15	taga	tága	VERB	v	_	13	xcomp	_	Gloss=aller
+16	ni	ni	ADP	prep	_	17	case	_	Gloss=et
+17	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	15	obl	_	Gloss=3SG
+18	ye	yé	ADP	pp	_	17	case	_	Gloss=PP
+19	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:80
+# text = a bamuso ko a ka taga a nyini, ko a ka taga nyèkili fila nyini ka na.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nmod:poss	_	Gloss=3SG
+2	bamuso	bá.muso	NOUN	n	_	3	nsubj	_	Gloss=mère|Morf=mère,mère,femme
+3	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	6	nsubj	_	Gloss=3SG
+5	ka	ká	AUX	pm	_	6	aux	_	Gloss=OPT
+6	taga	tága	VERB	v	_	3	parataxis:obj	_	Gloss=aller
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	obj	_	Gloss=3SG
+8	nyini	ɲíni	VERB	v	_	6	xcomp	_	Gloss=chercher
+9	,	,	PUNCT	_	_	8	punct	_	Gloss=,
+10	ko	kó	PART	cop	_	13	discourse	_	Gloss=QUOT
+11	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	13	nsubj	_	Gloss=3SG
+12	ka	ká	AUX	pm	_	13	aux	_	Gloss=OPT
+13	taga	tága	VERB	v	_	8	parataxis	_	Gloss=aller
+14	nyèkili	ɲɛ́.kili	NOUN	n	_	16	obj	_	Gloss=globe.oculaire|Morf=globe.oculaire,oeil,oeuf
+15	fila	fìla	NUM	num	_	14	nummod	_	Gloss=deux
+16	nyini	ɲíni	VERB	v	_	13	xcomp	_	Gloss=chercher
+17	ka	kà	AUX	pm	_	18	aux	_	Gloss=INF
+18	na	nà	VERB	v	_	16	xcomp	_	Gloss=venir
+19	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:81
+# text = Dawuda tagara.
+1	Dawuda	Dáwuda	PROPN	n.prop	_	2	nsubj	_	Gloss=NOM.M
+2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+3	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:82
+# text = o ye a sòrò subagamuso nin den dò a tun furulen bè duguba dò la.
+1	o	ò	PRON	prn	_	4	nsubj	_	Gloss=ce
+2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	obj	_	Gloss=3SG
+4	sòrò	sɔ̀rɔ	VERB	v	_	0	root	_	Gloss=obtenir
+5	subagamuso	subagamuso	NOUN	n	_	7	nmod:poss	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
+6	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	5	det	_	Gloss=DEM
+7	den	dén	NOUN	n	_	8	nsubj	_	Gloss=enfant
+8	dò	dòn	VERB	cop	_	4	parataxis	_	Gloss=PRES
+9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	11	nsubj	_	Gloss=3SG
+10	tun	tùn	PART	prt	Tense=Past|Tense=Past	11	aux	_	Gloss=PST
+11	furulen	furulen	VERB	ptcp	VerbalForm=Part|Aspect=Perf	8	parataxis	_	Gloss=épouser|Morf=épouser,PTCP.RES
+12	bè	bɛ́	AUX	cop	_	11	aux	_	Gloss=être
+13	duguba	dùguba	NOUN	n	_	11	obl	_	Gloss=gros.village|Morf=gros.village,terre,AUGM
+14	dò	dɔ́	DET	dtm	_	13	det	_	Gloss=certain
+15	la	lá	ADP	pp	_	13	case	_	Gloss=à
+16	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:83
+# text = a den kelen bè yen.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nmod:poss	_	Gloss=3SG
+2	den	dén	NOUN	n	_	4	nsubj	_	Gloss=enfant
+3	kelen	kélen	NUM	num	_	2	nummod	_	Gloss=un
+4	bè	bɛ́	VERB	cop	Polarity=Pos	0	root	_	Gloss=BE
+5	yen	yèn	ADV	adv/n	_	4	obl	_	Gloss=là-bas
+6	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:84
+# text = a ye i yèrè yèlèma ka kè o den ye diye taga subagamuso nin nò fè.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+3	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	5	obj	_	Gloss=REFL
+4	yèrè	yɛ̀rɛ	DET	dtm	_	3	det	_	Gloss=même
+5	yèlèma	yɛ̀lɛma	VERB	v	_	0	root	_	Gloss=changer
+6	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
+7	kè	kɛ́	VERB	v	_	5	xcomp	_	Gloss=faire
+8	o	ò	DET	prn	_	9	det	_	Gloss=ce
+9	den	dén	NOUN	n	_	7	obl	_	Gloss=enfant
+10	ye	yé	ADP	pp	_	9	case	_	Gloss=PP
+11	diye	dìyé	AUX	pm	_	12	aux	_	Gloss=SEQ
+12	taga	tága	VERB	v	_	7	xcomp	_	Gloss=aller
+13	subagamuso	subagamuso	NOUN	n	_	12	obl	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
+14	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	13	det	_	Gloss=DEM
+15	nòfè	nɔ̀.fɛ̀	ADP	pp	_	13	case	_	Gloss=derrière|Morf=derrière,trace,vers
+16	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:85
+# text = ko e ko nyèko bè n cè la ko a nyèkili fila man nyi ko ne bèna nyèkili fila nyini e fè !
+1	ko	kó	PART	cop	_	3	discourse	_	Gloss=QUOT
+2	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	3	nsubj	_	Gloss=3SG.EMPH
+3	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+4	nyèko	ɲɛ̀.ko	NOUN	n	_	5	nsubj	_	Gloss=oeil|Morf=oeil,affaire
+5	bè	bɛ́	VERB	cop	Polarity=Pos	3	parataxis:obj	_	Gloss=BE
+6	n	ń	PRON	pers	PronType=Prs	7	nmod:poss	_	Gloss=je
+7	cè	cɛ̀	NOUN	n	_	5	obl	_	Gloss=mâle
+8	la	lá	ADP	pp	_	7	case	_	Gloss=dans
+9	ko	kó	PART	cop	_	14	discourse	_	Gloss=QUOT
+10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	11	nmod:poss	_	Gloss=3SG
+11	nyèkili	ɲɛ́.kili	NOUN	n	_	14	nsubj	_	Gloss=globe.oculaire|Morf=globe.oculaire,oeil,oeuf
+12	fila	fìla	NUM	num	_	11	nummod	_	Gloss=deux
+13	man	mán	AUX	pm	Polarity=Neg	14	aux	_	Gloss=QUAL.NEG
+14	nyi	ɲì	VERB	vq	_	5	parataxis	_	Gloss=bon
+15	ko	kó	PART	cop	_	20	discourse	_	Gloss=QUOT
+16	ne	nê	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	20	nsubj	_	Gloss=1SG.EMPH
+17	bèna	bɛ́na	AUX	pm	Tense=Fut|Polarity=Pos	20	aux	_	Gloss=FUT
+18	nyèkili	ɲɛ́kili	NOUN	n	_	20	obj	_	Gloss=globe.oculaire|Morf=globe.oculaire,oeil,oeuf
+19	fila	fìla	NUM	num	_	18	nummod	_	Gloss=deux
+20	nyini	ɲíni	VERB	v	_	14	parataxis:obj	_	Gloss=chercher
+21	e	ê	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	20	obl	_	Gloss=2SG.EMPH
+22	fè	fɛ̀	ADP	pp	_	21	case	_	Gloss=par
+23	!	!	PUNCT	_	_	3	punct	_	Gloss=!
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:86
+# text = ko e ko nyèkili fila tun bè ne fè wa ?
+1	ko	kó	PART	cop	_	3	discourse	_	Gloss=QUOT
+2	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	3	nsubj	_	Gloss=2SG.EMPH
+3	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+4	nyèkili	ɲɛ́.kili	NOUN	n	_	7	nsubj	_	Gloss=globe.oculaire|Morf=globe.oculaire,oeil,oeuf
+5	fila	fìla	NUM	num	_	4	nummod	_	Gloss=deux
+6	tun	tùn	PART	prt	Tense=Past|Tense=Past	7	aux	_	Gloss=PST
+7	bè	bɛ́	VERB	cop	Polarity=Pos	3	parataxis:obj	_	Gloss=BE
+8	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	7	obl	_	Gloss=1SG.EMPH
+9	fè	fɛ̀	ADP	pp	_	8	case	_	Gloss=vers
+10	wa	wà	PART	prt	_	7	discourse	_	Gloss=Q
+11	?	?	PUNCT	_	_	3	punct	_	Gloss=?
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:87
+# text = ko a ye o minè.
+1	ko	kó	PART	cop	_	5	discourse	_	Gloss=QUOT
+2	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
+3	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+4	o	ò	PRON	prn	_	5	obj	_	Gloss=ce
+5	minè	mìnɛ	VERB	v	_	0	root	_	Gloss=attraper
+6	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:88
+# text = a ye nyèkili fila ta, diye sin ka yèlèma ka kè bèlènin ye.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+3	nyèkili	ɲɛ́.kili	NOUN	n	_	5	obj	_	Gloss=globe.oculaire|Morf=globe.oculaire,oeil,oeuf
+4	fila	fìla	NUM	num	_	3	nummod	_	Gloss=deux
+5	ta	tà	VERB	v	_	0	root	_	Gloss=prendre
+6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+7	diye	dìyé	AUX	pm	_	10	aux	_	Gloss=SEQ
+8	sin	sín	VERB	v	_	10	nsubj	_	Gloss=diriger
+9	ka	kà	AUX	pm	_	10	aux	_	Gloss=INF
+10	yèlèma	yɛ̀lɛma	VERB	v	_	5	xcomp	_	Gloss=changer
+11	ka	kà	AUX	pm	_	12	aux	_	Gloss=INF
+12	kè	kɛ́	VERB	v	_	10	xcomp	_	Gloss=faire
+13	bèlènin	bɛlɛnin	NOUN	n	_	12	obl	_	Gloss=gravier|Morf=gravier,DIM
+14	ye	yé	ADP	pp	_	13	case	_	Gloss=PP
+15	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:89
+# text = ko ne Dawuda yèrè don diye boli.
+1	ko	kó	PART	cop	_	5	discourse	_	Gloss=QUOT
+2	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	5	nsubj	_	Gloss=1SG.EMPH
+3	Dawuda	Dáwuda	PROPN	n.prop	_	5	obj	_	Gloss=NOM.M
+4	yèrè	yɛ̀rɛ	DET	dtm	_	3	det	_	Gloss=même
+5	don	dòn	VERB	cop	_	0	root	_	Gloss=PRES
+6	diye	dìyé	AUX	pm	_	7	aux	_	Gloss=SEQ
+7	boli	bòli	VERB	v	_	5	xcomp	_	Gloss=courir
+8	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:90
+# text = subagamuso nin ma don a bè o cògò min na tugun.
+1	subagamuso	subagamuso	NOUN	n	_	4	nsubj	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
+2	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	1	det	_	Gloss=DEM
+3	ma	má	AUX	pm	_	4	aux	_	Gloss=PFV:NEG
+4	don	dɔ́n	VERB	v	_	0	root	_	Gloss=connaître
+5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	6	nsubj	_	Gloss=3SG
+6	bè	bɛ́	VERB	cop	Polarity=Pos	4	acl	_	Gloss=BE
+7	o	ò	DET	prn	_	8	det	_	Gloss=ce
+8	cògò	cógo	NOUN	n	_	6	obl	_	Gloss=manière
+9	min	mín	DET	prn	PronType=Rel	8	det:case	_	Gloss=REL
+10	na	ná	ADP	pp	_	8	case	_	Gloss=dans
+11	tugun	túgun	ADV	adv	_	6	obl	_	Gloss=encore
+12	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:91
+# text = a ye i yèrè kè lemurusun nyumannin dò ye Dawuda ka so kònò.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+3	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	5	obj	_	Gloss=REFL
+4	yèrè	yɛ̀rɛ	DET	dtm	_	3	det	_	Gloss=même
+5	kè	kɛ́	VERB	v	_	0	root	_	Gloss=faire
+6	lemurusun	lemurusun	NOUN	n	_	5	obl	_	Gloss=agrume.en.général|Morf=agrume.en.général,tronc
+7	nyumannin	ɲumannin	ADJ	adj	_	6	amod	_	Gloss=bon|Morf=bon,DIM
+8	dò	dɔ́	DET	dtm	_	6	det	_	Gloss=certain
+9	ye	yé	ADP	pp	_	6	case	_	Gloss=PP
+10	Dawuda	Dáwuda	PROPN	n.prop	_	12	nmod:poss	_	Gloss=NOM.M
+11	ka	ká	ADP	conj	_	10	case	_	Gloss=POSS
+12	so	só	NOUN	n	_	5	obl	_	Gloss=maison
+13	kònò	kɔ́nɔ	ADP	pp	_	12	case	_	Gloss=à.l’intérieur
+14	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:92
+# text = cènin fila tagara yèlèn o la.
+1	cènin	cɛ̀.nin	NOUN	n	_	3	nsubj	_	Gloss=jeune.homme|Morf=jeune.homme,mâle,DIM
+2	fila	fìla	NUM	num	_	1	nummod	_	Gloss=deux
+3	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+4	yèlèn	yɛ̀lɛn	VERB	v	_	3	xcomp	_	Gloss=monter
+5	o	ò	PRON	prn	_	4	obl	_	Gloss=ce
+6	la	lá	ADP	pp	_	5	case	_	Gloss=dans
+7	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:93
+# text = o tagara o fò o cènin fila bamuso fè, ko e ma ye ko a denw bè yèlèn na lemurusun na ?
+1	o	ò	PRON	prn	_	2	nsubj	_	Gloss=ce
+2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+3	o	ò	PRON	prn	_	4	obj	_	Gloss=ce
+4	fò	fɔ́	VERB	v	_	2	xcomp	_	Gloss=dire
+5	o	ò	DET	prn	_	6	det	_	Gloss=ce
+6	cènin	cɛ̀.nin	NOUN	n	_	8	nmod:poss	_	Gloss=jeune.homme|Morf=jeune.homme,mâle,DIM
+7	fila	fìla	NUM	num	_	6	nummod	_	Gloss=deux
+8	bamuso	bá.muso	NOUN	n	_	4	obl	_	Gloss=mère|Morf=mère,mère,femme
+9	fè	fɛ̀	ADP	pp	_	8	case	_	Gloss=vers
+10	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+11	ko	kó	PART	cop	_	14	discourse	_	Gloss=QUOT
+12	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	14	nsubj	_	Gloss=2SG.EMPH
+13	ma	má	AUX	pm	_	14	aux	_	Gloss=PFV:NEG
+14	ye	yé	VERB	v	_	2	parataxis:obj	_	Gloss=voir
+15	ko	kó	PART	cop	_	18	discourse	_	Gloss=QUOT
+16	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	17	nmod:poss	_	Gloss=3SG
+17	denw	denw	NOUN	n	Number=Plur	18	nsubj	_	Gloss=enfant|Morf=enfant,PL
+18	bè	bɛ́	VERB	pm	Polarity=Pos|Aspect=Imp	14	ccomp	_	Gloss=IPFV.AFF
+19	yèlèn	yɛ̀lɛn	NOUN	v	_	18	obl	_	Gloss=monter
+20	na	ná	ADP	pp	_	19	case	_	Gloss=dans
+21	lemurusun	lemurusun	NOUN	n	_	18	obl	_	Gloss=agrume.en.général|Morf=agrume.en.général,tronc
+22	na	ná	ADP	pp	_	21	case	_	Gloss=dans
+23	?	?	PUNCT	_	_	2	punct	_	Gloss=?
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:94
+# text = ko lemurusun nin tè lemurusun ye, ko subaga don !
+1	ko	kó	PART	cop	_	4	discourse	_	Gloss=QUOT
+2	lemurusun	lemurusun	NOUN	n	_	4	nsubj	_	Gloss=agrume.en.général|Morf=agrume.en.général,tronc
+3	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	2	det	_	Gloss=DEM
+4	tè	tɛ́	VERB	cop	Polarity=Neg	0	root	_	Gloss=COP.NEG
+5	lemurusun	lemurusun	NOUN	n	_	4	obl	_	Gloss=agrume.en.général|Morf=agrume.en.général,tronc
+6	ye	yé	ADP	pp	_	5	case	_	Gloss=PP
+7	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+8	ko	kó	PART	cop	_	10	discourse	_	Gloss=QUOT
+9	subaga	sú.baga	NOUN	n	_	10	nsubj	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC
+10	don	dòn	VERB	cop	_	4	parataxis	_	Gloss=PRES
+11	!	!	PUNCT	_	_	4	punct	_	Gloss=!
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:95
+# text = o kèra dòròn, yirisun wulila ni cènin fila ye.
+1	o	ò	PRON	prn	_	2	nsubj	_	Gloss=ce
+2	kèra	kɛra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	6	advcl	_	Gloss=faire|Morf=faire,PFV.INTR
+3	dòròn	dɔ́rɔn	ADV	dtm	_	2	obl	_	Gloss=seulement
+4	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+5	yirisun	yirisun	NOUN	n	_	6	nsubj	_	Gloss=arbre|Morf=arbre,tronc
+6	wulila	wulila	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=se.lever|Morf=se.lever,PFV.INTR
+7	ni	ní	ADP	conj/prep	_	8	case	_	Gloss=et
+8	cènin	cɛ̀.nin	NOUN	n	_	6	obl	_	Gloss=jeune.homme|Morf=jeune.homme,mâle,DIM
+9	fila	fìla	NUM	num	_	8	nummod	_	Gloss=deux
+10	ye	yé	ADP	pp	_	8	case	_	Gloss=PP
+11	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:96
+# text = subagamuso nin ka saga tun tununnen bè.
+1	subagamuso	subagamuso	NOUN	n	_	4	nmod:poss	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
+2	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	1	det	_	Gloss=DEM
+3	ka	ká	ADP	conj	_	1	case	_	Gloss=POSS
+4	saga	sàga	NOUN	n	_	6	nsubj	_	Gloss=ovin
+5	tun	tùn	PART	prt	Tense=Past|Tense=Past	6	aux	_	Gloss=PST
+6	tununnen	tununnen	VERB	ptcp	VerbalForm=Part|Aspect=Perf	0	root	_	Gloss=perdre|Morf=perdre,PTCP.RES
+7	bè	bɛ́	AUX	cop	Polarity=Pos	6	aux	_	Gloss=BE
+8	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:97
+# text = Dawuda yèrè tagara ka i yèlèma ka kè saganin dò ye ka taga.
+1	Dawuda	Dáwuda	PROPN	n.prop	_	3	nsubj	_	Gloss=NOM.M
+2	yèrè	yɛ̀rɛ	DET	dtm	_	1	det	_	Gloss=même
+3	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+4	ka	kà	AUX	pm	_	6	aux	_	Gloss=INF
+5	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	6	obj	_	Gloss=REFL
+6	yèlèma	yɛ̀lɛma	VERB	v	_	3	xcomp	_	Gloss=changer
+7	ka	kà	AUX	pm	_	8	aux	_	Gloss=INF
+8	kè	kɛ́	VERB	v	_	6	xcomp	_	Gloss=faire
+9	saganin	saganin	NOUN	n	_	8	obl	_	Gloss=ovin|Morf=ovin,DIM
+10	dò	dɔ́	DET	dtm	_	9	det	_	Gloss=certain
+11	ye	yé	ADP	pp	_	9	case	_	Gloss=PP
+12	ka	kà	AUX	pm	_	13	aux	_	Gloss=INF
+13	taga	tága	VERB	v	_	8	xcomp	_	Gloss=aller
+14	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:98
+# text = ko e ko n na saganin nana bi wa ?
+1	ko	kó	PART	cop	_	3	discourse	_	Gloss=QUOT
+2	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	3	nsubj	_	Gloss=2SG.EMPH
+3	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+4	n	ń	PRON	pers	PronType=Prs	6	nmod:poss	_	Gloss=je
+5	na	ná	ADP	conj	_	4	case	_	Gloss=POSS
+6	saganin	saganin	NOUN	n	_	7	nsubj	_	Gloss=ovin|Morf=ovin,DIM
+7	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	3	parataxis:obj	_	Gloss=venir|Morf=venir,PFV.INTR
+8	bi	bì	ADV	adv/n	_	7	obl	_	Gloss=aujourd'hui
+9	wa	wà	PART	prt	_	7	discourse	_	Gloss=Q
+10	?	?	PUNCT	_	_	3	punct	_	Gloss=?
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:99
+# text = ko ònhòn !
+1	ko	kó	PART	cop	_	2	discourse	_	Gloss=QUOT
+2	ònhòn	ɔ̀nhɔ́n	INTJ	intj	_	0	root	_	Gloss=oui
+3	!	!	PUNCT	_	_	2	punct	_	Gloss=!
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:100
+# text = ko ni e dun ma cènin fila bila n kò ka kè n gèn ye, ne bè na tunun bilen tugun.
+1	ko	kó	PART	cop	_	8	discourse	_	Gloss=QUOT
+2	ni	ní	SCONJ	conj	_	8	mark	_	Gloss=si
+3	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	8	nsubj	_	Gloss=2SG.EMPH
+4	dun	dùn	PART	prt	_	3	discourse	_	Gloss=TOP.CNTR
+5	ma	má	AUX	pm	_	8	aux	_	Gloss=PFV:NEG
+6	cènin	cɛ̀.nin	NOUN	n	_	8	obj	_	Gloss=jeune.homme|Morf=jeune.homme,mâle,DIM
+7	fila	fìla	NUM	num	_	6	nummod	_	Gloss=deux
+8	bila	bìla	VERB	v	_	19	advcl	_	Gloss=mettre
+9	n	ń	PRON	pers	PronType=Prs	8	obl	_	Gloss=je
+10	kò	kɔ́	ADP	pp	_	9	case	_	Gloss=après
+11	ka	kà	AUX	pm	_	12	aux	_	Gloss=INF
+12	kè	kɛ́	VERB	v	_	8	xcomp	_	Gloss=faire
+13	n	ń	PRON	pers	PronType=Prs	14	nmod:poss	_	Gloss=je
+14	gèn	gɛ́n	NOUN	n	_	12	obl	_	Gloss=le.fait.de.me.garder
+15	ye	yé	ADP	pp	_	14	case	_	Gloss=PP
+16	,	,	PUNCT	_	_	8	punct	_	Gloss=,
+17	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	19	nsubj	_	Gloss=1SG.EMPH
+18	bèna	bɛ́na	AUX	pm	Tense=Fut|Polarity=Pos	19	aux	_	Gloss=FUT
+19	tunun	túnun	VERB	v	_	0	root	_	Gloss=perdre
+20	bilen	bìlen	PART	adv	_	19	discourse	_	Gloss=encore
+21	tugun	túgun	ADV	adv	_	19	obl	_	Gloss=encore
+22	.	.	PUNCT	_	_	19	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:101
+# text = a ye cènin fila bila a kò, o ye a gèn.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+3	cènin	cɛ̀.nin	NOUN	n	_	5	obj	_	Gloss=jeune.homme|Morf=jeune.homme,mâle,DIM
+4	fila	fìla	NUM	num	_	3	nummod	_	Gloss=deux
+5	bila	bìla	VERB	v	_	0	root	_	Gloss=mettre
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	obl	_	Gloss=3SG
+7	kò	kɔ́	ADP	pp	_	6	case	_	Gloss=après
+8	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+9	o	ò	PRON	prn	_	12	nsubj	_	Gloss=ce
+10	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	12	aux	_	Gloss=PFV.TR
+11	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	12	obj	_	Gloss=3SG
+12	gèn	gɛ́n	VERB	v	_	5	parataxis	_	Gloss=chasser
+13	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:102
+# text = a sinna ka cènin fila yèlèma ka kè fònyòn ye diye boli.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+2	sinna	sinna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=diriger|Morf=diriger,PFV.INTR
+3	ka	kà	AUX	pm	_	6	aux	_	Gloss=INF
+4	cènin	cɛ̀.nin	NOUN	n	_	6	obj	_	Gloss=jeune.homme|Morf=jeune.homme,mâle,DIM
+5	fila	fìla	NUM	num	_	4	nummod	_	Gloss=deux
+6	yèlèma	yɛ̀lɛma	VERB	v	_	2	xcomp	_	Gloss=changer
+7	ka	kà	AUX	pm	_	8	aux	_	Gloss=INF
+8	kè	kɛ́	VERB	v	_	6	xcomp	_	Gloss=faire
+9	fònyòn	fíyɛn	NOUN	n	_	8	obl	_	Gloss=vent
+10	ye	yé	ADP	pp	_	9	case	_	Gloss=PP
+11	diye	dìyé	AUX	pm	_	12	aux	_	Gloss=SEQ
+12	boli	bòli	VERB	v	_	6	xcomp	_	Gloss=courir
+13	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:103
+# text = ko woo ko ne Dawuda yèrè don.
+1	ko	kó	PART	cop	_	7	discourse	_	Gloss=QUOT
+2	woo	wòo	INTJ	n	_	7	discourse	_	Gloss=huée
+3	ko	kó	PART	cop	_	7	discourse	_	Gloss=QUOT
+4	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	5	nmod:poss	_	Gloss=1SG.EMPH
+5	Dawuda	Dáwuda	PROPN	n.prop	_	7	nsubj	_	Gloss=NOM.M
+6	yèrè	yɛ̀rɛ	DET	dtm	_	5	det	_	Gloss=même
+7	don	dòn	VERB	cop	_	0	root	_	Gloss=PRES
+8	.	.	PUNCT	_	_	7	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:104
+# text = a ma a don a bè a kè cogoya min na.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
+2	ma	má	AUX	pm	_	4	aux	_	Gloss=PFV:NEG
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	obj	_	Gloss=3SG
+4	don	dɔ́n	VERB	v	_	0	root	_	Gloss=connaître
+5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	nsubj	_	Gloss=3SG
+6	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	8	aux	_	Gloss=IPFV.AFF
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	obj	_	Gloss=3SG
+8	kè	kɛ́	VERB	v	_	4	xcomp	_	Gloss=faire
+9	cogoya	cógo.ya	NOUN	n	_	8	obl	_	Gloss=manière|Morf=manière,manière,ABSTR
+10	min	mín	DET	prn	PronType=Rel	9	det:rel	_	Gloss=REL
+11	na	ná	ADP	pp	_	9	case	_	Gloss=dans
+12	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:105
+# text = a tagara i yèrè ke kòba ye.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+3	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	5	obj	_	Gloss=REFL
+4	yèrè	yɛ̀rɛ	DET	dtm	_	3	det	_	Gloss=même
+5	ke	kɛ́	VERB	v	_	2	xcomp	_	Gloss=faire
+6	kòba	kɔba	NOUN	n	_	5	obl	_	Gloss=marigot|Morf=marigot,AUG
+7	ye	yé	ADP	pp	_	6	case	_	Gloss=PP
+8	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:106
+# text = Dawuda bamuso tagara finiko kè o la.
+1	Dawuda	Dáwuda	PROPN	n.prop	_	2	nmod:poss	_	Gloss=NOM.M
+2	bamuso	bá.muso	NOUN	n	_	3	nsubj	_	Gloss=mère|Morf=mère,mère,femme
+3	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+4	finiko	fìni.ko	NOUN	n	_	5	obj	_	Gloss=lessive|Morf=lessive,tissu,affaire
+5	kè	kɛ́	VERB	v	_	3	xcomp	_	Gloss=faire
+6	o	ò	PRON	prn	_	5	obl	_	Gloss=ce
+7	la	lá	ADP	pp	_	6	case	_	Gloss=dans
+8	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:107
+# text = Dawuda nana, ko n na, ko e kana kè finiko ye nin da dè! ko nin tè ji ye, ko bò yen sa!
+1	Dawuda	Dáwuda	PROPN	n.prop	_	2	nsubj	_	Gloss=NOM.M
+2	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
+3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+4	ko	kó	PART	cop	_	11	discourse	_	Gloss=QUOT
+5	n	ń	PRON	pers	PronType=Prs	6	nmod:poss	_	Gloss=je
+6	na	nà	NOUN	n	_	11	vocative	_	Gloss=mère
+7	,	,	PUNCT	_	_	6	punct	_	Gloss=,
+8	ko	kó	PART	cop	_	11	discourse	_	Gloss=QUOT
+9	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	11	nsubj	_	Gloss=2SG.EMPH
+10	kana	kàna	AUX	pm	Polarity=Neg|Mood=Imp	11	aux	_	Gloss=PROH
+11	kè	kɛ́	VERB	v	_	2	parataxis:obj	_	Gloss=faire
+12	finiko	fìni.ko	NOUN	n	_	11	obl	_	Gloss=lessive|Morf=lessive,tissu,affaire
+13	ye	yé	ADP	pp	_	12	case	_	Gloss=PP
+14	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	15	det	_	Gloss=DEM
+15	da	dá	NOUN	n	_	11	obl	_	Gloss=bouche
+16	dè	dɛ́	PART	prt	_	15	discourse	_	Gloss=certes
+17	!	!	PUNCT	_	_	11	punct	_	Gloss=!
+18	ko	kó	PART	cop	_	20	discourse	_	Gloss=QUOT
+19	nin	nìn	PRON	prn	_	20	nsubj	_	Gloss=ceci
+20	tè	tɛ́	VERB	cop	Polarity=Neg	11	parataxis	_	Gloss=COP.NEG
+21	ji	jí	NOUN	n	_	20	obl	_	Gloss=eau
+22	ye	yé	ADP	pp	_	21	case	_	Gloss=PP
+23	,	,	PUNCT	_	_	20	punct	_	Gloss=,
+24	ko	kó	PART	cop	_	25	discourse	_	Gloss=QUOT
+25	bò	bɔ́	VERB	v	_	20	parataxis	_	Gloss=sortir
+26	yen	yèn	ADV	adv	_	25	obl	_	Gloss=là-bas
+27	sa	sá	PART	prt	_	25	discourse	_	Gloss=enfin
+28	!	!	PUNCT	_	_	2	punct	_	Gloss=!
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:108
+# text = e ma wolo ban ji nin bè yan !
+1	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	4	nsubj	_	Gloss=2SG.EMPH
+2	ma	má	AUX	pm	_	4	aux	_	Gloss=PFV:NEG
+3	wolo	wólo	NOUN	n	_	4	obj	_	Gloss=procréation
+4	ban	bán	VERB	v	_	0	root	_	Gloss=terminer
+5	ji	jí	NOUN	n	_	7	nsubj	_	Gloss=eau
+6	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	5	det	_	Gloss=DEM
+7	bè	bɛ́	VERB	cop	Polarity=Pos	4	parataxis	_	Gloss=BE
+8	yan	yàn	ADV	adv/n	_	7	obl	_	Gloss=ici
+9	!	!	PUNCT	_	_	4	punct	_	Gloss=!
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:109
+# text = ko aw!
+1	ko	kó	PART	cop	_	2	discourse	_	Gloss=QUOT
+2	aw	áà	INTJ	intj	_	0	root	_	Gloss=ah!
+3	!	!	PUNCT	_	_	2	punct	_	Gloss=!
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:110
+# text = o ye a sòrò subagamuso nin nyèkili fila tun be ji la.
+1	o	ò	PRON	prn	_	4	nsubj	_	Gloss=ce
+2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	obj	_	Gloss=3SG
+4	sòrò	sɔ̀rɔ	VERB	v	_	0	root	_	Gloss=obtenir
+5	subagamuso	subagamuso	NOUN	n	_	7	nmod:poss	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
+6	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	5	det	_	Gloss=DEM
+7	nyèkili	ɲɛ́.kili	NOUN	n	_	10	nsubj	_	Gloss=globe.oculaire|Morf=globe.oculaire,oeil,oeuf
+8	fila	fìla	NUM	num	_	7	nummod	_	Gloss=deux
+9	tun	tùn	PART	prt	Tense=Past|Tense=Past	10	aux	_	Gloss=PST
+10	be	bɛ́	VERB	cop	Polarity=Pos	4	parataxis	_	Gloss=BE
+11	ji	jí	NOUN	n	_	10	obl	_	Gloss=eau
+12	la	lá	ADP	pp	_	11	case	_	Gloss=dans
+13	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:111
+# text = Dawuda tagara foronto si diye o fili subagamuso nin nyèkili la.
+1	Dawuda	Dáwuda	PROPN	n.prop	_	2	nsubj	_	Gloss=NOM.M
+2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+3	foronto	fòronto	NOUN	n	_	4	obj	_	Gloss=petit.piment
+4	si	sí	VERB	v	_	2	xcomp	_	Gloss=moudre
+5	diye	dìyé	AUX	pm	_	7	aux	_	Gloss=SEQ
+6	o	ò	PRON	prn	_	7	obj	_	Gloss=ce
+7	fili	fìli	VERB	v	_	4	xcomp	_	Gloss=jeter
+8	subagamuso	subagamuso	NOUN	n	_	10	nmod:poss	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
+9	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	8	det	_	Gloss=DEM
+10	nyèkili	ɲɛ́.kili	NOUN	n	_	7	obl	_	Gloss=globe.oculaire|Morf=globe.oculaire,oeil,oeuf
+11	la	lá	ADP	pp	_	10	case	_	Gloss=dans
+12	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:112
+# text = subagamuso sinna ka a fò ko è e ka subagaya ka jugu ni ne ta ye ! diye sa.
+1	subagamuso	subagamuso	NOUN	n	_	2	nsubj	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
+2	sinna	sinna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=diriger|Morf=diriger,PFV.INTR
+3	ka	kà	AUX	pm	_	5	aux	_	Gloss=INF
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	obj	_	Gloss=3SG
+5	fò	fɔ́	VERB	v	_	2	xcomp	_	Gloss=dire
+6	ko	kó	PART	cop	_	12	discourse	_	Gloss=QUOT
+7	è	ɛ́	INTJ	intj	_	12	discourse	_	Gloss=ah!
+8	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	10	nmod:poss	_	Gloss=2SG.EMPH
+9	ka	ká	ADP	conj	_	8	case	_	Gloss=POSS
+10	subagaya	sú.baga.ya	NOUN	n	_	12	nsubj	_	Gloss=sorcellerie|Morf=sorcellerie,sorcier,inciter,AG.OCC,ABSTR
+11	ka	ká	AUX	pm	Polarity=Pos	12	aux	_	Gloss=QUAL.AFF
+12	jugu	júgu	VERB	vq/adj	_	5	xcomp	_	Gloss=mauvais
+13	ni	ní	ADP	conj/prep	_	15	case	_	Gloss=et
+14	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	15	nmod:poss	_	Gloss=1SG.EMPH
+15	ta	tá	NOUN	n	_	12	obl	_	Gloss=propriété
+16	ye	yé	ADP	pp	_	15	case	_	Gloss=PP
+17	!	!	PUNCT	_	_	12	punct	_	Gloss=!
+18	diye	dìyé	AUX	pm	_	19	aux	_	Gloss=SEQ
+19	sa	sà	VERB	v	_	5	xcomp	_	Gloss=mourir
+20	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = html/meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:113
+# text = a banna.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+2	banna	banna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=terminer|Morf=terminer,PFV.INTR
+3	.	.	PUNCT	_	_	2	punct	_	Gloss=.

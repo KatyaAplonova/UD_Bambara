@@ -1,0 +1,738 @@
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:1
+# text = <h>BANINYÈGÈNÈ FURULI</h>
+1	BANINYÈGÈNÈ	ba-ni-ɲɛgɛnɛ	PROPN	n.prop	_	2	nmod:poss	_	Gloss=NOM.F|Morf=NOM.F,mère,et,urine
+2	FURULI	furuli	NOUN	n	VerbalForm=Vnoun	0	root	_	Gloss=épouser|Morf=épouser,NMLZ
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:2
+# text = n ye a tigè ka a da cè dò la.
+1	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	4	nsubj	_	Gloss=1SG
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	obj	_	Gloss=3SG
+4	tigè	tìgɛ	VERB	v	_	0	root	_	Gloss=couper
+5	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	obj	_	Gloss=3SG
+7	da	dá	VERB	v	_	4	xcomp	_	Gloss=poser
+8	cè	cɛ̀	NOUN	n	_	7	obl	_	Gloss=mâle
+9	dò	dɔ́	DET	dtm	_	8	det	_	Gloss=certain
+10	la	lá	ADP	pp	_	8	case	_	Gloss=à
+11	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:3
+# text = a ye den dò sòrò.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+3	den	dén	NOUN	n	_	5	obj	_	Gloss=enfant
+4	dò	dɔ́	DET	dtm	_	3	det	_	Gloss=certain
+5	sòrò	sɔ̀rɔ	VERB	v	_	0	root	_	Gloss=obtenir
+6	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:4
+# text = a ma sòn ka a tògò fò mògò si ye.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	3	nsubj	_	Gloss=3SG
+2	ma	ma	AUX	pm	Polarity=Neg|Aspect=Perf	3	aux	_	Gloss=PFV.NEG
+3	sòn	sɔ̀n	VERB	v	_	0	root	_	Gloss=accepter
+4	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
+5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	6	nmod:poss	_	Gloss=3SG
+6	tògò	tɔ́gɔ	NOUN	n	_	7	obj	_	Gloss=nom
+7	fò	fɔ́	VERB	v	_	3	xcomp	_	Gloss=dire
+8	mògò	mɔ̀gɔ	NOUN	n	_	7	obl	_	Gloss=homme
+9	si	sí	DET	dtm	_	8	det	_	Gloss=aucun
+10	ye	yé	ADP	pp	_	8	case	_	Gloss=PP
+11	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:5
+# text = den nin ye muso ye.
+1	den	dén	NOUN	n	_	3	nsubj	_	Gloss=enfant
+2	nin	nìn	DET	dtm	PronType=Dem|Definite-Def	1	det	_	Gloss=DEM
+3	ye	yé	VERB	cop	Polarity=Pos	0	root	_	Gloss=EQU
+4	muso	mùso	NOUN	n	_	3	obl	_	Gloss=femme
+5	ye	yé	ADP	pp	_	4	case	_	Gloss=PP
+6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:6
+# text = a bonyana ka bonya fo ka a se furu ma.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+2	bonyana	bonyana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=grossir|Morf=grossir,grand,DEQU,PFV.INTR
+3	ka	kà	AUX	pm	_	4	aux	_	Gloss=INF
+4	bonya	bònya	VERB	v	_	2	nsubj	_	Gloss=grossir|Morf=grossir,grand,DEQU
+5	fo	fó	SCONJ	conj	_	8	mark	_	Gloss=jusqu'à
+6	ka	kà	AUX	pm	_	8	aux	_	Gloss=INF
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	obj	_	Gloss=3SG
+8	se	sé	VERB	v	_	2	advcl	_	_
+9	furu	fúru	NOUN	n	_	8	obl	_	Gloss=mariage
+10	ma	mà	ADP	pp	_	9	case	_	Gloss=ADR
+11	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:7
+# text = o tuma na, jaga den nin tògò ko Baninyègènè.
+1	o	ò	DET	dtm	_	2	det	_	Gloss=ce
+2	tuma	tùma	NOUN	n	_	8	obl	_	Gloss=moment
+3	na	ná	ADP	pp	_	2	case	_	Gloss=à
+4	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+5	jaga	jàa	INTJ	conj	_	8	discourse	_	Gloss=en.fait
+6	den	dén	NOUN	n	_	8	nmod:poss	_	Gloss=enfant
+7	nin	nìn	DET	dtm	PronType=Dem|Definite-Def	6	det	_	Gloss=DEM
+8	tògò	tɔ́gɔ	NOUN	n	_	0	root	_	Gloss=nom
+9	ko	kó	PART	cop	_	10	discourse	_	Gloss=QUOT
+10	Baninyègènè	ba-ni-ɲɛgɛnɛ	PROPN	n.prop	_	8	orphan	_	Gloss=NOM.F|Morf=NOM.F,mère,et,urine
+11	.	.	PUNCT	_	_	8	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:8
+# text = ni mògò o mògò nana, a bè a fò ko ni a sera ka den nin tògò fò, o tuma na, a bè den nin furu o tigi ma.
+1	ni	ní	SCONJ	conj	_	5	mark	_	Gloss=si
+2	mògò	mɔ̀gɔ	NOUN	n	_	5	nsubj	_	Gloss=homme
+3	o	ô	CCONJ	conj	_	4	cc	_	Gloss=DISTR
+4	mògò	mɔ̀gɔ	NOUN	n	_	2	conj	_	Gloss=homme
+5	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	10	advcl	_	Gloss=venir|Morf=venir,PFV.INTR
+6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	10	nsubj	_	Gloss=3SG
+8	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	10	aux	_	Gloss=IPFV.AFF
+9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	10	obj	_	Gloss=3SG
+10	fò	fɔ́	VERB	v	_	0	root	_	Gloss=dire
+11	ko	kó	PART	cop	_	14	discourse	_	Gloss=QUOT
+12	ni	ní	SCONJ	conj	_	14	mark	_	Gloss=si
+13	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	14	nsubj	_	Gloss=3SG
+14	sera	sera	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=arriver|Morf=arriver,PFV.INTR
+15	ka	kà	AUX	pm	_	19	aux	_	Gloss=INF
+16	den	dén	NOUN	n	_	18	nmod:poss	_	Gloss=enfant
+17	nin	nìn	DET	dtm	PronType=Dem|Definite-Def	16	det	_	Gloss=DEM
+18	tògò	tɔ́gɔ	NOUN	n	_	19	obj	_	Gloss=nom
+19	fò	fɔ́	VERB	v	_	29	advmod	_	Gloss=dire
+20	,	,	PUNCT	_	_	14	punct	_	Gloss=,
+21	o	ò	DET	dtm	_	22	det	_	Gloss=ce
+22	tuma	tùma	NOUN	n	_	29	obl	_	Gloss=moment
+23	na	ná	ADP	pp	_	22	case	_	Gloss=à
+24	,	,	PUNCT	_	_	22	punct	_	Gloss=,
+25	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	29	nsubj	_	Gloss=3SG
+26	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	29	aux	_	Gloss=IPFV.AFF
+27	den	dén	NOUN	n	_	29	obj	_	Gloss=enfant
+28	nin	nìn	DET	dtm	PronType=Dem|Definite-Def	27	det	_	Gloss=DEM
+29	furu	fúru	VERB	v	_	10	ccomp	_	Gloss=épouser
+30	o	ò	PRON	prn	_	31	nmod:poss	_	Gloss=ce
+31	tigi	tìgi	NOUN	n	_	29	obl	_	Gloss=maître
+32	ma	mà	ADP	pp	_	31	case	_	Gloss=ADR
+33	.	.	PUNCT	_	_	10	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:9
+# text = ayiwa, a nana o ta, mògò min mana na, o bè a fò ko den nin tògò ?
+1	ayiwa	áyiwa	INTJ	intj	_	4	discourse	_	Gloss=bon
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
+4	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
+5	o	ò	PRON	prn	_	6	obj	_	Gloss=ce
+6	ta	tà	VERB	v	_	4	xcomp	_	Gloss=prendre
+7	,	,	PUNCT	_	_	6	punct	_	Gloss=,
+8	mògò	mɔ̀gɔ	NOUN	n	_	11	nsubj	_	Gloss=homme
+9	min	mîn	DET	dtm	PronType=Rel	8	det:rel	_	Gloss=REL
+10	mana	mánà	AUX	pm	Mood=Cnd|Polarity=Pos	11	aux	_	Gloss=COND.AFF
+11	na	nà	VERB	v	_	13	acl	_	Gloss=venir
+12	,	,	PUNCT	_	_	11	punct	_	Gloss=,
+13	o	ò	PRON	prn	_	16	nsubj	_	Gloss=ce
+14	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	16	aux	_	Gloss=IPFV.AFF
+15	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	16	obj	_	Gloss=3SG
+16	fò	fɔ́	VERB	v	_	6	parataxis	_	Gloss=dire
+17	ko	kó	PART	cop	_	20	discourse	_	Gloss=QUOT
+18	den	dén	NOUN	n	_	20	nmod:poss	_	Gloss=enfant
+19	nin	nìn	DET	dtm	PronType=Dem|Definite-Def	18	det	_	Gloss=DEM
+20	tògò	tɔ́gɔ	NOUN	n	_	16	parataxis:obj	_	Gloss=nom
+21	?	?	PUNCT	_	_	4	punct	_	Gloss=?
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:10
+# text = a bè a fò ko ni i sera ka o tògò fò, n bè a furu i ma.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
+2	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	4	aux	_	Gloss=IPFV.AFF
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	obj	_	Gloss=3SG
+4	fò	fɔ́	VERB	v	_	0	root	_	Gloss=dire
+5	ko	kó	PART	cop	_	8	discourse	_	Gloss=QUOT
+6	ni	ní	SCONJ	conj	_	8	mark	_	Gloss=si
+7	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	8	nsubj	_	Gloss=2SG
+8	sera	sera	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	17	advcl	_	Gloss=arriver|Morf=arriver,PFV.INTR
+9	ka	kà	AUX	pm	_	12	aux	_	Gloss=INF
+10	o	ò	PRON	prn	_	11	nmod:poss	_	Gloss=ce
+11	tògò	tɔ́gɔ	NOUN	n	_	12	obj	_	Gloss=nom
+12	fò	fɔ́	VERB	v	_	8	xcomp	_	Gloss=dire
+13	,	,	PUNCT	_	_	12	punct	_	Gloss=,
+14	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	17	nsubj	_	Gloss=1SG
+15	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	17	aux	_	Gloss=IPFV.AFF
+16	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	17	obj	_	Gloss=3SG
+17	furu	fúru	VERB	v	_	4	parataxis:obj	_	Gloss=épouser
+18	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	17	obl	_	Gloss=2SG
+19	ma	mà	ADP	pp	_	18	case	_	Gloss=ADR
+20	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:11
+# text = dow bè a fò Fanta, dow bè a fò Manu, dow bè a fò Jènèba, mògò si ma se ka den tògò fò.
+1	dow	dɔ̀w	PRON	n	Number=Plur	4	nsubj	_	Gloss=l'un.de.deux|Morf=l'un.de.deux,PL
+2	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	4	aux	_	Gloss=IPFV.AFF
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	obj	_	Gloss=3SG
+4	fò	fɔ́	VERB	v	_	0	root	_	Gloss=dire
+5	Fanta	Fanta	PROPN	n.prop	_	4	orphan	_	Gloss=NOM.F
+6	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+7	dow	dɔ̀w	PRON	n	Number=Plur	10	nsubj	_	Gloss=l'un.de.deux|Morf=l'un.de.deux,PL
+8	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	10	aux	_	Gloss=IPFV.AFF
+9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	10	obj	_	Gloss=3SG
+10	fò	fɔ́	VERB	v	_	4	parataxis	_	Gloss=dire
+11	Manu	Manu	PROPN	n.prop	_	10	orphan	_	Gloss=NOM.F
+12	,	,	PUNCT	_	_	10	punct	_	Gloss=,
+13	dow	dɔ̀w	PRON	n	Number=Plur	16	nsubj	_	Gloss=l'un.de.deux|Morf=l'un.de.deux,PL
+14	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	16	aux	_	Gloss=IPFV.AFF
+15	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	16	obj	_	Gloss=3SG
+16	fò	fɔ́	VERB	v	_	10	parataxis	_	Gloss=dire
+17	Jènèba	Jɛ̀nɛba	PROPN	n.prop	_	16	orphan	_	Gloss=NOM.F
+18	,	,	PUNCT	_	_	16	punct	_	Gloss=,
+19	mògò	mɔ̀gɔ	NOUN	n	_	22	nsubj	_	Gloss=homme
+20	si	sí	DET	dtm	_	19	det	_	Gloss=aucun
+21	ma	ma	AUX	pm	Polarity=Neg|Aspect=Perf	22	aux	_	Gloss=PFV.NEG
+22	se	sé	VERB	v	_	16	parataxis	_	Gloss=arriver
+23	ka	kà	AUX	pm	_	26	aux	_	Gloss=INF
+24	den	dén	NOUN	n	_	25	nmod:poss	_	Gloss=enfant
+25	tògò	tɔ́gɔ	NOUN	n	_	26	obj	_	Gloss=nom
+26	fò	fɔ́	VERB	v	_	22	xcomp	_	Gloss=dire
+27	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:12
+# text = jelikè dò ye a mèn sa.
+1	jelikè	jèlikɛ	NOUN	n	_	5	nsubj	_	Gloss=griot|Morf=griot,griot,mâle
+2	dò	dɔ́	DET	dtm	_	1	det	_	Gloss=certain
+3	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	obj	_	Gloss=3SG
+5	mèn	mɛ́n	VERB	v	_	0	root	_	Gloss=entendre
+6	sa	sá	PART	prt	_	5	discourse	_	Gloss=enfin
+7	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:13
+# text = o ye a ka ntaman ta, o bè nalen.
+1	o	ò	PRON	prn	_	6	nsubj	_	Gloss=ce
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	6	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nmod:poss	_	Gloss=3SG
+4	ka	ka	ADP	pp	_	3	case	_	Gloss=POSS
+5	ntaman	ntàman	NOUN	n	_	6	obj	_	Gloss=tambourin.d'aisselle
+6	ta	tà	VERB	v	_	0	root	_	Gloss=prendre
+7	,	,	PUNCT	_	_	6	punct	_	Gloss=,
+8	o	ò	PRON	prn	_	10	nsubj	_	Gloss=ce
+9	bè	bɛ́	AUX	cop	_	10	aux	_	Gloss=être
+10	nalen	nalen	VERB	ptcp	VerbalForm=Part|Aspect=Perf	6	parataxis	_	Gloss=venir|Morf=venir,PTCP.RES
+11	.	.	PUNCT	_	_	10	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:14
+# text = o ni musokòrònin bènna ko n denkè, ko e bè taga min ?
+1	o	ò	PRON	prn	_	4	nsubj	_	Gloss=ce
+2	ni	ni	CCONJ	conj	_	3	cc	_	Gloss=et
+3	musokòrònin	mùsokɔrɔnin	NOUN	n	_	1	conj	_	Gloss=vieille.femme|Morf=vieille.femme,vieille.femme,femme,vieux,DIM
+4	bènna	bɛnna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=se.rencontrer|Morf=se.rencontrer,PFV.INTR
+5	ko	kó	PART	cop	_	7	discourse	_	Gloss=QUOT
+6	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	7	nmod:poss	_	Gloss=1SG
+7	denkè	dénkɛ	NOUN	n	_	12	vocative	_	Gloss=fils|Morf=fils,enfant,mâle
+8	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+9	ko	kó	PART	cop	_	12	discourse	_	Gloss=QUOT
+10	e	ê	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	12	nsubj	_	Gloss=2SG.EMPH
+11	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	12	aux	_	Gloss=IPFV.AFF
+12	taga	tága	VERB	v	_	4	parataxis:obj	_	Gloss=aller
+13	min	mîn	PRON	prn	PronType=Rel	12	obl	_	Gloss=REL
+14	?	?	PUNCT	_	_	4	punct	_	Gloss=?
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:15
+# text = ko ne bè taga dugu dò la, ko dò bè yen, a ko a tè a den di mògò si ma, fo o ka a tògò dòn.
+1	ko	kó	PART	cop	_	4	discourse	_	Gloss=QUOT
+2	ne	nê	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	4	nsubj	_	Gloss=1SG.EMPH
+3	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	4	aux	_	Gloss=IPFV.AFF
+4	taga	tága	VERB	v	_	0	root	_	Gloss=aller
+5	dugu	dùgu	NOUN	n	_	4	obl	_	Gloss=terre
+6	dò	dɔ́	DET	dtm	_	5	det	_	Gloss=certain
+7	la	lá	ADP	pp	_	5	case	_	Gloss=à
+8	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+9	ko	kó	PART	cop	_	11	discourse	_	Gloss=QUOT
+10	dò	dɔ́	PRON	prn	_	11	nsubj	_	Gloss=certain
+11	bè	bɛ́	VERB	cop	_	4	parataxis	_	Gloss=être
+12	yen	yèn	ADV	adv	_	11	obl	_	Gloss=là-bas
+13	,	,	PUNCT	_	_	11	punct	_	Gloss=,
+14	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	15	nsubj	_	Gloss=3SG
+15	ko	kó	VERB	cop	_	11	parataxis	_	Gloss=QUOT
+16	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	20	nsubj	_	Gloss=3SG
+17	tè	tɛ	AUX	pm	Polarity=Neg|Aspect=Imp	20	aux	_	Gloss=IPFV.NEG
+18	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	19	nmod:poss	_	Gloss=3SG
+19	den	dén	NOUN	n	_	20	obj	_	Gloss=enfant
+20	di	dí	VERB	v	_	15	ccomp	_	Gloss=donner
+21	mògò	mɔ̀gɔ	NOUN	n	_	20	obl	_	Gloss=homme
+22	si	sí	DET	dtm	_	21	det	_	Gloss=aucun
+23	ma	mà	ADP	pp	_	21	case	_	Gloss=ADR
+24	,	,	PUNCT	_	_	20	punct	_	Gloss=,
+25	fo	fó	SCONJ	conj	_	30	mark	_	Gloss=jusqu'à
+26	o	ò	PRON	prn	_	30	nsubj	_	Gloss=ce
+27	ka	ka	AUX	pm	Mood=Subj|Polarity=Aff	30	aux	_	Gloss=SBJV
+28	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	29	nmod:poss	_	Gloss=3SG
+29	tògò	tɔ́gɔ	NOUN	n	_	30	obj	_	Gloss=nom
+30	dòn	dɔ́n	VERB	v	_	20	advcl	_	Gloss=connaître
+31	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:16
+# text = ko o tuma na, e bè a tògò dòn wa ?
+1	ko	kó	PART	cop	_	3	discourse	_	Gloss=QUOT
+2	o	ò	DET	dtm	_	3	det	_	Gloss=ce
+3	tuma	tùma	NOUN	n	_	10	obl	_	Gloss=moment
+4	na	ná	ADP	pp	_	3	case	_	Gloss=à
+5	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+6	e	ê	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	10	nsubj	_	Gloss=2SG.EMPH
+7	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	10	aux	_	Gloss=IPFV.AFF
+8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	9	nmod:poss	_	Gloss=3SG
+9	tògò	tɔ́gɔ	NOUN	n	_	10	obj	_	Gloss=nom
+10	dòn	dɔ́n	VERB	v	_	0	root	_	Gloss=connaître
+11	wa	wà	PART	prt	_	10	obl	_	Gloss=Q
+12	?	?	PUNCT	_	_	10	punct	_	Gloss=?
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:17
+# text = ko ayi.
+1	ko	kó	PART	cop	_	2	discourse	_	Gloss=QUOT
+2	ayi	àyi	INTJ	intj	_	0	root	_	Gloss=non
+3	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:18
+# text = ko ni i ye woro di ne ma ani syèfan, ko ne bè a tògò fò i ye.
+1	ko	kó	PART	cop	_	6	discourse	_	Gloss=QUOT
+2	ni	ní	SCONJ	conj	_	6	mark	_	Gloss=si
+3	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	6	nsubj	_	Gloss=2SG
+4	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	6	aux	_	Gloss=PFV.TR
+5	woro	wòro	NOUN	n	_	6	obj	_	Gloss=kola
+6	di	dí	VERB	v	_	17	advcl	_	Gloss=donner
+7	ne	nê	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	6	obl	_	Gloss=1SG.EMPH
+8	ma	mà	ADP	pp	_	7	case	_	Gloss=ADR
+9	ani	àni	ADP	conj	_	10	case	_	Gloss=ainsi.que
+10	syèfan	syɛ̀fan	NOUN	n	_	6	obj:coord	_	Gloss=oeuf.de.poule|Morf=oeuf.de.poule,poule,oeuf
+11	,	,	PUNCT	_	_	6	punct	_	Gloss=,
+12	ko	kó	PART	cop	_	17	discourse	_	Gloss=QUOT
+13	ne	nê	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	17	nsubj	_	Gloss=1SG.EMPH
+14	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	17	aux	_	Gloss=IPFV.AFF
+15	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	16	nmod:poss	_	Gloss=3SG
+16	tògò	tɔ́gɔ	NOUN	n	_	17	obj	_	Gloss=nom
+17	fò	fɔ́	VERB	v	_	0	root	_	Gloss=dire
+18	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	17	obl	_	Gloss=2SG
+19	ye	yé	ADP	pp	_	18	case	_	Gloss=PP
+20	.	.	PUNCT	_	_	17	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:19
+# text = o tuma, jelikè ye a bolo don pòsi la ka syèfan di a ma ani woro.
+1	o	ò	DET	prn	_	2	det	_	Gloss=ce
+2	tuma	tùma	NOUN	n	_	8	obl	_	Gloss=moment
+3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+4	jelikè	jèlikɛ	NOUN	n	_	8	nsubj	_	Gloss=griot|Morf=griot,griot,mâle
+5	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	8	aux	_	Gloss=PFV.TR
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	nmod:poss	_	Gloss=3SG
+7	bolo	bólo	NOUN	n	_	8	obj	_	Gloss=bras
+8	don	dòn	VERB	v	_	0	root	_	Gloss=entrer
+9	pòsi	pɔsi	NOUN	n	_	8	obl	_	Gloss=EMPR
+10	la	lá	ADP	pp	_	9	case	_	Gloss=à
+11	ka	kà	AUX	pm	_	13	aux	_	Gloss=INF
+12	syèfan	syɛ̀fan	NOUN	n	_	13	obj	_	Gloss=oeuf.de.poule|Morf=oeuf.de.poule,poule,oeuf
+13	di	dí	VERB	v	_	8	xcomp	_	Gloss=donner
+14	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	13	obl	_	Gloss=3SG
+15	ma	mà	ADP	pp	_	14	case	_	Gloss=ADR
+16	ani	àni	ADJ	conj	_	17	case	_	Gloss=ainsi.que
+17	woro	wòro	NOUN	n	_	13	obj:coord	_	Gloss=kola
+18	.	.	PUNCT	_	_	8	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:20
+# text = a ye a tògò fò a ye ko a tògò ko Baninyègènè.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nmod:poss	_	Gloss=3SG
+4	tògò	tɔ́gɔ	NOUN	n	_	5	obj	_	Gloss=nom
+5	fò	fɔ́	VERB	v	_	0	root	_	Gloss=dire
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	obl	_	Gloss=3SG
+7	ye	yé	ADP	pp	_	6	case	_	Gloss=PP
+8	ko	kó	PART	cop	_	10	discourse	_	Gloss=QUOT
+9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	10	nmod:poss	_	Gloss=3SG
+10	tògò	tɔ́gɔ	NOUN	n	_	5	parataxis:obj	_	Gloss=nom
+11	ko	kó	PART	cop	_	12	discourse	_	Gloss=QUOT
+12	Baninyègènè	ba-ni-ɲɛgɛnɛ	PROPN	n.prop	_	10	orphan	_	Gloss=NOM.F|Morf=NOM.F,mère,et,urine
+13	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:21
+# text = o tuma na, jelikè fana ye ntaman ta a bè a la :
+1	o	ò	DET	dtm	_	2	det	_	Gloss=ce
+2	tuma	tùma	NOUN	n	_	9	obl	_	Gloss=moment
+3	na	ná	ADP	pp	_	2	case	_	Gloss=à
+4	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+5	jelikè	jèlikɛ	NOUN	n	_	9	nsubj	_	Gloss=griot|Morf=griot,griot,mâle
+6	fana	fána	PART	prt	_	5	discourse	_	Gloss=aussi
+7	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	9	aux	_	Gloss=PFV.TR
+8	ntaman	ntàman	NOUN	n	_	9	obj	_	Gloss=tambourin.d'aisselle
+9	ta	tà	VERB	v	_	0	root	_	Gloss=prendre
+10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	11	nsubj	_	Gloss=3SG
+11	bè	bɛ́	VERB	cop	_	9	parataxis	_	Gloss=être
+12	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	11	obl	_	Gloss=3SG
+13	la	lá	ADP	pp	_	12	case	_	Gloss=à
+14	:	:	PUNCT	_	_	11	punct	_	Gloss=:
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:22
+# text = dèrèn dèrèn dèrèn dè !
+1	dèrèn	dɛ́rɛn	INTJ	_	_	0	root	_	Gloss=CHNT
+2	dèrèn	dɛ́rɛn	INTJ	_	_	1	compound:redup	_	Gloss=CHNT
+3	dèrèn	dɛ́rɛn	INTJ	_	_	1	compound:redup	_	Gloss=CHNT
+4	dè	dɛ́	INTJ	_	_	1	compound:redup	_	Gloss=CHNT
+5	!	!	PUNCT	_	_	1	punct	_	Gloss=!
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:23
+# text = jelikè muso ye Baninyègènè !
+1	jelikè	jèlikɛ	NOUN	n	_	3	nsubj	_	Gloss=griot|Morf=griot,griot,mâle
+2	muso	mùso	NOUN	n	_	1	appos	_	Gloss=femme
+3	ye	yé	VERB	cop	Polarity=Pos	0	root	_	Gloss=EQU
+4	Baninyègènè	ba-ni-ɲɛgɛnɛ	PROPN	n.prop	_	3	obl	_	Gloss=NOM.F|Morf=NOM.F,mère,et,urine
+5	!	!	PUNCT	_	_	3	punct	_	Gloss=!
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:24
+# text = masa Ala ye konyumannin da n nyè !
+1	masa	màsa	NOUN	n	_	5	nsubj	_	Gloss=roi
+2	Ala	Ála	NOUN	n	_	1	appos	_	Gloss=Dieu
+3	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+4	konyumannin	koɲumannin	NOUN	n	_	5	obj	_	Gloss=affaire|Morf=affaire,bon,DIM
+5	da	dá	VERB	v	_	0	root	_	Gloss=poser
+6	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	5	obl	_	Gloss=1SG
+7	nyè	ɲɛ́	ADP	pp	_	6	case	_	Gloss=devant
+8	!	!	PUNCT	_	_	5	punct	_	Gloss=!
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:25
+# text = dèrèn dèrèn dè !
+1	dèrèn	dɛ́rɛn	INTJ	_	_	0	root	_	Gloss=CHNT
+2	dèrèn	dɛ́rɛn	INTJ	_	_	1	compound:redup	_	Gloss=CHNT
+3	dè	dɛ́	INTJ	_	_	1	compound:redup	_	Gloss=CHNT
+4	!	!	PUNCT	_	_	1	punct	_	Gloss=!
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:26
+# text = dèrèn dèrèn dèrèn dè !
+1	dèrèn	dɛ́rɛn	INTJ	_	_	0	root	_	Gloss=CHNT
+2	dèrèn	dɛ́rɛn	INTJ	_	_	1	compound:redup	_	Gloss=CHNT
+3	dèrèn	dɛ́rɛn	INTJ	_	_	1	compound:redup	_	Gloss=CHNT
+4	dè	dɛ́	INTJ	_	_	1	compound:redup	_	Gloss=CHNT
+5	!	!	PUNCT	_	_	1	punct	_	Gloss=!
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:27
+# text = jelikè muso ye Baninyègènè !
+1	jelikè	jèlikɛ	NOUN	n	_	3	nsubj	_	Gloss=griot|Morf=griot,griot,mâle
+2	muso	mùso	NOUN	n	_	1	appos	_	Gloss=femme
+3	ye	yé	VERB	cop	Polarity=Pos	0	root	_	Gloss=EQU
+4	Baninyègènè	ba-ni-ɲɛgɛnɛ	PROPN	n.prop	_	3	obl	_	Gloss=NOM.F|Morf=NOM.F,mère,et,urine
+5	!	!	PUNCT	_	_	3	punct	_	Gloss=!
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:28
+# text = masa Ala ye konyumannin da n nyè !
+1	masa	màsa	NOUN	n	_	5	nsubj	_	Gloss=roi
+2	Ala	Ála	NOUN	n	_	1	appos	_	Gloss=Dieu
+3	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+4	konyumannin	koɲumannin	NOUN	n	_	5	obj	_	Gloss=affaire|Morf=affaire,bon,DIM
+5	da	dá	VERB	v	_	0	root	_	Gloss=poser
+6	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	5	obl	_	Gloss=1SG
+7	nyè	ɲɛ́	ADP	pp	_	6	case	_	Gloss=devant
+8	!	!	PUNCT	_	_	5	punct	_	Gloss=!
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:29
+# text = dèrèn dèrèn dè.
+1	dèrèn	dɛ́rɛn	INTJ	_	_	0	root	_	Gloss=CHNT
+2	dèrèn	dɛ́rɛn	INTJ	_	_	1	compound:redup	_	Gloss=CHNT
+3	dè	dɛ́	INTJ	_	_	1	compound:redup	_	Gloss=CHNT
+4	!	!	PUNCT	_	_	1	punct	_	Gloss=!
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:30
+# text = ayiwa, den ye i sigilen to so kònò a kasira ko ne ba yo !
+1	ayiwa	áyiwa	INTJ	intj	_	7	discourse	_	Gloss=bon
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+3	den	dén	NOUN	n	_	7	nsubj	_	Gloss=enfant
+4	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	7	aux	_	Gloss=PFV.TR
+5	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	7	obj	_	Gloss=REFL
+6	sigilen	sigilen	VERB	ptcp	VerbalForm=Part|Aspect=Perf	7	xcomp	_	Gloss=asseoir|Morf=asseoir,PTCP.RES
+7	to	tó	VERB	v	_	0	root	_	Gloss=rester
+8	so	só	NOUN	n	_	7	obl	_	Gloss=maison
+9	kònò	kɔ́nɔ	ADP	pp	_	8	case	_	Gloss=dans
+10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	11	nsubj	_	Gloss=3SG
+11	kasira	kasira	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	7	parataxis	_	Gloss=pleurer|Morf=pleurer,PFV.INTR
+12	ko	kó	PART	cop	_	14	discourse	_	Gloss=QUOT
+13	ne	nê	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	14	nmod:poss	_	Gloss=1SG.EMPH
+14	ba	bá	NOUN	n	_	11	parataxis:obj	_	Gloss=mère
+15	yo	yó	PART	prt	_	14	discourse	_	Gloss=salut
+16	!	!	PUNCT	_	_	7	punct	_	Gloss=!
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:31
+# text = jòni ye n tògò fò jeli ye, ko n tògò ko Baninyègènè ?
+1	jòni	jɔ́nì	PRON	prn	_	5	nsubj	_	Gloss=qui
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+3	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	4	nmod:poss	_	Gloss=1SG
+4	tògò	tɔ́gɔ	NOUN	n	_	5	obj	_	Gloss=nom
+5	fò	fɔ́	VERB	v	_	0	root	_	Gloss=dire
+6	jeli	jèli	NOUN	n	_	5	obl	_	Gloss=griot
+7	ye	yé	ADP	pp	_	6	case	_	Gloss=PP
+8	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+9	ko	kó	PART	cop	_	11	discourse	_	Gloss=QUOT
+10	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	11	nmod:poss	_	Gloss=1SG
+11	tògò	tɔ́gɔ	NOUN	n	_	5	parataxis	_	Gloss=nom
+12	ko	kó	VERB	cop	_	13	discourse	_	Gloss=QUOT
+13	Baninyègènè	ba-ni-ɲɛgɛnɛ	PROPN	n.prop	_	11	orphan	_	Gloss=NOM.F|Morf=NOM.F,mère,et,urine
+14	?	?	PUNCT	_	_	5	punct	_	Gloss=?
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:32
+# text = masa Ala ye kojugunin da n nyè.
+1	masa	màsa	NOUN	n	_	5	nsubj	_	Gloss=roi
+2	Ala	Ála	NOUN	n	_	1	appos	_	Gloss=Dieu
+3	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+4	kojugunin	kojugunin	NOUN	n	_	5	obj	_	Gloss=affaire|Morf=affaire,mauvais,DIM
+5	da	dá	VERB	v	_	0	root	_	Gloss=poser
+6	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	5	obl	_	Gloss=1SG
+7	nyè	ɲɛ́	ADP	pp	_	6	case	_	Gloss=devant
+8	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:33
+# text = ayiwa, dennin bè kasi la.
+1	ayiwa	áyiwa	INTJ	intj	_	4	discourse	_	Gloss=bon
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+3	dennin	dénnin	NOUN	n	_	4	nsubj	_	Gloss=fillette|Morf=fillette,enfant,DIM
+4	bè	bɛ́	VERB	cop	_	0	root	_	Gloss=être
+5	kasi	kàsi	NOUN	n	_	4	obl	_	Gloss=pleurs
+6	la	lá	ADP	pp	_	5	case	_	Gloss=à
+7	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:34
+# text = jelikè kòni bè a la :
+1	jelikè	jèlikɛ	NOUN	n	_	3	nsubj	_	Gloss=griot|Morf=griot,griot,mâle
+2	kòni	kɔ̀ni	PART	prt	_	1	discourse	_	Gloss=TOP.CNTR2
+3	bè	bɛ́	VERB	cop	_	0	root	_	Gloss=être
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	3	obl	_	Gloss=3SG
+5	la	lá	ADP	pp	_	4	case	_	Gloss=à
+6	:	:	PUNCT	_	_	3	punct	_	Gloss=:
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:35
+# text = dèrèn dèrèn dèrèn dè !
+1	dèrèn	dɛ́rɛn	INTJ	_	_	0	root	_	Gloss=CHNT
+2	dèrèn	dɛ́rɛn	INTJ	_	_	1	compound:redup	_	Gloss=CHNT
+3	dèrèn	dɛ́rɛn	INTJ	_	_	1	compound:redup	_	Gloss=CHNT
+4	dè	dɛ́	INTJ	_	_	1	compound:redup	_	Gloss=CHNT
+5	!	!	PUNCT	_	_	1	punct	_	Gloss=!
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:36
+# text = jelikè muso ye Baninyègènè !
+1	jelikè	jèlikɛ	NOUN	n	_	3	nsubj	_	Gloss=griot|Morf=griot,griot,mâle
+2	muso	mùso	NOUN	n	_	1	appos	_	Gloss=femme
+3	ye	yé	VERB	cop	Polarity=Pos	0	root	_	Gloss=EQU
+4	Baninyègènè	ba-ni-ɲɛgɛnɛ	PROPN	n.prop	_	3	obl	_	Gloss=NOM.F|Morf=NOM.F,mère,et,urine
+5	!	!	PUNCT	_	_	3	punct	_	Gloss=!
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:37
+# text = masa Ala ye konyumannin da n nyè.
+1	masa	màsa	NOUN	n	_	5	nsubj	_	Gloss=roi
+2	Ala	Ála	NOUN	n	_	1	appos	_	Gloss=Dieu
+3	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+4	konyumannin	koɲumannin	NOUN	n	_	5	obj	_	Gloss=affaire|Morf=affaire,bon,DIM
+5	da	dá	VERB	v	_	0	root	_	Gloss=poser
+6	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	5	obl	_	Gloss=1SG
+7	nyè	ɲɛ́	ADP	pp	_	6	case	_	Gloss=devant
+8	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:38
+# text = ayiwa, a nana, a sera u ka du kònò, u ye a bisimila ka ji di a ma.
+1	ayiwa	áyiwa	INTJ	intj	_	4	discourse	_	Gloss=bon
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
+4	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
+5	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	nsubj	_	Gloss=3SG
+7	sera	sera	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	4	parataxis	_	Gloss=arriver|Morf=arriver,PFV.INTR
+8	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	10	nmod:poss	_	Gloss=3PL
+9	ka	ka	ADP	pp	_	8	case	_	Gloss=POSS
+10	du	dú	NOUN	n	_	7	obl	_	Gloss=concession
+11	kònò	kɔ́nɔ	ADP	pp	_	10	case	_	Gloss=dans
+12	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+13	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	16	nsubj	_	Gloss=3PL
+14	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	16	aux	_	Gloss=PFV.TR
+15	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	16	obj	_	Gloss=3SG
+16	bisimila	bìsimila	VERB	v	_	7	parataxis	_	Gloss=accueillir
+17	ka	kà	AUX	pm	_	19	aux	_	Gloss=INF
+18	ji	jí	NOUN	n	_	19	obj	_	Gloss=eau
+19	di	dí	VERB	v	_	16	xcomp	_	Gloss=donner
+20	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	19	obl	_	Gloss=3SG
+21	ma	mà	ADP	pp	_	20	case	_	Gloss=ADR
+22	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:39
+# text = O tuma dennin kasira ko a tè a fè, fa ko ee ko i bè a fè dè.
+1	O	ò	DET	prn	_	2	det	_	Gloss=ce
+2	tuma	tùma	NOUN	n	_	4	obl	_	Gloss=moment
+3	dennin	dénnin	NOUN	n	_	4	nsubj	_	Gloss=fillette|Morf=fillette,enfant,DIM
+4	kasira	kasira	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=pleurer|Morf=pleurer,PFV.INTR
+5	ko	kó	PART	cop	_	7	discourse	_	Gloss=QUOT
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	nsubj	_	Gloss=3SG
+7	tè	tɛ́	VERB	cop	Polarity=Neg	4	ccomp	_	Gloss=COP.NEG
+8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	obl	_	Gloss=3SG
+9	fè	fɛ̀	ADP	pp	_	8	case	_	Gloss=par
+10	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+11	fa	fà	NOUN	n	_	12	nsubj	_	Gloss=père
+12	ko	kó	VERB	cop	_	7	parataxis	_	Gloss=QUOT
+13	ee	ée	INTJ	intj	_	16	discourse	_	Gloss=eh!
+14	ko	kó	PART	cop	_	16	discourse	_	Gloss=QUOT
+15	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	16	nsubj	_	Gloss=2SG
+16	bè	bɛ́	VERB	cop	_	12	parataxis:obj	_	Gloss=être
+17	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	16	obl	_	Gloss=3SG
+18	fè	fɛ̀	ADP	pp	_	17	case	_	Gloss=par
+19	dè	dɛ́	PART	prt	_	16	discourse	_	Gloss=certes
+20	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:40
+# text = ko mògò si ma se i tògò la, dòw nana, dòw ko Fanta.
+1	ko	kó	SCONJ	cop	_	5	mark	_	Gloss=QUOT
+2	mògò	mɔ̀gɔ	NOUN	n	_	5	nsubj	_	Gloss=homme
+3	si	sí	DET	dtm	_	2	det	_	Gloss=aucun
+4	ma	ma	AUX	pm	Polarity=Neg|Aspect=Perf	5	aux	_	Gloss=PFV.NEG
+5	se	sé	VERB	v	_	0	root	_	Gloss=arriver
+6	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	7	nmod:poss	_	Gloss=2SG
+7	tògò	tɔ́gɔ	NOUN	n	_	5	obl	_	Gloss=nom
+8	la	lá	ADP	pp	_	7	case	_	Gloss=à
+9	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+10	dòw	dɔ́w	PRON	prn	Number=Plur	11	nsubj	_	Gloss=certain|Morf=certain,PL
+11	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	5	parataxis	_	Gloss=venir|Morf=venir,PFV.INTR
+12	,	,	PUNCT	_	_	11	punct	_	Gloss=,
+13	dòw	dɔ́w	PRON	prn	Number=Plur	14	nsubj	_	Gloss=certain|Morf=certain,PL
+14	ko	kó	VERB	cop	_	11	parataxis	_	Gloss=QUOT
+15	Fanta	Fanta	PROPN	n.prop	_	14	parataxis:obj	_	Gloss=NOM.F
+16	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:41
+# text = dòw ko Mamu, dòw ko Jènèba.
+1	dòw	dɔ́w	PRON	prn	Number=Plur	2	nsubj	_	Gloss=certain|Morf=certain,PL
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+3	Mamu	Mamu	PROPN	n.prop	_	2	parataxis:obj	_	Gloss=NOM.F
+4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+5	dòw	dɔ́w	PRON	prn	Number=Plur	6	nsubj	_	Gloss=certain|Morf=certain,PL
+6	ko	kó	VERB	cop	_	2	parataxis	_	Gloss=QUOT
+7	Jènèba	Jɛ̀nɛba	PROPN	n.prop	_	6	parataxis:obj	_	Gloss=NOM.F
+8	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:42
+# text = mògò si ma i tògò dòn.
+1	mògò	mɔ̀gɔ	NOUN	n	_	6	nsubj	_	Gloss=homme
+2	si	sí	DET	dtm	_	1	det	_	Gloss=aucun
+3	ma	ma	AUX	pm	Polarity=Neg|Aspect=Perf	6	aux	_	Gloss=PFV.NEG
+4	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	5	nmod:poss	_	Gloss=2SG
+5	tògò	tɔ́gɔ	NOUN	n	_	6	obj	_	Gloss=nom
+6	dòn	dɔ́n	VERB	v	_	0	root	_	Gloss=connaître
+7	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:43
+# text = o tuma, jelikè ye i tògò dòn an bè i di o ma.
+1	o	ò	DET	prn	_	2	det	_	Gloss=ce
+2	tuma	tùma	NOUN	n	_	8	obl	_	Gloss=moment
+3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+4	jelikè	jèlikɛ	NOUN	n	_	8	nsubj	_	Gloss=griot|Morf=griot,griot,mâle
+5	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	8	aux	_	Gloss=PFV.TR
+6	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	7	nmod:poss	_	Gloss=2SG
+7	tògò	tɔ́gɔ	NOUN	n	_	8	obj	_	_
+8	dòn	dɔ́n	VERB	v	_	0	root	_	Gloss=connaître
+9	an	án	PRON	pers	PronType=Prs|Number=Plur|Person=1	12	nsubj	_	Gloss=1PL
+10	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	12	aux	_	Gloss=IPFV.AFF
+11	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	12	obj	_	Gloss=2SG
+12	di	dí	VERB	v	_	8	parataxis	_	Gloss=donner
+13	o	ò	PRON	prn	_	12	obl	_	Gloss=ce
+14	ma	mà	ADP	pp	_	13	case	_	Gloss=ADR
+15	.	.	PUNCT	_	_	8	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:44
+# text = o tuma, n bè a fò i baw ye u ka i ka kònyòminènw siri.
+1	o	ò	DET	prn	_	2	det	_	Gloss=ce
+2	tuma	tùma	NOUN	n	_	7	obl	_	Gloss=moment
+3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+4	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	7	nsubj	_	Gloss=1SG
+5	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	7	aux	_	Gloss=IPFV.AFF
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	obj	_	Gloss=3SG
+7	fò	fɔ́	VERB	v	_	0	root	_	Gloss=dire
+8	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	9	nmod:poss	_	Gloss=2SG
+9	baw	baw	NOUN	n	Number=Plur	7	obl	_	Gloss=mère|Morf=mère,PL
+10	ye	yé	ADP	pp	_	9	case	_	Gloss=PP
+11	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	16	nsubj	_	Gloss=3PL
+12	ka	ka	AUX	pm	Mood=Subj|Polarity=Aff	16	aux	_	Gloss=SBJV
+13	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	15	nmod:poss	_	Gloss=2SG
+14	ka	ka	ADP	pp	_	13	case	_	Gloss=POSS
+15	kònyòminènw	kɔɲɔminɛnw	NOUN	n	Number=Plur	16	obj	_	Gloss=noce|Morf=noce,outils,PL
+16	siri	sìri	VERB	v	_	7	ccomp	_	Gloss=lier
+17	.	.	PUNCT	_	_	7	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:45
+# text = furu bè siri, i bè taga a nò fè.
+1	furu	fúru	NOUN	n	_	3	nsubj	_	Gloss=mariage
+2	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	3	aux	_	Gloss=IPFV.AFF
+3	siri	sìri	VERB	v	_	0	root	_	Gloss=lier
+4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+5	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	7	nsubj	_	Gloss=2SG
+6	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	7	aux	_	Gloss=IPFV.AFF
+7	taga	tága	VERB	v	_	3	parataxis	_	Gloss=aller
+8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	obl	_	Gloss=3SG
+9	nòfè	nɔ̀fɛ̀	ADP	pp	_	8	case	_	Gloss=derrière|Morf=derrière,trace,par
+10	.	.	PUNCT	_	_	7	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:46
+# text = u ye a konyè kè ten.
+1	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	5	nsubj	_	Gloss=3PL
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nmod:poss	_	Gloss=3SG
+4	konyè	kɔ́ɲɛ	NOUN	n	_	5	obj	_	Gloss=noce
+5	kè	kɛ́	VERB	v	_	0	root	_	Gloss=faire
+6	ten	tèn	ADV	adv	_	5	obl	_	Gloss=ainsi
+7	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:47
+# text = ayiwa, n ye o ta yòrò min, n ye o bila yen.
+1	ayiwa	áyiwa	INTJ	intj	_	6	discourse	_	Gloss=bon
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+3	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	6	nsubj	_	Gloss=1SG
+4	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	6	aux	_	Gloss=PFV.TR
+5	o	ò	PRON	prn	_	6	obj	_	Gloss=ce
+6	ta	tà	VERB	v	_	14	acl	_	Gloss=prendre
+7	yòrò	yɔ́rɔ	NOUN	n	_	6	obl	_	Gloss=lieu
+8	min	mîn	DET	dtm	PronType=Rel	7	det:rel	_	Gloss=REL
+9	,	,	PUNCT	_	_	6	punct	_	Gloss=,
+10	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	13	nsubj	_	Gloss=1SG
+11	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	13	aux	_	Gloss=PFV.TR
+12	o	ò	PRON	prn	_	13	obj	_	Gloss=ce
+13	bila	bìla	VERB	v	_	0	root	_	Gloss=mettre
+14	yen	yèn	ADV	adv	_	13	obl	_	Gloss=là-bas
+15	.	.	PUNCT	_	_	13	punct	_	Gloss=.
