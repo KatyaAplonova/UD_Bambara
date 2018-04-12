@@ -434,7 +434,7 @@
 16	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	18	aux	_	Gloss=IPFV.AFF
 17	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	18	obj	_	Gloss=3SG
 18	furakè	fúra.kɛ	VERB	v	_	26	advcl	_	Gloss=soigner|Morf=soigner,feuille,faire
-19	ko	kó	VERB	cop	_	26	dep	_	Gloss=QUOT
+19	ko	kó	PART	cop	_	26	discourse	_	Gloss=QUOT
 20	o	ò	DET	prn	_	21	det	_	Gloss=ce
 21	tuma	tùma	NOUN	n	_	26	obl	_	Gloss=moment
 22	na	ná	ADP	pp	_	21	case	_	Gloss=dans
@@ -913,7 +913,7 @@
 5	,	,	PUNCT	_	_	2	punct	_	Gloss=,
 6	jiri	jíri	NOUN	n	_	7	nsubj	_	Gloss=arbre
 7	tè	tɛ́	VERB	cop	Polarity=Neg	2	parataxis	_	Gloss=COP.NEG
-8	yen	yèn	ADV	adv/n	_	7	advmod	_	Gloss=là-bas
+8	yen	yèn	ADV	adv/n	_	7	obl	_	Gloss=là-bas
 9	,	,	PUNCT	_	_	7	punct	_	Gloss=,
 10	foyi	fóyi	NOUN	n	_	11	nsubj	_	Gloss=rien
 11	tè	tɛ́	VERB	cop	Polarity=Neg	7	parataxis	_	Gloss=COP.NEG
@@ -2066,7 +2066,7 @@
 # text = ko barisa ko ale tèna segin ka a kòròkèw to, ko a fana bè taga dennin nyini, o fana ka fara u kan.
 1	ko	kó	PART	cop	_	6	discourse	_	Gloss=QUOT
 2	barisa	bárisa	SCONJ	conj	_	6	mark	_	Gloss=parce.que
-3	ko	kó	VERB	cop	_	6	dep	_	Gloss=QUOT
+3	ko	kó	PART	cop	_	6	discourse	_	Gloss=QUOT
 4	ale	àle	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	6	nsubj	_	Gloss=3SG.EMPH
 5	tèna	tɛ́nà	AUX	pm	Polarity=Neg|Tense=Fut	6	aux	_	Gloss=FUT.NEG
 6	segin	sègin	VERB	v	_	0	root	_	Gloss=revenir

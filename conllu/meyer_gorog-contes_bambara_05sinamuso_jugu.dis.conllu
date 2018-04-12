@@ -148,7 +148,7 @@
 4	,	,	PUNCT	_	_	2	punct	_	Gloss=,
 5	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	6	nsubj	_	Gloss=3PL
 6	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	2	parataxis	_	Gloss=aller|Morf=aller,PFV.INTR
-7	sisan	sísàn	ADV	n	_	6	advmod	_	Gloss=maintenant
+7	sisan	sísàn	ADV	n	_	6	obl	_	Gloss=maintenant
 8	fo	fó	SCONJ	conj	_	10	mark	_	Gloss=jusqu'à
 9	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	10	nsubj	_	Gloss=3PL
 10	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	6	advcl	_	Gloss=aller|Morf=aller,PFV.INTR
@@ -343,7 +343,7 @@
 17	kònò	kɔ́nɔ	ADP	pp	_	16	case	_	Gloss=dans
 18	,	,	PUNCT	_	_	13	punct	_	Gloss=,
 19	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	23	nsubj	_	Gloss=2SG
-20	bada	báda	ADV	adv	_	23	advmod	_	Gloss=toujours
+20	bada	báda	PART	adv	_	23	discourse	_	Gloss=toujours
 21	ma	ma	AUX	pm	Polarity=Neg|Aspect=Perf	23	aux	_	Gloss=PFV.NEG
 22	o	ò	PRON	prn	_	23	obj	_	Gloss=ce
 23	mèn	mɛ́n	VERB	v	_	13	parataxis	_	Gloss=entendre

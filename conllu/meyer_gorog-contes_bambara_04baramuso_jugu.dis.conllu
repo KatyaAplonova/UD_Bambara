@@ -767,7 +767,7 @@
 7	ni	ní	SCONJ	conj	_	10	mark	_	Gloss=si
 8	Bilali	Bilali	PROPN	n.prop	_	10	nsubj	_	Gloss=NOM.M
 9	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	10	aux	_	Gloss=IPFV.AFF
-10	na	nà	VERB	v	_	17	advmod	_	Gloss=venir
+10	na	nà	VERB	v	_	17	advcl	_	Gloss=venir
 11	ni	ni	ADP	conj	_	12	case	_	Gloss=et
 12	so	sò	NOUN	n	_	10	obl	_	Gloss=cheval
 13	ye	yé	ADP	pp	_	12	case	_	Gloss=PP

@@ -36,7 +36,7 @@
 7	fò	fɔ́	VERB	v	_	5	xcomp	_	Gloss=dire
 8	Mangala	má.ŋala	NOUN	n	_	7	obl	_	Gloss=Dieu|Morf=Dieu,Dieu,Dieu
 9	ye	yé	ADP	pp	_	8	case	_	Gloss=PP
-10	ko	kó	PART	cop	_	14	dep	_	Gloss=QUOT
+10	ko	kó	PART	cop	_	14	discourse	_	Gloss=QUOT
 11	Mangala	má.ŋala	NOUN	n	_	14	nsubj	_	Gloss=Dieu|Morf=Dieu,Dieu,Dieu
 12	ka	kà	AUX	pm	_	14	aux	_	Gloss=INF
 13	kengunya	kègun.ya	NOUN	n	_	14	obj	_	Gloss=ruse|Morf=ruse,malin,DEQU
@@ -384,12 +384,12 @@
 6	e	ée	INTJ	intj	_	12	discourse	_	Gloss=hé!
 7	kòrò	kɔ̀rɔ	NOUN	n	_	12	vocative	_	Gloss=aîné
 8	San	San	PROPN	n.prop	_	7	appos	_	Gloss=NOM.M
-9	ko	kó	PART	cop	_	12	dep	_	Gloss=QUOT
+9	ko	kó	PART	cop	_	12	discourse	_	Gloss=QUOT
 10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	12	nsubj	_	Gloss=3SG
 11	dun	dùn	PART	prt	_	12	discourse	_	Gloss=TOP.CNTR
 12	kèra	kɛra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	4	parataxis:obj	_	Gloss=faire|Morf=faire,PFV.INTR
 13	cògò	cógo	NOUN	n	_	12	obl	_	Gloss=manière
-14	di	dì	PRON	prn	_	13	flat	_	Gloss=comment
+14	di	dì	PRON	prn	_	13	fixed	_	Gloss=comment
 15	?	?	PUNCT	_	_	4	punct	_	Gloss=?
 
 
@@ -479,7 +479,7 @@
 22	dun	dún	PART	prt	_	21	discourse	_	Gloss=TOP.CNTR
 23	kèra	kɛra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	17	parataxis:obj	_	Gloss=faire|Morf=faire,PFV.INTR
 24	cogo	cógo	NOUN	n	_	23	obl	_	Gloss=manière
-25	di	dì	PRON	prn	_	24	flat	_	Gloss=comment
+25	di	dì	PRON	prn	_	24	fixed	_	Gloss=comment
 26	?	?	PUNCT	_	_	2	punct	_	Gloss=?
 
 

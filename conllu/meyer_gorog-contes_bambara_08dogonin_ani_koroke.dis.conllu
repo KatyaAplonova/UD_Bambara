@@ -144,7 +144,7 @@
 1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
 3	ayi	àyi	INTJ	intj	_	8	discourse	_	Gloss=non
-4	ko	kó	SCONJ	cop	_	8	dep	_	Gloss=QUOT
+4	ko	kó	PART	cop	_	8	discourse	_	Gloss=QUOT
 5	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	6	nmod:poss	_	Gloss=1SG.EMPH
 6	ta	tá	NOUN	n	_	8	nsubj	_	Gloss=propriété
 7	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	8	aux	_	Gloss=IPFV.NEG
@@ -840,7 +840,7 @@
 
 # sent_id = html/meyer_gorog-contes_bambara_08dogonin_ani_koroke.dis.html:56
 # text = ko èè genju, mun dun ye i jè tenninò ?
-1	ko	kó	SCONJ	cop	_	9	dep	_	Gloss=QUOT
+1	ko	kó	PART	cop	_	9	discourse	_	Gloss=QUOT
 2	èè	ée	INTJ	intj	_	9	discourse	_	Gloss=eh!
 3	genju	kùn.jɛ	NOUN	n	_	9	vocative	_	Gloss=arbuste.Guiera.senegalensis|Morf=arbuste.Guiera.senegalensis,tête,blanc
 4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
@@ -1592,7 +1592,7 @@
 7	o	ò	PRON	prn	_	8	nmod:poss	_	Gloss=ce
 8	faama	fàama	NOUN	n	_	5	obl	_	Gloss=roi
 9	fè	fɛ̀	ADP	pp	_	8	case	_	Gloss=vers
-10	yen	yèn	ADV	adv/n	_	5	advmod	_	Gloss=là-bas
+10	yen	yèn	ADV	adv/n	_	5	obl	_	Gloss=là-bas
 11	o	ò	PRON	prn	_	13	nmod:poss	_	Gloss=ce
 12	ka	ka	ADP	pp	_	11	case	_	Gloss=POSS
 13	dumunni	dúmuni	NOUN	n	_	14	nsubj	_	Gloss=action.de.manger
@@ -2002,5 +2002,5 @@
 9	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	11	aux	_	Gloss=PFV.TR
 10	o	ò	PRON	prn	_	11	obj	_	Gloss=ce
 11	bila	bìla	VERB	v	_	0	root	_	Gloss=mettre
-12	yen	yèn	ADV	adv/n	_	11	advmod	_	Gloss=là-bas
+12	yen	yèn	ADV	adv/n	_	11	obl	_	Gloss=là-bas
 13	.	.	PUNCT	_	_	11	punct	_	Gloss=.

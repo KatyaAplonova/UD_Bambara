@@ -72,7 +72,7 @@
 5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	nsubj	_	Gloss=3SG
 6	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	8	aux	_	Gloss=PFV.TR
 7	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	8	obj	_	Gloss=REFL
-8	da	dá	VERB	v	_	20	advmod	_	Gloss=poser
+8	da	dá	VERB	v	_	20	advcl	_	Gloss=poser
 9	su	sú	NOUN	n	_	8	obl	_	Gloss=nuit
 10	fè	fɛ̀	ADP	pp	_	9	case	_	Gloss=vers
 11	denkènin	denkɛnin	NOUN	n	_	13	nmod:poss	_	Gloss=fils|Morf=fils,enfant,mâle,DIM
@@ -138,8 +138,8 @@
 8	i	í	PRON	pers	PronType=Prs	11	nsubj	_	Gloss=2.SG
 9	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	11	aux	_	Gloss=PFV.TR
 10	sin	sín	NOUN	n	_	11	obj	_	Gloss=sein
-11	di	dí	VERB	v	_	16	advmod	_	Gloss=donner
-12	yan	yàn	ADV	adv/n	_	11	advmod	_	Gloss=ici
+11	di	dí	VERB	v	_	16	advcl	_	Gloss=donner
+12	yan	yàn	ADV	adv/n	_	11	obl	_	Gloss=ici
 13	,	,	PUNCT	_	_	11	punct	_	Gloss=,
 14	n	ń	PRON	pers	PronType=Prs	16	nsubj	_	Gloss=je
 15	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	16	aux	_	Gloss=IPFV.AFF
@@ -253,7 +253,7 @@
 3	den	dén	NOUN	n	_	4	nsubj	_	Gloss=enfant
 4	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
 5	to	tó	VERB	v	_	4	xcomp	_	Gloss=rester
-6	ten	tèn	ADV	adv	_	5	advmod	_	Gloss=ainsi
+6	ten	tèn	ADV	adv	_	5	obl	_	Gloss=ainsi
 7	fo	fó	SCONJ	conj/prep	_	9	mark	_	Gloss=jusqu'à
 8	ka	kà	AUX	pm	_	9	aux	_	Gloss=INF
 9	na	nà	VERB	v	_	4	advcl	_	Gloss=venir
@@ -355,7 +355,7 @@
 13	di	dí	VERB	v	_	5	ccomp	_	Gloss=donner
 14	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	13	obl	_	Gloss=3SG
 15	ma	mà	ADP	pp	_	14	case	_	Gloss=à
-16	bilen	bìlen	ADV	adv	_	13	advmod	_	Gloss=encore
+16	bilen	bìlen	ADV	adv	_	13	obl	_	Gloss=encore
 17	,	,	PUNCT	_	_	13	punct	_	Gloss=,
 18	ko	kó	SCONJ	cop	_	21	mark	_	Gloss=QUOT
 19	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	20	nmod:poss	_	Gloss=3SG

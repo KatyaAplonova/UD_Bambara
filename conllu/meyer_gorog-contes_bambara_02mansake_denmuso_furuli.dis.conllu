@@ -192,7 +192,7 @@
 14	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	17	nsubj	_	Gloss=1SG
 15	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	17	aux	_	Gloss=IPFV.AFF
 16	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	17	obj	_	Gloss=3SG
-17	ci	cì	VERB	v	_	22	advmod	_	Gloss=frapper
+17	ci	cì	VERB	v	_	22	advcl	_	Gloss=frapper
 18	,	,	PUNCT	_	_	17	punct	_	Gloss=,
 19	o	ò	PRON	prn	_	22	nsubj	_	Gloss=ce
 20	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	22	aux	_	Gloss=IPFV.AFF
@@ -225,7 +225,7 @@
 # text = musokòrònin ko sisan, na yan, a ko ne ka doni filè, ne dèmè n ka doni ka sanba.
 1	musokòrònin	mùsokɔrɔnin	NOUN	n	_	2	nsubj	_	Gloss=vieille.femme|Morf=vieille.femme,vieille.femme,femme,vieux,DIM
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
-3	sisan	sísàn	ADV	adv	_	5	advmod	_	Gloss=maintenant
+3	sisan	sísàn	ADV	adv	_	5	obl	_	Gloss=maintenant
 4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
 5	na	nà	VERB	v	_	2	parataxis:obj	_	Gloss=venir
 6	yan	yàn	ADV	adv	_	5	advcl	_	Gloss=ici
@@ -309,7 +309,7 @@
 7	di	dí	VERB	v	_	4	xcomp	_	Gloss=donner
 8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	obl	_	Gloss=3SG
 9	ma	mà	ADP	pp	_	8	case	_	Gloss=ADR
-10	tuma	tùma	NOUN	n	_	7	advmod	_	Gloss=moment
+10	tuma	tùma	NOUN	n	_	7	obl	_	Gloss=moment
 11	min	mîn	DET	dtm	PronType=Rel	10	det:rel	_	Gloss=REL
 12	,	,	PUNCT	_	_	7	punct	_	Gloss=,
 13	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	14	nsubj	_	Gloss=3SG
@@ -326,7 +326,7 @@
 4	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
 5	ni	ní	SCONJ	conj	_	7	mark	_	Gloss=si
 6	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	7	nsubj	_	Gloss=2SG
-7	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	12	advmod	_	Gloss=aller|Morf=aller,PFV.INTR
+7	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	12	advcl	_	Gloss=aller|Morf=aller,PFV.INTR
 8	,	,	PUNCT	_	_	7	punct	_	Gloss=,
 9	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	12	nsubj	_	Gloss=2SG
 10	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	12	aux	_	Gloss=IPFV.AFF
@@ -487,7 +487,7 @@
 7	,	,	PUNCT	_	_	3	punct	_	Gloss=,
 8	ni	ní	SCONJ	conj	_	10	mark	_	Gloss=si
 9	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	10	nsubj	_	Gloss=2SG
-10	sera	sera	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	17	advmod	_	Gloss=arriver|Morf=arriver,PFV.INTR
+10	sera	sera	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	17	advcl	_	Gloss=arriver|Morf=arriver,PFV.INTR
 11	ka	kà	AUX	pm	_	14	aux	_	Gloss=INF
 12	kurun	kùrun	NOUN	n	_	14	obj	_	Gloss=boule
 13	nin	nìn	DET	dtm	PronType=Dem|Definite-Def	12	det	_	Gloss=DEM
@@ -571,7 +571,7 @@
 2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
 3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	obj	_	Gloss=3SG
 4	ci	cì	VERB	v	_	10	acl	_	Gloss=frapper
-5	tuma	tùma	NOUN	n	_	4	advmod	_	Gloss=moment
+5	tuma	tùma	NOUN	n	_	4	obl	_	Gloss=moment
 6	min	mîn	DET	dtm	PronType=Rel	5	det:rel	_	Gloss=REL
 7	na	ná	ADP	pp	_	5	case	_	Gloss=à
 8	,	,	PUNCT	_	_	4	punct	_	Gloss=,

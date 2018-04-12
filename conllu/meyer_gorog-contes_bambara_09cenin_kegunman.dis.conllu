@@ -523,7 +523,7 @@
 7	don	dòn	VERB	v	_	3	parataxis:obj	_	Gloss=entrer
 8	subagamuso	subagamuso	NOUN	n	_	7	obl	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
 9	fè	fɛ̀	ADP	pp	_	8	case	_	Gloss=vers
-10	yen	yèn	ADV	adv/n	_	8	advmod	_	Gloss=là-bas
+10	yen	yèn	ADV	adv/n	_	8	obl	_	Gloss=là-bas
 11	,	,	PUNCT	_	_	7	punct	_	Gloss=,
 12	subagamuso	subagamuso	NOUN	n	_	16	nsubj	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
 13	fana	fána	PART	prt	_	16	discourse	_	Gloss=aussi
@@ -1100,7 +1100,7 @@
 # text = a nana ko : ta ta ta ta, n ye a da gè !
 1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
 2	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
-3	ko	kó	VERB	cop	_	14	dep	_	Gloss=QUOT
+3	ko	kó	PART	cop	_	14	discourse	_	Gloss=QUOT
 4	:	:	PUNCT	_	_	3	punct	_	Gloss=:
 5	ta	ta	INTJ	_	_	14	discourse	_	Gloss=CHNT
 6	ta	ta	INTJ	_	_	5	compound:redup	_	Gloss=CHNT

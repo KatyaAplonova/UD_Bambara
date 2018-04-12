@@ -65,7 +65,7 @@
 3	ko	kó	PART	cop	_	9	discourse	_	Gloss=QUOT
 4	baba	bàba	NOUN	n	_	9	vocative	_	Gloss=papa
 5	,	,	PUNCT	_	_	4	punct	_	Gloss=,
-6	ko	kó	PART	cop	_	9	dep	_	Gloss=QUOT
+6	ko	kó	PART	cop	_	9	discourse	_	Gloss=QUOT
 7	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	9	nsubj	_	Gloss=2SG.EMPH
 8	ka	ká	AUX	pm	_	9	aux	_	Gloss=OPT
 9	na	nà	VERB	v	_	2	parataxis:obj	_	Gloss=venir
@@ -194,7 +194,7 @@
 # sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:16
 # text = a bilen bolila ka na a fò a bamuso fè, a ye muruda ge ka a don a yèrè kun.
 1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	3	nsubj	_	Gloss=3SG
-2	bilen	bìlen	ADV	adv	_	3	advmod	_	Gloss=encore
+2	bilen	bìlen	PART	adv	_	3	discourse	_	Gloss=encore
 3	bolila	bolila	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=courir|Morf=courir,PFV.INTR
 4	ka	kà	AUX	pm	_	5	aux	_	Gloss=INF
 5	na	nà	VERB	v	_	3	xcomp	_	Gloss=venir
@@ -225,8 +225,8 @@
 4	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	6	aux	_	Gloss=PFV.TR
 5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	6	obj	_	Gloss=3SG
 6	fò	fɔ́	VERB	v	_	16	advcl	_	Gloss=dire
-7	bilen	bìlen	ADV	adv	_	6	advmod	_	Gloss=encore
-8	tugun	túgun	ADV	adv	_	6	advmod	_	Gloss=encore
+7	bilen	bìlen	PART	adv	_	6	discourse	_	Gloss=encore
+8	tugun	túgun	ADV	adv	_	6	obl	_	Gloss=encore
 9	fònhòn	fɔ̀nhɔn	INTJ	intj	_	6	parataxis:obj	_	Gloss=Foui!
 10	,	,	PUNCT	_	_	6	punct	_	Gloss=,
 11	ko	kó	PART	cop	_	16	discourse	_	Gloss=QUOT
