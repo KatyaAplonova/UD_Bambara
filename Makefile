@@ -7,6 +7,7 @@ ROLLBACK=rollback
 TESTPORT=8098
 PRODPORT=8099
 RSYNC=rsync -avP --stats -e ssh
+BUILT=built
 
 corpbasename := corbama-ud
 corpsite := corbama

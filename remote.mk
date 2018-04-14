@@ -7,7 +7,7 @@ remote-setup:
 install-remote-scripts:
 	$(RSYNC) remote/*.sh $(HOST):bin
 
-create-testing: install-remote-scripts
+create-testing: 
 	ssh $(HOST) "bin/create-hsh.sh"
 	ssh $(HOST) "bin/install-all-corpora.sh"
 	ssh $(HOST) "bin/setup-all-corpora.sh"
