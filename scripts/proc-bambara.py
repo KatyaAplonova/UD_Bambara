@@ -68,8 +68,8 @@ def get_udtags(lem, pos, gloss, all_glosses):
 		tags[1].append('Valency=2')
 		tags[1].append('Polarity=Pos')
 	if gloss == 'SBJV':
-		tags[1].append('Mood=Subj')
-		tags[1].append('Polarity=Aff')
+		tags[1].append('Mood=Sub')
+		tags[1].append('Polarity=Pos')
 	if gloss == 'REFL':
 		tags[1].append('Reflexive=Yes')
 	if gloss == 'RECP':
