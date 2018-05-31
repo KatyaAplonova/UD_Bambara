@@ -1,0 +1,667 @@
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:1
+# text = <h>NSiirin 10nan</h>
+1	NSiirin	nsíirin	NOUN	n	_	_	_	_	Gloss=conte
+2	10nan	10nan	ADJ	adj	NumType=Ord	_	_	_	Gloss=dixième|Morf=dixième,dix,ORD
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:2
+# text = <h>Masakɛ ka denmusoko</h>
+1	Masakɛ	màsakɛ	NOUN	n	_	_	_	_	Gloss=roi|Morf=roi,roi,mâle
+2	ka	ka	ADP	pp	_	_	_	_	Gloss=POSS
+3	denmusoko	denmusoko	NOUN	n	_	_	_	_	Gloss=fille|Morf=fille,enfant,femme,affaire
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:3
+# text = Nin kɛra masakɛ dɔ ye.
+1	Nin	nìn	PRON	prn	_	_	_	_	Gloss=ceci
+2	kɛra	kɛ́ra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=faire|Morf=faire,PFV.INTR
+3	masakɛ	màsakɛ	NOUN	n	_	_	_	_	Gloss=roi|Morf=roi,roi,mâle
+4	dɔ	dɔ́	DET	dtm	_	_	_	_	Gloss=certain
+5	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+6	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:4
+# text = Muso fila tun b'a fɛ.
+1	Muso	mùso	NOUN	n	_	_	_	_	Gloss=femme
+2	fila	fìla	NUM	num	_	_	_	_	Gloss=deux
+3	tun	tùn	PART	prt	Tense=Past|Tense=Past	_	_	_	Gloss=PST
+4	b'	b'	VERB	cop	_	_	_	_	Gloss=être
+5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+6	fɛ	fɛ̀	ADP	pp	_	_	_	_	Gloss=par
+7	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:5
+# text = Denkɛko de tun ye a haminako fɔlɔ ye.
+1	Denkɛko	denkɛko	NOUN	n	_	_	_	_	Gloss=fils|Morf=fils,enfant,mâle,affaire
+2	de	dè	PART	prt	_	_	_	_	Gloss=FOC
+3	tun	tùn	PART	prt	Tense=Past|Tense=Past	_	_	_	Gloss=PST
+4	ye	yé	VERB	cop	Polarity=Pos	_	_	_	Gloss=EQU
+5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+6	haminako	háminako	NOUN	n	_	_	_	_	Gloss=souci|Morf=souci,souci,MNT1,affaire
+7	fɔlɔ	fɔ́lɔ	X	adj/n	_	_	_	_	Gloss=premier
+8	ye	yé	VERB	cop	_	_	_	_	Gloss=PP
+9	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:6
+# text = A y'a muso fila lasigi k'a fɔ u ye ko ni min ye denmuso wolo, o bɛ taa ka bɔ a ka du kɔnɔ.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	muso	mùso	NOUN	n	_	_	_	_	Gloss=femme
+5	fila	fìla	NUM	num	_	_	_	_	Gloss=deux
+6	lasigi	lásìgi	VERB	v	Voice=Cau	_	_	_	Gloss=faire.asseoir|Morf=faire.asseoir,CAUS,asseoir
+7	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+9	fɔ	fɔ́	VERB	v	_	_	_	_	Gloss=dire
+10	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+11	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+12	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+13	ni	ní	SCONJ	conj	_	_	_	_	Gloss=si
+14	min	mîn	PRON	prn	PronType=Rel	_	_	_	Gloss=REL
+15	ye	yé	AUX	pm	_	_	_	_	Gloss=IPFV
+16	denmuso	dénmuso	NOUN	n	_	_	_	_	Gloss=fille|Morf=fille,enfant,femme
+17	wolo	wólo	VERB	v	_	_	_	_	Gloss=accoucher
+18	,	,	PUNCT	_		_	_	_	Gloss=,
+19	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+20	bɛ	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+21	taa	táa	VERB	v	_	_	_	_	Gloss=aller
+22	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+23	bɔ	bɔ́	VERB	v	_	_	_	_	Gloss=sortir
+24	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+25	ka	ka	ADP	pp	_	_	_	_	Gloss=POSS
+26	du	dú	NOUN	n	_	_	_	_	Gloss=concession
+27	kɔnɔ	kɔ́nɔ	ADP	pp	_	_	_	_	Gloss=dans
+28	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:7
+# text = Ala y'a kɛ muso fila ninnu lajɔra.
+1	Ala	Ála	NOUN	n	_	_	_	_	Gloss=Dieu
+2	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	kɛ	kɛ́	VERB	v	_	_	_	_	Gloss=faire
+5	muso	mùso	NOUN	n	_	_	_	_	Gloss=femme
+6	fila	fìla	NUM	num	_	_	_	_	Gloss=deux
+7	ninnu	nìnnú	DET	dtm	Number=Plur	_	_	_	Gloss=DEM.PL|Morf=DEM.PL,DEM,PL2
+8	lajɔra	lajɔra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos|Voice=Cau	_	_	_	Gloss=mettre.debout|Morf=mettre.debout,CAUS,dresser,PFV.INTR
+9	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:8
+# text = Tin kɛlen ka galomuso minɛ, o bɔra dugu kɔnɔ ka taa tu kɔnɔ.
+1	Tin	tìn	NOUN	n	_	_	_	_	Gloss=douleurs.d'accouchement
+2	kɛlen	kɛ́len	VERB	ptcp	VerbalForm=Part|Aspect=Perf	_	_	_	Gloss=faire|Morf=faire,PTCP.RES
+3	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+4	galomuso	gàlomuso	NOUN	n	_	_	_	_	Gloss=épouse.délaissée|Morf=épouse.délaissée,porte-malheur,femme
+5	minɛ	mìnɛ	VERB	v	_	_	_	_	Gloss=attraper
+6	,	,	PUNCT	_		_	_	_	Gloss=,
+7	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+8	bɔra	bɔ́ra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=sortir|Morf=sortir,PFV.INTR
+9	dugu	dùgu	NOUN	n	_	_	_	_	Gloss=terre
+10	kɔnɔ	kɔ́nɔ	ADP	pp	_	_	_	_	Gloss=dans
+11	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+12	taa	táa	VERB	v	_	_	_	_	Gloss=aller
+13	tu	tú	NOUN	n	_	_	_	_	Gloss=touffe
+14	kɔnɔ	kɔ́nɔ	ADP	pp	_	_	_	_	Gloss=dans
+15	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:9
+# text = A jiginnen, den kɛra muso ye.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	jiginnen	jiginnen	VERB	ptcp	VerbalForm=Part|Aspect=Perf	_	_	_	Gloss=descendre|Morf=descendre,PTCP.RES
+3	,	,	PUNCT	_		_	_	_	Gloss=,
+4	den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+5	kɛra	kɛ́ra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=faire|Morf=faire,PFV.INTR
+6	muso	mùso	NOUN	n	_	_	_	_	Gloss=femme
+7	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+8	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:10
+# text = A siranna gɛnni ɲɛ.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	siranna	síranna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=craindre|Morf=craindre,PFV.INTR
+3	gɛnni	gɛnni	NOUN	n	VerbalForm=Vnoun	_	_	_	Gloss=chasser|Morf=chasser,NMLZ
+4	ɲɛ	ɲɛ́	ADP	pp	_	_	_	_	Gloss=devant
+5	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:11
+# text = A kɔnɔganna.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	kɔnɔganna	kɔnɔganna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=angoisser|Morf=angoisser,ventre,chauffer,PFV.INTR
+3	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:12
+# text = K'a to kɔnɔnafili la, jinɛmuso dɔ y'i kanto a ma: "I bɛ se ka i den in to ne bolo yan ka taa so, ne b'a tɔpɔtɔ i ye, i bɛ to ka na sin di a ma.
+1	K'	k'	AUX	pm	_	_	_	_	Gloss=INF
+2	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+3	to	tó	VERB	v	_	_	_	_	Gloss=rester
+4	kɔnɔnafili	kɔ̀nɔnafili	NOUN	n	Voice=Cau	_	_	_	Gloss=perplexité|Morf=perplexité,ventre,tromper,CAUS,jeter
+5	la	lá	ADP	pp	_	_	_	_	Gloss=à
+6	,	,	PUNCT	_		_	_	_	Gloss=,
+7	jinɛmuso	jinɛmuso	NOUN	n	_	_	_	_	Gloss=esprit|Morf=esprit,femme
+8	dɔ	dɔ́	X	dtm/prn	_	_	_	_	Gloss=certain
+9	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+10	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	_	_	_	Gloss=REFL
+11	kanto	kánto	VERB	v	_	_	_	_	Gloss=s'adresser|Morf=s'adresser,cou,rester
+12	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+13	ma	mà	ADP	pp	_	_	_	_	Gloss=ADR
+14	:	:	PUNCT	_		_	_	_	Gloss=:
+15	"	"	PUNCT	_		_	_	_	Gloss="
+16	I	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	_	_	_	Gloss=2SG
+17	bɛ	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+18	se	sé	VERB	v	_	_	_	_	Gloss=arriver
+19	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+20	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	_	_	_	Gloss=2SG
+21	den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+22	in	ìn	DET	dtm	Definite=Def	_	_	_	Gloss=DEF
+23	to	tó	VERB	v	_	_	_	_	Gloss=rester
+24	ne	nê	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	_	_	_	Gloss=1SG.EMPH
+25	bolo	bólo	ADP	pp	_	_	_	_	Gloss=CNTRL
+26	yan	yàn	X	adv/n	_	_	_	_	Gloss=ici
+27	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+28	taa	táa	VERB	v	_	_	_	_	Gloss=aller
+29	so	só	NOUN	n	_	_	_	_	Gloss=maison
+30	,	,	PUNCT	_		_	_	_	Gloss=,
+31	ne	nê	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	_	_	_	Gloss=1SG.EMPH
+32	b'	b'	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+33	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+34	tɔpɔtɔ	tɔ̀pɔtɔ	VERB	v	_	_	_	_	Gloss=entretenir
+35	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	_	_	_	Gloss=2SG
+36	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+37	,	,	PUNCT	_		_	_	_	Gloss=,
+38	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	_	_	_	Gloss=2SG
+39	bɛ	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+40	to	tó	VERB	v	_	_	_	_	Gloss=rester
+41	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+42	na	nà	VERB	v	_	_	_	_	Gloss=venir
+43	sin	sín	NOUN	n	_	_	_	_	Gloss=sein
+44	di	dí	VERB	v	_	_	_	_	Gloss=donner
+45	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+46	ma	mà	ADP	pp	_	_	_	_	Gloss=ADR
+47	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:13
+# text = Nka hadamaden sennifilaw ye fitiriwalew ye.
+1	Nka	ǹka	X	conj	_	_	_	_	Gloss=mais
+2	hadamaden	hádamàden	NOUN	n	_	_	_	_	Gloss=humain|Morf=humain,enfant
+3	sennifilaw	sènninfila	ADJ	adj	_	_	_	_	Gloss=bipède|Morf=bipède,jambe,DIM,deux
+4	ye	yé	VERB	cop	Polarity=Pos	_	_	_	Gloss=EQU
+5	fitiriwalew	fitiriwalew	NOUN	n	Number=Plur	_	_	_	Gloss=ingrat|Morf=ingrat,acte,PL
+6	ye	yé	VERB	cop	_	_	_	_	Gloss=PP
+7	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:14
+# text = An jinɛw bɛ siran fitiriwaleya ɲɛ".
+1	An	án	PRON	pers	PronType=Prs|Number=Plur|Person=1	_	_	_	Gloss=1PL
+2	jinɛw	jínɛw	NOUN	n	Number=Plur	_	_	_	Gloss=esprit|Morf=esprit,PL
+3	bɛ	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+4	siran	síran	VERB	v	_	_	_	_	Gloss=craindre
+5	fitiriwaleya	fítiriwaleya	NOUN	n	_	_	_	_	Gloss=ingratitude|Morf=ingratitude,ingrat,acte,ABSTR
+6	ɲɛ	ɲɛ́	ADP	pp	_	_	_	_	Gloss=devant
+7	"	"	PUNCT	_		_	_	_	Gloss="
+8	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:15
+# text = Muso y'a jaabi, ko a k'a dɛmɛ, ko ni Ala sɔnna a ma, a tɛna kɛ a ma fitiriwale ye.
+1	Muso	mùso	NOUN	n	_	_	_	_	Gloss=femme
+2	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	jaabi	jáabi	VERB	v	_	_	_	_	Gloss=répondre
+5	,	,	PUNCT	_		_	_	_	Gloss=,
+6	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+8	k'	k'	AUX	pm	Mood=Subj|Polarity=Aff	_	_	_	Gloss=SBJV
+9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+10	dɛmɛ	dɛ̀mɛ	VERB	v	_	_	_	_	Gloss=aider
+11	,	,	PUNCT	_		_	_	_	Gloss=,
+12	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+13	ni	ni	X	conj	_	_	_	_	Gloss=et
+14	Ala	Ála	NOUN	n	_	_	_	_	Gloss=Dieu
+15	sɔnna	sɔnna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=accepter|Morf=accepter,PFV.INTR
+16	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+17	ma	mà	ADP	pp	_	_	_	_	Gloss=ADR
+18	,	,	PUNCT	_		_	_	_	Gloss=,
+19	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+20	tɛna	tɛ́nà	AUX	pm	Polarity=Neg|Tense=Fut	_	_	_	Gloss=FUT.NEG
+21	kɛ	kɛ́	VERB	v	_	_	_	_	Gloss=faire
+22	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+23	ma	ma	ADP	pp	_	_	_	_	Gloss=ADR
+24	fitiriwale	fítiriwale	NOUN	n	_	_	_	_	Gloss=ingrat|Morf=ingrat,acte
+25	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+26	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:16
+# text = O kɛlen, u bɛnna fɔ la.
+1	O	ò	PRON	prn	_	_	_	_	Gloss=ce
+2	kɛlen	kɛ́len	VERB	ptcp	VerbalForm=Part|Aspect=Perf	_	_	_	Gloss=faire|Morf=faire,PTCP.RES
+3	,	,	PUNCT	_		_	_	_	Gloss=,
+4	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+5	bɛnna	bɛnna	NOUN	n	_	_	_	_	Gloss=accord|Morf=accord,MNT1
+6	fɔ	fɔ́	NOUN	n	_	_	_	_	Gloss=action.de.dire
+7	la	lá	ADP	pp	_	_	_	_	Gloss=à
+8	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:17
+# text = Don o don muso in b'a fɔ a cɛ ye k'a bɛ taa dɔgɔ ɲini kungo kɔnɔ, bawo o ye galomuso baara ye, k'i dɛn ka taa sin di a den ma.
+1	Don	dón	NOUN	n	_	_	_	_	Gloss=jour
+2	o	ô	CCONJ	conj	_	_	_	_	Gloss=DISTR
+3	don	dón	NOUN	n	_	_	_	_	Gloss=jour
+4	muso	mùso	NOUN	n	_	_	_	_	Gloss=femme
+5	in	ìn	DET	dtm	Definite=Def	_	_	_	Gloss=DEF
+6	b'	b'	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+8	fɔ	fɔ́	VERB	v	_	_	_	_	Gloss=dire
+9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+10	cɛ	cɛ̀	NOUN	n	_	_	_	_	Gloss=mâle
+11	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+12	k'	k'	VERB	cop	_	_	_	_	Gloss=QUOT
+13	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+14	bɛ	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+15	taa	táa	VERB	v	_	_	_	_	Gloss=aller
+16	dɔgɔ	dɔ́gɔ	NOUN	n	_	_	_	_	Gloss=fagot
+17	(?:ɲ|ny)ini	ɲíni	VERB	v	_	_	_	_	Gloss=chercher
+18	kungo	kúngo	NOUN	n	_	_	_	_	Gloss=brousse
+19	kɔnɔ	kɔ́nɔ	ADP	pp	_	_	_	_	Gloss=dans
+20	,	,	PUNCT	_		_	_	_	Gloss=,
+21	bawo	báwò	SCONJ	conj	_	_	_	_	Gloss=puisque
+22	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+23	ye	yé	VERB	cop	Polarity=Pos	_	_	_	Gloss=EQU
+24	galomuso	gàlomuso	NOUN	n	_	_	_	_	Gloss=épouse.délaissée|Morf=épouse.délaissée,porte-malheur,femme
+25	baara	báara	NOUN	n	_	_	_	_	Gloss=travail
+26	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+27	,	,	PUNCT	_		_	_	_	Gloss=,
+28	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+29	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	_	_	_	Gloss=2SG
+30	dɛn	dɛ́n	VERB	v	_	_	_	_	Gloss=mettre.à.l'écart
+31	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+32	taa	táa	VERB	v	_	_	_	_	Gloss=aller
+33	sin	sín	NOUN	n	_	_	_	_	Gloss=sein
+34	di	dí	VERB	v	_	_	_	_	Gloss=donner
+35	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+36	den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+37	ma	mà	ADP	pp	_	_	_	_	Gloss=ADR
+38	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:18
+# text = Tuma o tuma a bɛ na a sɔrɔ jinɛmuso in ye den in ko k'a jɛ, ka fini ɲumanw don a la, k'a fan bɛɛ masiri ni sanu bilen ye.
+1	Tuma	tùma	NOUN	n	_	_	_	_	Gloss=moment
+2	o	ô	CCONJ	conj	_	_	_	_	Gloss=DISTR
+3	tuma	tùma	NOUN	n	_	_	_	_	Gloss=moment
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+5	bɛ	bɛ	AUX	pm	_	_	_	_	Gloss=FUT.AFF
+6	na	nà	VERB	v	_	_	_	_	Gloss=venir
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+8	sɔrɔ	sɔ̀rɔ	VERB	v	_	_	_	_	Gloss=obtenir
+9	jinɛmuso	jinɛmuso	NOUN	n	_	_	_	_	Gloss=esprit|Morf=esprit,femme
+10	in	ìn	DET	dtm	Definite=Def	_	_	_	Gloss=DEF
+11	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+12	den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+13	in	ìn	DET	dtm	Definite=Def	_	_	_	Gloss=DEF
+14	ko	kò	VERB	v	_	_	_	_	Gloss=laver
+15	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+16	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+17	jɛ	jɛ́	VERB	v	_	_	_	_	Gloss=blanchir
+18	,	,	PUNCT	_		_	_	_	Gloss=,
+19	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+20	fini	fìni	NOUN	n	_	_	_	_	Gloss=tissu
+21	ɲumanw	ɲumanw	ADJ	adj	Number=Plur	_	_	_	Gloss=bon|Morf=bon,PL
+22	don	dòn	VERB	v	_	_	_	_	Gloss=entrer
+23	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+24	la	lá	ADP	pp	_	_	_	_	Gloss=à
+25	,	,	PUNCT	_		_	_	_	Gloss=,
+26	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+27	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+28	fan	fàn	NOUN	n	_	_	_	_	Gloss=côté
+29	bɛɛ	bɛ́ɛ	DET	dtm	_	_	_	_	Gloss=tout
+30	masiri	màsiri	NOUN	n	_	_	_	_	Gloss=ornement|Morf=ornement,SUPER,lier
+31	ni	ni	X	prep/conj	_	_	_	_	Gloss=et
+32	sanu	sánu	NOUN	n	_	_	_	_	Gloss=or
+33	bilen	bilen	NOUN	n	_	_	_	_	Gloss=rouge
+34	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+35	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:19
+# text = Don dɔ, masakɛ terikɛ y'a ɲininka: "N terikɛ, ne ko an ka muso in kɔnɔ labanna cogo di?" Masakɛ ko o la, k'ale ma cogo si dɔn a ka galomuso ka kɔnɔmayako in na.
+1	Don	dón	NOUN	n	_	_	_	_	Gloss=jour
+2	dɔ	dɔ́	DET	dtm	_	_	_	_	Gloss=certain
+3	,	,	PUNCT	_		_	_	_	Gloss=,
+4	masakɛ	màsakɛ	NOUN	n	_	_	_	_	Gloss=roi|Morf=roi,roi,mâle
+5	terikɛ	térikɛ	NOUN	n	_	_	_	_	Gloss=ami|Morf=ami,ami,mâle
+6	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+8	ɲininka	ɲìninka	VERB	v	_	_	_	_	Gloss=interroger
+9	:	:	PUNCT	_		_	_	_	Gloss=:
+10	"	"	PUNCT	_		_	_	_	Gloss="
+11	N	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	_	_	_	Gloss=1SG
+12	terikɛ	térikɛ	NOUN	n	_	_	_	_	Gloss=ami|Morf=ami,ami,mâle
+13	,	,	PUNCT	_		_	_	_	Gloss=,
+14	ne	nê	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	_	_	_	Gloss=1SG.EMPH
+15	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+16	an	án	PRON	pers	PronType=Prs|Number=Plur|Person=1	_	_	_	Gloss=1PL
+17	ka	ka	ADP	pp	_	_	_	_	Gloss=POSS
+18	muso	mùso	NOUN	n	_	_	_	_	Gloss=femme
+19	in	ìn	DET	dtm	Definite=Def	_	_	_	Gloss=DEF
+20	kɔnɔ	kɔ́nɔ	NOUN	n	_	_	_	_	Gloss=ventre
+21	labanna	labanna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos|Voice=Cau	_	_	_	Gloss=finir|Morf=finir,CAUS,terminer,PFV.INTR
+22	cogo	cógo	NOUN	n	_	_	_	_	Gloss=manière
+23	di	dì	PRON	prn	_	_	_	_	Gloss=comment
+24	?	?	PUNCT	_		_	_	_	Gloss=?
+25	"	"	PUNCT	_		_	_	_	Gloss="
+26	Masakɛ	màsakɛ	NOUN	n	_	_	_	_	Gloss=roi|Morf=roi,roi,mâle
+27	ko	kó	VERB	v	_	_	_	_	Gloss=dire
+28	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+29	la	lá	ADP	pp	_	_	_	_	Gloss=à
+30	,	,	PUNCT	_		_	_	_	Gloss=,
+31	k'	k'	VERB	cop	_	_	_	_	Gloss=QUOT
+32	ale	àlê	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	_	_	_	Gloss=3SG.EMPH
+33	ma	ma	AUX	pm	Polarity=Neg|Aspect=Perf	_	_	_	Gloss=PFV.NEG
+34	cogo	cógo	NOUN	n	_	_	_	_	Gloss=manière
+35	si	sí	DET	dtm	_	_	_	_	Gloss=aucun
+36	dɔn	dɔ́n	VERB	v	_	_	_	_	Gloss=connaître
+37	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+38	ka	ka	ADP	pp	_	_	_	_	Gloss=POSS
+39	galomuso	gàlomuso	NOUN	n	_	_	_	_	Gloss=épouse.délaissée|Morf=épouse.délaissée,porte-malheur,femme
+40	ka	ka	ADP	pp	_	_	_	_	Gloss=POSS
+41	kɔnɔmayako	kɔnɔmayako	NOUN	n	_	_	_	_	Gloss=grossesse|Morf=grossesse,ventre,COM,ABSTR,affaire
+42	in	ìn	DET	dtm	Definite=Def	_	_	_	Gloss=DEF
+43	na	ná	ADP	pp	_	_	_	_	Gloss=à
+44	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:20
+# text = Terikɛ ko a ma, o tɛ baasi ye, ni Ala sɔnn'a ma, sini, an bɛ taa ɲɔgɔn fɛ kungo kɔnɔ, i na cogo dɔn a ko la.
+1	Terikɛ	térikɛ	NOUN	n	_	_	_	_	Gloss=ami|Morf=ami,ami,mâle
+2	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	ma	mà	ADP	pp	_	_	_	_	Gloss=ADR
+5	,	,	PUNCT	_		_	_	_	Gloss=,
+6	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+7	tɛ	tɛ́	VERB	cop	Polarity=Neg	_	_	_	Gloss=COP.NEG
+8	baasi	báasi	NOUN	n	_	_	_	_	Gloss=problème
+9	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+10	,	,	PUNCT	_		_	_	_	Gloss=,
+11	ni	ni	X	conj	_	_	_	_	Gloss=et
+12	Ala	Ála	NOUN	n	_	_	_	_	Gloss=Dieu
+13	sɔnn'	sɔnn'	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=accepter|Morf=accepter,PFV.INTR
+14	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+15	ma	mà	ADP	pp	_	_	_	_	Gloss=ADR
+16	,	,	PUNCT	_		_	_	_	Gloss=,
+17	sini	síni	ADV	adv	_	_	_	_	Gloss=demain
+18	,	,	PUNCT	_		_	_	_	Gloss=,
+19	an	án	PRON	pers	PronType=Prs|Number=Plur|Person=1	_	_	_	Gloss=1PL
+20	bɛ	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+21	taa	táa	VERB	v	_	_	_	_	Gloss=aller
+22	(?:ɲ|ny)ɔgɔn	ɲɔ́gɔn	PRON	prn	PronType=Rcp	_	_	_	Gloss=RECP
+23	fɛ	fɛ̀	ADP	pp	_	_	_	_	Gloss=par
+24	kungo	kúngo	NOUN	n	_	_	_	_	Gloss=brousse
+25	kɔnɔ	kɔ́nɔ	ADP	pp	_	_	_	_	Gloss=dans
+26	,	,	PUNCT	_		_	_	_	Gloss=,
+27	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	_	_	_	Gloss=2SG
+28	na	nà	AUX	pm	Tense=Fut|Polarity=Pos	_	_	_	Gloss=CERT
+29	cogo	cógo	NOUN	n	_	_	_	_	Gloss=manière
+30	dɔn	dɔ́n	VERB	v	_	_	_	_	Gloss=connaître
+31	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+32	ko	kó	NOUN	n	_	_	_	_	Gloss=affaire
+33	la	lá	ADP	pp	_	_	_	_	Gloss=à
+34	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:21
+# text = Dugu jɛlen, u ye muso surukutaama, ka taa a sɔrɔ sindi la a denmusonin ma.
+1	Dugu	dùgu	NOUN	n	_	_	_	_	Gloss=terre
+2	jɛlen	jɛ́len	VERB	ptcp	VerbalForm=Part|Aspect=Perf	_	_	_	Gloss=blanchir|Morf=blanchir,PTCP.RES
+3	,	,	PUNCT	_		_	_	_	Gloss=,
+4	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+5	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+6	muso	mùso	NOUN	n	_	_	_	_	Gloss=femme
+7	surukutaama	súrukutaama	VERB	v	_	_	_	_	Gloss=marcher.à.pas.de.loup|Morf=marcher.à.pas.de.loup,hyène,marcher
+8	,	,	PUNCT	_		_	_	_	Gloss=,
+9	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+10	taa	táa	VERB	v	_	_	_	_	Gloss=aller
+11	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+12	sɔrɔ	sɔ̀rɔ	VERB	v	_	_	_	_	Gloss=obtenir
+13	sindi	sindi	NOUN	n	_	_	_	_	Gloss=sein|Morf=sein,donner
+14	la	lá	ADP	pp	_	_	_	_	Gloss=à
+15	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+16	denmusonin	denmusonin	NOUN	n	_	_	_	_	Gloss=fille|Morf=fille,enfant,femme,DIM
+17	ma	mà	ADP	pp	_	_	_	_	Gloss=ADR
+18	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:22
+# text = A ye den in lajɛ k'a sɔrɔ a fan bɛɛ masirilen don ni sanu bilen ye.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+4	in	ìn	DET	dtm	Definite=Def	_	_	_	Gloss=DEF
+5	lajɛ	lájɛ	VERB	v	Voice=Cau	_	_	_	Gloss=regarder|Morf=regarder,CAUS,blanchir
+6	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+8	sɔrɔ	sɔ̀rɔ	VERB	v	_	_	_	_	Gloss=obtenir
+9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+10	fan	fàn	NOUN	n	_	_	_	_	Gloss=côté
+11	bɛɛ	bɛ́ɛ	DET	dtm	_	_	_	_	Gloss=tout
+12	masirilen	masirilen	VERB	ptcp	VerbalForm=Part|Aspect=Perf	_	_	_	Gloss=parer|Morf=parer,SUPER,lier,PTCP.RES
+13	don	dòn	VERB	cop	_	_	_	_	Gloss=ID
+14	ni	ni	X	prep/conj	_	_	_	_	Gloss=et
+15	sanu	sánu	NOUN	n	_	_	_	_	Gloss=or
+16	bilen	bìlen	X	vq/adj	_	_	_	_	Gloss=rouge
+17	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+18	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:23
+# text = U natara nafolo in na, k'u bɛ den in ta ka taa n'a ye so.
+1	U	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+2	natara	natara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=désirer|Morf=désirer,PFV.INTR
+3	nafolo	nàfolo	NOUN	n	_	_	_	_	Gloss=biens
+4	in	ìn	DET	dtm	Definite=Def	_	_	_	Gloss=DEF
+5	na	ná	ADP	pp	_	_	_	_	Gloss=à
+6	,	,	PUNCT	_		_	_	_	Gloss=,
+7	k'	k'	VERB	cop	_	_	_	_	Gloss=QUOT
+8	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+9	bɛ	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+10	den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+11	in	ìn	DET	dtm	Definite=Def	_	_	_	Gloss=DEF
+12	ta	tà	VERB	v	_	_	_	_	Gloss=prendre
+13	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+14	taa	táa	VERB	v	_	_	_	_	Gloss=aller
+15	n'	n'	CCONJ	conj	_	_	_	_	Gloss=et
+16	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+17	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+18	so	só	NOUN	n	_	_	_	_	Gloss=maison
+19	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:24
+# text = Galomuso nisɔndiyara, nka a hakili tora jinɛmuso ka kuma la.
+1	Galomuso	gàlomuso	NOUN	n	_	_	_	_	Gloss=épouse.délaissée|Morf=épouse.délaissée,porte-malheur,femme
+2	nisɔndiyara	nisɔndiyara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=réjouir|Morf=réjouir,humeur,âme,cœur,agréable,ABSTR,PFV.INTR
+3	,	,	PUNCT	_		_	_	_	Gloss=,
+4	nka	ǹka	X	conj	_	_	_	_	Gloss=mais
+5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+6	hakili	hákili	NOUN	n	_	_	_	_	Gloss=esprit
+7	tora	tora	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=rester|Morf=rester,PFV.INTR
+8	jinɛmuso	jinɛmuso	NOUN	n	_	_	_	_	Gloss=esprit|Morf=esprit,femme
+9	ka	ka	ADP	pp	_	_	_	_	Gloss=POSS
+10	kuma	kúma	NOUN	n	_	_	_	_	Gloss=parole
+11	la	lá	ADP	pp	_	_	_	_	Gloss=à
+12	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:25
+# text = A ko a cɛ ma: "N'i y'a ye ne furu ma sa, ka ne gɛn ka bɔ i ka du kɔnɔ, o sababuya bɔra jinɛmuso dɔ de la.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	cɛ	cɛ̀	NOUN	n	_	_	_	_	Gloss=mâle
+5	ma	mà	ADP	pp	_	_	_	_	Gloss=ADR
+6	:	:	PUNCT	_		_	_	_	Gloss=:
+7	"	"	PUNCT	_		_	_	_	Gloss="
+8	N'	ní	SCONJ	prep	_	_	_	_	Gloss=si
+9	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	_	_	_	Gloss=2SG
+10	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+11	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+12	ye	yé	VERB	v	_	_	_	_	Gloss=voir
+13	ne	nê	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	_	_	_	Gloss=1SG.EMPH
+14	furu	fúru	NOUN	n	_	_	_	_	Gloss=mariage
+15	ma	ma	AUX	pm	Polarity=Neg|Aspect=Perf	_	_	_	Gloss=PFV.NEG
+16	sa	sà	VERB	v	_	_	_	_	Gloss=mourir
+17	,	,	PUNCT	_		_	_	_	Gloss=,
+18	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+19	ne	nê	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	_	_	_	Gloss=1SG.EMPH
+20	gɛn	gɛ́n	VERB	v	_	_	_	_	Gloss=chasser
+21	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+22	bɔ	bɔ́	VERB	v	_	_	_	_	Gloss=sortir
+23	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	_	_	_	Gloss=2SG
+24	ka	ka	ADP	pp	_	_	_	_	Gloss=POSS
+25	du	dú	NOUN	n	_	_	_	_	Gloss=concession
+26	kɔnɔ	kɔ́nɔ	ADP	pp	_	_	_	_	Gloss=dans
+27	,	,	PUNCT	_		_	_	_	Gloss=,
+28	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+29	sababuya	sábabuya	NOUN	n	_	_	_	_	Gloss=cause|Morf=cause,cause,ABSTR
+30	bɔra	bɔ́ra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=sortir|Morf=sortir,PFV.INTR
+31	jinɛmuso	jinɛmuso	NOUN	n	_	_	_	_	Gloss=esprit|Morf=esprit,femme
+32	dɔ	dɔ́	X	dtm/prn	_	_	_	_	Gloss=certain
+33	de	dè	PART	prt	_	_	_	_	Gloss=FOC
+34	la	lá	ADP	pp	_	_	_	_	Gloss=à
+35	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:26
+# text = O de ye ne ni n den ladon kungo kolon kɔnɔ yan, fo ka n'a se bi ma.
+1	O	ò	PRON	prn	_	_	_	_	Gloss=ce
+2	de	dè	PART	prt	_	_	_	_	Gloss=FOC
+3	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+4	ne	nê	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	_	_	_	Gloss=1SG.EMPH
+5	ni	ni	X	prep/conj	_	_	_	_	Gloss=et
+6	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	_	_	_	Gloss=1SG
+7	den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+8	ladon	ládòn	VERB	v	Voice=Cau	_	_	_	Gloss=faire.entrer|Morf=faire.entrer,CAUS,entrer
+9	kungo	kúngo	NOUN	n	_	_	_	_	Gloss=brousse
+10	kolon	kòlon	NOUN	n	_	_	_	_	Gloss=mortier
+11	kɔnɔ	kɔ́nɔ	ADP	pp	_	_	_	_	Gloss=dans
+12	yan	yàn	ADV	adv	_	_	_	_	Gloss=ici
+13	,	,	PUNCT	_		_	_	_	Gloss=,
+14	fo	fó	X	conj	_	_	_	_	Gloss=jusqu'à
+15	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+16	n'	n'	VERB	v	_	_	_	_	Gloss=venir
+17	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+18	se	sé	VERB	v	_	_	_	_	Gloss=arriver
+19	bi	bì	ADV	adv	_	_	_	_	Gloss=aujourd'hui
+20	ma	mà	ADP	pp	_	_	_	_	Gloss=ADR
+21	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:27
+# text = A' tɛ se ka taa ni den ye so, fo an ka taa jinɛmuso in fo k'a waleɲumandɔn".
+1	A'	á'	PRON	pers	PronType=Prs|Number=Plur|Person=2	_	_	_	Gloss=2PL
+2	tɛ	tɛ	AUX	pm	Polarity=Neg|Aspect=Imp	_	_	_	Gloss=IPFV.NEG
+3	se	sé	VERB	v	_	_	_	_	Gloss=arriver
+4	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+5	taa	táa	VERB	v	_	_	_	_	Gloss=aller
+6	ni	ni	X	prep/conj	_	_	_	_	Gloss=et
+7	den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+8	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+9	so	só	NOUN	n	_	_	_	_	Gloss=maison
+10	,	,	PUNCT	_		_	_	_	Gloss=,
+11	fo	fó	X	conj	_	_	_	_	Gloss=jusqu'à
+12	an	án	PRON	pers	PronType=Prs|Number=Plur|Person=1	_	_	_	Gloss=1PL
+13	ka	ka	AUX	pm	Mood=Subj|Polarity=Aff	_	_	_	Gloss=SBJV
+14	taa	táa	VERB	v	_	_	_	_	Gloss=aller
+15	jinɛmuso	jinɛmuso	NOUN	n	_	_	_	_	Gloss=esprit|Morf=esprit,femme
+16	in	ìn	DET	dtm	Definite=Def	_	_	_	Gloss=DEF
+17	fo	fò	VERB	v	_	_	_	_	Gloss=saluer
+18	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+19	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+20	wale(?:ɲ|ny)umandɔn	wáleɲumandɔn	VERB	v	_	_	_	_	Gloss=avoir.gratitude|Morf=avoir.gratitude,acte,bon,connaître
+21	"	"	PUNCT	_		_	_	_	Gloss="
+22	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:28
+# text = U sera jinɛmuso ma k'a fo a ka baara la, k'a ɲini a fɛ a ka den d'u ma, u ka segin n'a ye so.
+1	U	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+2	sera	sera	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=arriver|Morf=arriver,PFV.INTR
+3	jinɛmuso	jinɛmuso	NOUN	n	_	_	_	_	Gloss=esprit|Morf=esprit,femme
+4	ma	mà	ADP	pp	_	_	_	_	Gloss=ADR
+5	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+7	fo	fò	VERB	v	_	_	_	_	Gloss=saluer
+8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+9	ka	ka	ADP	pp	_	_	_	_	Gloss=POSS
+10	baara	báara	NOUN	n	_	_	_	_	Gloss=travail
+11	la	lá	ADP	pp	_	_	_	_	Gloss=à
+12	,	,	PUNCT	_		_	_	_	Gloss=,
+13	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+14	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+15	(?:ɲ|ny)ini	ɲíni	VERB	v	_	_	_	_	Gloss=chercher
+16	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+17	fɛ	fɛ̀	ADP	pp	_	_	_	_	Gloss=par
+18	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+19	ka	ka	ADP	pp	_	_	_	_	Gloss=POSS
+20	den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+21	d'	d'	VERB	v	_	_	_	_	Gloss=donner
+22	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+23	ma	mà	ADP	pp	_	_	_	_	Gloss=ADR
+24	,	,	PUNCT	_		_	_	_	Gloss=,
+25	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+26	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+27	segin	sègin	VERB	v	_	_	_	_	Gloss=revenir
+28	n'	n'	CCONJ	prep/conj	_	_	_	_	Gloss=et
+29	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+30	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+31	so	só	NOUN	n	_	_	_	_	Gloss=maison
+32	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:29
+# text = Jinɛmuso sɔnna k'u labila hɛrɛ ni daden na.
+1	Jinɛmuso	jinɛmuso	NOUN	n	_	_	_	_	Gloss=esprit|Morf=esprit,femme
+2	sɔnna	sɔ̀nna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=accepter|Morf=accepter,PFV.INTR
+3	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+4	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+5	labila	lábìla	VERB	v	Voice=Cau	_	_	_	Gloss=laisser.partir|Morf=laisser.partir,CAUS,mettre
+6	hɛrɛ	hɛ́rɛ	NOUN	n	_	_	_	_	Gloss=paix
+7	ni	ni	X	prep/conj	_	_	_	_	Gloss=et
+8	daden	dádèn	VERB	v	_	_	_	_	Gloss=se.taire|Morf=se.taire,bouche,se.taire
+9	na	ná	ADP	pp	_	_	_	_	Gloss=à
+10	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:30
+# text = Galomuso n'a den seginna ka na masakɛ ka so.
+1	Galomuso	gàlomuso	NOUN	n	_	_	_	_	Gloss=épouse.délaissée|Morf=épouse.délaissée,porte-malheur,femme
+2	n'	n'	SCONJ	conj	_	_	_	_	Gloss=si
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+5	seginna	sèginna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=revenir|Morf=revenir,PFV.INTR
+6	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+7	na	nà	VERB	v	_	_	_	_	Gloss=venir
+8	masakɛ	màsakɛ	NOUN	n	_	_	_	_	Gloss=roi|Morf=roi,roi,mâle
+9	ka	ka	ADP	pp	_	_	_	_	Gloss=POSS
+10	so	só	NOUN	n	_	_	_	_	Gloss=maison
+11	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:31
+# text = U tora yen foyi m'u sɔrɔ baasi la.
+1	U	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+2	tora	tora	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=rester|Morf=rester,PFV.INTR
+3	yen	yèn	NOUN	n	_	_	_	_	Gloss=là-bas
+4	foyi	fóyì	NOUN	n	_	_	_	_	Gloss=rien
+5	m'	m'	AUX	pm	Polarity=Neg|Aspect=Perf	_	_	_	Gloss=PFV.NEG
+6	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+7	sɔrɔ	sɔ̀rɔ	VERB	v	_	_	_	_	Gloss=obtenir
+8	baasi	báasi	NOUN	n	_	_	_	_	Gloss=problème
+9	la	lá	ADP	pp	_	_	_	_	Gloss=à
+10	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:32
+# text = Galomuso laban kɛra baramuso ye.
+1	Galomuso	gàlomuso	NOUN	n	_	_	_	_	Gloss=épouse.délaissée|Morf=épouse.délaissée,porte-malheur,femme
+2	laban	lában	VERB	v	Voice=Cau	_	_	_	Gloss=finir|Morf=finir,CAUS,terminer
+3	kɛra	kɛ́ra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=faire|Morf=faire,PFV.INTR
+4	baramuso	báramuso	NOUN	n	_	_	_	_	Gloss=femme.préférée|Morf=femme.préférée,préféré,femme
+5	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+6	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_10masake_ka_denmusoko.dis.html:33
+# text = N ye nsiirin ta yɔrɔ min n y'a bila yen.
+1	N	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	_	_	_	Gloss=1SG
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	nsiirin	nsíirin	NOUN	n	_	_	_	_	Gloss=conte
+4	ta	tà	VERB	v	_	_	_	_	Gloss=prendre
+5	yɔrɔ	yɔ́rɔ	NOUN	n	_	_	_	_	Gloss=lieu
+6	min	mîn	DET	dtm	PronType=Rel	_	_	_	Gloss=REL
+7	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	_	_	_	Gloss=1SG
+8	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+10	bila	bìla	VERB	v	_	_	_	_	Gloss=mettre
+11	yen	yèn	ADV	adv	_	_	_	_	Gloss=là-bas
+12	.	.	PUNCT	_		_	_	_	Gloss=.
+

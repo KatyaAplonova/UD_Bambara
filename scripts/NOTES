@@ -1,0 +1,6 @@
+python ../../tools/validate.py --lang bm < meyer_gorog-contes_bambara_01syefan_ani_syedennin.dis.conllu
+
+cat meyer_gorog-contes_bambara_01syefan_ani_syedennin.dis.conllu | python3 ../scripts/remove-spurious-newlines.py  > l
+python ../../ud-scripts/conllu-spaceafter.py meyer_gorog-contes_bambara_01syefan_ani_syedennin.dis.conllu  > new
+cat meyer_gorog-contes_bambara_01syefan_ani_syedennin.dis.conllu | python3 ../scripts/fix-errors.py >l
+

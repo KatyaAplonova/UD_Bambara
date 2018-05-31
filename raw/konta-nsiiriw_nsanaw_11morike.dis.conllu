@@ -1,0 +1,512 @@
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:1
+# text = <h>NSIIRIN 11NAN<h/>
+1	NSIIRIN	nsíirin	NOUN	n	_	_	_	_	Gloss=conte
+2	11	11	NUM	num	NumType=Card	_	_	_	Gloss=CARDINAL
+3	NAN	nan	NUM	num	NumType=Ord	_	_	_	Gloss=ORD
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:2
+# text = <h>Morikɛ<h/>
+1	Morikɛ	mórikɛ	NOUN	n	_	_	_	_	Gloss=marabout|Morf=marabout,mâle
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:3
+# text = Nin kɛra morikɛ dɔ ye.
+1	Nin	nìn	PRON	prn	_	_	_	_	Gloss=ceci
+2	kɛra	kɛ́ra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=faire|Morf=faire,PFV.INTR
+3	morikɛ	mórikɛ	NOUN	n	_	_	_	_	Gloss=marabout|Morf=marabout,mâle
+4	dɔ	dɔ́	DET	dtm	_	_	_	_	Gloss=certain
+5	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+6	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:4
+# text = Morikɛ in banana.
+1	Morikɛ	mórikɛ	NOUN	n	_	_	_	_	Gloss=marabout|Morf=marabout,mâle
+2	in	ìn	DET	dtm	Definite=Def	_	_	_	Gloss=DEF
+3	banana	bànana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=tomber.malade|Morf=tomber.malade,PFV.INTR
+4	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:5
+# text = Mori tɛ fara tɛgɛmagɛlɛya la.
+1	Mori	móri	NOUN	n	_	_	_	_	Gloss=marabout
+2	tɛ	tɛ	AUX	pm	Polarity=Neg|Aspect=Imp	_	_	_	Gloss=IPFV.NEG
+3	fara	fára	VERB	v	_	_	_	_	Gloss=diviser
+4	tɛgɛmagɛlɛya	tɛ́gɛmagɛlɛya	NOUN	n	_	_	_	_	Gloss=avarice|Morf=avarice,main,paume,SUPER,dur,ABSTR
+5	la	lá	ADP	pp	_	_	_	_	Gloss=à
+6	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:6
+# text = A y'aɲini ɲini k'a ka bana in furakɛ ni nasiw ni jirifuraw ye, o si ma mago ɲɛ.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	(?:ɲ|ny)ini	ɲíni	VERB	v	_	_	_	_	Gloss=chercher
+5	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+7	ka	ka	ADP	pp	_	_	_	_	Gloss=POSS
+8	bana	bàna	NOUN	n	_	_	_	_	Gloss=maladie
+9	in	ìn	DET	dtm	Definite=Def	_	_	_	Gloss=DEF
+10	furakɛ	fúrakɛ	VERB	v	_	_	_	_	Gloss=soigner|Morf=soigner,feuille,faire
+11	ni	ni	X	prep	_	_	_	_	Gloss=et
+12	nasiw	nasiw	NOUN	n	Number=Plur	_	_	_	Gloss=écrit|Morf=écrit,PL
+13	ni	ni	X	conj	_	_	_	_	Gloss=et
+14	jirifuraw	jirifuraw	NOUN	n	Number=Plur	_	_	_	Gloss=feuille|Morf=feuille,arbre,feuille,PL
+15	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+16	,	,	PUNCT	_		_	_	_	Gloss=,
+17	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+18	si	sí	X	dtm/prn	_	_	_	_	Gloss=aucun
+19	ma	ma	AUX	pm	Polarity=Neg|Aspect=Perf	_	_	_	Gloss=PFV.NEG
+20	mago	màgo	NOUN	n	_	_	_	_	Gloss=besoin
+21	(?:ɲ|ny)ɛ	ɲɛ̀	VERB	v	_	_	_	_	Gloss=réussir
+22	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:7
+# text = A nana dɛsɛ, hali a tɛ su ni tile dɔn ka bɔɲɔgɔnɲɔgɔn ɲɔgɔn na.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	nana	nàna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=venir|Morf=venir,PFV.INTR
+3	dɛsɛ	dɛ́sɛ	VERB	v	_	_	_	_	Gloss=échouer
+4	,	,	PUNCT	_		_	_	_	Gloss=,
+5	hali	hálì	PART	prt	_	_	_	_	Gloss=même
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+7	tɛ	tɛ	AUX	pm	Polarity=Neg|Aspect=Imp	_	_	_	Gloss=IPFV.NEG
+8	su	sú	NOUN	n	_	_	_	_	Gloss=nuit
+9	ni	ni	X	conj	_	_	_	_	Gloss=et
+10	tile	tìle	NOUN	n	_	_	_	_	Gloss=soleil
+11	dɔn	dɔ́n	VERB	v	_	_	_	_	Gloss=connaître
+12	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+13	bɔ	bɔ́	VERB	v	_	_	_	_	Gloss=sortir
+14	(?:ɲ|ny)ɔgɔn	ɲɔ́gɔn	PRON	prn	PronType=Rcp	_	_	_	Gloss=RECP
+15	na	ná	ADP	pp	_	_	_	_	Gloss=à
+16	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:8
+# text = Somɔgɔw jigi minsɛnyara, u y'a ta ka dɔgɔtɔrɔso sɛgɛrɛ.
+1	Somɔgɔw	somɔgɔw	NOUN	n	Number=Plur	_	_	_	Gloss=personne.de.la.famille|Morf=personne.de.la.famille,maison,homme,PL
+2	jigi	jìgi	NOUN	n	_	_	_	_	Gloss=espoir
+3	minsɛnyara	minsɛnyara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=DEQU|Morf=DEQU,PFV.INTR
+4	,	,	PUNCT	_		_	_	_	Gloss=,
+5	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+6	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+8	ta	tà	VERB	v	_	_	_	_	Gloss=prendre
+9	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+10	dɔgɔtɔrɔso	dɔgɔtɔrɔso	NOUN	n	_	_	_	_	Gloss=docteur|Morf=docteur,maison
+11	sɛgɛrɛ	sɛ́gɛrɛ	VERB	v	_	_	_	_	Gloss=rejoindre
+12	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:9
+# text = U selen yen, dɔgɔtɔrɔ y'a minɛ k'a lada yaasa furakɛli na se ka kɛ aɲɛma ɲɛma.
+1	U	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+2	selen	selen	VERB	ptcp	VerbalForm=Part|Aspect=Perf	_	_	_	Gloss=arriver|Morf=arriver,PTCP.RES
+3	yen	yèn	ADV	adv	_	_	_	_	Gloss=là-bas
+4	,	,	PUNCT	_		_	_	_	Gloss=,
+5	dɔgɔtɔrɔ	dɔ̀gɔtɔrɔ	NOUN	n	_	_	_	_	Gloss=docteur
+6	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+8	minɛ	mìnɛ	VERB	v	_	_	_	_	Gloss=attraper
+9	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+11	lada	láda	VERB	v	Voice=Cau	_	_	_	Gloss=faire.coucher|Morf=faire.coucher,CAUS,poser
+12	yaasa	yáasa	SCONJ	conj	_	_	_	_	Gloss=pour.que
+13	furakɛli	fúrakɛli	NOUN	n	VerbalForm=Vnoun	_	_	_	Gloss=traitement|Morf=traitement,feuille,faire,NMLZ
+14	na	nà	AUX	pm	Tense=Fut|Polarity=Pos	_	_	_	Gloss=CERT
+15	se	sé	VERB	v	_	_	_	_	Gloss=arriver
+16	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+17	kɛ	kɛ́	VERB	v	_	_	_	_	Gloss=faire
+18	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+19	(?:ɲ|ny)ɛma	ɲɛ́mà	ADP	pp	_	_	_	_	Gloss=devant|Morf=devant,oeil,ADR
+20	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:10
+# text = Morikɛ ka bana fisayara fo a bɛ kuma mɔgɔw fɛ.
+1	Morikɛ	mórikɛ	NOUN	n	_	_	_	_	Gloss=marabout|Morf=marabout,mâle
+2	ka	ka	ADP	pp	_	_	_	_	Gloss=POSS
+3	bana	bàna	NOUN	n	_	_	_	_	Gloss=maladie
+4	fisayara	fisayara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=améliorer|Morf=améliorer,mieux,DEQU,PFV.INTR
+5	fo	fó	X	conj	_	_	_	_	Gloss=jusqu'à
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+7	bɛ	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+8	kuma	kúma	VERB	v	_	_	_	_	Gloss=parler
+9	mɔgɔw	mɔgɔw	NOUN	n	Number=Plur	_	_	_	Gloss=homme|Morf=homme,PL
+10	fɛ	fɛ̀	ADP	pp	_	_	_	_	Gloss=par
+11	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:11
+# text = A ɲɛmatigɛra k'a yɛrɛ sɔrɔ dakabana so kɔnɔ, a bɛ tubabudalan magaman kan, kuran mɛnɛnen don fan bɛɛ.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	ɲɛmatigɛra	ɲɛmatigɛra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=se.réveiller|Morf=se.réveiller,oeil,SUPER,couper,PFV.INTR
+3	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+5	yɛrɛ	yɛ̀rɛ̂	DET	dtm	_	_	_	_	Gloss=même
+6	sɔrɔ	sɔ̀rɔ	VERB	v	_	_	_	_	Gloss=obtenir
+7	dakabana	dákabana	NOUN	n	_	_	_	_	Gloss=extraordinaire|Morf=extraordinaire,bouche,s'étonner,AG.PRM
+8	so	só	NOUN	n	_	_	_	_	Gloss=maison
+9	kɔnɔ	kɔ́nɔ	ADP	pp	_	_	_	_	Gloss=dans
+10	,	,	PUNCT	_		_	_	_	Gloss=,
+11	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+12	bɛ	bɛ́	VERB	cop	_	_	_	_	Gloss=être
+13	tubabudalan	tubabudalan	NOUN	n	_	_	_	_	Gloss=Européen|Morf=Européen,lit,poser,INSTR
+14	magaman	magaman	ADJ	adj	AdjType=Attr	_	_	_	Gloss=mou|Morf=mou,ADJ
+15	kan	kàn	ADP	pp	_	_	_	_	Gloss=sur
+16	,	,	PUNCT	_		_	_	_	Gloss=,
+17	kuran	kùran	NOUN	n	_	_	_	_	Gloss=électricité
+18	mɛnɛnen	mɛnɛnen	VERB	ptcp	VerbalForm=Part|Aspect=Perf	_	_	_	Gloss=allumer|Morf=allumer,PTCP.RES
+19	don	dòn	VERB	cop	_	_	_	_	Gloss=ID
+20	fan	fàn	NOUN	n	_	_	_	_	Gloss=côté
+21	bɛɛ	bɛ́ɛ	DET	dtm	_	_	_	_	Gloss=tout
+22	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:12
+# text = A y'a miiri k'a fɔ k'ale somaɲɛlɛmana, wa k'a bɛ Alijɛnɛ kɔnɔ, bawo o ye alabatobaa ɲuman bɛɛ taayɔrɔ ye.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	miiri	míiri	VERB	v	_	_	_	_	Gloss=penser
+5	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+7	fɔ	fɔ́	VERB	v	_	_	_	_	Gloss=dire
+8	k'	k'	VERB	cop	_	_	_	_	Gloss=QUOT
+9	ale	àlê	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	_	_	_	Gloss=3SG.EMPH
+10	somaɲɛlɛmana	somayɛlɛmana	NOUN	n	_	_	_	_	Gloss=mourir|Morf=mourir,maison,SUPER,changer,PRF.INTR
+11	,	,	PUNCT	_		_	_	_	Gloss=,
+12	wa	wà	CCONJ	conj	_	_	_	_	Gloss=alors
+13	k'	k'	VERB	cop	_	_	_	_	Gloss=QUOT
+14	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+15	bɛ	bɛ́	VERB	cop	_	_	_	_	Gloss=être
+16	Alijɛnɛ	àlijɛnɛ	NOUN	n	_	_	_	_	Gloss=paradis
+17	kɔnɔ	kɔ́nɔ	ADP	pp	_	_	_	_	Gloss=dans
+18	,	,	PUNCT	_		_	_	_	Gloss=,
+19	bawo	báwò	SCONJ	conj	_	_	_	_	Gloss=puisque
+20	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+21	ye	yé	VERB	cop	Polarity=Pos	_	_	_	Gloss=EQU
+22	alabatobaa	alabatobaa	NOUN	n	_	_	_	_	Gloss=Dieu|Morf=Dieu,adepte,adorer,AG.OCC
+23	ɲuman	ɲùman	ADJ	adj	_	_	_	_	Gloss=bon
+24	bɛɛ	bɛ́ɛ	DET	dtm	_	_	_	_	Gloss=tout
+25	taayɔrɔ	táayɔrɔ	NOUN	n	_	_	_	_	Gloss=destination|Morf=destination,aller,lieu
+26	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+27	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:13
+# text = A ye dɔgɔtɔrɔw n'u ka fini jɛw ye tɛmɛ-tɛmɛ na, a kɛra aɲɛna ɲɛnak'olu ye mɛlɛkɛw ye.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	ye	yé	VERB	cop	Polarity=Pos	_	_	_	Gloss=BE
+3	dɔgɔtɔrɔw	dɔgɔtɔrɔw	NOUN	n	Number=Plur	_	_	_	Gloss=docteur|Morf=docteur,PL
+4	n'	n'	CCONJ	prep	_	_	_	_	Gloss=et
+5	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+6	ka	ka	ADP	pp	_	_	_	_	Gloss=POSS
+7	fini	fìni	NOUN	n	_	_	_	_	Gloss=tissu
+8	jɛw	jɛw	ADJ	adj	Number=Plur	_	_	_	Gloss=blanc|Morf=blanc,PL
+9	ye	yé	VERB	v	_	_	_	_	Gloss=voir
+10	tɛmɛ-tɛmɛ	tɛmɛ-tɛmɛ	VERB	v	_	_	_	_	Gloss=passer|Morf=passer,passer
+11	na	ná	ADP	pp	_	_	_	_	Gloss=à
+12	,	,	PUNCT	_		_	_	_	Gloss=,
+13	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+14	kɛra	kɛ́ra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=faire|Morf=faire,PFV.INTR
+15	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+16	ɲɛna	ɲɛ́na	ADP	pp	_	_	_	_	Gloss=devant|Morf=devant,oeil,à
+17	ak'	k'	VERB	cop	_	_	_	_	Gloss=QUOT
+18	olu	òlû	PRON	pers	PronType=Prs|Number=Plur	_	_	_	Gloss=ce.PL2|Morf=ce.PL2,ce,PL2
+19	ye	yé	VERB	cop	Polarity=Pos	_	_	_	Gloss=EQU
+20	mɛlɛkɛw	mɛlɛkɛw	NOUN	n	Number=Plur	_	_	_	Gloss=ange|Morf=ange,PL
+21	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+22	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:14
+# text = A y'a kɛrɛ ni a kɛrɛ filɛ, ka banabaatɔw dalen ye.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	kɛrɛ	kɛ̀rɛ	NOUN	n	_	_	_	_	Gloss=côté
+5	ni	ni	X	conj	_	_	_	_	Gloss=et
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+7	kɛrɛ	kɛ̀rɛ	NOUN	n	_	_	_	_	Gloss=côté
+8	filɛ	fílɛ	VERB	v	_	_	_	_	Gloss=regarder
+9	,	,	PUNCT	_		_	_	_	Gloss=,
+10	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+11	banabaatɔw	bànabaatɔw	NOUN	n	Number=Plur	_	_	_	Gloss=malade|Morf=malade,maladie,AG.OCC,ST,PL
+12	dalen	dalen	VERB	ptcp	VerbalForm=Part|Aspect=Perf	_	_	_	Gloss=poser|Morf=poser,PTCP.RES
+13	ye	yé	VERB	v	_	_	_	_	Gloss=voir
+14	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:15
+# text = O kɛra aɲɛna ɲɛna alijɛnɛ kɔnɔ mɔgɔw dalen ye.
+1	O	ò	PRON	prn	_	_	_	_	Gloss=ce
+2	kɛra	kɛ́ra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=faire|Morf=faire,PFV.INTR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	ɲɛna	ɲɛ́na	ADP	pp	_	_	_	_	Gloss=devant|Morf=devant,oeil,à
+5	alijɛnɛ	àlijɛnɛ	NOUN	n	_	_	_	_	Gloss=paradis
+6	kɔnɔ	kɔ́nɔ	ADP	pp	_	_	_	_	Gloss=dans
+7	mɔgɔw	mɔgɔw	NOUN	n	Number=Plur	_	_	_	Gloss=homme|Morf=homme,PL
+8	dalen	dalen	VERB	ptcp	VerbalForm=Part|Aspect=Perf	_	_	_	Gloss=poser|Morf=poser,PTCP.RES
+9	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+10	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:16
+# text = Morikɛ ye a kɛrɛfɛ mɔgɔ kɔri, k'o ɲininka: “N ka cɛ, e fatura kabini tuma jumɛn?” O dimina, bawo saya tɛ fɛn ye, mɔgɔ bɛ min kanu banabaatɔ ye.
+1	Morikɛ	mórikɛ	NOUN	n	_	_	_	_	Gloss=marabout|Morf=marabout,mâle
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	kɛrɛfɛ	kɛ̀rɛfɛ̀	ADP	pp	_	_	_	_	Gloss=par.côté|Morf=par.côté,côté,par
+5	mɔgɔ	mɔ̀gɔ	NOUN	n	_	_	_	_	Gloss=homme
+6	kɔri	kɔ́ri	VERB	v	_	_	_	_	Gloss=toucher.légèrement
+7	,	,	PUNCT	_		_	_	_	Gloss=,
+8	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+9	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+10	ɲininka	ɲìninka	VERB	v	_	_	_	_	Gloss=interroger
+11	:	:	PUNCT	_		_	_	_	Gloss=:
+12	“	“	X	_	_	_	_	_	Gloss=“
+13	N	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	_	_	_	Gloss=1SG
+14	ka	ka	ADP	pp	_	_	_	_	Gloss=POSS
+15	cɛ	cɛ̀	NOUN	n	_	_	_	_	Gloss=mâle
+16	,	,	PUNCT	_		_	_	_	Gloss=,
+17	e	ê	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	_	_	_	Gloss=2SG.EMPH
+18	fatura	fatura	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=mourir|Morf=mourir,PFV.INTR
+19	kabini	kàbini	X	prep	_	_	_	_	Gloss=depuis|Morf=depuis,depuis,si
+20	tuma	tùma	NOUN	n	_	_	_	_	Gloss=moment
+21	jumɛn	jùmɛn	PRON	prn	_	_	_	_	Gloss=lequel
+22	?	?	PUNCT	_		_	_	_	Gloss=?
+23	”	”	X	_	_	_	_	_	Gloss=”
+24	O	ò	PRON	prn	_	_	_	_	Gloss=ce
+25	dimina	dimina	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=faire.souffrir|Morf=faire.souffrir,PFV.INTR
+26	,	,	PUNCT	_		_	_	_	Gloss=,
+27	bawo	báwò	SCONJ	conj	_	_	_	_	Gloss=puisque
+28	saya	sàya	NOUN	n	_	_	_	_	Gloss=mort|Morf=mort,mourir,ABSTR
+29	tɛ	tɛ́	VERB	cop	Polarity=Neg	_	_	_	Gloss=COP.NEG
+30	fɛn	fɛ́n	NOUN	n	_	_	_	_	Gloss=chose
+31	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+32	,	,	PUNCT	_		_	_	_	Gloss=,
+33	mɔgɔ	mɔ̀gɔ	NOUN	n	_	_	_	_	Gloss=homme
+34	bɛ	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+35	min	mîn	PRON	prn	PronType=Rel	_	_	_	Gloss=REL
+36	kanu	kànu	VERB	v	_	_	_	_	Gloss=aimer
+37	banabaatɔ	bànabaatɔ	NOUN	n	_	_	_	_	Gloss=malade|Morf=malade,maladie,AG.OCC,ST
+38	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+39	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:17
+# text = Morikɛ jannen tora a ka “Li” magaman kan, a bɛ to ka kuranɛ haayaw kalan, a bɛ wurudili ni dugawuw kɛ.
+1	Morikɛ	mórikɛ	NOUN	n	_	_	_	_	Gloss=marabout|Morf=marabout,mâle
+2	jannen	jannen	VERB	ptcp	VerbalForm=Part|Aspect=Perf	_	_	_	Gloss=tourner.face.au.ciel|Morf=tourner.face.au.ciel,PTCP.RES
+3	tora	tóra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=rester|Morf=rester,PFV.INTR
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+5	ka	ka	ADP	pp	_	_	_	_	Gloss=POSS
+6	“	“	X	_	_	_	_	_	Gloss=“
+7	Li	li	NOUN	n	_	_	_	_	Gloss=ETRG.FR
+8	”	”	X	_	_	_	_	_	Gloss=”
+9	magaman	magaman	ADJ	adj	AdjType=Attr	_	_	_	Gloss=mou|Morf=mou,ADJ
+10	kan	kàn	ADP	pp	_	_	_	_	Gloss=sur
+11	,	,	PUNCT	_		_	_	_	Gloss=,
+12	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+13	bɛ	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+14	to	tó	VERB	v	_	_	_	_	Gloss=rester
+15	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+16	kuranɛ	kùranɛ	NOUN	n	_	_	_	_	Gloss=Coran
+17	haayaw	háya	NOUN	n	_	_	_	_	Gloss=verset.coranique
+18	kalan	kàlan	VERB	v	_	_	_	_	Gloss=lire
+19	,	,	PUNCT	_		_	_	_	Gloss=,
+20	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+21	bɛ	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+22	wurudili	wurudili	NOUN	n	VerbalForm=Vnoun	_	_	_	Gloss=égrener.chapelet|Morf=égrener.chapelet,NMLZ
+23	ni	ni	X	conj	_	_	_	_	Gloss=et
+24	dugawuw	dugawuw	NOUN	n	Number=Plur	_	_	_	Gloss=bénédiction|Morf=bénédiction,PL
+25	kɛ	kɛ́	VERB	v	_	_	_	_	Gloss=faire
+26	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:18
+# text = A nimisi wasara, bawo ale bolo, a ka alabato minɛna.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	nimisi	nímisi	NOUN	n	_	_	_	_	Gloss=regret
+3	wasara	wasara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=satisfaire|Morf=satisfaire,PFV.INTR
+4	,	,	PUNCT	_		_	_	_	Gloss=,
+5	bawo	báwò	SCONJ	conj	_	_	_	_	Gloss=puisque
+6	ale	àlê	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	_	_	_	Gloss=3SG.EMPH
+7	bolo	bólo	ADP	pp	_	_	_	_	Gloss=CNTRL
+8	,	,	PUNCT	_		_	_	_	Gloss=,
+9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+10	ka	ka	ADP	pp	_	_	_	_	Gloss=POSS
+11	alabato	álabato	NOUN	n	_	_	_	_	Gloss=prière.communautaire|Morf=prière.communautaire,Dieu,adoration
+12	minɛna	mìnɛna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=attraper|Morf=attraper,PFV.INTR
+13	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:19
+# text = Sɔɔnin a ye dɔgɔtɔrɔmuso dɔ tɛmɛtɔ ye.
+1	Sɔɔnin	sɔ́ɔni	ADV	adv	_	_	_	_	Gloss=bientôt
+2	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+3	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+4	dɔgɔtɔrɔmuso	dɔ̀gɔtɔrɔ.muso	NOUN	n	_	_	_	_	Gloss=doctoresse|Morf=doctoresse,docteur,femme
+5	dɔ	dɔ́	DET	dtm	_	_	_	_	Gloss=certain
+6	tɛmɛtɔ	tɛ̀mɛtɔ	VERB	ptcp	_	_	_	_	Gloss=passer|Morf=passer,CONV
+7	ye	yé	VERB	v	_	_	_	_	Gloss=voir
+8	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:20
+# text = A y'i kanto o ma “Mɛlɛkɛ, Alijɛnɛ jiko bɛ di sa!”.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	_	_	_	Gloss=REFL
+4	kanto	kánto	VERB	v	_	_	_	_	Gloss=s'adresser|Morf=s'adresser,cou,rester
+5	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+6	ma	mà	ADP	pp	_	_	_	_	Gloss=ADR
+7	“	“	X	_	_	_	_	_	Gloss=“
+8	Mɛlɛkɛ	mɛ̀lɛkɛ	NOUN	n	_	_	_	_	Gloss=ange
+9	,	,	PUNCT	_		_	_	_	Gloss=,
+10	Alijɛnɛ	àlijɛnɛ	NOUN	n	_	_	_	_	Gloss=paradis
+11	jiko	jíko	NOUN	n	_	_	_	_	Gloss=eau|Morf=eau,affaire
+12	bɛ	bɛ́	VERB	cop	_	_	_	_	Gloss=être
+13	di	dì	PRON	prn	_	_	_	_	Gloss=comment
+14	sa	sá	PART	prt	_	_	_	_	Gloss=enfin
+15	!	!	PUNCT	_		_	_	_	Gloss=!
+16	”	”	X	_	_	_	_	_	Gloss=”
+17	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:21
+# text = Dɔgɔtɔrɔmuso ye ji sumalen di a ma.
+1	Dɔgɔtɔrɔmuso	dɔ̀gɔtɔrɔ.muso	NOUN	n	_	_	_	_	Gloss=doctoresse|Morf=doctoresse,docteur,femme
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	ji	jí	NOUN	n	_	_	_	_	Gloss=eau
+4	sumalen	súmalen	VERB	ptcp	VerbalForm=Part|Aspect=Perf	_	_	_	Gloss=rafraîchir|Morf=rafraîchir,PTCP.RES
+5	di	dí	VERB	v	_	_	_	_	Gloss=donner
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+7	ma	mà	ADP	pp	_	_	_	_	Gloss=ADR
+8	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:22
+# text = A nisɔndiyara kosɛbɛ, a kɛra aɲɛna ɲɛna ko ji in ye Alijɛnɛ kɔji senumanw dɔ ye.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	nisɔndiyara	nisɔndiyara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=réjouir|Morf=réjouir,humeur,âme,cœur,agréable,ABSTR,PFV.INTR
+3	kosɛbɛ	kósɛbɛ	ADV	adv	_	_	_	_	Gloss=très.bien|Morf=très.bien,affaire,sérieux
+4	,	,	PUNCT	_		_	_	_	Gloss=,
+5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+6	kɛra	kɛ́ra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=faire|Morf=faire,PFV.INTR
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+8	ɲɛna	ɲɛ́na	ADP	pp	_	_	_	_	Gloss=devant|Morf=devant,oeil,à
+9	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+10	ji	jí	NOUN	n	_	_	_	_	Gloss=eau
+11	in	ìn	DET	dtm	Definite=Def	_	_	_	Gloss=DEF
+12	ye	yé	VERB	cop	Polarity=Pos	_	_	_	Gloss=EQU
+13	Alijɛnɛ	àlijɛnɛ	NOUN	n	_	_	_	_	Gloss=paradis
+14	kɔji	kɔji	NOUN	n	_	_	_	_	Gloss=marigot|Morf=marigot,eau
+15	senumanw	senumanw	ADJ	adj	Number=Plur|AdjType=Attr	_	_	_	Gloss=saint|Morf=saint,saint,ADJ,PL
+16	dɔ	dɔ́	DET	dtm	_	_	_	_	Gloss=certain
+17	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+18	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:23
+# text = O kɔfɛ, dɔgɔtɔrɔkɛ dɔ fana nana.
+1	O	ò	PRON	prn	_	_	_	_	Gloss=ce
+2	kɔfɛ	kɔ́fɛ̀	ADP	pp	_	_	_	_	Gloss=derrière|Morf=derrière,dos,par
+3	,	,	PUNCT	_		_	_	_	Gloss=,
+4	dɔgɔtɔrɔkɛ	dɔgɔtɔrɔkɛ	NOUN	n	_	_	_	_	Gloss=docteur|Morf=docteur,mâle
+5	dɔ	dɔ́	DET	dtm	_	_	_	_	Gloss=certain
+6	fana	fána	PART	prt	_	_	_	_	Gloss=aussi
+7	nana	nàna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=venir|Morf=venir,PFV.INTR
+8	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:24
+# text = A y'o wele k'o ɲininka "Mɛlɛkɛ!
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+4	wele	wéle	VERB	v	_	_	_	_	Gloss=appeler
+5	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+6	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+7	ɲininka	ɲìninka	VERB	v	_	_	_	_	Gloss=interroger
+8	"	"	PUNCT	_		_	_	_	Gloss="
+9	Mɛlɛkɛ	mɛ̀lɛkɛ	NOUN	n	_	_	_	_	Gloss=ange
+10	!	!	PUNCT	_		_	_	_	Gloss=!
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:25
+# text = I gɛrɛ n na yan dɛ.
+1	I	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	_	_	_	Gloss=2SG
+2	gɛrɛ	gɛ̀rɛ	VERB	v	_	_	_	_	Gloss=s'approcher
+3	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	_	_	_	Gloss=1SG
+4	na	ná	ADP	pp	_	_	_	_	Gloss=à
+5	yan	yàn	ADV	adv	_	_	_	_	Gloss=ici
+6	dɛ	dɛ́	PART	prt	_	_	_	_	Gloss=certes
+7	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:26
+# text = Ne ko yan musoko bɛ cogo di?
+1	Ne	nê	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	_	_	_	Gloss=1SG.EMPH
+2	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+3	yan	yàn	NOUN	n	_	_	_	_	Gloss=ici
+4	musoko	mùsoko	NOUN	n	_	_	_	_	Gloss=amour.charnel|Morf=amour.charnel,femme,affaire
+5	bɛ	bɛ́	VERB	cop	_	_	_	_	Gloss=être
+6	cogo	cógo	NOUN	n	_	_	_	_	Gloss=manière
+7	di	dì	PRON	prn	_	_	_	_	Gloss=comment
+8	?	?	PUNCT	_		_	_	_	Gloss=?
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:27
+# text = “O yɛlɛla o ma sɔn k'a jaabi, o taara.
+1	“	“	X	_	_	_	_	_	Gloss=“
+2	O	ò	PRON	prn	_	_	_	_	Gloss=ce
+3	yɛlɛla	yɛlɛla	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=rire|Morf=rire,PFV.INTR
+4	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+5	ma	ma	AUX	pm	Polarity=Neg|Aspect=Perf	_	_	_	Gloss=PFV.NEG
+6	sɔn	sɔ̀n	VERB	v	_	_	_	_	Gloss=accepter
+7	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+9	jaabi	jáabi	VERB	v	_	_	_	_	Gloss=répondre
+10	,	,	PUNCT	_		_	_	_	Gloss=,
+11	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+12	taara	táara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=aller|Morf=aller,PFV.INTR
+13	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:28
+# text = Sunɔgɔ ye morikɛ ta, a ye su bɛɛ kɛ sunɔgɔ la.
+1	Sunɔgɔ	sùnɔgɔ	NOUN	n	_	_	_	_	Gloss=sommeil
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	morikɛ	mórikɛ	NOUN	n	_	_	_	_	Gloss=marabout|Morf=marabout,mâle
+4	ta	tà	VERB	v	_	_	_	_	Gloss=prendre
+5	,	,	PUNCT	_		_	_	_	Gloss=,
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+7	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+8	su	sú	NOUN	n	_	_	_	_	Gloss=nuit
+9	bɛɛ	bɛ́ɛ	DET	dtm	_	_	_	_	Gloss=tout
+10	kɛ	kɛ́	VERB	v	_	_	_	_	Gloss=faire
+11	sunɔgɔ	sùnɔgɔ	NOUN	n	_	_	_	_	Gloss=sommeil
+12	la	lá	ADP	pp	_	_	_	_	Gloss=à
+13	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:29
+# text = Dugu jɛlen a y'a faamu k'a bɛdiɲɛ diɲɛ kɔnɔ.
+1	Dugu	dùgu	NOUN	n	_	_	_	_	Gloss=terre
+2	jɛlen	jɛ́len	VERB	ptcp	VerbalForm=Part|Aspect=Perf	_	_	_	Gloss=blanchir|Morf=blanchir,PTCP.RES
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+6	faamu	fàamu	VERB	v	_	_	_	_	Gloss=comprendre
+7	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+9	bɛ	bɛ́	VERB	cop	_	_	_	_	Gloss=être
+10	di(?:ɲ|ny)ɛ	díɲɛ	NOUN	n	_	_	_	_	Gloss=monde
+11	kɔnɔ	kɔ́nɔ	ADP	pp	_	_	_	_	Gloss=dans
+12	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:30
+# text = O jigitigɛ fɛ, a ye laharalakaw sɔgɔmada fo.
+1	O	ò	PRON	prn	_	_	_	_	Gloss=ce
+2	jigitigɛ	jìgitigɛ	NOUN	n	_	_	_	_	Gloss=désillusion|Morf=désillusion,espoir,couper
+3	fɛ	fɛ̀	ADP	pp	_	_	_	_	Gloss=par
+4	,	,	PUNCT	_		_	_	_	Gloss=,
+5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+6	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+7	laharalakaw	laharalakaw	NOUN	n	Number=Plur	_	_	_	Gloss=l'au-delà|Morf=l'au-delà,LOC,GENT,PL
+8	sɔgɔmada	sɔ̀gɔmada	NOUN	n	_	_	_	_	Gloss=début.de.matinée|Morf=début.de.matinée,matin,bouche
+9	fo	fò	VERB	v	_	_	_	_	Gloss=saluer
+10	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_11morike.dis.html:31
+# text = N ye nsiirin ta yɔrɔ min, n y'a bila yen.
+1	N	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	_	_	_	Gloss=1SG
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	nsiirin	nsíirin	NOUN	n	_	_	_	_	Gloss=conte
+4	ta	tà	VERB	v	_	_	_	_	Gloss=prendre
+5	yɔrɔ	yɔ́rɔ	NOUN	n	_	_	_	_	Gloss=lieu
+6	min	mîn	DET	dtm	PronType=Rel	_	_	_	Gloss=REL
+7	,	,	PUNCT	_		_	_	_	Gloss=,
+8	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	_	_	_	Gloss=1SG
+9	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+11	bila	bìla	VERB	v	_	_	_	_	Gloss=mettre
+12	yen	yèn	ADV	adv	_	_	_	_	Gloss=là-bas
+13	.	.	PUNCT	_		_	_	_	Gloss=.
+

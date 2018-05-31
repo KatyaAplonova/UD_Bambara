@@ -1,0 +1,540 @@
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:1
+# text = <h>SINAMUSO JUGU</h>
+1	SINAMUSO	sìnamuso	NOUN	n	_	_	_	_	Gloss=coépouse|Morf=coépouse,coépouse,femme
+2	JUGU	júgu	ADJ	adj	_	_	_	_	Gloss=mauvais
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:2
+# text = ntalen, ntalen.
+1	ntalen	ntàlen	NOUN	n	_	_	_	_	Gloss=parabole
+2	,	,	PUNCT	_		_	_	_	Gloss=,
+3	ntalen	ntàlen	NOUN	n	_	_	_	_	Gloss=parabole
+4	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:3
+# text = n ye a da masakè nin de na.
+1	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	_	_	_	Gloss=1SG
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	da	dá	VERB	v	_	_	_	_	Gloss=poser
+5	masakè	màsakɛ	NOUN	n	_	_	_	_	Gloss=roi|Morf=roi,roi,mâle
+6	nin	nìn	DET	dtm	PronType=Dem|Definite-Def	_	_	_	Gloss=DEM
+7	de	dè	PART	prt	_	_	_	_	Gloss=FOC
+8	na	ná	ADP	pp	_	_	_	_	Gloss=à
+9	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:4
+# text = a ye muso kònòntò furu.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	muso	mùso	NOUN	n	_	_	_	_	Gloss=femme
+4	kònòntò	kɔ̀nɔntɔn	NUM	num	_	_	_	_	Gloss=neuf
+5	furu	fúru	VERB	v	_	_	_	_	Gloss=épouser
+6	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:5
+# text = hali kelen ma den sòrò a ye.
+1	hali	hálì	PART	prt	_	_	_	_	Gloss=même
+2	kelen	kélen	NUM	num	_	_	_	_	Gloss=un
+3	ma	ma	AUX	pm	Polarity=Neg|Aspect=Perf	_	_	_	Gloss=PFV.NEG
+4	den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+5	sòrò	sɔ̀rɔ	VERB	v	_	_	_	_	Gloss=obtenir
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+7	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+8	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:6
+# text = a ye tannan furu, a ye denkè kelen sòrò a ye.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	tannan	tánnan	ADJ	adj	NumType=Ord	_	_	_	Gloss=dixième|Morf=dixième,dix,ORD
+4	furu	fúru	VERB	v	_	_	_	_	Gloss=épouser
+5	,	,	PUNCT	_		_	_	_	Gloss=,
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+7	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+8	denkè	dénkɛ	NOUN	n	_	_	_	_	Gloss=fils|Morf=fils,enfant,mâle
+9	kelen	kélen	NUM	num	_	_	_	_	Gloss=un
+10	sòrò	sɔ̀rɔ	VERB	v	_	_	_	_	Gloss=obtenir
+11	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+12	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+13	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:7
+# text = o den bonyara ka bonya.
+1	o	ò	DET	dtm	_	_	_	_	Gloss=ce
+2	den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+3	bonyara	bonyara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=grossir|Morf=grossir,grand,DEQU,PFV.INTR
+4	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+5	bonya	bònya	VERB	v	_	_	_	_	Gloss=grossir|Morf=grossir,grand,DEQU
+6	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:8
+# text = sinama dò ko den ye ko na n danda lògònyiniyòrò.
+1	sinama	sinama	NOUN	n	_	_	_	_	Gloss=coépouse|Morf=coépouse,COM
+2	dò	dɔ́	DET	dtm	_	_	_	_	Gloss=certain
+3	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+4	den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+5	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+6	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+7	na	nà	VERB	v	_	_	_	_	Gloss=venir
+8	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	_	_	_	Gloss=1SG
+9	danda	dánda	VERB	v	_	_	_	_	Gloss=assister
+10	lògònyiniyòrò	dɔ́gɔɲíniyɔ́rɔ	NOUN	n	_	_	_	_	Gloss=fagot|Morf=fagot,chercher,lieu
+11	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:9
+# text = a ba ko ayi a tè taga dè ko nin dòròn bè n bolo.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	ba	bá	NOUN	n	_	_	_	_	Gloss=mère
+3	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+4	ayi	àyi	INTJ	intj	_	_	_	_	Gloss=non
+5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+6	tè	tɛ	AUX	pm	Polarity=Neg|Aspect=Imp	_	_	_	Gloss=IPFV.NEG
+7	taga	tága	VERB	v	_	_	_	_	Gloss=aller
+8	dè	dɛ́	PART	prt	_	_	_	_	Gloss=certes
+9	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+10	nin	nìn	PRON	prn	_	_	_	_	Gloss=ceci
+11	dòròn	dɔ́rɔn	DET	dtm	_	_	_	_	Gloss=seulement
+12	bè	bɛ́	VERB	cop	_	_	_	_	Gloss=être
+13	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	_	_	_	Gloss=1SG
+14	bolo	bólo	ADP	pp	_	_	_	_	Gloss=CNTRL
+15	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:10
+# text = ko an bèè den don !
+1	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+2	an	án	PRON	pers	PronType=Prs|Number=Plur|Person=1	_	_	_	Gloss=1PL
+3	bèè	bɛ́ɛ	DET	dtm	_	_	_	_	Gloss=tout
+4	den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+5	don	dòn	VERB	cop	_	_	_	_	Gloss=ID
+6	!	!	PUNCT	_		_	_	_	Gloss=!
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:11
+# text = a ko an ka taga nyògòn fè ka kuma ka kuma ka kuma fo ba nin sònna.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+3	an	án	PRON	pers	PronType=Prs|Number=Plur|Person=1	_	_	_	Gloss=1PL
+4	ka	ka	AUX	pm	Mood=Subj|Polarity=Aff	_	_	_	Gloss=SBJV
+5	taga	tága	VERB	v	_	_	_	_	Gloss=aller
+6	nyògòn	ɲɔ́gɔn	PRON	prn	PronType=Rcp	_	_	_	Gloss=RECP
+7	fè	fɛ̀	ADP	pp	_	_	_	_	Gloss=par
+8	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+9	kuma	kúma	VERB	v	_	_	_	_	Gloss=parler
+10	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+11	kuma	kúma	VERB	v	_	_	_	_	Gloss=parler
+12	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+13	kuma	kúma	VERB	v	_	_	_	_	Gloss=parler
+14	fo	fó	X	conj	_	_	_	_	Gloss=jusqu'à
+15	ba	bá	NOUN	n	_	_	_	_	Gloss=mère
+16	nin	nìn	DET	dtm	PronType=Dem|Definite-Def	_	_	_	Gloss=DEM
+17	sònna	sɔnna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=accepter|Morf=accepter,PFV.INTR
+18	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:12
+# text = u tagara dòròn, u tagara sisan fo u tagara jègèminèyòrò.
+1	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=aller|Morf=aller,PFV.INTR
+3	dòròn	dɔ́rɔn	ADV	adv	_	_	_	_	Gloss=seulement
+4	,	,	PUNCT	_		_	_	_	Gloss=,
+5	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+6	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=aller|Morf=aller,PFV.INTR
+7	sisan	sísàn	NOUN	n	_	_	_	_	Gloss=maintenant
+8	fo	fó	X	conj	_	_	_	_	Gloss=jusqu'à
+9	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+10	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=aller|Morf=aller,PFV.INTR
+11	jègèminèyòrò	jɛgɛminɛyɔrɔ	NOUN	n	_	_	_	_	Gloss=poisson|Morf=poisson,attraper,lieu
+12	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:13
+# text = muso nin a ye kònòkònò minè ale ye furuba minè.
+1	muso	mùso	NOUN	n	_	_	_	_	Gloss=femme
+2	nin	nìn	DET	dtm	PronType=Dem|Definite-Def	_	_	_	Gloss=DEM
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+5	kònòkònò	kɔ̀nɔ̀kɔ̀nɔ̀nin	NOUN	n	_	_	_	_	Gloss=silure
+6	minè	mìnɛ	VERB	v	_	_	_	_	Gloss=attraper
+7	ale	àlê	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	_	_	_	Gloss=3SG.EMPH
+8	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+9	furuba	fùruba	NOUN	n	_	_	_	_	Gloss=tétrodon|Morf=tétrodon,estomac,AUGM
+10	minè	mìnɛ	VERB	v	_	_	_	_	Gloss=attraper
+11	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:14
+# text = muso nin ko ko u ka a falen ko u ka a falen.
+1	muso	mùso	NOUN	n	_	_	_	_	Gloss=femme
+2	nin	nìn	DET	dtm	PronType=Dem|Definite-Def	_	_	_	Gloss=DEM
+3	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+4	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+5	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+6	ka	ka	AUX	pm	Mood=Subj|Polarity=Aff	_	_	_	Gloss=SBJV
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+8	falen	fàlen	VERB	v	_	_	_	_	Gloss=échanger
+9	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+10	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+11	ka	ka	AUX	pm	Mood=Subj|Polarity=Aff	_	_	_	Gloss=SBJV
+12	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+13	falen	fàlen	VERB	v	_	_	_	_	Gloss=échanger
+14	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:15
+# text = a ko ayi !
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+3	ayi	àyi	INTJ	intj	_	_	_	_	Gloss=non
+4	!	!	PUNCT	_		_	_	_	Gloss=!
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:16
+# text = muso nin ye a minè ka a faga ka a jeni ka a kè buguri ye.
+1	muso	mùso	NOUN	n	_	_	_	_	Gloss=femme
+2	nin	nìn	DET	dtm	PronType=Dem|Definite-Def	_	_	_	Gloss=DEM
+3	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+5	minè	mìnɛ	VERB	v	_	_	_	_	Gloss=attraper
+6	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+8	faga	fàga	VERB	v	_	_	_	_	Gloss=tuer
+9	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+11	jeni	jèni	VERB	v	_	_	_	_	Gloss=brûler
+12	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+13	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+14	kè	kɛ́	VERB	v	_	_	_	_	Gloss=faire
+15	buguri	bùguri	NOUN	n	_	_	_	_	Gloss=poussière
+16	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+17	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:17
+# text = a ye buguri nin sanba lu kònò.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	buguri	bùguri	NOUN	n	_	_	_	_	Gloss=poussière
+4	nin	nìn	DET	dtm	PronType=Dem|Definite-Def	_	_	_	Gloss=DEM
+5	sanba	sàma	VERB	v	_	_	_	_	Gloss=tirer.vers.soi
+6	lu	dú	NOUN	n	_	_	_	_	Gloss=concession
+7	kònò	kɔ́nɔ	ADP	pp	_	_	_	_	Gloss=dans
+8	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:18
+# text = a ye ji kè buguri nin na.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	ji	jí	NOUN	n	_	_	_	_	Gloss=eau
+4	kè	kɛ́	VERB	v	_	_	_	_	Gloss=faire
+5	buguri	bùguri	NOUN	n	_	_	_	_	Gloss=poussière
+6	nin	nìn	DET	dtm	PronType=Dem|Definite-Def	_	_	_	Gloss=DEM
+7	na	ná	ADP	pp	_	_	_	_	Gloss=à
+8	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:19
+# text = buguri nin ko : tot tot tot !
+1	buguri	bùguri	NOUN	n	_	_	_	_	Gloss=poussière
+2	nin	nìn	DET	dtm	PronType=Dem|Definite-Def	_	_	_	Gloss=DEM
+3	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+4	:	:	PUNCT	_		_	_	_	Gloss=:
+5	tot	tot	INTJ	onomat	_	_	_	_	Gloss=bruit.bulle
+6	tot	tot	INTJ	onomat	_	_	_	_	Gloss=bruit.bulle
+7	tot	tot	INTJ	onomat	_	_	_	_	Gloss=bruit.bulle
+8	!	!	PUNCT	_		_	_	_	Gloss=!
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:20
+# text = a ko: tinòò, n nata kòmòn na.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+3	:	:	PUNCT	_		_	_	_	Gloss=:
+4	tinòò	Tinɔɔ	PROPN	n.prop	_	_	_	_	Gloss=NOM.M
+5	,	,	PUNCT	_		_	_	_	Gloss=,
+6	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	_	_	_	Gloss=1SG
+7	nata	nàna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=venir|Morf=venir,PFV.INTR
+8	kòmòn	kɔ̀mɔn	NOUN	n	_	_	_	_	Gloss=marigot|Morf=marigot,pêcher
+9	na	ná	ADP	pp	_	_	_	_	Gloss=à
+10	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:21
+# text = tinòò, n fana taata kòmòn na.
+1	tinòò	Tinɔɔ	PROPN	n.prop	_	_	_	_	Gloss=NOM.M
+2	,	,	PUNCT	_		_	_	_	Gloss=,
+3	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	_	_	_	Gloss=1SG
+4	fana	fána	PART	prt	_	_	_	_	Gloss=aussi
+5	taata	taara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=aller|Morf=aller,PFV.INTR
+6	kòmòn	kɔ̀mɔn	NOUN	n	_	_	_	_	Gloss=marigot|Morf=marigot,pêcher
+7	na	ná	ADP	pp	_	_	_	_	Gloss=à
+8	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:22
+# text = tinòò, na ye a falennò kè.
+1	tinòò	Tinɔɔ	PROPN	n.prop	_	_	_	_	Gloss=NOM.M
+2	,	,	PUNCT	_		_	_	_	Gloss=,
+3	na	nà	NOUN	n	_	_	_	_	Gloss=mère
+4	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+6	falennò	falenni	NOUN	n	VerbalForm=Vnoun	_	_	_	Gloss=échanger|Morf=échanger,NMLZ
+7	kè	kɛ́	VERB	v	_	_	_	_	Gloss=faire
+8	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:23
+# text = tinòò, na ye a falennò kè.
+1	tinòò	Tinɔɔ	PROPN	n.prop	_	_	_	_	Gloss=NOM.M
+2	,	,	PUNCT	_		_	_	_	Gloss=,
+3	na	nà	NOUN	n	_	_	_	_	Gloss=mère
+4	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+6	falennò	falenni	NOUN	n	VerbalForm=Vnoun	_	_	_	Gloss=échanger|Morf=échanger,NMLZ
+7	kè	kɛ́	VERB	v	_	_	_	_	Gloss=faire
+8	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:24
+# text = musokòrònin ye o kuma mèn.
+1	musokòrònin	mùsokɔrɔnin	NOUN	n	_	_	_	_	Gloss=vieille.femme|Morf=vieille.femme,vieille.femme,femme,vieux,DIM
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	o	ò	DET	dtm	_	_	_	_	Gloss=ce
+4	kuma	kúma	NOUN	n	_	_	_	_	Gloss=parole
+5	mèn	mɛ́n	VERB	v	_	_	_	_	Gloss=entendre
+6	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:25
+# text = a tagara.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=aller|Morf=aller,PFV.INTR
+3	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:26
+# text = a ko n fa masa, n ba masa, ko fèn bè i ka lu kònò, i bada ma o mèn, ko buguri min bè kuma.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+3	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	_	_	_	Gloss=1SG
+4	fa	fà	NOUN	n	_	_	_	_	Gloss=père
+5	masa	màsa	NOUN	n	_	_	_	_	Gloss=roi
+6	,	,	PUNCT	_		_	_	_	Gloss=,
+7	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	_	_	_	Gloss=1SG
+8	ba	bá	NOUN	n	_	_	_	_	Gloss=mère
+9	masa	màsa	NOUN	n	_	_	_	_	Gloss=roi
+10	,	,	PUNCT	_		_	_	_	Gloss=,
+11	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+12	fèn	fɛ́n	NOUN	n	_	_	_	_	Gloss=chose
+13	bè	bɛ́	VERB	cop	_	_	_	_	Gloss=être
+14	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	_	_	_	Gloss=2SG
+15	ka	ka	ADP	pp	_	_	_	_	Gloss=POSS
+16	lu	dú	NOUN	n	_	_	_	_	Gloss=concession
+17	kònò	kɔ́nɔ	ADP	pp	_	_	_	_	Gloss=dans
+18	,	,	PUNCT	_		_	_	_	Gloss=,
+19	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	_	_	_	Gloss=2SG
+20	bada	báda	ADV	adv	_	_	_	_	Gloss=toujours
+21	ma	ma	AUX	pm	Polarity=Neg|Aspect=Perf	_	_	_	Gloss=PFV.NEG
+22	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+23	mèn	mɛ́n	VERB	v	_	_	_	_	Gloss=entendre
+24	,	,	PUNCT	_		_	_	_	Gloss=,
+25	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+26	buguri	bùguri	NOUN	n	_	_	_	_	Gloss=poussière
+27	min	mîn	DET	dtm	PronType=Rel	_	_	_	Gloss=REL
+28	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+29	kuma	kúma	VERB	v	_	_	_	_	Gloss=parler
+30	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:27
+# text = o sògòma, o dugujè, masakè ye tabale gosi, ko muso bèè ka na ni u ka buguri ye !
+1	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+2	sògòma	sɔ̀gɔma	NOUN	n	_	_	_	_	Gloss=matin
+3	,	,	PUNCT	_		_	_	_	Gloss=,
+4	o	ò	DET	dtm	_	_	_	_	Gloss=ce
+5	dugujè	dùgujɛ	NOUN	n	_	_	_	_	Gloss=aube|Morf=aube,terre,blanc
+6	,	,	PUNCT	_		_	_	_	Gloss=,
+7	masakè	màsakɛ	NOUN	n	_	_	_	_	Gloss=roi|Morf=roi,roi,mâle
+8	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+9	tabale	tábale	NOUN	n	_	_	_	_	Gloss=grand.tambour
+10	gosi	gòsi	VERB	v	_	_	_	_	Gloss=battre
+11	,	,	PUNCT	_		_	_	_	Gloss=,
+12	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+13	muso	mùso	NOUN	n	_	_	_	_	Gloss=femme
+14	bèè	bɛ́ɛ	DET	dtm	_	_	_	_	Gloss=tout
+15	ka	ka	AUX	pm	Mood=Subj|Polarity=Aff	_	_	_	Gloss=SBJV
+16	na	nà	VERB	v	_	_	_	_	Gloss=venir
+17	ni	ni	X	prep	_	_	_	_	Gloss=et
+18	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+19	ka	ka	ADP	pp	_	_	_	_	Gloss=POSS
+20	buguri	bùguri	NOUN	n	_	_	_	_	Gloss=poussière
+21	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+22	!	!	PUNCT	_		_	_	_	Gloss=!
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:28
+# text = o ye ji kè a la.
+1	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	ji	jí	NOUN	n	_	_	_	_	Gloss=eau
+4	kè	kɛ́	VERB	v	_	_	_	_	Gloss=faire
+5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+6	la	lá	ADP	pp	_	_	_	_	Gloss=à
+7	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:29
+# text = bèè ta ko tot tot !
+1	bèè	bɛ́ɛ	PRON	prn	_	_	_	_	Gloss=chacun
+2	ta	tá	NOUN	n	_	_	_	_	Gloss=propriété
+3	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+4	tot	tot	INTJ	onomat	_	_	_	_	Gloss=bruit.bulle
+5	tot	tot	INTJ	onomat	_	_	_	_	Gloss=bruit.bulle
+6	!	!	PUNCT	_		_	_	_	Gloss=!
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:30
+# text = o ye a ta dòròn, a ko tot tot !
+1	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	ta	tà	VERB	v	_	_	_	_	Gloss=prendre
+5	dòròn	dɔ́rɔn	ADV	adv	_	_	_	_	Gloss=seulement
+6	,	,	PUNCT	_		_	_	_	Gloss=,
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+8	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+9	tot	tot	INTJ	onomat	_	_	_	_	Gloss=bruit.bulle
+10	tot	tot	INTJ	onomat	_	_	_	_	Gloss=bruit.bulle
+11	!	!	PUNCT	_		_	_	_	Gloss=!
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:31
+# text = musokòrònin ko ko a tè nin ye, ko nin don dè.
+1	musokòrònin	mùsokɔrɔnin	NOUN	n	_	_	_	_	Gloss=vieille.femme|Morf=vieille.femme,vieille.femme,femme,vieux,DIM
+2	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+3	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+5	tè	tɛ́	VERB	cop	Polarity=Neg	_	_	_	Gloss=COP.NEG
+6	nin	nìn	PRON	prn	_	_	_	_	Gloss=ceci
+7	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+8	,	,	PUNCT	_		_	_	_	Gloss=,
+9	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+10	nin	nìn	PRON	prn	_	_	_	_	Gloss=ceci
+11	don	dòn	VERB	cop	_	_	_	_	Gloss=ID
+12	dè	dɛ́	PART	prt	_	_	_	_	Gloss=certes
+13	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:32
+# text = a nana.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=venir|Morf=venir,PFV.INTR
+3	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:33
+# text = a ye ji kè a la dòròn, a seginna ka dònkili la tuguni : tinòò, n nata kòmòn na.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	ji	jí	NOUN	n	_	_	_	_	Gloss=eau
+4	kè	kɛ́	VERB	v	_	_	_	_	Gloss=faire
+5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+6	la	lá	ADP	pp	_	_	_	_	Gloss=à
+7	dòròn	dɔ́rɔn	ADV	adv	_	_	_	_	Gloss=seulement
+8	,	,	PUNCT	_		_	_	_	Gloss=,
+9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+10	seginna	seginna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=revenir|Morf=revenir,PFV.INTR
+11	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+12	dònkili	dɔ̀nkili	NOUN	n	_	_	_	_	Gloss=chant|Morf=chant,danse,appeler
+13	la	dá	VERB	v	_	_	_	_	Gloss=poser
+14	tuguni	túguni	ADV	adv	_	_	_	_	Gloss=encore|Morf=encore,et
+15	:	:	PUNCT	_		_	_	_	Gloss=:
+16	tinòò	Tinɔɔ	PROPN	n.prop	_	_	_	_	Gloss=NOM.M
+17	,	,	PUNCT	_		_	_	_	Gloss=,
+18	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	_	_	_	Gloss=1SG
+19	nata	nàna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=venir|Morf=venir,PFV.INTR
+20	kòmòn	kɔ̀mɔn	NOUN	n	_	_	_	_	Gloss=marigot|Morf=marigot,pêcher
+21	na	ná	ADP	pp	_	_	_	_	Gloss=à
+22	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:34
+# text = tinòò, na fana taata kòmòn na.
+1	tinòò	Tinɔɔ	PROPN	n.prop	_	_	_	_	Gloss=NOM.M
+2	,	,	PUNCT	_		_	_	_	Gloss=,
+3	na	nà	NOUN	n	_	_	_	_	Gloss=mère
+4	fana	fána	PART	prt	_	_	_	_	Gloss=aussi
+5	taata	taara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=aller|Morf=aller,PFV.INTR
+6	kòmòn	kɔ̀mɔn	NOUN	n	_	_	_	_	Gloss=marigot|Morf=marigot,pêcher
+7	na	ná	ADP	pp	_	_	_	_	Gloss=à
+8	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:35
+# text = tinòò, na ye a falennò kè.
+1	tinòò	Tinɔɔ	PROPN	n.prop	_	_	_	_	Gloss=NOM.M
+2	,	,	PUNCT	_		_	_	_	Gloss=,
+3	na	nà	NOUN	n	_	_	_	_	Gloss=mère
+4	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+6	falennò	falenni	NOUN	n	VerbalForm=Vnoun	_	_	_	Gloss=échanger|Morf=échanger,NMLZ
+7	kè	kɛ́	VERB	v	_	_	_	_	Gloss=faire
+8	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:36
+# text = tinòò, na ye a falennò kè.
+1	tinòò	Tinɔɔ	PROPN	n.prop	_	_	_	_	Gloss=NOM.M
+2	,	,	PUNCT	_		_	_	_	Gloss=,
+3	na	nà	NOUN	n	_	_	_	_	Gloss=mère
+4	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+6	falennò	falenni	NOUN	n	VerbalForm=Vnoun	_	_	_	Gloss=échanger|Morf=échanger,NMLZ
+7	kè	kɛ́	VERB	v	_	_	_	_	Gloss=faire
+8	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:37
+# text = a ye dònkili la tuma min, muso nin ye a bolo la a kun.
+1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	dònkili	dɔ̀nkili	NOUN	n	_	_	_	_	Gloss=chant|Morf=chant,danse,appeler
+4	la	dá	VERB	v	_	_	_	_	Gloss=poser
+5	tuma	tùma	NOUN	n	_	_	_	_	Gloss=moment
+6	min	mîn	DET	dtm	PronType=Rel	_	_	_	Gloss=REL
+7	,	,	PUNCT	_		_	_	_	Gloss=,
+8	muso	mùso	NOUN	n	_	_	_	_	Gloss=femme
+9	nin	nìn	DET	dtm	PronType=Dem|Definite-Def	_	_	_	Gloss=DEM
+10	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+11	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+12	bolo	bólo	NOUN	n	_	_	_	_	Gloss=bras
+13	la	dá	VERB	v	_	_	_	_	Gloss=poser
+14	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+15	kun	kùn	ADP	pp	_	_	_	_	Gloss=sur
+16	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:38
+# text = ko a ye den faga, ko a ye den faga.
+1	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+2	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+3	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+4	den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+5	faga	fàga	VERB	v	_	_	_	_	Gloss=tuer
+6	,	,	PUNCT	_		_	_	_	Gloss=,
+7	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+9	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+10	den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+11	faga	fàga	VERB	v	_	_	_	_	Gloss=tuer
+12	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:39
+# text = o kòfè, masakè ko batula ninw ye, ko aw bè mun kònò ?
+1	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+2	kòfè	kɔ́fɛ̀	ADP	pp	_	_	_	_	Gloss=derrière|Morf=derrière,après,par
+3	,	,	PUNCT	_		_	_	_	Gloss=,
+4	masakè	màsakɛ	NOUN	n	_	_	_	_	Gloss=roi|Morf=roi,roi,mâle
+5	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+6	batula	batula	NOUN	n	_	_	_	_	Gloss=adorer|Morf=adorer,AG.PRM
+7	ninw	ninw	DET	dtm	PronType=Dem|Definite-Def|Number=Plur	_	_	_	Gloss=DEM|Morf=DEM,PL
+8	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+9	,	,	PUNCT	_		_	_	_	Gloss=,
+10	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+11	aw	áw	PRON	pers	PronType=Prs|Number=Plur|Person=2|PronType=Emp	_	_	_	Gloss=2PL.EMPH
+12	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+13	mun	mùn	PRON	prn	_	_	_	_	Gloss=quoi
+14	kònò	kɔ̀nɔ	VERB	v	_	_	_	_	Gloss=attendre
+15	?	?	PUNCT	_		_	_	_	Gloss=?
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:40
+# text = u ye muso nin kun tigè a la.
+1	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	muso	mùso	NOUN	n	_	_	_	_	Gloss=femme
+4	nin	nìn	DET	dtm	PronType=Dem|Definite-Def	_	_	_	Gloss=DEM
+5	kun	kùn	NOUN	n	_	_	_	_	Gloss=tête
+6	tigè	tìgɛ	VERB	v	_	_	_	_	Gloss=couper
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+8	la	lá	ADP	pp	_	_	_	_	Gloss=à
+9	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:41
+# text = ntalen banna yen.
+1	ntalen	ntàlen	NOUN	n	_	_	_	_	Gloss=parabole
+2	banna	banna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=terminer|Morf=terminer,PFV.INTR
+3	yen	yèn	ADV	adv	_	_	_	_	Gloss=là-bas
+4	.	.	PUNCT	_		_	_	_	Gloss=.
+
