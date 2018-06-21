@@ -137,7 +137,7 @@
 17	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
 # sent_id = meyer_gorog-contes_bambara_syefan_ani_syedennin.dis.html:12
-# text = syèdennin ka yèlè ka yèlè ka yèlè kala ye a kan tigè.
+# text = syèdennin ka yèlè ka yèlè ka yèlè.
 1	syèdennin	syɛdennin	NOUN	n	_	3	nsubj	_	Gloss=poussin|Morf=poussin,poule,enfant,DIM
 2	ka	ka	AUX	pm	Mood=Sub|Polarity=Pos	3	aux	_	Gloss=SBJV
 3	yèlè	yɛ́lɛ	VERB	v	_	0	root	_	Gloss=rire
@@ -145,15 +145,19 @@
 5	yèlè	yɛ́lɛ	VERB	v	_	3	xcomp	_	Gloss=rire
 6	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
 7	yèlè	yɛ́lɛ	VERB	v	_	5	xcomp	_	Gloss=rire|SpaceAfter=No
-8	kala	kàla	NOUN	n	_	7	obl	_	Gloss=tige
-9	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	8	case	_	Gloss=PFV.TR
-10	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Gloss=3SG
-11	kan	kán	NOUN	n	_	12	obj	_	Gloss=cou
-12	tigè	tìgɛ	VERB	v	_	7	parataxis	_	Gloss=couper|SpaceAfter=No
-13	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+8	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = meyer_gorog-contes_bambara_syefan_ani_syedennin.dis.html:13
-# text = kala ka yèlè ka yèlè ka yèlè tasuma ye a minè.
+# text = kala ye a kan tigè.
+1	kala	kàla	NOUN	n	_	5	nsubj	_	Gloss=tige
+2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=3SG
+4	kan	kán	NOUN	n	_	5	obj	_	Gloss=cou
+5	tigè	tìgɛ	VERB	v	_	0	root	_	Gloss=couper|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+# sent_id = meyer_gorog-contes_bambara_syefan_ani_syedennin.dis.html:14
+# text = kala ka yèlè ka yèlè ka yèlè.
 1	kala	kàla	NOUN	n	_	3	nsubj	_	Gloss=tige
 2	ka	ka	AUX	pm	Mood=Sub|Polarity=Pos	3	aux	_	Gloss=SBJV
 3	yèlè	yɛ́lɛ	VERB	v	_	0	root	_	Gloss=rire
@@ -161,13 +165,17 @@
 5	yèlè	yɛ́lɛ	VERB	v	_	3	xcomp	_	Gloss=rire
 6	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
 7	yèlè	yɛ́lɛ	VERB	v	_	5	xcomp	_	Gloss=rire|SpaceAfter=No
-8	tasuma	tásuma	NOUN	n	_	11	nsubj	_	Gloss=feu|Morf=feu,feu,odeur
-9	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	11	aux	_	Gloss=PFV.TR
-10	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	11	obj	_	Gloss=3SG
-11	minè	mìnɛ	VERB	v	_	3	parataxis	_	Gloss=attraper|SpaceAfter=No
-12	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+8	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
-# sent_id = meyer_gorog-contes_bambara_syefan_ani_syedennin.dis.html:14
+# sent_id = meyer_gorog-contes_bambara_syefan_ani_syedennin.dis.html:15
+# text = tasuma ye a minè.
+1	tasuma	tásuma	NOUN	n	_	4	nsubj	_	Gloss=feu|Morf=feu,feu,odeur
+2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=3SG
+4	minè	mìnɛ	VERB	v	_	0	root	_	Gloss=attraper|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = meyer_gorog-contes_bambara_syefan_ani_syedennin.dis.html:16
 # text = tasuma ka yèlè ka yèlè ka yèlè ji ye a faga.
 1	tasuma	tásuma	NOUN	n	_	3	nsubj	_	Gloss=feu|Morf=feu,feu,odeur
 2	ka	ka	AUX	pm	Mood=Sub|Polarity=Pos	3	aux	_	Gloss=SBJV
@@ -182,7 +190,7 @@
 11	faga	fàga	VERB	v	_	3	parataxis	_	Gloss=tuer|SpaceAfter=No
 12	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
-# sent_id = meyer_gorog-contes_bambara_syefan_ani_syedennin.dis.html:15
+# sent_id = meyer_gorog-contes_bambara_syefan_ani_syedennin.dis.html:17
 # text = ji ka yèlè ka yèlè ka yèlè dugukolo ye a min.
 1	ji	jí	NOUN	n	_	3	nsubj	_	Gloss=eau
 2	ka	ka	AUX	pm	Mood=Sub|Polarity=Pos	3	aux	_	Gloss=SBJV
@@ -197,7 +205,7 @@
 11	min	mìn	VERB	v	_	3	parataxis	_	Gloss=boire|SpaceAfter=No
 12	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
-# sent_id = meyer_gorog-contes_bambara_syefan_ani_syedennin.dis.html:16
+# sent_id = meyer_gorog-contes_bambara_syefan_ani_syedennin.dis.html:18
 # text = dugukolo ka yèlè ka yèlè ka yèlè a ni Ala kèlèla.
 1	dugukolo	dùgukolo	NOUN	n	_	3	nsubj	_	Gloss=terre|Morf=terre,terre,os
 2	ka	ka	AUX	pm	Mood=Sub|Polarity=Pos	3	aux	_	Gloss=SBJV
@@ -212,7 +220,7 @@
 11	kèlèla	kɛlɛla	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	3	parataxis	_	Gloss=combattre|Morf=combattre,PFV.INTR|SpaceAfter=No
 12	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
-# sent_id = meyer_gorog-contes_bambara_syefan_ani_syedennin.dis.html:17
+# sent_id = meyer_gorog-contes_bambara_syefan_ani_syedennin.dis.html:19
 # text = Ala ye a ta ka bin.
 1	Ala	Ála	NOUN	n	_	4	nsubj	_	Gloss=Dieu
 2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
@@ -222,7 +230,7 @@
 6	bin	bìn	VERB	v	_	4	xcomp	_	Gloss=tomber|SpaceAfter=No
 7	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
-# sent_id = meyer_gorog-contes_bambara_syefan_ani_syedennin.dis.html:18
+# sent_id = meyer_gorog-contes_bambara_syefan_ani_syedennin.dis.html:20
 # text = kabini o bòra a la, a bè o nò na.
 1	kabini	kàbini	SCONJ	prep	_	3	mark	_	Gloss=discourseuis|Morf=discourseuis,discourseuis,si
 2	o	ò	PRON	prn	_	3	nsubj	_	Gloss=ce
@@ -237,7 +245,7 @@
 11	na	ná	ADP	pp	_	10	case	_	Gloss=à|SpaceAfter=No
 12	.	.	PUNCT	_	_	8	punct	_	Gloss=.
 
-# sent_id = meyer_gorog-contes_bambara_syefan_ani_syedennin.dis.html:19
+# sent_id = meyer_gorog-contes_bambara_syefan_ani_syedennin.dis.html:21
 # text = n ye nsiirinin sòrò yòrò min, n ye a bila yen.
 1	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=1SG
 2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
