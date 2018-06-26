@@ -195,18 +195,18 @@ def get_udtags(lem, pos, gloss, all_glosses):
 	if 'ART' in all_glosses:
 		tags[1].append('Definite=Def')
 	if 'PTCP.PRIV' in all_glosses:
-		tags[1].append('VerbalForm=Part')
+		tags[1].append('VerbForm=Part')
 	if 'PTCP.RES' in all_glosses:
-		tags[1].append('VerbalForm=Part')
+		tags[1].append('VerbForm=Part')
 		tags[1].append('Aspect=Perf')
 	if 'PTCP.POT' in all_glosses:
-		tags[1].append('VerbalForm=Part')
+		tags[1].append('VerbForm=Part')
 		tags[1].append('Tense=Fut')
 	if 'PTCP.PROG' in all_glosses:
-		tags[1].append('VerbalForm=Part')
+		tags[1].append('VerbForm=Part')
 		tags[1].append('Aspect=Prog')
 	if 'NMLZ' in all_glosses:
-		tags[1].append('VerbalForm=Vnoun')
+		tags[1].append('VerbForm=Vnoun')
 	if 'ADJ' in all_glosses:
 		tags[1].append('AdjType=Attr')
 	if 'ORD' in all_glosses:
