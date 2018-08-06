@@ -1,175 +1,165 @@
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:1
-# text = <h>SUBAGAMUSO ANI A BIRANMUSO</h>
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:1
+# text = SUBAGAMUSO ANI A BIRANMUSO
 1	SUBAGAMUSO	subagamuso	NOUN	n	_	0	root	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme
 2	ANI	àni	CCONJ	conj	_	4	cc	_	Gloss=ainsi.que
-3	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nmod:poss	_	Gloss=3SG
+3	A	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nmod:poss	_	Gloss=3SG
 4	BIRANMUSO	búranmuso	NOUN	n	_	1	conj	_	Gloss=parente.par.alliance|Morf=parente.par.alliance,beau-parent,femme
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:2
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:2
 # text = ayiwa, n ye a da nin musokòrònin kelen na.
-1	ayiwa	áyiwa	INTJ	intj	_	6	discourse	_	Gloss=bon
+1	ayiwa	áyiwa	INTJ	intj	_	6	discourse	_	Gloss=bon|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
-3	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	6	nsubj	_	Gloss=1SG
-4	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	6	aux	_	Gloss=PFV.TR
-5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	6	obj	_	Gloss=3SG
+3	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Gloss=1SG
+4	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	6	aux	_	Gloss=PFV.TR
+5	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	6	obj	_	Gloss=3SG
 6	da	dá	VERB	v	_	0	root	_	Gloss=poser
-7	nin	nìn	DET	dtm	PronType=Dem|Definite-Def	8	det	_	Gloss=DEM
+7	nin	nìn	DET	dtm	Definite=Def|PronType=Dem	8	det	_	Gloss=DEM
 8	musokòrònin	mùsokɔrɔnin	NOUN	n	_	6	obl	_	Gloss=vieille.femme|Morf=vieille.femme,vieille.femme,femme,vieux,DIM
 9	kelen	kélen	NUM	num	_	8	nummod	_	Gloss=un
-10	na	ná	ADP	pp	_	8	case	_	Gloss=à
+10	na	ná	ADP	pp	_	8	case	_	Gloss=à|SpaceAfter=No
 11	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:3
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:3
 # text = a mana den min wolo, a bè o dun.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
-2	mana	mána	AUX	pm	Mood=Cnd|Polarity=Pos	5	aux	_	Gloss=COND.AFF
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=3SG
+2	mana	mána	AUX	pm	Mood=Cnd|Polarity=Pos	5	aux	_	Gloss=COND.Pos
 3	den	dén	NOUN	n	_	5	obj	_	Gloss=enfant
 4	min	mín	DET	prn	PronType=Rel	3	det:rel	_	Gloss=REL
-5	wolo	wólo	VERB	v	_	9	acl	_	Gloss=accoucher
+5	wolo	wólo	VERB	v	_	9	acl	_	Gloss=accoucher|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
-7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	10	nsubj	_	Gloss=3SG
-8	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	10	aux	_	Gloss=IPFV.AFF
+7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Gloss=3SG
+8	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	10	aux	_	Gloss=IPFV.Pos
 9	o	ò	PRON	prn	_	10	obj	_	Gloss=ce
-10	dun	dún	VERB	v	_	0	root	_	Gloss=manger
+10	dun	dún	VERB	v	_	0	root	_	Gloss=manger|SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:4
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:4
 # text = a mana den min wolo, a bè o dun.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
-2	mana	mána	AUX	pm	Mood=Cnd|Polarity=Pos	5	aux	_	Gloss=COND.AFF
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=3SG
+2	mana	mána	AUX	pm	Mood=Cnd|Polarity=Pos	5	aux	_	Gloss=COND.Pos
 3	den	dén	NOUN	n	_	5	obj	_	Gloss=enfant
 4	min	mín	DET	prn	PronType=Rel	3	det:rel	_	Gloss=REL
-5	wolo	wólo	VERB	v	_	9	acl	_	Gloss=accoucher
+5	wolo	wólo	VERB	v	_	9	acl	_	Gloss=accoucher|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
-7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	10	nsubj	_	Gloss=3SG
-8	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	10	aux	_	Gloss=IPFV.AFF
+7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Gloss=3SG
+8	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	10	aux	_	Gloss=IPFV.Pos
 9	o	ò	PRON	prn	_	10	obj	_	Gloss=ce
-10	dun	dún	VERB	v	_	0	root	_	Gloss=manger
+10	dun	dún	VERB	v	_	0	root	_	Gloss=manger|SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:5
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:5
 # text = ayiwa, a ye denkènin kelen sòrò.
-1	ayiwa	áyiwa	INTJ	intj	_	7	discourse	_	Gloss=bon
+1	ayiwa	áyiwa	INTJ	intj	_	7	discourse	_	Gloss=bon|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
-3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	nsubj	_	Gloss=3SG
-4	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	7	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Gloss=3SG
+4	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	7	aux	_	Gloss=PFV.TR
 5	denkènin	denkɛnin	NOUN	n	_	7	obj	_	Gloss=fils|Morf=fils,enfant,mâle,DIM
 6	kelen	kélen	NUM	num	_	5	nummod	_	Gloss=un
-7	sòrò	sɔ̀rɔ	VERB	v	_	0	root	_	Gloss=obtenir
+7	sòrò	sɔ̀rɔ	VERB	v	_	0	root	_	Gloss=obtenir|SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:6
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:6
 # text = o wolodon, ni a ye i da su fè denkènin kelen kèrè fè, a ye i sen labò ka a tan bili la.
 1	o	ò	PRON	prn	_	2	nmod:poss	_	Gloss=ce
-2	wolodon	wolodon	NOUN	n	_	20	obl	_	Gloss=accoucher|Morf=accoucher,jour
+2	wolodon	wolodon	NOUN	n	_	20	obl	_	Gloss=accoucher|Morf=accoucher,jour|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
 4	ni	ní	SCONJ	conj	_	8	mark	_	Gloss=si
-5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	nsubj	_	Gloss=3SG
-6	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	8	aux	_	Gloss=PFV.TR
-7	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	8	obj	_	Gloss=REFL
+5	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Gloss=3SG
+6	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	8	aux	_	Gloss=PFV.TR
+7	i	í	PRON	pers	PronType=Prs	8	obj	_	Gloss=REFL
 8	da	dá	VERB	v	_	20	advcl	_	Gloss=poser
 9	su	sú	NOUN	n	_	8	obl	_	Gloss=nuit
 10	fè	fɛ̀	ADP	pp	_	9	case	_	Gloss=vers
 11	denkènin	denkɛnin	NOUN	n	_	13	nmod:poss	_	Gloss=fils|Morf=fils,enfant,mâle,DIM
 12	kelen	kélen	NUM	num	_	11	nummod	_	Gloss=un
 13	kèrè	kɛ̀rɛ	NOUN	n	_	8	obl	_	Gloss=côté
-14	fè	fɛ̀	ADP	pp	_	13	case	_	Gloss=vers
+14	fè	fɛ̀	ADP	pp	_	13	case	_	Gloss=vers|SpaceAfter=No
 15	,	,	PUNCT	_	_	8	punct	_	Gloss=,
-16	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	20	nsubj	_	Gloss=3SG
-17	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	20	aux	_	Gloss=PFV.TR
-18	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	19	nmod:poss	_	Gloss=REFL
+16	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	20	nsubj	_	Gloss=3SG
+17	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	20	aux	_	Gloss=PFV.TR
+18	i	í	PRON	pers	PronType=Prs	19	nmod:poss	_	Gloss=REFL
 19	sen	sèn	NOUN	n	_	20	obj	_	Gloss=jambe
 20	labò	lá.bɔ	VERB	v	Voice=Cau	0	root	_	Gloss=faire.sortir|Morf=faire.sortir,CAUS,sortir
 21	ka	kà	AUX	pm	_	23	aux	_	Gloss=INF
-22	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	23	obj	_	Gloss=3SG
+22	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	23	obj	_	Gloss=3SG
 23	tan	tán	VERB	v	_	20	xcomp	_	Gloss=frapper
 24	bili	bíli	NOUN	n	_	23	obl	_	Gloss=terrasse
-25	la	lá	ADP	pp	_	24	case	_	Gloss=dans
+25	la	lá	ADP	pp	_	24	case	_	Gloss=dans|SpaceAfter=No
 26	.	.	PUNCT	_	_	20	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:7
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:7
 # text = denkènin fana ye a sen labò ka a tan bili la.
 1	denkènin	denkɛnin	NOUN	n	_	6	nsubj	_	Gloss=fils|Morf=fils,enfant,mâle,DIM
 2	fana	fána	PART	prt	_	1	discourse	_	Gloss=aussi
-3	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	6	aux	_	Gloss=PFV.TR
-4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nmod:poss	_	Gloss=3SG
+3	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	6	aux	_	Gloss=PFV.TR
+4	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nmod:poss	_	Gloss=3SG
 5	sen	sèn	NOUN	n	_	6	obj	_	Gloss=jambe
 6	labò	lá.bɔ	VERB	v	Voice=Cau	0	root	_	Gloss=faire.sortir|Morf=faire.sortir,CAUS,sortir
 7	ka	kà	AUX	pm	_	9	aux	_	Gloss=INF
-8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	9	obj	_	Gloss=3SG
+8	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	obj	_	Gloss=3SG
 9	tan	tán	VERB	v	_	6	xcomp	_	Gloss=frapper
 10	bili	bíli	NOUN	n	_	9	obl	_	Gloss=racine
-11	la	lá	ADP	pp	_	10	case	_	Gloss=dans
+11	la	lá	ADP	pp	_	10	case	_	Gloss=dans|SpaceAfter=No
 12	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:8
-# text = a ko : è, cènin nin, e tè sunògò wa ?
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
-2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:8
+# text = a ko: è, cènin nin, e tè sunògò wa?
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT|SpaceAfter=No
 3	:	:	PUNCT	_	_	2	punct	_	Gloss=:
-4	è	ɛ́	INTJ	intj	_	11	discourse	_	Gloss=ah!
+4	è	ɛ́	INTJ	intj	_	11	discourse	_	Gloss=ah!|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	Gloss=,
 6	cènin	cɛ̀.nin	NOUN	n	_	11	vocative	_	Gloss=jeune.homme|Morf=jeune.homme,mâle,DIM
-7	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	6	det	_	Gloss=DEM
+7	nin	nìn	DET	prn/dtm	Definite=Def|PronType=Dem	6	det	_	Gloss=DEM|SpaceAfter=No
 8	,	,	PUNCT	_	_	6	punct	_	Gloss=,
-9	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	11	nsubj	_	Gloss=2SG.EMPH
-10	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	11	aux	_	Gloss=IPFV.NEG
+9	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	11	nsubj	_	Gloss=2SG.EMPH
+10	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	11	aux	_	Gloss=IPFV.NEG
 11	sunògò	sùnɔgɔ	VERB	v	_	2	parataxis:obj	_	Gloss=dormir
-12	wa	wà	PART	prt	_	11	discourse	_	Gloss=Q
+12	wa	wà	PART	prt	_	11	discourse	_	Gloss=Q|SpaceAfter=No
 13	?	?	PUNCT	_	_	2	punct	_	Gloss=?
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:9
-# text = a ko : n ma ; ni i ye sin di yan, n bè sunògò.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
-2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:9
+# text = a ko: n ma; ni i ye sin di yan, n bè sunògò.
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT|SpaceAfter=No
 3	:	:	PUNCT	_	_	2	punct	_	Gloss=:
 4	n	ń	PRON	pers	PronType=Prs	5	nmod:poss	_	Gloss=je
-5	ma	má	NOUN	n	_	16	vocative	_	Gloss=maman
+5	ma	má	NOUN	n	_	16	vocative	_	Gloss=maman|SpaceAfter=No
 6	;	;	PUNCT	_	_	5	punct	_	Gloss=;
 7	ni	ní	SCONJ	conj	_	11	mark	_	Gloss=si
 8	i	í	PRON	pers	PronType=Prs	11	nsubj	_	Gloss=2.SG
-9	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	11	aux	_	Gloss=PFV.TR
+9	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	11	aux	_	Gloss=PFV.TR
 10	sin	sín	NOUN	n	_	11	obj	_	Gloss=sein
 11	di	dí	VERB	v	_	16	advcl	_	Gloss=donner
-12	yan	yàn	ADV	adv/n	_	11	obl	_	Gloss=ici
+12	yan	yàn	ADV	adv/n	_	11	obl	_	Gloss=ici|SpaceAfter=No
 13	,	,	PUNCT	_	_	11	punct	_	Gloss=,
 14	n	ń	PRON	pers	PronType=Prs	16	nsubj	_	Gloss=je
-15	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	16	aux	_	Gloss=IPFV.AFF
-16	sunògò	sùnɔgɔ	VERB	v	_	2	parataxis:obj	_	Gloss=dormir
+15	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	16	aux	_	Gloss=IPFV.Pos
+16	sunògò	sùnɔgɔ	VERB	v	_	2	parataxis:obj	_	Gloss=dormir|SpaceAfter=No
 17	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:10
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:10
 # text = a ye sin di o ma, o ye i da.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
 3	sin	sín	NOUN	n	_	4	obj	_	Gloss=sein
 4	di	dí	VERB	v	_	0	root	_	Gloss=donner
 5	o	ò	PRON	prn	_	4	obl	_	Gloss=ce
-6	ma	mà	ADP	pp	_	5	case	_	Gloss=à
+6	ma	mà	ADP	pp	_	5	case	_	Gloss=à|SpaceAfter=No
 7	,	,	PUNCT	_	_	4	punct	_	Gloss=,
 8	o	ò	PRON	prn	_	11	nsubj	_	Gloss=ce
-9	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	11	aux	_	Gloss=PFV.TR
-10	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	11	obj	_	Gloss=REFL
-11	da	dá	VERB	v	_	4	parataxis	_	Gloss=poser
+9	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	11	aux	_	Gloss=PFV.TR
+10	i	í	PRON	pers	PronType=Prs	11	obj	_	Gloss=REFL
+11	da	dá	VERB	v	_	4	parataxis	_	Gloss=poser|SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:11
-# text = dugu tilala, a ye bolo kelen wuli ka o tan so san fè.
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:11
+# text = dugu tilala, a ye bolo kelen wuli ka o tan so sanfè.
 1	dugu	dùgu	NOUN	n	_	2	nsubj	_	Gloss=terre
-2	tilala	tilala	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=diviser|Morf=diviser,PFV.INTR
+2	tilala	tilala	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=diviser|Morf=diviser,PFV.INTR|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
-4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	nsubj	_	Gloss=3SG
-5	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	8	aux	_	Gloss=PFV.TR
+4	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Gloss=3SG
+5	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	8	aux	_	Gloss=PFV.TR
 6	bolo	bólo	NOUN	n	_	8	obj	_	Gloss=bras
 7	kelen	kélen	NUM	num	_	6	nummod	_	Gloss=un
 8	wuli	wúli	VERB	v	_	2	parataxis	_	Gloss=se.lever
@@ -177,524 +167,490 @@
 10	o	ò	PRON	prn	_	11	obj	_	Gloss=ce
 11	tan	tán	VERB	v	_	8	xcomp	_	Gloss=frapper
 12	so	sò	NOUN	n	_	11	obl	_	Gloss=taille
-13	sanfè	sán.fɛ̀	ADP	pp	_	12	case	_	Gloss=par-dessus|Morf=par-dessus,ciel,vers
+13	sanfè	sán.fɛ̀	ADP	pp	_	12	case	_	Gloss=par-dessus|Morf=par-dessus,ciel,vers|SpaceAfter=No
 14	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:12
-# text = den ye a bolo bò ka a tan so san fè.
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:12
+# text = den ye a bolo bò ka a tan so sanfè.
 1	den	dén	NOUN	n	_	5	nsubj	_	Gloss=enfant
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
-3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nmod:poss	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nmod:poss	_	Gloss=3SG
 4	bolo	bólo	NOUN	n	_	5	obj	_	Gloss=bras
 5	bò	bɔ́	VERB	v	_	0	root	_	Gloss=sortir
 6	ka	kà	AUX	pm	_	8	aux	_	Gloss=INF
-7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	obj	_	Gloss=3SG
+7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	obj	_	Gloss=3SG
 8	tan	tán	VERB	v	_	5	xcomp	_	Gloss=frapper
 9	so	sò	NOUN	n	_	8	obl	_	Gloss=taille
-10	sanfè	sán.fɛ̀	ADP	pp	_	9	case	_	Gloss=par-dessus|Morf=par-dessus,ciel,vers
+10	sanfè	sán.fɛ̀	ADP	pp	_	9	case	_	Gloss=par-dessus|Morf=par-dessus,ciel,vers|SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:13
-# text = a ko : è cènin wo, e tè sunògò wa ?
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
-2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:13
+# text = a ko: è cènin wo, e tè sunògò wa?
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT|SpaceAfter=No
 3	:	:	PUNCT	_	_	2	punct	_	Gloss=:
 4	è	ɛ́	INTJ	intj	_	5	discourse	_	Gloss=ah!
 5	cènin	cɛ̀.nin	NOUN	n	_	10	vocative	_	Gloss=jeune.homme|Morf=jeune.homme,mâle,DIM
-6	wo	wó	PART	prt	_	5	discourse	_	Gloss=emphathie
+6	wo	wó	PART	prt	_	5	discourse	_	Gloss=emphathie|SpaceAfter=No
 7	,	,	PUNCT	_	_	5	punct	_	Gloss=,
-8	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	10	nsubj	_	Gloss=2SG.EMPH
-9	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	10	aux	_	Gloss=IPFV.NEG
+8	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	10	nsubj	_	Gloss=2SG.EMPH
+9	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	10	aux	_	Gloss=IPFV.NEG
 10	sunògò	sùnɔgɔ	VERB	v	_	2	parataxis:obj	_	Gloss=dormir
-11	wa	wà	PART	prt	_	10	discourse	_	Gloss=Q
+11	wa	wà	PART	prt	_	10	discourse	_	Gloss=Q|SpaceAfter=No
 12	?	?	PUNCT	_	_	2	punct	_	Gloss=?
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:14
-# text = a ko : n ma, ni i ye bolo lajigin, n bè sunògò.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
-2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:14
+# text = a ko: n ma, ni i ye bolo lajigin, n bè sunògò.
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT|SpaceAfter=No
 3	:	:	PUNCT	_	_	2	punct	_	Gloss=:
-4	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	5	nmod:poss	_	Gloss=1SG
-5	ma	má	NOUN	n	_	15	vocative	_	Gloss=maman
+4	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	5	nmod:poss	_	Gloss=1SG
+5	ma	má	NOUN	n	_	15	vocative	_	Gloss=maman|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
 7	ni	ní	SCONJ	conj	_	11	mark	_	Gloss=si
-8	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	11	nsubj	_	Gloss=2SG
-9	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	11	aux	_	Gloss=PFV.TR
+8	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	11	nsubj	_	Gloss=2SG
+9	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	11	aux	_	Gloss=PFV.TR
 10	bolo	bólo	NOUN	n	_	11	obj	_	Gloss=bras
-11	lajigin	lájìgin	VERB	v	Voice=Cau	15	advcl	_	Gloss=faire.descendre|Morf=faire.descendre,CAUS,descendre
+11	lajigin	lájìgin	VERB	v	Voice=Cau	15	advcl	_	Gloss=faire.descendre|Morf=faire.descendre,CAUS,descendre|SpaceAfter=No
 12	,	,	PUNCT	_	_	11	punct	_	Gloss=,
-13	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	15	nsubj	_	Gloss=1SG
-14	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	15	aux	_	Gloss=IPFV.AFF
-15	sunògò	sùnɔgɔ	VERB	v	_	2	parataxis:obj	_	Gloss=dormir
+13	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	Gloss=1SG
+14	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	15	aux	_	Gloss=IPFV.Pos
+15	sunògò	sùnɔgɔ	VERB	v	_	2	parataxis:obj	_	Gloss=dormir|SpaceAfter=No
 16	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:15
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:15
 # text = a ye i bolo jigin ka den bolo jigin.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
-3	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	4	nmod:poss	_	Gloss=REFL
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
+3	i	í	PRON	pers	PronType=Prs	4	nmod:poss	_	Gloss=REFL
 4	bolo	bólo	NOUN	n	_	5	obj	_	Gloss=bras
 5	jigin	jìgin	VERB	v	_	0	root	_	Gloss=descendre
 6	ka	kà	AUX	pm	_	9	aux	_	Gloss=INF
 7	den	dén	NOUN	n	_	8	nmod:poss	_	Gloss=enfant
 8	bolo	bólo	NOUN	n	_	9	obj	_	Gloss=bras
-9	jigin	jìgin	VERB	v	_	5	xcomp	_	Gloss=descendre
+9	jigin	jìgin	VERB	v	_	5	xcomp	_	Gloss=descendre|SpaceAfter=No
 10	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:16
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:16
 # text = ayiwa, den nana to ten fo ka na a bonya o cogo la.
-1	ayiwa	áyiwa	INTJ	intj	_	4	discourse	_	Gloss=bon
+1	ayiwa	áyiwa	INTJ	intj	_	4	discourse	_	Gloss=bon|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
 3	den	dén	NOUN	n	_	4	nsubj	_	Gloss=enfant
-4	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
+4	nana	nana	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
 5	to	tó	VERB	v	_	4	xcomp	_	Gloss=rester
 6	ten	tèn	ADV	adv	_	5	obl	_	Gloss=ainsi
 7	fo	fó	SCONJ	conj/prep	_	9	mark	_	Gloss=jusqu'à
 8	ka	kà	AUX	pm	_	9	aux	_	Gloss=INF
 9	na	nà	VERB	v	_	4	advcl	_	Gloss=venir
-10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	11	obj	_	Gloss=3SG
+10	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	11	obj	_	Gloss=3SG
 11	bonya	bòn.ya	VERB	n	_	9	xcomp	_	Gloss=grosseur|Morf=grosseur,ample,DEQU
 12	o	ò	DET	prn	_	13	det	_	Gloss=ce
 13	cogo	cógo	NOUN	n	_	11	obl	_	Gloss=manière
-14	la	lá	ADP	pp	_	13	case	_	Gloss=dans
+14	la	lá	ADP	pp	_	13	case	_	Gloss=dans|SpaceAfter=No
 15	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:17
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:17
 # text = su o su, u bè nyògon na.
 1	su	sú	NOUN	n	_	6	obl	_	Gloss=nuit
 2	o	ó	CCONJ	conj	_	3	cc	_	Gloss=DISTR
-3	su	sú	NOUN	n	_	1	conj	_	Gloss=nuit
+3	su	sú	NOUN	n	_	1	conj	_	Gloss=nuit|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
-5	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	6	nsubj	_	Gloss=3PL
+5	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	6	nsubj	_	Gloss=3PL
 6	bè	bɛ́	VERB	cop	Polarity=Pos	0	root	_	Gloss=BE
 7	nyògon	ɲɔ́gɔn	PRON	prn	PronType=Rcp	6	obl	_	Gloss=RECP
-8	na	ná	ADP	pp	_	7	case	_	Gloss=dans
+8	na	ná	ADP	pp	_	7	case	_	Gloss=dans|SpaceAfter=No
 9	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:18
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:18
 # text = su o su, u bè nyògon na.
 1	su	sú	NOUN	n	_	6	obl	_	Gloss=nuit
 2	o	ó	CCONJ	conj	_	3	cc	_	Gloss=DISTR
-3	su	sú	NOUN	n	_	1	conj	_	Gloss=nuit
+3	su	sú	NOUN	n	_	1	conj	_	Gloss=nuit|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
-5	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	6	nsubj	_	Gloss=3PL
+5	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	6	nsubj	_	Gloss=3PL
 6	bè	bɛ́	VERB	cop	Polarity=Pos	0	root	_	Gloss=BE
 7	nyògon	ɲɔ́gɔn	PRON	prn	PronType=Rcp	6	obl	_	Gloss=RECP
-8	na	ná	ADP	pp	_	7	case	_	Gloss=dans
+8	na	ná	ADP	pp	_	7	case	_	Gloss=dans|SpaceAfter=No
 9	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:19
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:19
 # text = a ma se ka a den dun.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	3	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=3SG
 2	ma	má	AUX	pm	_	3	aux	_	Gloss=PFV:NEG
 3	se	sé	VERB	v	_	0	root	_	Gloss=arriver
 4	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
-5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	6	nmod:poss	_	Gloss=3SG
+5	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	6	nmod:poss	_	Gloss=3SG
 6	den	dén	NOUN	n	_	7	obj	_	Gloss=enfant
-7	dun	dún	VERB	v	_	3	xcomp	_	Gloss=manger
+7	dun	dún	VERB	v	_	3	xcomp	_	Gloss=manger|SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:20
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:20
 # text = den kèra fèn ye, a bolokora.
 1	den	dén	NOUN	n	_	2	nsubj	_	Gloss=enfant
-2	kèra	kɛra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=faire|Morf=faire,PFV.INTR
+2	kèra	kɛra	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=faire|Morf=faire,PFV.INTR
 3	fèn	fɛ́n	NOUN	n	_	2	obl	_	Gloss=chose
-4	ye	yé	ADP	pp	_	3	case	_	Gloss=PP
+4	ye	yé	ADP	pp	_	3	case	_	Gloss=PP|SpaceAfter=No
 5	,	,	PUNCT	_	_	2	punct	_	Gloss=,
-6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	nsubj	_	Gloss=3SG
-7	bolokora	bolokora	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	2	parataxis	_	Gloss=circoncire|Morf=circoncire,PFV.INTR
+6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Gloss=3SG
+7	bolokora	bolokora	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	2	parataxis	_	Gloss=circoncire|Morf=circoncire,PFV.INTR|SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:21
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:21
 # text = a ye muso ta ka a di a ma.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
 3	muso	mùso	NOUN	n	_	4	obj	_	Gloss=femme
 4	ta	tà	VERB	v	_	0	root	_	Gloss=prendre
 5	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
-6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	obj	_	Gloss=3SG
+6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	obj	_	Gloss=3SG
 7	di	dí	VERB	v	_	4	xcomp	_	Gloss=donner
-8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	obl	_	Gloss=3SG
-9	ma	mà	ADP	pp	_	8	case	_	Gloss=à
+8	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	obl	_	Gloss=3SG
+9	ma	mà	ADP	pp	_	8	case	_	Gloss=à|SpaceAfter=No
 10	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:22
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:22
 # text = a ye muso dun.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
 3	muso	mùso	NOUN	n	_	4	obj	_	Gloss=femme
-4	dun	dún	VERB	v	_	0	root	_	Gloss=manger
+4	dun	dún	VERB	v	_	0	root	_	Gloss=manger|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:23
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:23
 # text = dugu bèè ye cènin jè muso la, ko u den tè di a ma bilen, ko a ba ye subaga ye.
 1	dugu	dùgu	NOUN	n	_	5	nsubj	_	Gloss=terre
 2	bèè	bɛ́ɛ	DET	dtm	_	1	det	_	Gloss=tout
-3	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+3	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 4	cènin	cɛ̀.nin	NOUN	n	_	5	obj	_	Gloss=jeune.homme|Morf=jeune.homme,mâle,DIM
 5	jè	jɛ̀	VERB	v	_	0	root	_	Gloss=rater
 6	muso	mùso	NOUN	n	_	5	obl	_	Gloss=femme
-7	la	lá	ADP	pp	_	6	case	_	Gloss=dans
+7	la	lá	ADP	pp	_	6	case	_	Gloss=dans|SpaceAfter=No
 8	,	,	PUNCT	_	_	5	punct	_	Gloss=,
 9	ko	kó	SCONJ	cop	_	11	mark	_	Gloss=QUOT
-10	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	11	nmod:poss	_	Gloss=3PL
+10	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	11	nmod:poss	_	Gloss=3PL
 11	den	dén	NOUN	n	_	13	nsubj	_	Gloss=enfant
-12	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	13	aux	_	Gloss=IPFV.NEG
+12	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	13	aux	_	Gloss=IPFV.NEG
 13	di	dí	VERB	v	_	5	ccomp	_	Gloss=donner
-14	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	13	obl	_	Gloss=3SG
+14	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	13	obl	_	Gloss=3SG
 15	ma	mà	ADP	pp	_	14	case	_	Gloss=à
-16	bilen	bìlen	ADV	adv	_	13	obl	_	Gloss=encore
+16	bilen	bìlen	ADV	adv	_	13	obl	_	Gloss=encore|SpaceAfter=No
 17	,	,	PUNCT	_	_	13	punct	_	Gloss=,
 18	ko	kó	SCONJ	cop	_	21	mark	_	Gloss=QUOT
-19	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	20	nmod:poss	_	Gloss=3SG
+19	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	20	nmod:poss	_	Gloss=3SG
 20	ba	bá	NOUN	n	_	21	nsubj	_	Gloss=mère
 21	ye	yé	VERB	cop	Polarity=Pos	13	parataxis	_	Gloss=EQU
 22	subaga	sú.baga	NOUN	n	_	21	obl	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC
-23	ye	yé	ADP	pp	_	22	case	_	Gloss=PP
+23	ye	yé	ADP	pp	_	22	case	_	Gloss=PP|SpaceAfter=No
 24	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:24
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:24
 # text = ayiwa, a nyògòn subaga don, a fana ma foyi sòrò denmusonin kelen kò.
-1	ayiwa	áyiwa	INTJ	intj	_	6	discourse	_	Gloss=bon
+1	ayiwa	áyiwa	INTJ	intj	_	6	discourse	_	Gloss=bon|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
-3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nmod:poss	_	Gloss=3SG
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nmod:poss	_	Gloss=3SG
 4	nyògòn	ɲɔ̀gɔn	NOUN	n	_	5	nmod:poss	_	Gloss=pareil
 5	subaga	sú.baga	NOUN	n	_	6	nsubj	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC
-6	don	dòn	VERB	cop	_	0	root	_	Gloss=PRES
+6	don	dòn	VERB	cop	_	0	root	_	Gloss=PRES|SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	Gloss=,
-8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	12	nsubj	_	Gloss=3SG
+8	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Gloss=3SG
 9	fana	fána	PART	prt	_	8	discourse	_	Gloss=aussi
 10	ma	má	AUX	pm	_	12	aux	_	Gloss=PFV:NEG
 11	foyi	fóyi	NOUN	n	_	12	obj	_	Gloss=rien
 12	sòrò	sɔ̀rɔ	VERB	v	_	6	parataxis	_	Gloss=obtenir
 13	denmusonin	denmusonin	NOUN	n	_	12	obl	_	Gloss=fille|Morf=fille,enfant,femme,DIM
 14	kelen	kélen	NUM	num	_	13	nummod	_	Gloss=un
-15	kò	kɔ́	ADP	pp	_	13	case	_	Gloss=après
+15	kò	kɔ́	ADP	pp	_	13	case	_	Gloss=après|SpaceAfter=No
 16	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:25
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:25
 # text = a ye o ta ka o di a ma.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
 3	o	ò	PRON	prn	_	4	obj	_	Gloss=ce
 4	ta	tà	VERB	v	_	0	root	_	Gloss=prendre
 5	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
 6	o	ò	PRON	prn	_	7	obj	_	Gloss=ce
 7	di	dí	VERB	v	_	4	xcomp	_	Gloss=donner
-8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	obl	_	Gloss=3SG
-9	ma	mà	ADP	pp	_	8	case	_	Gloss=à
+8	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	obl	_	Gloss=3SG
+9	ma	mà	ADP	pp	_	8	case	_	Gloss=à|SpaceAfter=No
 10	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:26
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:26
 # text = o ye o di a ma.
 1	o	ò	PRON	prn	_	4	nsubj	_	Gloss=ce
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
 3	o	ò	PRON	prn	_	4	obj	_	Gloss=ce
 4	di	dí	VERB	v	_	0	root	_	Gloss=donner
-5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	obl	_	Gloss=3SG
-6	ma	mà	ADP	pp	_	5	case	_	Gloss=à
+5	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	obl	_	Gloss=3SG
+6	ma	mà	ADP	pp	_	5	case	_	Gloss=à|SpaceAfter=No
 7	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:27
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:27
 # text = a tagara, ko a be taga o dun.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
-2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	tagara	tagara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=aller|Morf=aller,PFV.INTR|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
 4	ko	kó	SCONJ	cop	_	7	mark	_	Gloss=QUOT
-5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	nsubj	_	Gloss=3SG
-6	be	bé	AUX	pm	Polarity=Pos|Aspect=Imp	7	aux	_	Gloss=IPFV.AFF
+5	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Gloss=3SG
+6	be	bé	AUX	pm	Aspect=Imp|Polarity=Pos	7	aux	_	Gloss=IPFV.Pos
 7	taga	tága	VERB	v	_	2	parataxis	_	Gloss=aller
 8	o	ò	PRON	prn	_	9	obj	_	Gloss=ce
-9	dun	dún	VERB	v	_	7	xcomp	_	Gloss=manger
+9	dun	dún	VERB	v	_	7	xcomp	_	Gloss=manger|SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:28
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:28
 # text = cènin ko, a ko baasi tè, ne tè don i ni a cè, i biranmuso don.
 1	cènin	cɛ̀.nin	NOUN	n	_	2	nsubj	_	Gloss=jeune.homme|Morf=jeune.homme,mâle,DIM
-2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
-4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
+4	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=3SG
 5	ko	kó	VERB	cop	_	2	parataxis	_	Gloss=QUOT
 6	baasi	báasi	NOUN	n	_	7	nsubj	_	Gloss=problème
-7	tè	tɛ́	VERB	cop	Polarity=Neg	5	parataxis:obj	_	Gloss=COP.NEG
+7	tè	tɛ́	VERB	cop	Polarity=Neg	5	parataxis:obj	_	Gloss=COP.NEG|SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	Gloss=,
-9	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	11	nsubj	_	Gloss=1SG.EMPH
-10	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	11	aux	_	Gloss=IPFV.NEG
+9	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	11	nsubj	_	Gloss=1SG.EMPH
+10	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	11	aux	_	Gloss=IPFV.NEG
 11	don	dòn	VERB	v	_	7	parataxis	_	Gloss=entrer
 12	i	í	PRON	pers	PronType=Prs	11	obl	_	Gloss=2.SG
 13	ni	ní	CCONJ	conj/prep	_	14	cc	_	Gloss=et
-14	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	12	conj	_	Gloss=3SG
-15	cè	cɛ́	ADP	pp	_	12	case	_	Gloss=entre
+14	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	12	conj	_	Gloss=3SG
+15	cè	cɛ́	ADP	pp	_	12	case	_	Gloss=entre|SpaceAfter=No
 16	,	,	PUNCT	_	_	11	punct	_	Gloss=,
 17	i	í	PRON	pers	PronType=Prs	18	nmod:poss	_	Gloss=2.SG
 18	biranmuso	búran.muso	NOUN	n	_	19	nsubj	_	Gloss=parente.par.alliance|Morf=parente.par.alliance,beaux-parent,femme
-19	don	dòn	VERB	cop	_	11	parataxis	_	Gloss=PRES
+19	don	dòn	VERB	cop	_	11	parataxis	_	Gloss=PRES|SpaceAfter=No
 20	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:29
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:29
 # text = e ye min don nin ba ye o don.
-1	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	4	nsubj	_	Gloss=2SG.EMPH
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+1	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	4	nsubj	_	Gloss=2SG.EMPH
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
 3	min	mín	PRON	prn	PronType=Rel	4	obj	_	Gloss=REL
 4	don	dɔ̀n	VERB	v	_	8	acl	_	Gloss=connaître
-5	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	6	det	_	Gloss=DEM
+5	nin	nìn	DET	prn/dtm	Definite=Def|PronType=Dem	6	det	_	Gloss=DEM
 6	ba	bá	NOUN	n	_	9	nsubj	_	Gloss=mère
-7	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	9	aux	_	Gloss=PFV.TR
+7	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	9	aux	_	Gloss=PFV.TR
 8	o	ò	PRON	prn	_	9	obj	_	Gloss=ce
-9	don	dɔ̀n	VERB	v	_	0	root	_	Gloss=connaître
+9	don	dɔ̀n	VERB	v	_	0	root	_	Gloss=connaître|SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:30
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:30
 # text = a ko o tuma na a ye i kòrò nin ye.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
 3	o	ò	DET	prn	_	4	det	_	Gloss=ce
 4	tuma	tùma	NOUN	n	_	7	obl	_	Gloss=moment
 5	na	ná	ADP	pp	_	4	case	_	Gloss=dans
-6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	nsubj	_	Gloss=3SG
+6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Gloss=3SG
 7	ye	yé	VERB	cop	Polarity=Pos	2	parataxis:obj	_	Gloss=EQU
 8	i	í	PRON	pers	PronType=Prs	9	nmod:poss	_	Gloss=2.SG
 9	kòrò	kɔ́rɔ	NOUN	pp	_	7	obl	_	Gloss=sous
-10	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	9	det	_	Gloss=DEM
-11	ye	yé	ADP	pp	_	9	case	_	Gloss=PP
+10	nin	nìn	DET	prn/dtm	Definite=Def|PronType=Dem	9	det	_	Gloss=DEM
+11	ye	yé	ADP	pp	_	9	case	_	Gloss=PP|SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:31
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:31
 # text = a ye dennin pi ka pa, a ma se.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
 3	dennin	dén.nin	NOUN	n	_	4	obj	_	Gloss=fillette|Morf=fillette,enfant,DIM
 4	pi	pí	VERB	v	_	0	root	_	Gloss=forcer
 5	ka	kà	AUX	pm	_	6	aux	_	Gloss=INF
-6	pa	pá	VERB	v	_	4	xcomp	_	Gloss=forcer
+6	pa	pá	VERB	v	_	4	xcomp	_	Gloss=forcer|SpaceAfter=No
 7	,	,	PUNCT	_	_	4	punct	_	Gloss=,
-8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	10	nsubj	_	Gloss=3SG
+8	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Gloss=3SG
 9	ma	má	AUX	pm	_	10	aux	_	Gloss=PFV:NEG
-10	se	sé	VERB	v	_	4	parataxis	_	Gloss=arriver
+10	se	sé	VERB	v	_	4	parataxis	_	Gloss=arriver|SpaceAfter=No
 11	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:32
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:32
 # text = jaa a ba ye tafo de kuru ka siri o la.
 1	jaa	jàa	INTJ	intj	_	7	discourse	_	Gloss=vraiment
-2	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	3	nmod:poss	_	Gloss=3SG
+2	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	3	nmod:poss	_	Gloss=3SG
 3	ba	bá	NOUN	n	_	7	nsubj	_	Gloss=mère
-4	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	7	aux	_	Gloss=PFV.TR
+4	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	7	aux	_	Gloss=PFV.TR
 5	tafo	tàfo	NOUN	n	_	7	obj	_	Gloss=gri-gri
 6	de	dè	PART	prt	_	5	discourse	_	Gloss=FOC
 7	kuru	kùru	VERB	v	_	0	root	_	Gloss=plier
 8	ka	kà	AUX	pm	_	9	aux	_	Gloss=INF
 9	siri	sìri	VERB	v	_	7	xcomp	_	Gloss=lier
 10	o	ò	PRON	prn	_	9	obl	_	Gloss=ce
-11	la	lá	ADP	pp	_	10	case	_	Gloss=dans
+11	la	lá	ADP	pp	_	10	case	_	Gloss=dans|SpaceAfter=No
 12	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:33
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:33
 # text = a ka ca fo ka a cèmancè fa.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	3	nsubj	_	Gloss=3SG
-2	ka	ká	AUX	pm	Polarity=Pos	3	aux	_	Gloss=QUAL.AFF
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=3SG
+2	ka	ká	AUX	pm	Polarity=Pos	3	aux	_	Gloss=QUAL.Pos
 3	ca	cá	VERB	vq	_	0	root	_	Gloss=nombreux
 4	fo	fó	SCONJ	conj/prep	_	8	mark	_	Gloss=jusqu'à
 5	ka	kà	AUX	pm	_	8	aux	_	Gloss=INF
-6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	nmod:poss	_	Gloss=3SG
+6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	nmod:poss	_	Gloss=3SG
 7	cèmancè	cɛ́mancɛ	NOUN	n	_	8	obj	_	Gloss=milieu
-8	fa	fá	VERB	v	_	3	advcl	_	Gloss=remplir
+8	fa	fá	VERB	v	_	3	advcl	_	Gloss=remplir|SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:34
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:34
 # text = a mana taga, o bè kelen tigè, a ka suya bè bò a kònò.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	3	nsubj	_	Gloss=3SG
-2	mana	mána	AUX	pm	Mood=Cnd|Polarity=Pos	3	aux	_	Gloss=COND.AFF
-3	taga	tága	VERB	v	_	8	advcl	_	Gloss=aller
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=3SG
+2	mana	mána	AUX	pm	Mood=Cnd|Polarity=Pos	3	aux	_	Gloss=COND.Pos
+3	taga	tága	VERB	v	_	8	advcl	_	Gloss=aller|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
 5	o	ò	PRON	prn	_	8	nsubj	_	Gloss=ce
-6	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	8	aux	_	Gloss=IPFV.AFF
+6	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	8	aux	_	Gloss=IPFV.Pos
 7	kelen	kélen	NUM	num	_	8	obj	_	Gloss=un
-8	tigè	tìgɛ	VERB	v	_	0	root	_	Gloss=couper
+8	tigè	tìgɛ	VERB	v	_	0	root	_	Gloss=couper|SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	Gloss=,
-10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	12	nmod:poss	_	Gloss=3SG
+10	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	12	nmod:poss	_	Gloss=3SG
 11	ka	ká	ADP	conj	_	10	case	_	Gloss=POSS
 12	suya	sú.ya	NOUN	n	_	14	nsubj	_	Gloss=sorcellerie|Morf=sorcellerie,inciter,ABSTR
-13	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	14	aux	_	Gloss=IPFV.AFF
+13	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	14	aux	_	Gloss=IPFV.Pos
 14	bò	bɔ́	VERB	v	_	8	parataxis	_	Gloss=sortir
-15	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	14	obl	_	Gloss=3SG
-16	kònò	kɔ́nɔ	ADP	pp	_	15	case	_	Gloss=à.l’intérieur
+15	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	14	obl	_	Gloss=3SG
+16	kònò	kɔ́nɔ	ADP	pp	_	15	case	_	Gloss=à.l’intérieur|SpaceAfter=No
 17	.	.	PUNCT	_	_	8	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:35
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:35
 # text = a mana taga o bè kelen tigè, a ka suya bè bò a kònò, a dèsèra.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	3	nsubj	_	Gloss=3SG
-2	mana	mána	AUX	pm	Mood=Cnd|Polarity=Pos	3	aux	_	Gloss=COND.AFF
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=3SG
+2	mana	mána	AUX	pm	Mood=Cnd|Polarity=Pos	3	aux	_	Gloss=COND.Pos
 3	taga	tága	VERB	v	_	7	advcl	_	Gloss=aller
 4	o	ò	PRON	prn	_	7	nsubj	_	Gloss=ce
-5	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	7	aux	_	Gloss=IPFV.AFF
+5	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	7	aux	_	Gloss=IPFV.Pos
 6	kelen	kélen	NUM	num	_	7	obj	_	Gloss=un
-7	tigè	tìgɛ	VERB	v	_	0	root	_	Gloss=couper
+7	tigè	tìgɛ	VERB	v	_	0	root	_	Gloss=couper|SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	Gloss=,
-9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	11	nmod:poss	_	Gloss=3SG
+9	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	11	nmod:poss	_	Gloss=3SG
 10	ka	ka	ADP	pp	_	9	case	_	Gloss=POSS
 11	suya	súya	NOUN	n	_	13	nsubj	_	Gloss=sorcellerie|Morf=sorcellerie,inciter,ABSTR
-12	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	13	aux	_	Gloss=IPFV.AFF
+12	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	13	aux	_	Gloss=IPFV.Pos
 13	bò	bɔ́	VERB	v	_	7	parataxis	_	Gloss=sortir
-14	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	13	obl	_	Gloss=3SG
-15	kònò	kɔ́nɔ	ADP	pp	_	14	case	_	Gloss=dans
+14	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	13	obl	_	Gloss=3SG
+15	kònò	kɔ́nɔ	ADP	pp	_	14	case	_	Gloss=dans|SpaceAfter=No
 16	,	,	PUNCT	_	_	13	punct	_	Gloss=,
-17	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	18	nsubj	_	Gloss=3SG
-18	dèsèra	dɛsɛra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	13	parataxis	_	Gloss=échouer|Morf=échouer,PFV.INTR
+17	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	18	nsubj	_	Gloss=3SG
+18	dèsèra	dɛsɛra	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	13	parataxis	_	Gloss=échouer|Morf=échouer,PFV.INTR|SpaceAfter=No
 19	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:36
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:36
 # text = a ye dennin nègèn ko u ka taga dògò nyini.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
 3	dennin	dén.nin	NOUN	n	_	4	obj	_	Gloss=fillette|Morf=fillette,enfant,DIM
 4	nègèn	nɛ́gɛn	VERB	v	_	0	root	_	Gloss=leurrer
 5	ko	kó	PART	cop	_	8	discourse	_	Gloss=QUOT
-6	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	8	nsubj	_	Gloss=3PL
+6	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	8	nsubj	_	Gloss=3PL
 7	ka	ká	AUX	pm	_	8	aux	_	Gloss=OPT
 8	taga	tága	VERB	v	_	4	ccomp	_	Gloss=aller
 9	dògò	dɔ́gɔ	NOUN	n	_	10	obj	_	Gloss=fagot
-10	nyini	ɲíni	VERB	v	_	8	xcomp	_	Gloss=chercher
+10	nyini	ɲíni	VERB	v	_	8	xcomp	_	Gloss=chercher|SpaceAfter=No
 11	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:37
-# text = dennin ko, a ko : ne bè n ka minèw ko.
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:37
+# text = dennin ko, a ko: ne bè n ka minèw ko.
 1	dennin	dén.nin	NOUN	n	_	2	nsubj	_	Gloss=fillette|Morf=fillette,enfant,DIM
-2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
-4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
-5	ko	kó	VERB	cop	_	2	parataxis	_	Gloss=QUOT
+4	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=3SG
+5	ko	kó	VERB	cop	_	2	parataxis	_	Gloss=QUOT|SpaceAfter=No
 6	:	:	PUNCT	_	_	5	punct	_	Gloss=:
-7	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	12	nsubj	_	Gloss=1SG.EMPH
-8	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	12	aux	_	Gloss=IPFV.AFF
+7	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	12	nsubj	_	Gloss=1SG.EMPH
+8	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	12	aux	_	Gloss=IPFV.Pos
 9	n	ń	PRON	pers	PronType=Prs	11	nmod:poss	_	Gloss=je
 10	ka	ká	ADP	conj	_	9	case	_	Gloss=POSS
 11	minèw	mìnɛnw	NOUN	n	Number=Plur	12	obj	_	Gloss=outil|Morf=outil,PL
-12	ko	kò	VERB	v	_	5	parataxis:obj	_	Gloss=laver
+12	ko	kò	VERB	v	_	5	parataxis:obj	_	Gloss=laver|SpaceAfter=No
 13	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:38
-# text = a ko : ayiwa, an ka taga dògònyini na fòlò !
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
-2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:38
+# text = a ko: ayiwa, an ka taga dògònyini na fòlò!
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT|SpaceAfter=No
 3	:	:	PUNCT	_	_	2	punct	_	Gloss=:
-4	ayiwa	áyiwa	INTJ	intj	_	8	discourse	_	Gloss=bon
+4	ayiwa	áyiwa	INTJ	intj	_	8	discourse	_	Gloss=bon|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	Gloss=,
-6	an	án	PRON	pers	PronType=Prs|Number=Plur|Person=1	8	nsubj	_	Gloss=1PL
+6	an	án	PRON	pers	Number=Plur|Person=1|PronType=Prs	8	nsubj	_	Gloss=1PL
 7	ka	ká	AUX	pm	_	8	aux	_	Gloss=OPT
 8	taga	tága	VERB	v	_	2	parataxis:obj	_	Gloss=aller
 9	dògònyini	dɔ́gɔɲini	NOUN	v	_	8	obl	_	Gloss=fagot|Morf=fagot,chercher
 10	na	ná	ADP	pp	_	9	case	_	Gloss=dans
-11	fòlò	fɔ́lɔ	ADV	adv	_	8	obl	_	Gloss=autrefois
+11	fòlò	fɔ́lɔ	ADV	adv	_	8	obl	_	Gloss=autrefois|SpaceAfter=No
 12	!	!	PUNCT	_	_	8	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:39
-# text = a ko : nènè bè ne minè !
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
-2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:39
+# text = a ko: nènè bè ne minè!
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT|SpaceAfter=No
 3	:	:	PUNCT	_	_	2	punct	_	Gloss=:
 4	nènè	nɛ́nɛ	NOUN	n	_	7	nsubj	_	Gloss=froid
-5	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	7	aux	_	Gloss=IPFV.AFF
-6	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	7	obj	_	Gloss=1SG.EMPH
-7	minè	mìnɛ	VERB	v	_	2	parataxis:obj	_	Gloss=attraper
+5	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	7	aux	_	Gloss=IPFV.Pos
+6	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	7	obj	_	Gloss=1SG.EMPH
+7	minè	mìnɛ	VERB	v	_	2	parataxis:obj	_	Gloss=attraper|SpaceAfter=No
 8	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:40
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:40
 # text = u tagara dògònyiniyòrò la.
-1	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	2	nsubj	_	Gloss=3PL
-2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+1	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Gloss=3PL
+2	tagara	tagara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
 3	dògònyiniyòrò	dɔ́gɔ.ɲíni.yɔ́rɔ	NOUN	n	_	2	obl	_	Gloss=fagot|Morf=fagot,chercher,lieu
-4	la	lá	ADP	pp	_	3	case	_	Gloss=dans
+4	la	lá	ADP	pp	_	3	case	_	Gloss=dans|SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:41
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:41
 # text = a ye cangara jalenba ye.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 3	cangara	càngara	NOUN	n	_	5	obj	_	Gloss=arbustes
-4	jalenba	jàlenba	ADJ	adj	VerbalForm=Part|Aspect=Perf	3	amod	_	Gloss=sécher|Morf=sécher,PTCP.RES,AUGM
-5	ye	yé	VERB	v	_	0	root	_	Gloss=voir
+4	jalenba	jàlenba	ADJ	adj	Aspect=Perf|VerbForm=Part	3	amod	_	Gloss=sécher|Morf=sécher,PTCP.RES,AUGM
+5	ye	yé	VERB	v	_	0	root	_	Gloss=voir|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:42
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:42
 # text = a ye dennin yèlèn o bala, ko dennin ka a tigè.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
 3	dennin	dén.nin	NOUN	n	_	4	obj	_	Gloss=fillette|Morf=fillette,enfant,DIM
 4	yèlèn	yɛ̀lɛn	VERB	v	_	0	root	_	Gloss=monter
 5	o	ò	PRON	prn	_	4	obl	_	Gloss=ce
-6	bala	bála	ADP	pp	_	5	case	_	Gloss=sur
+6	bala	bála	ADP	pp	_	5	case	_	Gloss=sur|SpaceAfter=No
 7	,	,	PUNCT	_	_	4	punct	_	Gloss=,
 8	ko	kó	SCONJ	cop	_	12	discourse	_	Gloss=QUOT
 9	dennin	dén.nin	PART	n	_	12	nsubj	_	Gloss=fillette|Morf=fillette,enfant,DIM
 10	ka	ká	AUX	pm	_	12	aux	_	Gloss=OPT
-11	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	12	obj	_	Gloss=3SG
-12	tigè	tìgɛ	VERB	v	_	4	ccomp	_	Gloss=couper
+11	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	12	obj	_	Gloss=3SG
+12	tigè	tìgɛ	VERB	v	_	4	ccomp	_	Gloss=couper|SpaceAfter=No
 13	.	.	PUNCT	_	_	12	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:43
-# text = dennin ko : n ma, ne tè se ka yèlèn nin bala.
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:43
+# text = dennin ko: n ma, ne tè se ka yèlèn nin bala.
 1	dennin	dén.nin	NOUN	n	_	2	nsubj	_	Gloss=fillette|Morf=fillette,enfant,DIM
-2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT|SpaceAfter=No
 3	:	:	PUNCT	_	_	2	punct	_	Gloss=:
 4	n	ń	PRON	pers	PronType=Prs	5	nmod:poss	_	Gloss=je
-5	ma	má	NOUN	n	_	9	vocative	_	Gloss=maman
+5	ma	má	NOUN	n	_	9	vocative	_	Gloss=maman|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
-7	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	9	nsubj	_	Gloss=1SG.EMPH
-8	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	9	aux	_	Gloss=IPFV.NEG
+7	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	9	nsubj	_	Gloss=1SG.EMPH
+8	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	9	aux	_	Gloss=IPFV.NEG
 9	se	sé	VERB	v	_	2	parataxis:obj	_	Gloss=arriver
 10	ka	kà	AUX	pm	_	11	aux	_	Gloss=INF
 11	yèlèn	yɛ̀lɛn	VERB	v	_	9	xcomp	_	Gloss=monter
-12	nin	nìn	PRON	prn/dtm	PronType=Dem|Definite-Def	11	obl	_	Gloss=DEM
-13	bala	bála	ADP	pp	_	12	case	_	Gloss=sur
+12	nin	nìn	PRON	prn/dtm	Definite=Def|PronType=Dem	11	obl	_	Gloss=DEM
+13	bala	bála	ADP	pp	_	12	case	_	Gloss=sur|SpaceAfter=No
 14	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:44
-# text = a ko : i bè yèlèn dè !
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
-2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:44
+# text = a ko: i bè yèlèn dè!
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT|SpaceAfter=No
 3	:	:	PUNCT	_	_	2	punct	_	Gloss=:
 4	i	í	PRON	pers	PronType=Prs	6	nsubj	_	Gloss=2.SG
-5	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	6	aux	_	Gloss=IPFV.AFF
+5	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	6	aux	_	Gloss=IPFV.Pos
 6	yèlèn	yɛ̀lɛn	VERB	v	_	2	parataxis:obj	_	Gloss=monter
-7	dè	dɛ́	PART	prt	_	6	discourse	_	Gloss=certes
+7	dè	dɛ́	PART	prt	_	6	discourse	_	Gloss=certes|SpaceAfter=No
 8	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:45
-# text = ni i ma yèlèn n nyènana kelen na n bè i kè n mago ye.
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:45
+# text = ni i ma yèlèn n nyèna na kelen na n bè i kè n mago ye.
 1	ni	ní	SCONJ	conj	_	4	mark	_	Gloss=si
 2	i	í	PRON	pers	PronType=Prs	4	nsubj	_	Gloss=2.SG
 3	ma	má	AUX	pm	_	4	aux	_	Gloss=PFV:NEG
@@ -705,71 +661,67 @@
 8	kelen	kélen	NUM	num	_	4	obl	_	Gloss=un
 9	na	ná	ADP	pp	_	8	case	_	Gloss=dans
 10	n	ń	PRON	pers	PronType=Prs	13	nsubj	_	Gloss=je
-11	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	13	aux	_	Gloss=IPFV.AFF
+11	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	13	aux	_	Gloss=IPFV.Pos
 12	i	í	PRON	pers	PronType=Prs	13	obj	_	Gloss=2.SG
 13	kè	kɛ́	VERB	v	_	0	root	_	Gloss=faire
 14	n	ń	PRON	pers	PronType=Prs	15	nmod:poss	_	Gloss=je
 15	mago	màgo	NOUN	n	_	13	obl	_	Gloss=besoin
-16	ye	yé	ADP	pp	_	15	case	_	Gloss=PP
+16	ye	yé	ADP	pp	_	15	case	_	Gloss=PP|SpaceAfter=No
 17	.	.	PUNCT	_	_	13	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:46
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:46
 # text = dennin yèlènna jiri bala.
 1	dennin	dén.nin	NOUN	n	_	2	nsubj	_	Gloss=fillette|Morf=fillette,enfant,DIM
-2	yèlènna	yɛlɛnna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=monter|Morf=monter,PFV.INTR
+2	yèlènna	yɛlɛnna	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=monter|Morf=monter,PFV.INTR
 3	jiri	jíri	NOUN	n	_	2	obl	_	Gloss=arbre
-4	bala	bála	ADP	pp	_	3	case	_	Gloss=sur
+4	bala	bála	ADP	pp	_	3	case	_	Gloss=sur|SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:47
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:47
 # text = dennin bè dògò tigè yòrò min, a dèsèra ka dògò tigè.
 # label = rel_elided
 1	dennin	dén.nin	NOUN	n	_	4	nsubj	_	Gloss=fillette|Morf=fillette,enfant,DIM
-2	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	4	aux	_	Gloss=IPFV.AFF
+2	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	4	aux	_	Gloss=IPFV.Pos
 3	dògò	dɔ́gɔ	NOUN	n	_	4	obj	_	Gloss=fagot
 4	tigè	tìgɛ	VERB	v	_	9	acl	_	Gloss=couper
 5	yòrò	yɔ́rɔ	NOUN	n	_	4	obl	_	Gloss=lieu
-6	min	mín	DET	prn	PronType=Rel	5	det:rel	_	Gloss=REL
+6	min	mín	DET	prn	PronType=Rel	5	det:rel	_	Gloss=REL|SpaceAfter=No
 7	,	,	PUNCT	_	_	4	punct	_	Gloss=,
-8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	9	nsubj	_	Gloss=3SG
-9	dèsèra	dɛsɛra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=échouer|Morf=échouer,PFV.INTR
+8	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=3SG
+9	dèsèra	dɛsɛra	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=échouer|Morf=échouer,PFV.INTR
 10	ka	kà	AUX	pm	_	12	aux	_	Gloss=INF
 11	dògò	dɔ́gɔ	NOUN	n	_	12	obj	_	Gloss=fagot
-12	tigè	tìgɛ	VERB	v	_	9	xcomp	_	Gloss=couper
+12	tigè	tìgɛ	VERB	v	_	9	xcomp	_	Gloss=couper|SpaceAfter=No
 13	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:48
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:48
 # text = ale ye jele ta, sujele ta, ka i jò dennin jukòrò ale bè dògò jukòròla kan ka a tigè.
-1	ale	àle	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	4	nsubj	_	Gloss=3SG.EMPH
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+1	ale	àle	PRON	pers	Number=Sing|Person=3|PronType=Emp	4	nsubj	_	Gloss=3SG.EMPH
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
 3	jele	jéle	NOUN	n	_	4	obj	_	Gloss=hache
-4	ta	tà	VERB	v	_	0	root	_	Gloss=prendre
+4	ta	tà	VERB	v	_	0	root	_	Gloss=prendre|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	Gloss=,
 6	sujele	sujele	NOUN	n	_	7	obj	_	Gloss=tremper|Morf=tremper,hache
-7	ta	tà	VERB	v	_	4	parataxis	_	Gloss=prendre
+7	ta	tà	VERB	v	_	4	parataxis	_	Gloss=prendre|SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	Gloss=,
 9	ka	kà	AUX	pm	_	11	aux	_	Gloss=INF
-10	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	11	obj	_	Gloss=REFL
+10	i	í	PRON	pers	PronType=Prs	11	obj	_	Gloss=REFL
 11	jò	jɔ̀	VERB	v	_	7	xcomp	_	Gloss=mettre.debout
 12	dennin	dén.nin	NOUN	n	_	11	obl	_	Gloss=fillette|Morf=fillette,enfant,DIM
 13	jukòrò	jù.kɔrɔ	ADP	pp	_	12	case	_	Gloss=dessous|Morf=dessous,derrière,sous
-14	ale	àlê	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	15	nsubj	_	Gloss=3SG.EMPH
+14	ale	àlê	PRON	pers	Number=Sing|Person=3|PronType=Emp	15	nsubj	_	Gloss=3SG.EMPH
 15	bè	bɛ́	VERB	cop	_	4	parataxis	_	Gloss=être
 16	dògò	dɔ́gɔ	NOUN	n	_	17	nmod:poss	_	Gloss=fagot
 17	jukòròla	jùkɔrɔla	NOUN	n	_	15	obl	_	Gloss=le.dessous|Morf=le.dessous,sous,derrière,sous,LOC
 18	kan	kàn	ADP	pp	_	17	case	_	Gloss=sur
 19	ka	kà	AUX	pm	_	21	aux	_	Gloss=INF
-20	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	21	obj	_	Gloss=3SG
-21	tigè	tìgɛ	VERB	v	_	15	xcomp	_	Gloss=couper
+20	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	21	obj	_	Gloss=3SG
+21	tigè	tìgɛ	VERB	v	_	15	xcomp	_	Gloss=couper|SpaceAfter=No
 22	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:49
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:49
 # text = ale denkènin o tògò ye ko Jasun ba yèrè o tògò ye ko Nasun.
-1	ale	àle	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	2	nmod:poss	_	Gloss=3SG.EMPH
+1	ale	àle	PRON	pers	Number=Sing|Person=3|PronType=Emp	2	nmod:poss	_	Gloss=3SG.EMPH
 2	denkènin	denkɛnin	NOUN	n	_	5	dislocated	_	Gloss=fils|Morf=fils,enfant,mâle,DIM
 3	o	ò	PRON	prn	_	4	nmod:poss	_	Gloss=ce
 4	tògò	tɔ́gɔ	NOUN	n	_	5	nsubj	_	Gloss=nom
@@ -780,510 +732,476 @@
 9	yèrè	yɛ̀rɛ	DET	dtm	_	8	det	_	Gloss=même
 10	o	ò	PRON	prn	_	11	nmod:poss	_	Gloss=ce
 11	tògò	tɔ́gɔ	NOUN	n	_	12	nsubj	_	Gloss=nom
-12	ye	yé	VERB	cop	Polarity=Pos	_	_	_	Gloss=EQU
+12	ye	yé	VERB	cop	Polarity=Pos	5	ccomp	_	Gloss=EQU
 13	ko	kó	PART	cop	_	14	discourse	_	Gloss=QUOT
-14	Nasun	Nasun	PROPN	n.prop	_	12	obl	_	Gloss=NOM.F
+14	Nasun	Nasun	PROPN	n.prop	_	12	obl	_	Gloss=NOM.F|SpaceAfter=No
 15	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:50
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:50
 # text = ayiwa, dennin yèrè ba tògò ye Nyèba.
-1	ayiwa	áyiwa	INTJ	intj	_	7	discourse	_	Gloss=bon
+1	ayiwa	áyiwa	INTJ	intj	_	7	discourse	_	Gloss=bon|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
 3	dennin	dén.nin	NOUN	n	_	5	nmod:poss	_	Gloss=fillette|Morf=fillette,enfant,DIM
 4	yèrè	yɛ̀rɛ	DET	dtm	_	3	det	_	Gloss=même
 5	ba	bá	NOUN	n	_	6	nmod:poss	_	Gloss=mère
 6	tògò	tɔ́gɔ	NOUN	n	_	7	nsubj	_	Gloss=nom
 7	ye	yé	VERB	cop	Polarity=Pos	0	root	_	Gloss=EQU
-8	Nyèba	Ɲɛ̀ba	PROPN	n.prop	_	7	obl	_	Gloss=NOM.F
+8	Nyèba	Ɲɛ̀ba	PROPN	n.prop	_	7	obl	_	Gloss=NOM.F|SpaceAfter=No
 9	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:51
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:51
 # text = ayiwa, ale ye dògò kan ka a tigè ni dògò ko ko a bè bin, dennin bè gaari kelen tigè.
-1	ayiwa	áyiwa	INTJ	intj	_	6	discourse	_	Gloss=bon
+1	ayiwa	áyiwa	INTJ	intj	_	6	discourse	_	Gloss=bon|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
-3	ale	àle	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	6	nsubj	_	Gloss=3SG.EMPH
-4	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	6	aux	_	Gloss=PFV.TR
+3	ale	àle	PRON	pers	Number=Sing|Person=3|PronType=Emp	6	nsubj	_	Gloss=3SG.EMPH
+4	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	6	aux	_	Gloss=PFV.TR
 5	dògò	dɔ́gɔ	NOUN	n	_	6	obj	_	Gloss=fagot
 6	kan	kàn	VERB	v	_	0	root	_	Gloss=couper
 7	ka	kà	AUX	pm	_	9	aux	_	Gloss=INF
-8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	9	obj	_	Gloss=3SG
+8	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	obj	_	Gloss=3SG
 9	tigè	tìgɛ	VERB	v	_	6	xcomp	_	Gloss=couper
 10	ni	ní	SCONJ	conj	_	12	mark	_	Gloss=si
 11	dògò	dɔ́gɔ	NOUN	n	_	12	nsubj	_	Gloss=fagot
 12	ko	kó	VERB	cop	_	22	advcl	_	Gloss=QUOT
 13	ko	kó	PART	cop	_	16	discourse	_	Gloss=QUOT
-14	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	16	nsubj	_	Gloss=3SG
-15	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	16	aux	_	Gloss=IPFV.AFF
-16	bin	bìn	VERB	v	_	12	ccomp	_	Gloss=tomber
+14	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	16	nsubj	_	Gloss=3SG
+15	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	16	aux	_	Gloss=IPFV.Pos
+16	bin	bìn	VERB	v	_	12	ccomp	_	Gloss=tomber|SpaceAfter=No
 17	,	,	PUNCT	_	_	16	punct	_	Gloss=,
 18	dennin	dénnin	NOUN	n	_	22	nsubj	_	Gloss=fillette|Morf=fillette,enfant,DIM
-19	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	22	aux	_	Gloss=IPFV.AFF
+19	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	22	aux	_	Gloss=IPFV.Pos
 20	gaari	gáari	NOUN	n	_	22	obj	_	Gloss=fil
 21	kelen	kélen	NUM	num	_	20	nummod	_	Gloss=un
-22	tigè	tìgɛ	VERB	v	_	6	parataxis	_	Gloss=couper
+22	tigè	tìgɛ	VERB	v	_	6	parataxis	_	Gloss=couper|SpaceAfter=No
 23	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:52
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:52
 # text = dògò bè nòrò a nò la.
 1	dògò	dɔ́gɔ	NOUN	n	_	3	nsubj	_	Gloss=fagot
-2	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	3	aux	_	Gloss=IPFV.AFF
+2	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	3	aux	_	Gloss=IPFV.Pos
 3	nòrò	nɔ́rɔ	VERB	v	_	0	root	_	Gloss=coller
-4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nmod:poss	_	Gloss=3SG
+4	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nmod:poss	_	Gloss=3SG
 5	nò	nɔ̀	NOUN	n	_	3	obl	_	Gloss=trace
-6	la	lá	ADP	pp	_	5	case	_	Gloss=dans
+6	la	lá	ADP	pp	_	5	case	_	Gloss=dans|SpaceAfter=No
 7	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:53
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:53
 # text = cènin ka wulunin o dalen bè dennin jukòrò, o bè dennin filè.
 1	cènin	cɛ̀.nin	NOUN	n	_	3	nmod:poss	_	Gloss=jeune.homme|Morf=jeune.homme,mâle,DIM
 2	ka	ká	ADP	conj	_	1	case	_	Gloss=POSS
 3	wulunin	wulunin	NOUN	n	_	5	dislocated	_	Gloss=chien|Morf=chien,DIM
 4	o	ò	PRON	prn	_	5	nsubj	_	Gloss=ce
-5	dalen	dalen	VERB	ptcp	VerbalForm=Part|Aspect=Perf	0	root	_	Gloss=poser|Morf=poser,PTCP.RES
+5	dalen	dalen	VERB	ptcp	Aspect=Perf|VerbForm=Part	0	root	_	Gloss=poser|Morf=poser,PTCP.RES
 6	bè	bɛ́	AUX	cop	Polarity=Pos	5	aux	_	Gloss=BE
 7	dennin	dén.nin	NOUN	n	_	5	obl	_	Gloss=fillette|Morf=fillette,enfant,DIM
-8	jukòrò	jù.kɔrɔ	ADP	pp	_	7	case	_	Gloss=dessous|Morf=dessous,derrière,sous
+8	jukòrò	jù.kɔrɔ	ADP	pp	_	7	case	_	Gloss=dessous|Morf=dessous,derrière,sous|SpaceAfter=No
 9	,	,	PUNCT	_	_	5	punct	_	Gloss=,
 10	o	ò	PRON	prn	_	13	nsubj	_	Gloss=ce
-11	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	13	aux	_	Gloss=IPFV.AFF
+11	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	13	aux	_	Gloss=IPFV.Pos
 12	dennin	dén.nin	NOUN	n	_	13	obj	_	Gloss=fillette|Morf=fillette,enfant,DIM
-13	filè	fílɛ	VERB	v	_	5	parataxis	_	Gloss=regarder
+13	filè	fílɛ	VERB	v	_	5	parataxis	_	Gloss=regarder|SpaceAfter=No
 14	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:54
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:54
 # text = dennin ka gaari bè nyini ka ban tigè la.
 1	dennin	dén.nin	NOUN	n	_	3	nmod:poss	_	Gloss=fillette|Morf=fillette,enfant,DIM
 2	ka	ká	ADP	conj	_	1	case	_	Gloss=POSS
 3	gaari	gáari	NOUN	n	_	5	nsubj	_	Gloss=fil
-4	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	5	aux	_	Gloss=IPFV.AFF
+4	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	5	aux	_	Gloss=IPFV.Pos
 5	nyini	ɲíni	VERB	v	_	0	root	_	Gloss=chercher
 6	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
 7	ban	bán	VERB	v	_	5	xcomp	_	Gloss=terminer
 8	tigè	tìgɛ	NOUN	v	_	7	obl	_	Gloss=couper
-9	la	lá	ADP	pp	_	8	case	_	Gloss=dans
+9	la	lá	ADP	pp	_	8	case	_	Gloss=dans|SpaceAfter=No
 10	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:55
-# text = dennin nana i kanto, a ko : e Jasun, e Jasun!
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:55
+# text = dennin nana i kanto, a ko: e Jasun, e Jasun!
 1	dennin	dén.nin	NOUN	n	_	2	nsubj	_	Gloss=fillette|Morf=fillette,enfant,DIM
-2	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
-3	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	4	obj	_	Gloss=REFL
-4	kanto	kán.to	VERB	v	_	2	parataxis	_	Gloss=s'adresser|Morf=s'adresser,cou,rester
+2	nana	nana	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
+3	i	í	PRON	pers	PronType=Prs	4	obj	_	Gloss=REFL
+4	kanto	kán.to	VERB	v	_	2	parataxis	_	Gloss=s'adresser|Morf=s'adresser,cou,rester|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	Gloss=,
-6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	nsubj	_	Gloss=3SG
-7	ko	kó	VERB	cop	_	4	parataxis	_	Gloss=QUOT
+6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Gloss=3SG
+7	ko	kó	VERB	cop	_	4	parataxis	_	Gloss=QUOT|SpaceAfter=No
 8	:	:	PUNCT	_	_	7	punct	_	Gloss=:
 9	e	ée	INTJ	intj	_	10	discourse	_	Gloss=hé!
-10	Jasun	Jasun	PROPN	n.prop	_	7	parataxis:obj	_	Gloss=NOM.M
+10	Jasun	Jasun	PROPN	n.prop	_	7	parataxis:obj	_	Gloss=NOM.M|SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	Gloss=,
 12	e	ée	INTJ	intj	_	13	discourse	_	Gloss=hé!
-13	Jasun	Jasun	PROPN	n.prop	_	10	parataxis	_	Gloss=NOM.M
+13	Jasun	Jasun	PROPN	n.prop	_	10	parataxis	_	Gloss=NOM.M|SpaceAfter=No
 14	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:56
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:56
 # text = jaa Jasun ba be maa dun dè, jaa Jasun ba be maa dun dè, jaa Jasun ba ye subaga ye!
 1	jaa	jàa	INTJ	intj	_	6	discourse	_	Gloss=vraiment
 2	Jasun	Jasun	PROPN	n.prop	_	3	nmod:poss	_	Gloss=NOM.M
 3	ba	bá	NOUN	n	_	6	nsubj	_	Gloss=mère
-4	be	bé	AUX	pm	Polarity=Pos|Aspect=Imp	6	aux	_	Gloss=IPFV.AFF
+4	be	bé	AUX	pm	Aspect=Imp|Polarity=Pos	6	aux	_	Gloss=IPFV.Pos
 5	maa	màa	NOUN	n	_	6	obj	_	Gloss=homme
 6	dun	dún	VERB	v	_	0	root	_	Gloss=manger
-7	dè	dɛ́	PART	prt	_	6	discourse	_	Gloss=certes
+7	dè	dɛ́	PART	prt	_	6	discourse	_	Gloss=certes|SpaceAfter=No
 8	,	,	PUNCT	_	_	6	punct	_	Gloss=,
 9	jaa	jàa	INTJ	intj	_	14	discourse	_	Gloss=vraiment
 10	Jasun	Jasun	PROPN	n.prop	_	11	nmod:poss	_	Gloss=NOM.M
 11	ba	bá	NOUN	n	_	14	nsubj	_	Gloss=mère
-12	be	bé	AUX	pm	Polarity=Pos|Aspect=Imp	14	aux	_	Gloss=IPFV.AFF
+12	be	bé	AUX	pm	Aspect=Imp|Polarity=Pos	14	aux	_	Gloss=IPFV.Pos
 13	maa	màa	NOUN	n	_	14	obj	_	Gloss=homme
 14	dun	dún	VERB	v	_	6	parataxis	_	Gloss=manger
-15	dè	dɛ́	PART	prt	_	14	discourse	_	Gloss=certes
+15	dè	dɛ́	PART	prt	_	14	discourse	_	Gloss=certes|SpaceAfter=No
 16	,	,	PUNCT	_	_	14	punct	_	Gloss=,
 17	jaa	jàa	INTJ	intj	_	20	discourse	_	Gloss=vraiment
 18	Jasun	Jasun	PROPN	n.prop	_	19	nmod:poss	_	Gloss=NOM.M
 19	ba	bá	NOUN	n	_	20	nsubj	_	Gloss=mère
 20	ye	yé	VERB	cop	Polarity=Pos	14	parataxis	_	Gloss=EQU
 21	subaga	sú.baga	NOUN	n	_	20	obl	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC
-22	ye	yé	ADP	pp	_	21	case	_	Gloss=PP
+22	ye	yé	ADP	pp	_	21	case	_	Gloss=PP|SpaceAfter=No
 23	!	!	PUNCT	_	_	20	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:57
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:57
 # text = ni i ye Jasun wele, ne tè i to!
 1	ni	ní	SCONJ	conj	_	5	mark	_	Gloss=si
 2	i	í	PRON	pers	PronType=Prs	5	nsubj	_	Gloss=2.SG
-3	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+3	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 4	Jasun	Jasun	PROPN	n.prop	_	5	obj	_	Gloss=NOM.M
-5	wele	wéle	VERB	v	_	10	advcl	_	Gloss=appeler
+5	wele	wéle	VERB	v	_	10	advcl	_	Gloss=appeler|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
-7	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	10	nsubj	_	Gloss=1SG.EMPH
-8	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	10	aux	_	Gloss=IPFV.NEG
+7	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	10	nsubj	_	Gloss=1SG.EMPH
+8	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	10	aux	_	Gloss=IPFV.NEG
 9	i	í	PRON	pers	PronType=Prs	10	obj	_	Gloss=2.SG
-10	to	tó	VERB	v	_	0	root	_	Gloss=rester
+10	to	tó	VERB	v	_	0	root	_	Gloss=rester|SpaceAfter=No
 11	!	!	PUNCT	_	_	10	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:58
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:58
 # text = ni i ye Jasun wele, ne tè i to!
 1	ni	ní	SCONJ	conj	_	5	mark	_	Gloss=si
 2	i	í	PRON	pers	PronType=Prs	5	nsubj	_	Gloss=2.SG
-3	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+3	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 4	Jasun	Jasun	PROPN	n.prop	_	5	obj	_	Gloss=NOM.M
-5	wele	wéle	VERB	v	_	10	advcl	_	Gloss=appeler
+5	wele	wéle	VERB	v	_	10	advcl	_	Gloss=appeler|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
-7	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	10	nsubj	_	Gloss=1SG.EMPH
-8	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	10	aux	_	Gloss=IPFV.NEG
+7	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	10	nsubj	_	Gloss=1SG.EMPH
+8	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	10	aux	_	Gloss=IPFV.NEG
 9	i	í	PRON	pers	PronType=Prs	10	obj	_	Gloss=2.SG
-10	to	tó	VERB	v	_	0	root	_	Gloss=rester
+10	to	tó	VERB	v	_	0	root	_	Gloss=rester|SpaceAfter=No
 11	!	!	PUNCT	_	_	10	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:59
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:59
 # text = Kusuba denkè wolo bè n kan!
 1	Kusuba	Kusuba	PROPN	_	_	2	nmod:poss	_	Gloss=CHNT
 2	denkè	dén.kɛ	NOUN	n	_	3	nmod:poss	_	Gloss=fils|Morf=fils,enfant,mâle
 3	wolo	wòlo	NOUN	n	_	4	nsubj	_	Gloss=peau
 4	bè	bɛ́	VERB	cop	Polarity=Pos	0	root	_	Gloss=BE
 5	n	ń	PRON	pers	PronType=Prs	4	obl	_	Gloss=je
-6	kan	kàn	ADP	pp	_	5	case	_	Gloss=sur
+6	kan	kàn	ADP	pp	_	5	case	_	Gloss=sur|SpaceAfter=No
 7	!	!	PUNCT	_	_	4	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:60
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:60
 # text = Kusuba denkè wolo bè n kan!
 1	Kusuba	Kusuba	PROPN	_	_	2	nmod:poss	_	Gloss=CHNT
 2	denkè	dén.kɛ	NOUN	n	_	3	nmod:poss	_	Gloss=fils|Morf=fils,enfant,mâle
 3	wolo	wòlo	NOUN	n	_	4	nsubj	_	Gloss=peau
 4	bè	bɛ́	VERB	cop	Polarity=Pos	0	root	_	Gloss=BE
 5	n	ń	PRON	pers	PronType=Prs	4	obl	_	Gloss=je
-6	kan	kàn	ADP	pp	_	5	case	_	Gloss=sur
+6	kan	kàn	ADP	pp	_	5	case	_	Gloss=sur|SpaceAfter=No
 7	!	!	PUNCT	_	_	4	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:61
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:61
 # text = Kusuba kanliba kusa kusa!
 1	Kusuba	Kusuba	PROPN	_	_	0	root	_	Gloss=CHNT
-2	kanliba	kànliba	NOUN	n	VerbalForm=Vnoun	1	parataxis:obj	_	Gloss=couper|Morf=couper,NMLZ,AUGM
+2	kanliba	kànliba	NOUN	n	VerbForm=Vnoun	1	parataxis:obj	_	Gloss=couper|Morf=couper,NMLZ,AUGM
 3	kusa	kusa	INTJ	_	_	2	compound:redup	_	Gloss=CHNT
-4	kusa	kusa	INTJ	_	_	3	compound:redup	_	Gloss=CHNT
+4	kusa	kusa	INTJ	_	_	3	compound:redup	_	Gloss=CHNT|SpaceAfter=No
 5	!	!	PUNCT	_	_	1	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:62
-# text = Kusuba kanliba kusa kusa.
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:62
+# text = Kusuba kanliba kusa kusa!
 1	Kusuba	Kusuba	PROPN	_	_	0	root	_	Gloss=CHNT
-2	kanliba	kànliba	NOUN	n	VerbalForm=Vnoun	1	parataxis:obj	_	Gloss=couper|Morf=couper,NMLZ,AUGM
+2	kanliba	kànliba	NOUN	n	VerbForm=Vnoun	1	parataxis:obj	_	Gloss=couper|Morf=couper,NMLZ,AUGM
 3	kusa	kusa	INTJ	_	_	2	compound:redup	_	Gloss=CHNT
-4	kusa	kusa	INTJ	_	_	3	compound:redup	_	Gloss=CHNT
+4	kusa	kusa	INTJ	_	_	3	compound:redup	_	Gloss=CHNT|SpaceAfter=No
 5	!	!	PUNCT	_	_	1	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:63
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:63
 # text = dennin ye gaari tigè, dògò nòròla.
 1	dennin	dénnin	NOUN	n	_	4	nsubj	_	1
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
 3	gaari	gáari	NOUN	n	_	4	obj	_	Gloss=fil
-4	tigè	tìgɛ	VERB	v	_	0	root	_	Gloss=couper
+4	tigè	tìgɛ	VERB	v	_	0	root	_	Gloss=couper|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	Gloss=,
 6	dògò	dɔ́gɔ	NOUN	n	_	7	nsubj	_	Gloss=fagot
-7	nòròla	nɔrɔla	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	4	parataxis	_	Gloss=coller|Morf=coller,PFV.INTR
+7	nòròla	nɔrɔla	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	4	parataxis	_	Gloss=coller|Morf=coller,PFV.INTR|SpaceAfter=No
 8	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:64
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:64
 # text = dennin julagaari banna ka a tò to fila ye.
 1	dennin	dén.nin	NOUN	n	_	2	nmod:poss	_	Gloss=fillette|Morf=fillette,enfant,DIM
 2	julagaari	julagaari	NOUN	n	_	3	nsubj	_	Gloss=derrière|Morf=derrière,dans,fil
-3	banna	banna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=terminer|Morf=terminer,PFV.INTR
+3	banna	banna	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=terminer|Morf=terminer,PFV.INTR
 4	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
-5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	6	nmod:poss	_	Gloss=3SG
+5	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	6	nmod:poss	_	Gloss=3SG
 6	tò	tɔ̀	NOUN	n	_	7	obj	_	Gloss=le.reste
 7	to	tó	VERB	v	_	3	xcomp	_	Gloss=rester
 8	fila	fìla	NUM	num	_	7	obl	_	Gloss=deux
-9	ye	yé	ADP	pp	_	8	case	_	Gloss=PP
+9	ye	yé	ADP	pp	_	8	case	_	Gloss=PP|SpaceAfter=No
 10	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:65
-# text = dennin nana i bolo da a kun ka kulè san fè, a ko : e Jasun, e Jasun!
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:65
+# text = dennin nana i bolo da a kun ka kulè san fè, a ko: e Jasun, e Jasun!
 1	dennin	dén.nin	NOUN	n	_	2	nsubj	_	Gloss=fillette|Morf=fillette,enfant,DIM
-2	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
-3	i	í	PRON	pers	PronType=Prs	4	nsubj:poss	_	Gloss=2.SG
+2	nana	nana	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
+3	i	í	PRON	pers	PronType=Prs	4	nmod:poss	_	Gloss=2.SG
 4	bolo	bólo	NOUN	n	_	5	obj	_	Gloss=bras
 5	da	dá	VERB	v	_	2	xcomp	_	Gloss=poser
-6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	obl	_	Gloss=3SG
+6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	obl	_	Gloss=3SG
 7	kun	kùn	ADP	n	_	6	case	_	Gloss=tête
 8	ka	kà	AUX	pm	_	9	aux	_	Gloss=INF
 9	kulè	kúle	VERB	v	_	5	xcomp	_	Gloss=hurler
 10	san	sán	NOUN	n	_	9	obl	_	Gloss=ciel
-11	fè	fɛ̀	ADP	pp	_	10	case	_	Gloss=vers
+11	fè	fɛ̀	ADP	pp	_	10	case	_	Gloss=vers|SpaceAfter=No
 12	,	,	PUNCT	_	_	9	punct	_	Gloss=,
-13	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	14	nsubj	_	Gloss=3SG
-14	ko	kó	VERB	cop	_	5	parataxis	_	Gloss=QUOT
+13	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Gloss=3SG
+14	ko	kó	VERB	cop	_	5	parataxis	_	Gloss=QUOT|SpaceAfter=No
 15	:	:	PUNCT	_	_	14	punct	_	Gloss=:
 16	e	ée	INTJ	intj	_	17	discourse	_	Gloss=hé!
-17	Jasun	Jasun	PROPN	n.prop	_	14	parataxis:obj	_	Gloss=NOM.M
+17	Jasun	Jasun	PROPN	n.prop	_	14	parataxis:obj	_	Gloss=NOM.M|SpaceAfter=No
 18	,	,	PUNCT	_	_	17	punct	_	Gloss=,
 19	e	ée	INTJ	intj	_	20	discourse	_	Gloss=hé!
-20	Jasun	Jasun	PROPN	n.prop	_	17	parataxis	_	Gloss=NOM.M
+20	Jasun	Jasun	PROPN	n.prop	_	17	parataxis	_	Gloss=NOM.M|SpaceAfter=No
 21	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:66
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:66
 # text = jaa Jasun ba be maa dun dè, jaa Jasun ba be maa dun dè, jaa Jasun ba ye subaga ye.
 1	jaa	jàa	INTJ	intj	_	6	discourse	_	Gloss=vraiment
 2	Jasun	Jasun	PROPN	n.prop	_	3	nmod:poss	_	Gloss=NOM.M
 3	ba	bá	NOUN	n	_	6	nsubj	_	Gloss=mère
-4	be	bé	AUX	pm	Polarity=Pos|Aspect=Imp	6	aux	_	Gloss=IPFV.AFF
+4	be	bé	AUX	pm	Aspect=Imp|Polarity=Pos	6	aux	_	Gloss=IPFV.Pos
 5	maa	màa	NOUN	n	_	6	obj	_	Gloss=homme
 6	dun	dún	VERB	v	_	0	root	_	Gloss=manger
-7	dè	dɛ́	PART	prt	_	6	discourse	_	Gloss=certes
+7	dè	dɛ́	PART	prt	_	6	discourse	_	Gloss=certes|SpaceAfter=No
 8	,	,	PUNCT	_	_	6	punct	_	Gloss=,
 9	jaa	jàa	INTJ	intj	_	14	discourse	_	Gloss=vraiment
 10	Jasun	Jasun	PROPN	n.prop	_	11	nmod:poss	_	Gloss=NOM.M
 11	ba	bá	NOUN	n	_	14	nsubj	_	Gloss=mère
-12	be	bé	AUX	pm	Polarity=Pos|Aspect=Imp	14	aux	_	Gloss=IPFV.AFF
+12	be	bé	AUX	pm	Aspect=Imp|Polarity=Pos	14	aux	_	Gloss=IPFV.Pos
 13	maa	màa	NOUN	n	_	14	obj	_	Gloss=homme
 14	dun	dún	VERB	v	_	6	parataxis	_	Gloss=manger
-15	dè	dɛ́	PART	prt	_	14	discourse	_	Gloss=certes
+15	dè	dɛ́	PART	prt	_	14	discourse	_	Gloss=certes|SpaceAfter=No
 16	,	,	PUNCT	_	_	14	punct	_	Gloss=,
 17	jaa	jàa	INTJ	intj	_	20	discourse	_	Gloss=vraiment
 18	Jasun	Jasun	PROPN	n.prop	_	19	nmod:poss	_	Gloss=NOM.M
 19	ba	bá	NOUN	n	_	20	nsubj	_	Gloss=mère
 20	ye	yé	VERB	cop	Polarity=Pos	14	parataxis	_	Gloss=EQU
 21	subaga	sú.baga	NOUN	n	_	20	obl	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC
-22	ye	yé	ADP	pp	_	21	case	_	Gloss=PP
+22	ye	yé	ADP	pp	_	21	case	_	Gloss=PP|SpaceAfter=No
 23	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:67
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:67
 # text = ni i ye Jasun wele, ne tè i to!
 1	ni	ní	SCONJ	conj	_	5	mark	_	Gloss=si
 2	i	í	PRON	pers	PronType=Prs	5	nsubj	_	Gloss=2.SG
-3	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+3	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 4	Jasun	Jasun	PROPN	n.prop	_	5	obj	_	Gloss=NOM.M
-5	wele	wéle	VERB	v	_	10	advcl	_	Gloss=appeler
+5	wele	wéle	VERB	v	_	10	advcl	_	Gloss=appeler|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
-7	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	10	nsubj	_	Gloss=1SG.EMPH
-8	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	10	aux	_	Gloss=IPFV.NEG
+7	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	10	nsubj	_	Gloss=1SG.EMPH
+8	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	10	aux	_	Gloss=IPFV.NEG
 9	i	í	PRON	pers	PronType=Prs	10	obj	_	Gloss=2.SG
-10	to	tó	VERB	v	_	0	root	_	Gloss=rester
+10	to	tó	VERB	v	_	0	root	_	Gloss=rester|SpaceAfter=No
 11	!	!	PUNCT	_	_	10	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:68
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:68
 # text = ni i ye Jasun wele, ne tè i to!
 1	ni	ní	SCONJ	conj	_	5	mark	_	Gloss=si
 2	i	í	PRON	pers	PronType=Prs	5	nsubj	_	Gloss=2.SG
-3	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+3	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 4	Jasun	Jasun	PROPN	n.prop	_	5	obj	_	Gloss=NOM.M
-5	wele	wéle	VERB	v	_	10	advcl	_	Gloss=appeler
+5	wele	wéle	VERB	v	_	10	advcl	_	Gloss=appeler|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
-7	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	10	nsubj	_	Gloss=1SG.EMPH
-8	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	10	aux	_	Gloss=IPFV.NEG
+7	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	10	nsubj	_	Gloss=1SG.EMPH
+8	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	10	aux	_	Gloss=IPFV.NEG
 9	i	í	PRON	pers	PronType=Prs	10	obj	_	Gloss=2.SG
-10	to	tó	VERB	v	_	0	root	_	Gloss=rester
+10	to	tó	VERB	v	_	0	root	_	Gloss=rester|SpaceAfter=No
 11	!	!	PUNCT	_	_	10	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:69
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:69
 # text = Kusuba denkè wolo bè n kan!
 1	Kusuba	Kusuba	PROPN	n.prop	_	2	nmod:poss	_	Gloss=NOM.CL|Morf=NOM.CL,AUGM
 2	denkè	dén.kɛ	NOUN	n	_	3	nmod:poss	_	Gloss=fils|Morf=fils,enfant,mâle
 3	wolo	wòlo	NOUN	n	_	4	nsubj	_	Gloss=peau
 4	bè	bɛ́	VERB	cop	Polarity=Pos	0	root	_	Gloss=BE
 5	n	ń	PRON	pers	PronType=Prs	4	obl	_	Gloss=je
-6	kan	kàn	ADP	pp	_	5	case	_	Gloss=sur
+6	kan	kàn	ADP	pp	_	5	case	_	Gloss=sur|SpaceAfter=No
 7	!	!	PUNCT	_	_	4	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:70
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:70
 # text = Kusuba denkè wolo bè n kan!
 1	Kusuba	Kusuba	PROPN	n.prop	_	2	nmod:poss	_	Gloss=NOM.CL|Morf=NOM.CL,AUGM
 2	denkè	dén.kɛ	NOUN	n	_	3	nmod:poss	_	Gloss=fils|Morf=fils,enfant,mâle
 3	wolo	wòlo	NOUN	n	_	4	nsubj	_	Gloss=peau
 4	bè	bɛ́	VERB	cop	Polarity=Pos	0	root	_	Gloss=BE
 5	n	ń	PRON	pers	PronType=Prs	4	obl	_	Gloss=je
-6	kan	kàn	ADP	pp	_	5	case	_	Gloss=sur
+6	kan	kàn	ADP	pp	_	5	case	_	Gloss=sur|SpaceAfter=No
 7	!	!	PUNCT	_	_	4	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:71
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:71
 # text = Kusuba kanliba kusa kusa!
 1	Kusuba	Kusuba	PROPN	_	_	0	root	_	Gloss=CHNT
-2	kanliba	kànliba	NOUN	n	VerbalForm=Vnoun	1	parataxis:obj	_	Gloss=couper|Morf=couper,NMLZ,AUGM
+2	kanliba	kànliba	NOUN	n	VerbForm=Vnoun	1	parataxis:obj	_	Gloss=couper|Morf=couper,NMLZ,AUGM
 3	kusa	kusa	INTJ	_	_	2	compound:redup	_	Gloss=CHNT
-4	kusa	kusa	INTJ	_	_	3	compound:redup	_	Gloss=CHNT
+4	kusa	kusa	INTJ	_	_	3	compound:redup	_	Gloss=CHNT|SpaceAfter=No
 5	!	!	PUNCT	_	_	1	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:72
-# text = Kusuba kanliba kusa kusa.
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:72
+# text = Kusuba kanliba kusa kusa!
 1	Kusuba	Kusuba	PROPN	_	_	0	root	_	Gloss=CHNT
-2	kanliba	kànliba	NOUN	n	VerbalForm=Vnoun	1	parataxis:obj	_	Gloss=couper|Morf=couper,NMLZ,AUGM
+2	kanliba	kànliba	NOUN	n	VerbForm=Vnoun	1	parataxis:obj	_	Gloss=couper|Morf=couper,NMLZ,AUGM
 3	kusa	kusa	INTJ	_	_	2	compound:redup	_	Gloss=CHNT
-4	kusa	kusa	INTJ	_	_	3	compound:redup	_	Gloss=CHNT
+4	kusa	kusa	INTJ	_	_	3	compound:redup	_	Gloss=CHNT|SpaceAfter=No
 5	!	!	PUNCT	_	_	1	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:73
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:73
 # text = ayiwa, wulunin bolila.
-1	ayiwa	áyiwa	INTJ	intj	_	4	discourse	_	Gloss=bon
+1	ayiwa	áyiwa	INTJ	intj	_	4	discourse	_	Gloss=bon|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
 3	wulunin	wulunin	NOUN	n	_	4	nsubj	_	Gloss=chien|Morf=chien,DIM
-4	bolila	bolila	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=courir|Morf=courir,PFV.INTR
+4	bolila	bolila	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=courir|Morf=courir,PFV.INTR|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:74
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:74
 # text = wulunin ye a dòn kelen de tora.
 1	wulunin	wulunin	NOUN	n	_	4	nsubj	_	Gloss=chien|Morf=chien,DIM
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
-3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	obj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=3SG
 4	dòn	dɔ́n	VERB	v	_	0	root	_	Gloss=connaître
 5	kelen	kélen	NUM	num	_	7	nsubj	_	Gloss=un
 6	de	dè	PART	prt	_	5	discourse	_	Gloss=FOC
-7	tora	tora	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	4	parataxis	_	Gloss=rester|Morf=rester,PFV.INTR
+7	tora	tora	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	4	parataxis	_	Gloss=rester|Morf=rester,PFV.INTR|SpaceAfter=No
 8	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:75
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:75
 # text = ni o kelen dun tigèra, dennin be sa.
 1	ni	ní	SCONJ	conj	_	5	mark	_	Gloss=si
 2	o	ò	PRON	prn	_	5	nsubj	_	Gloss=ce
 3	kelen	kélen	NUM	num	_	2	nummod	_	Gloss=un
 4	dun	dùn	PART	prt	_	3	discourse	_	Gloss=TOP.CNTR
-5	tigèra	tigɛra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	9	advcl	_	Gloss=couper|Morf=couper,PFV.INTR
+5	tigèra	tigɛra	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	9	advcl	_	Gloss=couper|Morf=couper,PFV.INTR|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
 7	dennin	dén.nin	NOUN	n	_	9	nsubj	_	Gloss=fillette|Morf=fillette,enfant,DIM
-8	be	bé	AUX	pm	Polarity=Pos|Aspect=Imp	9	aux	_	Gloss=IPFV.AFF
-9	sa	sà	VERB	v	_	0	root	_	Gloss=mourir
+8	be	bé	AUX	pm	Aspect=Imp|Polarity=Pos	9	aux	_	Gloss=IPFV.Pos
+9	sa	sà	VERB	v	_	0	root	_	Gloss=mourir|SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:76
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:76
 # text = wulunin tagara.
 1	wulunin	wulunin	NOUN	n	_	2	nsubj	_	Gloss=chien|Morf=chien,DIM
-2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+2	tagara	tagara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=aller|Morf=aller,PFV.INTR|SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:77
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:77
 # text = Jasun be dòlòmin na, cèkòròbaw caman sigilen bè.
 1	Jasun	Jasun	PROPN	n.prop	_	2	nsubj	_	Gloss=NOM.M
-2	be	bɛ́́	VERB	pm	Polarity=Pos|Aspect=Imp	0	root	_	Gloss=IPFV.AFF
+2	be	bɛ́́	VERB	pm	Aspect=Imp|Polarity=Pos	0	root	_	Gloss=IPFV.Pos
 3	dòlòmin	dɔ̀lɔ.min	NOUN	n	_	2	obl	_	Gloss=consommation.d'alcool|Morf=consommation.d'alcool,bière.de.mil,boire
-4	na	ná	ADP	pp	_	3	case	_	Gloss=dans
+4	na	ná	ADP	pp	_	3	case	_	Gloss=dans|SpaceAfter=No
 5	,	,	PUNCT	_	_	2	punct	_	Gloss=,
 6	cèkòròbaw	cɛkɔrɔbaw	NOUN	n	Number=Plur	8	nsubj	_	Gloss=vieillard|Morf=vieillard,mâle,vieux,AUGM,PL
 7	caman	cá.man	ADJ	adj	AdjType=Attr	6	amod	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ
-8	sigilen	sigilen	VERB	ptcp	VerbalForm=Part|Aspect=Perf	2	parataxis	_	Gloss=asseoir|Morf=asseoir,PTCP.RES
-9	bè	bɛ́	AUX	cop	Polarity=Pos	8	aux	_	Gloss=BE
+8	sigilen	sigilen	VERB	ptcp	Aspect=Perf|VerbForm=Part	2	parataxis	_	Gloss=asseoir|Morf=asseoir,PTCP.RES
+9	bè	bɛ́	AUX	cop	Polarity=Pos	8	aux	_	Gloss=BE|SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:78
-# text = wulunin bolila ka na i da Jasun kèrè fè : e wewu wewe wewu, e wewu wewe wewu, e wewu wewe wewu, e wewu wewe wewu!
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:78
+# text = wulunin bolila ka na i da Jasun kèrèfè: e wewu wewe wewu, e wewu wewe wewu, e wewu wewe wewu, e wewu wewe wewu!
 1	wulunin	wulunin	NOUN	n	_	2	nsubj	_	Gloss=chien|Morf=chien,DIM
-2	bolila	bolila	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=courir|Morf=courir,PFV.INTR
+2	bolila	bolila	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=courir|Morf=courir,PFV.INTR
 3	ka	kà	AUX	pm	_	4	aux	_	Gloss=INF
 4	na	nà	VERB	v	_	2	xcomp	_	Gloss=venir
-5	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	6	obj	_	Gloss=REFL
+5	i	í	PRON	pers	PronType=Prs	6	obj	_	Gloss=REFL
 6	da	dá	VERB	v	_	4	xcomp	_	Gloss=poser
 7	Jasun	Jasun	PROPN	n.prop	_	6	obl	_	Gloss=NOM.M
-8	kèrèfè	kɛ̀rɛ.fɛ̀	ADP	pp	_	7	case	_	Gloss=par.côté|Morf=par.côté,côté,vers
+8	kèrèfè	kɛ̀rɛ.fɛ̀	ADP	pp	_	7	case	_	Gloss=par.côté|Morf=par.côté,côté,vers|SpaceAfter=No
 9	:	:	PUNCT	_	_	6	punct	_	Gloss=:
 10	e	ée	INTJ	intj	_	11	discourse	_	Gloss=hé!
 11	wewu	wewu	INTJ	onomat	_	6	parataxis:obj	_	Gloss=ouah!
 12	wewe	wewe	INTJ	onomat	_	11	compound:redup	_	Gloss=ouah!
-13	wewu	wewu	INTJ	onomat	_	11	compound:redup	_	Gloss=ouah!
+13	wewu	wewu	INTJ	onomat	_	11	compound:redup	_	Gloss=ouah!|SpaceAfter=No
 14	,	,	PUNCT	_	_	11	punct	_	Gloss=,
 15	e	ée	INTJ	intj	_	16	discourse	_	Gloss=hé!
 16	wewu	wewu	INTJ	onomat	_	11	parataxis	_	Gloss=ouah!
 17	wewe	wewe	INTJ	onomat	_	16	compound:redup	_	Gloss=ouah!
-18	wewu	wewu	INTJ	onomat	_	16	compound:redup	_	Gloss=ouah!
+18	wewu	wewu	INTJ	onomat	_	16	compound:redup	_	Gloss=ouah!|SpaceAfter=No
 19	,	,	PUNCT	_	_	16	punct	_	Gloss=,
 20	e	ée	INTJ	intj	_	21	discourse	_	Gloss=hé!
 21	wewu	wewu	INTJ	onomat	_	16	parataxis	_	Gloss=ouah!
 22	wewe	wewe	INTJ	onomat	_	21	compound:redup	_	Gloss=ouah!
-23	wewu	wewu	INTJ	onomat	_	21	compound:redup	_	Gloss=ouah!
+23	wewu	wewu	INTJ	onomat	_	21	compound:redup	_	Gloss=ouah!|SpaceAfter=No
 24	,	,	PUNCT	_	_	21	punct	_	Gloss=,
 25	e	ée	INTJ	intj	_	26	discourse	_	Gloss=hé!
 26	wewu	wewu	INTJ	onomat	_	21	parataxis	_	Gloss=ouah!
 27	wewe	wewe	INTJ	onomat	_	26	compound:redup	_	Gloss=ouah!
-28	wewu	wewu	INTJ	onomat	_	26	compound:redup	_	Gloss=ouah!
+28	wewu	wewu	INTJ	onomat	_	26	compound:redup	_	Gloss=ouah!|SpaceAfter=No
 29	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:79
-# text = cèkòròba dò bè yen, a ko : Jasun, ko i ka wulu bè kuma han !
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:79
+# text = cèkòròba dò bè yen, a ko: Jasun, ko i ka wulu bè kuma han!
 1	cèkòròba	cɛ̀.kɔrɔ.ba	NOUN	n	_	3	nsubj	_	Gloss=vieillard|Morf=vieillard,mâle,vieux,AUGM
 2	dò	dɔ́	DET	dtm	_	1	det	_	Gloss=certain
 3	bè	bɛ́	VERB	cop	Polarity=Pos	0	root	_	Gloss=BE
-4	yen	yèn	ADV	adv/n	_	3	obl	_	Gloss=là-bas
+4	yen	yèn	ADV	adv/n	_	3	obl	_	Gloss=là-bas|SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	Gloss=,
-6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	nsubj	_	Gloss=3SG
-7	ko	kó	VERB	cop	_	3	parataxis	_	Gloss=QUOT
+6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Gloss=3SG
+7	ko	kó	VERB	cop	_	3	parataxis	_	Gloss=QUOT|SpaceAfter=No
 8	:	:	PUNCT	_	_	7	punct	_	Gloss=:
-9	Jasun	Jasun	PROPN	n.prop	_	16	vocative	_	Gloss=NOM.M
+9	Jasun	Jasun	PROPN	n.prop	_	16	vocative	_	Gloss=NOM.M|SpaceAfter=No
 10	,	,	PUNCT	_	_	9	punct	_	Gloss=,
 11	ko	kó	PART	cop	_	16	discourse	_	Gloss=QUOT
 12	i	í	PRON	pers	PronType=Prs	14	nmod:poss	_	Gloss=2.SG
 13	ka	ká	ADP	conj	_	12	case	_	Gloss=POSS
 14	wulu	wùlu	NOUN	n	_	16	nsubj	_	Gloss=chien
-15	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	16	aux	_	Gloss=IPFV.AFF
+15	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	16	aux	_	Gloss=IPFV.Pos
 16	kuma	kúma	VERB	v	_	7	parataxis:obj	_	Gloss=parler
-17	han	hán	INTJ	intj	_	16	discourse	_	Gloss=reproche
+17	han	hán	INTJ	intj	_	16	discourse	_	Gloss=reproche|SpaceAfter=No
 18	!	!	PUNCT	_	_	3	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:80
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:80
 # text = a ko i sigi ka kè dòlòmin ye.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
 3	i	í	PRON	pers	PronType=Prs	4	obj	_	Gloss=2.SG
 4	sigi	sìgi	VERB	v	_	2	parataxis:obj	_	Gloss=asseoir
 5	ka	kà	AUX	pm	_	6	aux	_	Gloss=INF
 6	kè	kɛ́	VERB	v	_	4	xcomp	_	Gloss=faire
 7	dòlòmin	dɔ̀lɔ.min	NOUN	n	_	6	obl	_	Gloss=consommation.d'alcool|Morf=consommation.d'alcool,bière.de.mil,boire
-8	ye	yé	ADP	pp	_	7	case	_	Gloss=PP
+8	ye	yé	ADP	pp	_	7	case	_	Gloss=PP|SpaceAfter=No
 9	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:81
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:81
 # text = i ba be i muso dun.
 1	i	í	PRON	pers	PronType=Prs	2	nmod:poss	_	Gloss=2.SG
 2	ba	bá	NOUN	n	_	6	nsubj	_	Gloss=mère
-3	be	bé	AUX	pm	Polarity=Pos|Aspect=Imp	6	aux	_	Gloss=IPFV.AFF
+3	be	bé	AUX	pm	Aspect=Imp|Polarity=Pos	6	aux	_	Gloss=IPFV.Pos
 4	i	í	PRON	pers	PronType=Prs	5	nmod:poss	_	Gloss=2.SG
 5	muso	mùso	NOUN	n	_	6	obj	_	Gloss=femme
-6	dun	dún	VERB	v	_	0	root	_	Gloss=manger
+6	dun	dún	VERB	v	_	0	root	_	Gloss=manger|SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:82
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:82
 # text = Jasun ko han, ko ònhòn!
 1	Jasun	Jasun	PROPN	n.prop	_	2	nsubj	_	Gloss=NOM.M
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
-3	han	hán	INTJ	intj	_	6	discourse	_	Gloss=reproche
+3	han	hán	INTJ	intj	_	6	discourse	_	Gloss=reproche|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
 5	ko	kó	PART	cop	_	6	discourse	_	Gloss=QUOT
-6	ònhòn	ɔ̀nhɔn	INTJ	intj	_	2	parataxis:obj	_	Gloss=oui
+6	ònhòn	ɔ̀nhɔn	INTJ	intj	_	2	parataxis:obj	_	Gloss=oui|SpaceAfter=No
 7	!	!	PUNCT	_	_	6	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:83
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:83
 # text = a wulila ka a ka marfa jòsò ka sèmèkala ta ka tugu wulunin kò.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
-2	wulila	wulila	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=se.lever|Morf=se.lever,PFV.INTR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	wulila	wulila	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=se.lever|Morf=se.lever,PFV.INTR
 3	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
-4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	6	nmod:poss	_	Gloss=3SG
+4	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	6	nmod:poss	_	Gloss=3SG
 5	ka	ká	ADP	conj	_	4	case	_	Gloss=POSS
 6	marfa	màrfa	NOUN	n	_	7	obj	_	Gloss=fusil
 7	jòsò	jɔ́sɔn	VERB	v	_	2	xcomp	_	Gloss=presser
@@ -1293,26 +1211,24 @@
 11	ka	kà	AUX	pm	_	12	aux	_	Gloss=INF
 12	tugu	tùgu	VERB	v	_	10	xcomp	_	Gloss=rabouter
 13	wulunin	wulunin	NOUN	n	_	12	obl	_	Gloss=chien|Morf=chien,DIM
-14	kò	kɔ́	ADP	pp	_	13	case	_	Gloss=après
+14	kò	kɔ́	ADP	pp	_	13	case	_	Gloss=après|SpaceAfter=No
 15	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:84
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:84
 # text = u bè boli cogo min, u bè boli ten.
-1	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	3	nsubj	_	Gloss=3PL
-2	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	3	aux	_	Gloss=IPFV.AFF
+1	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	3	nsubj	_	Gloss=3PL
+2	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	3	aux	_	Gloss=IPFV.Pos
 3	boli	bòli	VERB	v	_	10	acl	_	Gloss=courir
 4	cogo	cógo	NOUN	n	_	3	obl	_	Gloss=manière
-5	min	mín	DET	prn	PronType=Rel	4	det:rel	_	Gloss=REL
+5	min	mín	DET	prn	PronType=Rel	4	det:rel	_	Gloss=REL|SpaceAfter=No
 6	,	,	PUNCT	_	_	3	punct	_	Gloss=,
-7	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	9	nsubj	_	Gloss=3PL
-8	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	9	aux	_	Gloss=IPFV.AFF
+7	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	9	nsubj	_	Gloss=3PL
+8	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	9	aux	_	Gloss=IPFV.Pos
 9	boli	bòli	VERB	v	_	0	root	_	Gloss=courir
-10	ten	tèn	ADV	adv	_	9	obl	_	Gloss=ainsi
+10	ten	tèn	ADV	adv	_	9	obl	_	Gloss=ainsi|SpaceAfter=No
 11	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:85
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:85
 # text = dennin ka gaari yèrè tò kelen tigèra sa ka o fili.
 1	dennin	dén.nin	NOUN	n	_	3	nmod:poss	_	Gloss=fillette|Morf=fillette,enfant,DIM
 2	ka	kà	ADP	pm	_	1	case	_	Gloss=INF
@@ -1320,206 +1236,191 @@
 4	yèrè	yɛ̀rɛ	DET	dtm	_	3	det	_	Gloss=même
 5	tò	tɔ̀	NOUN	n	_	7	nsubj	_	Gloss=le.reste
 6	kelen	kélen	NUM	num	_	5	nummod	_	Gloss=un
-7	tigèra	tigɛra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=couper|Morf=couper,PFV.INTR
+7	tigèra	tigɛra	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=couper|Morf=couper,PFV.INTR
 8	sa	sá	PART	prt	_	7	discourse	_	Gloss=enfin
 9	ka	kà	AUX	pm	_	11	aux	_	Gloss=INF
 10	o	ò	PRON	prn	_	11	obj	_	Gloss=ce
-11	fili	fìli	VERB	v	_	7	xcomp	_	Gloss=jeter
+11	fili	fìli	VERB	v	_	7	xcomp	_	Gloss=jeter|SpaceAfter=No
 12	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:86
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:86
 # text = dennin ye kule la: e Jasun, e Jasun!
 1	dennin	dén.nin	NOUN	n	_	4	nsubj	_	Gloss=fillette|Morf=fillette,enfant,DIM
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
 3	kule	kúle	NOUN	n	_	4	obj	_	Gloss=hurlements
-4	la	dá	VERB	v	_	0	root	_	Gloss=poser
+4	la	dá	VERB	v	_	0	root	_	Gloss=poser|SpaceAfter=No
 5	:	:	PUNCT	_	_	4	punct	_	Gloss=:
 6	e	ée	INTJ	intj	_	7	discourse	_	Gloss=hé!
-7	Jasun	Jasun	PROPN	n.prop	_	4	parataxis:obj	_	Gloss=NOM.M
+7	Jasun	Jasun	PROPN	n.prop	_	4	parataxis:obj	_	Gloss=NOM.M|SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	Gloss=,
 9	e	ée	INTJ	intj	_	10	discourse	_	Gloss=hé!
-10	Jasun	Jasun	PROPN	n.prop	_	7	parataxis	_	Gloss=NOM.M
+10	Jasun	Jasun	PROPN	n.prop	_	7	parataxis	_	Gloss=NOM.M|SpaceAfter=No
 11	!	!	PUNCT	_	_	4	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:87
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:87
 # text = jaa Jasun ba bè maa dun dè, jaa Jasun ba bè maa dun dè, jaa Jasun ba ye subaga ye.
 1	jaa	jàa	INTJ	intj	_	6	discourse	_	Gloss=vraiment
 2	Jasun	Jasun	PROPN	n.prop	_	3	nmod:poss	_	Gloss=NOM.M
 3	ba	bá	NOUN	n	_	6	nsubj	_	Gloss=mère
-4	be	bé	AUX	pm	Polarity=Pos|Aspect=Imp	6	aux	_	Gloss=IPFV.AFF
+4	bè	bé	AUX	pm	Aspect=Imp|Polarity=Pos	6	aux	_	Gloss=IPFV.Pos
 5	maa	màa	NOUN	n	_	6	obj	_	Gloss=homme
 6	dun	dún	VERB	v	_	0	root	_	Gloss=manger
-7	dè	dɛ́	PART	prt	_	6	discourse	_	Gloss=certes
+7	dè	dɛ́	PART	prt	_	6	discourse	_	Gloss=certes|SpaceAfter=No
 8	,	,	PUNCT	_	_	6	punct	_	Gloss=,
 9	jaa	jàa	INTJ	intj	_	14	discourse	_	Gloss=vraiment
 10	Jasun	Jasun	PROPN	n.prop	_	11	nmod:poss	_	Gloss=NOM.M
 11	ba	bá	NOUN	n	_	14	nsubj	_	Gloss=mère
-12	be	bé	AUX	pm	Polarity=Pos|Aspect=Imp	14	aux	_	Gloss=IPFV.AFF
+12	bè	bé	AUX	pm	Aspect=Imp|Polarity=Pos	14	aux	_	Gloss=IPFV.Pos
 13	maa	màa	NOUN	n	_	14	obj	_	Gloss=homme
 14	dun	dún	VERB	v	_	6	parataxis	_	Gloss=manger
-15	dè	dɛ́	PART	prt	_	14	discourse	_	Gloss=certes
+15	dè	dɛ́	PART	prt	_	14	discourse	_	Gloss=certes|SpaceAfter=No
 16	,	,	PUNCT	_	_	14	punct	_	Gloss=,
 17	jaa	jàa	INTJ	intj	_	20	discourse	_	Gloss=vraiment
 18	Jasun	Jasun	PROPN	n.prop	_	19	nmod:poss	_	Gloss=NOM.M
 19	ba	bá	NOUN	n	_	20	nsubj	_	Gloss=mère
 20	ye	yé	VERB	cop	Polarity=Pos	14	parataxis	_	Gloss=EQU
 21	subaga	sú.baga	NOUN	n	_	20	obl	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC
-22	ye	yé	ADP	pp	_	21	case	_	Gloss=PP
+22	ye	yé	ADP	pp	_	21	case	_	Gloss=PP|SpaceAfter=No
 23	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:88
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:88
 # text = ni i ye Jasun wele, ne tè i to!
 1	ni	ní	SCONJ	conj	_	5	mark	_	Gloss=si
 2	i	í	PRON	pers	PronType=Prs	5	nsubj	_	Gloss=2.SG
-3	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+3	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 4	Jasun	Jasun	PROPN	n.prop	_	5	obj	_	Gloss=NOM.M
-5	wele	wéle	VERB	v	_	10	advcl	_	Gloss=appeler
+5	wele	wéle	VERB	v	_	10	advcl	_	Gloss=appeler|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
-7	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	10	nsubj	_	Gloss=1SG.EMPH
-8	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	10	aux	_	Gloss=IPFV.NEG
+7	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	10	nsubj	_	Gloss=1SG.EMPH
+8	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	10	aux	_	Gloss=IPFV.NEG
 9	i	í	PRON	pers	PronType=Prs	10	obj	_	Gloss=2.SG
-10	to	tó	VERB	v	_	0	root	_	Gloss=rester
+10	to	tó	VERB	v	_	0	root	_	Gloss=rester|SpaceAfter=No
 11	!	!	PUNCT	_	_	10	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:89
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:89
 # text = ni i ye Jasun wele, ne tè i to!
 1	ni	ní	SCONJ	conj	_	5	mark	_	Gloss=si
 2	i	í	PRON	pers	PronType=Prs	5	nsubj	_	Gloss=2.SG
-3	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+3	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 4	Jasun	Jasun	PROPN	n.prop	_	5	obj	_	Gloss=NOM.M
-5	wele	wéle	VERB	v	_	10	advcl	_	Gloss=appeler
+5	wele	wéle	VERB	v	_	10	advcl	_	Gloss=appeler|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
-7	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	10	nsubj	_	Gloss=1SG.EMPH
-8	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	10	aux	_	Gloss=IPFV.NEG
+7	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	10	nsubj	_	Gloss=1SG.EMPH
+8	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	10	aux	_	Gloss=IPFV.NEG
 9	i	í	PRON	pers	PronType=Prs	10	obj	_	Gloss=2.SG
-10	to	tó	VERB	v	_	0	root	_	Gloss=rester
+10	to	tó	VERB	v	_	0	root	_	Gloss=rester|SpaceAfter=No
 11	!	!	PUNCT	_	_	10	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:90
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:90
 # text = Kusuba denkè wolo bè n kan!
 1	Kusuba	Kusuba	PROPN	n.prop	_	2	nmod:poss	_	Gloss=NOM.CL|Morf=NOM.CL,AUGM
 2	denkè	dén.kɛ	NOUN	n	_	3	nmod:poss	_	Gloss=fils|Morf=fils,enfant,mâle
 3	wolo	wòlo	NOUN	n	_	4	nsubj	_	Gloss=peau
 4	bè	bɛ́	VERB	cop	Polarity=Pos	0	root	_	Gloss=BE
 5	n	ń	PRON	pers	PronType=Prs	4	obl	_	Gloss=je
-6	kan	kàn	ADP	pp	_	5	case	_	Gloss=sur
+6	kan	kàn	ADP	pp	_	5	case	_	Gloss=sur|SpaceAfter=No
 7	!	!	PUNCT	_	_	4	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:91
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:91
 # text = Kusuba denkè wolo bè n kan!
 1	Kusuba	Kusuba	PROPN	_	_	2	nmod:poss	_	Gloss=CHNT
 2	denkè	dén.kɛ	NOUN	n	_	3	nmod:poss	_	Gloss=fils|Morf=fils,enfant,mâle
 3	wolo	wòlo	NOUN	n	_	4	nsubj	_	Gloss=peau
 4	bè	bɛ́	VERB	cop	Polarity=Pos	0	root	_	Gloss=BE
 5	n	ń	PRON	pers	PronType=Prs	4	obl	_	Gloss=je
-6	kan	kàn	ADP	pp	_	5	case	_	Gloss=sur
+6	kan	kàn	ADP	pp	_	5	case	_	Gloss=sur|SpaceAfter=No
 7	!	!	PUNCT	_	_	4	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:92
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:92
 # text = Kusuba kanliba kusa kusa!
 1	Kusuba	Kusuba	PROPN	_	_	0	root	_	Gloss=CHNT
-2	kanliba	kànliba	NOUN	n	VerbalForm=Vnoun	1	parataxis:obj	_	Gloss=couper|Morf=couper,NMLZ,AUGM
+2	kanliba	kànliba	NOUN	n	VerbForm=Vnoun	1	parataxis:obj	_	Gloss=couper|Morf=couper,NMLZ,AUGM
 3	kusa	kusa	INTJ	_	_	2	compound:redup	_	Gloss=CHNT
-4	kusa	kusa	INTJ	_	_	3	compound:redup	_	Gloss=CHNT
+4	kusa	kusa	INTJ	_	_	3	compound:redup	_	Gloss=CHNT|SpaceAfter=No
 5	!	!	PUNCT	_	_	1	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:93
-# text = Kusuba kanliba kusa kusa.
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:93
+# text = Kusuba kanliba kusa kusa!
 1	Kusuba	Kusuba	PROPN	_	_	0	root	_	Gloss=CHNT
-2	kanliba	kànliba	NOUN	n	VerbalForm=Vnoun	1	parataxis:obj	_	Gloss=couper|Morf=couper,NMLZ,AUGM
+2	kanliba	kànliba	NOUN	n	VerbForm=Vnoun	1	parataxis:obj	_	Gloss=couper|Morf=couper,NMLZ,AUGM
 3	kusa	kusa	INTJ	_	_	2	compound:redup	_	Gloss=CHNT
-4	kusa	kusa	INTJ	_	_	3	compound:redup	_	Gloss=CHNT
+4	kusa	kusa	INTJ	_	_	3	compound:redup	_	Gloss=CHNT|SpaceAfter=No
 5	!	!	PUNCT	_	_	1	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:94
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:94
 # text = o dògò bèna bin yòrò min, Jasun nana ka i jò a kòfè.
 1	o	ò	DET	prn	_	2	det	_	Gloss=ce
 2	dògò	dɔ́gɔ	NOUN	n	_	4	nsubj	_	Gloss=fagot
-3	bèna	bɛ́na	AUX	pm	Tense=Fut|Polarity=Pos	4	aux	_	Gloss=FUT
+3	bèna	bɛ́na	AUX	pm	Polarity=Pos|Tense=Fut	4	aux	_	Gloss=FUT
 4	bin	bìn	VERB	v	_	13	acl	_	Gloss=tomber
 5	yòrò	yɔ́rɔ	NOUN	n	_	4	obl	_	Gloss=lieu
-6	min	mín	DET	prn	PronType=Rel	5	det:rel	_	Gloss=REL
+6	min	mín	DET	prn	PronType=Rel	5	det:rel	_	Gloss=REL|SpaceAfter=No
 7	,	,	PUNCT	_	_	4	punct	_	Gloss=,
 8	Jasun	Jasun	PROPN	n.prop	_	9	nsubj	_	Gloss=NOM.M
-9	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
+9	nana	nana	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
 10	ka	kà	AUX	pm	_	12	aux	_	Gloss=INF
-11	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	12	obj	_	Gloss=REFL
+11	i	í	PRON	pers	PronType=Prs	12	obj	_	Gloss=REFL
 12	jò	jɔ̀	VERB	v	_	9	xcomp	_	Gloss=mettre.debout
-13	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	12	obl	_	Gloss=3SG
-14	kòfè	kɔ́.fɛ̀	ADP	pp	_	13	case	_	Gloss=derrière|Morf=derrière,après,vers
+13	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	12	obl	_	Gloss=3SG
+14	kòfè	kɔ́.fɛ̀	ADP	pp	_	13	case	_	Gloss=derrière|Morf=derrière,après,vers|SpaceAfter=No
 15	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:95
-# text = a ko : n ma, e ye nin ye wa ?
-# text = a ko : n ma, e ye nin ye wa ?
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
-2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:95
+# text = a ko: n ma, e ye nin ye wa?
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT|SpaceAfter=No
 3	:	:	PUNCT	_	_	2	punct	_	Gloss=:
 4	n	ń	PRON	pers	PronType=Prs	5	nmod:poss	_	Gloss=je
-5	ma	má	NOUN	n	_	8	vocative	_	Gloss=maman
+5	ma	má	NOUN	n	_	8	vocative	_	Gloss=maman|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
-7	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	8	nsubj	_	Gloss=2SG.EMPH
+7	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	8	nsubj	_	Gloss=2SG.EMPH
 8	ye	yé	VERB	cop	Polarity=Pos	2	parataxis:obj	_	Gloss=EQU
-9	nin	nìn	PRON	prn/dtm	PronType=Dem|Definite-Def	8	obl	_	Gloss=DEM
+9	nin	nìn	PRON	prn/dtm	Definite=Def|PronType=Dem	8	obl	_	Gloss=DEM
 10	ye	yé	ADP	pp	_	9	case	_	Gloss=PP
-11	wa	wà	PART	prt	_	8	discourse	_	Gloss=Q
+11	wa	wà	PART	prt	_	8	discourse	_	Gloss=Q|SpaceAfter=No
 12	?	?	PUNCT	_	_	2	punct	_	Gloss=?
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:96
-# text = a ko : ne de ye nin ye !
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
-2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:96
+# text = a ko: ne de ye nin ye!
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT|SpaceAfter=No
 3	:	:	PUNCT	_	_	2	punct	_	Gloss=:
-4	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	6	nsubj	_	Gloss=1SG.EMPH
+4	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	6	nsubj	_	Gloss=1SG.EMPH
 5	de	dè	PART	prt	_	4	discourse	_	Gloss=FOC
 6	ye	yé	VERB	cop	Polarity=Pos	2	parataxis:obj	_	Gloss=EQU
-7	nin	nìn	PRON	prn/dtm	PronType=Dem|Definite-Def	6	obl	_	Gloss=DEM
-8	ye	yé	ADP	pp	_	7	case	_	Gloss=PP
+7	nin	nìn	PRON	prn/dtm	Definite=Def|PronType=Dem	6	obl	_	Gloss=DEM
+8	ye	yé	ADP	pp	_	7	case	_	Gloss=PP|SpaceAfter=No
 9	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:97
-# text = a ko : e de ye nin ye wa ?
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
-2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:97
+# text = a ko: e de ye nin ye wa?
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT|SpaceAfter=No
 3	:	:	PUNCT	_	_	2	punct	_	Gloss=:
-4	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	6	nsubj	_	Gloss=2SG.EMPH
+4	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	6	nsubj	_	Gloss=2SG.EMPH
 5	de	dè	PART	prt	_	4	discourse	_	Gloss=FOC
 6	ye	yé	VERB	cop	Polarity=Pos	2	parataxis:obj	_	Gloss=EQU
-7	nin	nìn	PRON	prn/dtm	PronType=Dem|Definite-Def	6	obl	_	Gloss=DEM
+7	nin	nìn	PRON	prn/dtm	Definite=Def|PronType=Dem	6	obl	_	Gloss=DEM
 8	ye	yé	ADP	pp	_	7	case	_	Gloss=PP
-9	wa	wà	PART	prt	_	6	discourse	_	Gloss=Q
+9	wa	wà	PART	prt	_	6	discourse	_	Gloss=Q|SpaceAfter=No
 10	?	?	PUNCT	_	_	6	punct	_	Gloss=?
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:98
-# text = a ko : ne de ye nin ye !
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
-2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:98
+# text = a ko: ne de ye nin ye!
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT|SpaceAfter=No
 3	:	:	PUNCT	_	_	2	punct	_	Gloss=:
-4	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	6	nsubj	_	Gloss=1SG.EMPH
+4	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	6	nsubj	_	Gloss=1SG.EMPH
 5	de	dè	PART	prt	_	4	discourse	_	Gloss=FOC
 6	ye	yé	VERB	cop	Polarity=Pos	2	parataxis:obj	_	Gloss=EQU
-7	nin	nìn	PRON	prn/dtm	PronType=Dem|Definite-Def	6	obl	_	Gloss=DEM
-8	ye	yé	ADP	pp	_	7	case	_	Gloss=PP
+7	nin	nìn	PRON	prn/dtm	Definite=Def|PronType=Dem	6	obl	_	Gloss=DEM
+8	ye	yé	ADP	pp	_	7	case	_	Gloss=PP|SpaceAfter=No
 9	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:99
-# text = a ko : i ka don yèlèn ye bi ye.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
-2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:99
+# text = a ko: i ka don yèlèn ye bi ye.
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT|SpaceAfter=No
 3	:	:	PUNCT	_	_	2	punct	_	Gloss=:
 4	i	í	PRON	pers	PronType=Prs	6	nmod:poss	_	Gloss=2.SG
 5	ka	ká	ADP	conj	_	4	case	_	Gloss=POSS
@@ -1527,83 +1428,82 @@
 7	yèlèn	yɛ̀lɛn	NOUN	n	_	8	nsubj	_	Gloss=secret
 8	ye	yé	VERB	cop	Polarity=Pos	2	parataxis:obj	_	Gloss=EQU
 9	bi	bì	NOUN	adv/n	_	8	obl	_	Gloss=aujourd'hui
-10	ye	yé	ADP	pp	_	9	case	_	Gloss=PP
+10	ye	yé	ADP	pp	_	9	case	_	Gloss=PP|SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:100
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:100
 # text = a ye i sèmè ni marfa ye, a ye a tan a ba kun na ka kisè bò a kun na, ka a bin a kò fè, ka sèmèkala kè ka a magosi, ka i bolo don dògò bintò kòrò, ka a muso jigin ka taga ni a ye so.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
-3	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	4	obj	_	Gloss=REFL
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
+3	i	í	PRON	pers	PronType=Prs	4	obj	_	Gloss=REFL
 4	sèmè	sɛ̀mɛ	VERB	v	_	0	root	_	Gloss=adosser
 5	ni	ní	ADP	conj/prep	_	6	case	_	Gloss=et
 6	marfa	màrfa	NOUN	n	_	4	obl	_	Gloss=fusil
-7	ye	yé	ADP	pp	_	6	case	_	Gloss=PP
+7	ye	yé	ADP	pp	_	6	case	_	Gloss=PP|SpaceAfter=No
 8	,	,	PUNCT	_	_	4	punct	_	Gloss=,
-9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	12	nsubj	_	Gloss=3SG
-10	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	12	aux	_	Gloss=PFV.TR
-11	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	12	obj	_	Gloss=3SG
+9	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Gloss=3SG
+10	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	12	aux	_	Gloss=PFV.TR
+11	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	12	obj	_	Gloss=3SG
 12	tan	tán	VERB	v	_	4	parataxis	_	Gloss=frapper
-13	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	14	nmod:poss	_	Gloss=3SG
+13	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	14	nmod:poss	_	Gloss=3SG
 14	ba	bá	NOUN	n	_	15	nmod:poss	_	Gloss=mère
 15	kun	kùn	NOUN	n	_	12	obl	_	Gloss=tête
 16	na	ná	ADP	pp	_	15	case	_	Gloss=dans
 17	ka	kà	AUX	pm	_	19	aux	_	Gloss=INF
 18	kisè	kìsɛ	NOUN	n	_	19	obj	_	Gloss=grain
 19	bò	bɔ́	VERB	v	_	12	xcomp	_	Gloss=sortir
-20	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	21	nmod:poss	_	Gloss=3SG
+20	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	21	nmod:poss	_	Gloss=3SG
 21	kun	kùn	NOUN	n	_	19	obl	_	Gloss=tête
-22	na	ná	ADP	pp	_	21	case	_	Gloss=dans
+22	na	ná	ADP	pp	_	21	case	_	Gloss=dans|SpaceAfter=No
 23	,	,	PUNCT	_	_	19	punct	_	Gloss=,
 24	ka	kà	AUX	pm	_	26	aux	_	Gloss=INF
-25	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	26	obj	_	Gloss=3SG
+25	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	26	obj	_	Gloss=3SG
 26	bin	bìn	VERB	v	_	19	xcomp	_	Gloss=tomber
-27	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	28	nmod:poss	_	Gloss=3SG
+27	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	28	nmod:poss	_	Gloss=3SG
 28	kò	kɔ́	NOUN	n	_	26	obl	_	Gloss=dos
-29	fè	fɛ̀	ADP	pp	_	28	case	_	Gloss=vers
+29	fè	fɛ̀	ADP	pp	_	28	case	_	Gloss=vers|SpaceAfter=No
 30	,	,	PUNCT	_	_	26	punct	_	Gloss=,
 31	ka	kà	AUX	pm	_	33	aux	_	Gloss=INF
 32	sèmèkala	sɛ̀mɛkala	NOUN	v	_	33	obj	_	Gloss=hache-houe|Morf=hache-houe,tige
 33	kè	kɛ́	VERB	v	_	26	xcomp	_	Gloss=faire
 34	ka	kà	AUX	pm	_	36	aux	_	Gloss=INF
-35	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	36	obj	_	Gloss=3SG
-36	magosi	mà.gɔ̀si	VERB	v	_	33	xcomp	_	Gloss=frapper|Morf=frapper,SUPER,battre
+35	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	36	obj	_	Gloss=3SG
+36	magosi	mà.gɔ̀si	VERB	v	_	33	xcomp	_	Gloss=frapper|Morf=frapper,SUPER,battre|SpaceAfter=No
 37	,	,	PUNCT	_	_	36	punct	_	Gloss=,
 38	ka	kà	AUX	pm	_	41	aux	_	Gloss=INF
-39	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	40	nmod:poss	_	Gloss=REFL
+39	i	í	PRON	pers	PronType=Prs	40	nmod:poss	_	Gloss=REFL
 40	bolo	bólo	NOUN	n	_	41	obj	_	Gloss=bras
 41	don	dòn	VERB	v	_	36	xcomp	_	Gloss=entrer
 42	dògò	dɔ́gɔ	NOUN	n	_	41	obl	_	Gloss=fagot
-43	bintò	bintɔ	VERB	ptcp	VerbalForm=Part|Aspect=Prog	42	amod	_	Gloss=tomber|Morf=tomber,PTCP.PROG
-44	kòrò	kɔ́rɔ	ADP	pp	_	42	case	_	Gloss=sous
+43	bintò	bintɔ	VERB	ptcp	Aspect=Prog|VerbForm=Part	42	amod	_	Gloss=tomber|Morf=tomber,PTCP.PROG
+44	kòrò	kɔ́rɔ	ADP	pp	_	42	case	_	Gloss=sous|SpaceAfter=No
 45	,	,	PUNCT	_	_	41	punct	_	Gloss=,
 46	ka	kà	AUX	pm	_	49	aux	_	Gloss=INF
-47	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	48	nmod:poss	_	Gloss=3SG
+47	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	48	nmod:poss	_	Gloss=3SG
 48	muso	mùso	NOUN	n	_	49	obj	_	Gloss=femme
 49	jigin	jìgin	VERB	v	_	41	xcomp	_	Gloss=descendre
 50	ka	kà	AUX	pm	_	51	aux	_	Gloss=INF
 51	taga	tága	VERB	v	_	49	xcomp	_	Gloss=aller
 52	ni	ní	ADP	conj/prep	_	53	case	_	Gloss=et
-53	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	51	obl	_	Gloss=3SG
+53	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	51	obl	_	Gloss=3SG
 54	ye	yé	ADP	pp	_	53	case	_	Gloss=PP
-55	so	só	NOUN	n	_	51	obl	_	Gloss=maison
+55	so	só	NOUN	n	_	51	obl	_	Gloss=maison|SpaceAfter=No
 56	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
-
-# sent_id = /Users/katyaaplonova/Downloads/meyer_gorog_contes/meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:101
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:101
 # text = ne ye o sòrò yòrò min na, n ye o da yen.
-1	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	4	nsubj	_	Gloss=1SG.EMPH
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+1	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	4	nsubj	_	Gloss=1SG.EMPH
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
 3	o	ò	PRON	prn	_	4	obj	_	Gloss=ce
 4	sòrò	sɔ̀rɔ	VERB	v	_	13	acl	_	Gloss=obtenir
 5	yòrò	yɔ́rɔ	NOUN	n	_	4	obl	_	Gloss=lieu
 6	min	mín	DET	prn	PronType=Rel	5	det:rel	_	Gloss=REL
-7	na	ná	ADP	pp	_	5	case	_	Gloss=dans
+7	na	ná	ADP	pp	_	5	case	_	Gloss=dans|SpaceAfter=No
 8	,	,	PUNCT	_	_	4	punct	_	Gloss=,
 9	n	ń	PRON	pers	PronType=Prs	12	nsubj	_	Gloss=je
-10	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	12	aux	_	Gloss=PFV.TR
+10	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	12	aux	_	Gloss=PFV.TR
 11	o	ò	PRON	prn	_	12	obj	_	Gloss=ce
 12	da	dá	VERB	v	_	0	root	_	Gloss=poser
-13	yen	yèn	ADV	adv/n	_	12	obl	_	Gloss=là-bas
+13	yen	yèn	ADV	adv/n	_	12	obl	_	Gloss=là-bas|SpaceAfter=No
 14	.	.	PUNCT	_	_	12	punct	_	Gloss=.
+

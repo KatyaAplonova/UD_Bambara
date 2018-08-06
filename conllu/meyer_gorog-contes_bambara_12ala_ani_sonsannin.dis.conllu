@@ -1,38 +1,35 @@
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:1
-# text = <h>ALA ANI SONSANNIN</h>
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:1
+# text = ALA ANI SONSANNIN
 1	ALA	Ála	NOUN	n	_	0	root	_	Gloss=Dieu
 2	ANI	àni	CCONJ	conj	_	3	cc	_	Gloss=ainsi.que
 3	SONSANNIN	sonsannin	NOUN	n	_	1	conj	_	Gloss=lièvre|Morf=lièvre,DIM
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:2
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:2
 # text = ayiwa, ntalen.
-1	ayiwa	áyiwa	INTJ	intj	_	3	discourse	_	Gloss=bon
+1	ayiwa	áyiwa	INTJ	intj	_	3	discourse	_	Gloss=bon|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
-3	ntalen	ntàlen	NOUN	n	_	0	root	_	Gloss=parabole
+3	ntalen	ntàlen	NOUN	n	_	0	root	_	Gloss=parabole|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:3
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:3
 # text = n ye a da nin de la.
-1	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	4	nsubj	_	Gloss=1SG
-2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
-3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	obj	_	Gloss=3SG
+1	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=1SG
+2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=3SG
 4	da	dá	VERB	v	_	0	root	_	Gloss=poser
 5	nin	nìn	PRON	prn	_	4	obl	_	Gloss=ceci
 6	de	dè	PART	prt	_	5	discourse	_	Gloss=FOC
-7	la	lá	ADP	pp	_	5	case	_	Gloss=à
+7	la	lá	ADP	pp	_	5	case	_	Gloss=à|SpaceAfter=No
 8	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:4
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:4
 # text = sonsannin ani wòlò u tagara a fò Mangala ye ko Mangala ka kengunya di u ma.
 1	sonsannin	sonsannin	NOUN	n	_	5	dislocated	_	Gloss=lièvre|Morf=lièvre,DIM
 2	ani	àni	CCONJ	conj	_	3	cc	_	Gloss=ainsi.que
 3	wòlò	wɔ̀lɔ	NOUN	n	_	1	conj	_	Gloss=francolin
-4	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	5	nsubj	_	Gloss=3PL
-5	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
-6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	obj	_	Gloss=3SG
+4	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	5	nsubj	_	Gloss=3PL
+5	tagara	tagara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	obj	_	Gloss=3SG
 7	fò	fɔ́	VERB	v	_	5	xcomp	_	Gloss=dire
 8	Mangala	má.ŋala	NOUN	n	_	7	obl	_	Gloss=Dieu|Morf=Dieu,Dieu,Dieu
 9	ye	yé	ADP	pp	_	8	case	_	Gloss=PP
@@ -41,954 +38,892 @@
 12	ka	kà	AUX	pm	_	14	aux	_	Gloss=INF
 13	kengunya	kègun.ya	NOUN	n	_	14	obj	_	Gloss=ruse|Morf=ruse,malin,DEQU
 14	di	dí	VERB	v	_	7	ccomp	_	Gloss=donner
-15	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	14	obl	_	Gloss=3PL
-16	ma	mà	ADP	pp	_	15	case	_	Gloss=à
+15	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	14	obl	_	Gloss=3PL
+16	ma	mà	ADP	pp	_	15	case	_	Gloss=à|SpaceAfter=No
 17	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:5
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:5
 # text = Mangala ye i kanto a ko baasi tè a ko n ye a mèn.
 1	Mangala	má.ŋala	NOUN	n	_	4	nsubj	_	Gloss=Dieu|Morf=Dieu,Dieu,Dieu
 2	ye	yé	ADP	pp	_	4	aux	_	Gloss=PP
-3	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	4	obj	_	Gloss=REFL
+3	i	í	PRON	pers	PronType=Prs	4	obj	_	Gloss=REFL
 4	kanto	kán.to	VERB	v	_	0	root	_	Gloss=s'adresser|Morf=s'adresser,cou,rester
-5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	6	nsubj	_	Gloss=3SG
+5	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Gloss=3SG
 6	ko	kó	VERB	cop	_	4	parataxis	_	Gloss=QUOT
 7	baasi	báasi	NOUN	n	_	8	nsubj	_	Gloss=problème
 8	tè	tɛ́	VERB	cop	Polarity=Neg	6	parataxis:obj	_	Gloss=COP.NEG
-9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	10	nsubj	_	Gloss=3SG
+9	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Gloss=3SG
 10	ko	kó	VERB	cop	_	6	parataxis	_	Gloss=QUOT
 11	n	ń	PRON	pers	PronType=Prs	14	nsubj	_	Gloss=je
-12	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	14	aux	_	Gloss=PFV.TR
-13	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	14	obj	_	Gloss=3SG
-14	mèn	mɛ́n	VERB	v	_	10	parataxis:obj	_	Gloss=entendre
+12	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	14	aux	_	Gloss=PFV.TR
+13	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	14	obj	_	Gloss=3SG
+14	mèn	mɛ́n	VERB	v	_	10	parataxis:obj	_	Gloss=entendre|SpaceAfter=No
 15	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:6
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:6
 # text = a ko aw bè fèèrè kè, aw bè na ni mininyan nyanama ye, aw bè na ni siginònòkènè ye, aw bè na ni limògòbarafa ye, aw bè na ni sosobarafa ye
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
-3	aw	áw	PRON	pers	PronType=Prs|Number=Plur|Person=2|PronType=Emp	6	nsubj	_	Gloss=2PL.EMPH
-4	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	6	aux	_	Gloss=IPFV.AFF
+3	aw	áw	PRON	pers	Number=Plur|Person=2|PronType=Emp	6	nsubj	_	Gloss=2PL.EMPH
+4	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	6	aux	_	Gloss=IPFV.AFF
 5	fèèrè	fɛ̀ɛrɛ	NOUN	n	_	6	obj	_	Gloss=moyen
-6	kè	kɛ́	VERB	v	_	2	parataxis:obj	_	Gloss=faire
+6	kè	kɛ́	VERB	v	_	2	parataxis:obj	_	Gloss=faire|SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	Gloss=,
-8	aw	áw	PRON	pers	PronType=Prs|Number=Plur|Person=2|PronType=Emp	10	nsubj	_	Gloss=2PL.EMPH
-9	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	10	aux	_	Gloss=IPFV.AFF
+8	aw	áw	PRON	pers	Number=Plur|Person=2|PronType=Emp	10	nsubj	_	Gloss=2PL.EMPH
+9	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	10	aux	_	Gloss=IPFV.AFF
 10	na	nà	VERB	v	_	6	parataxis	_	Gloss=venir
 11	ni	ni	ADP	conj	_	12	case	_	Gloss=et
 12	mininyan	míniɲan	NOUN	n	_	10	obl	_	Gloss=python
 13	nyanama	ɲɛ́nama	ADJ	adj	_	12	amod	_	Gloss=vivant|Morf=vivant,oeil,STAT
-14	ye	yé	ADP	pp	_	12	case	_	Gloss=PP
+14	ye	yé	ADP	pp	_	12	case	_	Gloss=PP|SpaceAfter=No
 15	,	,	PUNCT	_	_	10	punct	_	Gloss=,
-16	aw	áw	PRON	pers	PronType=Prs|Number=Plur|Person=2|PronType=Emp	18	nsubj	_	Gloss=2PL.EMPH
-17	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	18	aux	_	Gloss=IPFV.AFF
+16	aw	áw	PRON	pers	Number=Plur|Person=2|PronType=Emp	18	nsubj	_	Gloss=2PL.EMPH
+17	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	18	aux	_	Gloss=IPFV.AFF
 18	na	nà	VERB	v	_	10	parataxis	_	Gloss=venir
 19	ni	ni	ADP	conj	_	20	case	_	Gloss=et
-20	siginònò	sìginɔnɔ	NOUN	n	_	18	obl	_	Gloss=buffle|Morf=buffle,lait
+20	siginònò	sìginɔnɔ	NOUN	n	_	18	obl	_	Gloss=buffle|Morf=buffle,lait|SpaceAfter=No
 21	kènè	kɛ́nɛ	ADJ	adj	_	20	amod	_	Gloss=sain
-22	ye	yé	ADP	pp	_	20	case	_	Gloss=PP
+22	ye	yé	ADP	pp	_	20	case	_	Gloss=PP|SpaceAfter=No
 23	,	,	PUNCT	_	_	18	punct	_	Gloss=,
-24	aw	áw	PRON	pers	PronType=Prs|Number=Plur|Person=2|PronType=Emp	26	nsubj	_	Gloss=2PL.EMPH
-25	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	26	aux	_	Gloss=IPFV.AFF
+24	aw	áw	PRON	pers	Number=Plur|Person=2|PronType=Emp	26	nsubj	_	Gloss=2PL.EMPH
+25	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	26	aux	_	Gloss=IPFV.AFF
 26	na	nà	VERB	v	_	18	parataxis	_	Gloss=venir
 27	ni	ni	ADP	conj	_	28	case	_	Gloss=et
-28	limògòbara	límɔgɔbara	NOUN	n	_	29	nmod:poss	_	Gloss=mouche|Morf=mouche,calebasse
+28	limògòbara	límɔgɔbara	NOUN	n	_	29	nmod:poss	_	Gloss=mouche|Morf=mouche,calebasse|SpaceAfter=No
 29	fa	fá	NOUN	n	_	26	obl	_	Gloss=plein
-30	ye	yé	ADP	pp	_	29	case	_	Gloss=PP
+30	ye	yé	ADP	pp	_	29	case	_	Gloss=PP|SpaceAfter=No
 31	,	,	PUNCT	_	_	26	punct	_	Gloss=,
-32	aw	áw	PRON	pers	PronType=Prs|Number=Plur|Person=2|PronType=Emp	34	nsubj	_	Gloss=2PL.EMPH
-33	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	34	_	_	Gloss=IPFV.AFF
+32	aw	áw	PRON	pers	Number=Plur|Person=2|PronType=Emp	34	nsubj	_	Gloss=2PL.EMPH
+33	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	34	aux	_	Gloss=IPFV.AFF
 34	na	nà	VERB	v	_	26	parataxis	_	Gloss=venir
 35	ni	ni	ADP	conj	_	37	case	_	Gloss=et
-36	sosobara	sòsobara	NOUN	n	_	37	nmod:poss	_	Gloss=moustique|Morf=moustique,calebasse
+36	sosobara	sòsobara	NOUN	n	_	37	nmod:poss	_	Gloss=moustique|Morf=moustique,calebasse|SpaceAfter=No
 37	fa	fá	NOUN	n	_	34	obl	_	Gloss=plein
 38	ye	yé	ADP	pp	_	37	case	_	Gloss=PP
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:7
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:7
 # text = ni aw ye o kè, aw bè na ni suruku nyanama ye.
 1	ni	ní	SCONJ	conj	_	5	mark	_	Gloss=si
-2	aw	áw	PRON	pers	PronType=Prs|Number=Plur|Person=2|PronType=Emp	5	nsubj	_	Gloss=2PL.EMPH
-3	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+2	aw	áw	PRON	pers	Number=Plur|Person=2|PronType=Emp	5	nsubj	_	Gloss=2PL.EMPH
+3	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 4	o	ò	PRON	prn	_	5	obj	_	Gloss=ce
-5	kè	kɛ́	VERB	v	_	9	advcl	_	Gloss=faire
+5	kè	kɛ́	VERB	v	_	9	advcl	_	Gloss=faire|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
-7	aw	áw	PRON	pers	PronType=Prs|Number=Plur|Person=2|PronType=Emp	9	nsubj	_	Gloss=2PL.EMPH
-8	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	9	aux	_	Gloss=IPFV.AFF
+7	aw	áw	PRON	pers	Number=Plur|Person=2|PronType=Emp	9	nsubj	_	Gloss=2PL.EMPH
+8	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	9	aux	_	Gloss=IPFV.AFF
 9	na	nà	VERB	v	_	0	root	_	Gloss=venir
 10	ni	ni	ADP	conj	_	11	case	_	Gloss=et
 11	suruku	súruku	NOUN	n	_	9	obl	_	Gloss=hyène
 12	nyanama	ɲɛ́nama	ADJ	adj	_	11	amod	_	Gloss=vivant|Morf=vivant,oeil,STAT
-13	ye	yé	ADP	pp	_	11	case	_	Gloss=PP
+13	ye	yé	ADP	pp	_	11	case	_	Gloss=PP|SpaceAfter=No
 14	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:8
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:8
 # text = ni aw ye o kè tuma min, n bè kegunya n bè dò fara aw ka kegunya kan.
 1	ni	ní	SCONJ	conj	_	5	mark	_	Gloss=si
-2	aw	áw	PRON	pers	PronType=Prs|Number=Plur|Person=2|PronType=Emp	5	nsubj	_	Gloss=2PL.EMPH
-3	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+2	aw	áw	PRON	pers	Number=Plur|Person=2|PronType=Emp	5	nsubj	_	Gloss=2PL.EMPH
+3	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 4	o	ò	PRON	prn	_	5	obj	_	Gloss=ce
 5	kè	kɛ́	VERB	v	_	15	advcl	_	Gloss=faire
 6	tuma	tùma	NOUN	n	_	5	obl	_	Gloss=moment
-7	min	mín	PRON	prn	PronType=Rel	6	det:rel	_	Gloss=REL
+7	min	mín	PRON	prn	PronType=Rel	6	det:rel	_	Gloss=REL|SpaceAfter=No
 8	,	,	PUNCT	_	_	5	punct	_	Gloss=,
 9	n	ń	PRON	pers	PronType=Prs	11	nsubj	_	Gloss=je
-10	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	11	aux	_	Gloss=IPFV.AFF
+10	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	11	aux	_	Gloss=IPFV.AFF
 11	kegunya	kègun.ya	NOUN	n	_	15	dislocated	_	Gloss=ruse|Morf=ruse,malin,DEQU
 12	n	ń	PRON	pers	PronType=Prs	15	nsubj	_	Gloss=je
-13	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	15	aux	_	Gloss=IPFV.AFF
+13	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	15	aux	_	Gloss=IPFV.AFF
 14	dò	dɔ́	PRON	n	_	15	obj	_	Gloss=l'un.de.deux
 15	fara	fàra	VERB	v	_	0	root	_	Gloss=ajouter
-16	aw	áw	PRON	pers	PronType=Prs|Number=Plur|Person=2|PronType=Emp	18	nmod:poss	_	Gloss=2PL.EMPH
+16	aw	áw	PRON	pers	Number=Plur|Person=2|PronType=Emp	18	nmod:poss	_	Gloss=2PL.EMPH
 17	ka	ká	ADP	conj	_	16	case	_	Gloss=POSS
 18	kegunya	kègun.ya	NOUN	n	_	15	obl	_	Gloss=ruse|Morf=ruse,malin,DEQU
-19	kan	kàn	ADP	pp	_	18	case	_	Gloss=sur
+19	kan	kàn	ADP	pp	_	18	case	_	Gloss=sur|SpaceAfter=No
 20	.	.	PUNCT	_	_	15	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:9
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:9
 # text = sonsannin tagara.
 1	sonsannin	sonsannin	NOUN	n	_	2	nsubj	_	Gloss=lièvre|Morf=lièvre,DIM
-2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+2	tagara	tagara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=aller|Morf=aller,PFV.INTR|SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:10
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:10
 # text = a ye bara ta.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
 3	bara	bàra	NOUN	n	_	4	obj	_	Gloss=calebasse
-4	ta	tà	VERB	v	_	0	root	_	Gloss=prendre
+4	ta	tà	VERB	v	_	0	root	_	Gloss=prendre|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:11
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:11
 # text = a tagara sigi ma, ko nin bè a fa, nin tè a fa, nin bè a fa, nin tè a fa !
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
-2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	tagara	tagara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
 3	sigi	sìgi	NOUN	n	_	2	obl	_	Gloss=buffle
-4	ma	mà	ADP	pp	_	3	case	_	Gloss=à
+4	ma	mà	ADP	pp	_	3	case	_	Gloss=à|SpaceAfter=No
 5	,	,	PUNCT	_	_	2	punct	_	Gloss=,
 6	ko	kó	PART	cop	_	10	discourse	_	Gloss=QUOT
-7	nin	nìn	PRON	prn/dtm	PronType=Dem|Definite-Def	10	nsubj	_	Gloss=DEM
-8	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	10	aux	_	Gloss=IPFV.AFF
-9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	10	obj	_	Gloss=3SG
-10	fa	fá	VERB	v	_	2	parataxis:obj	_	Gloss=remplir
+7	nin	nìn	PRON	prn/dtm	Definite=Def|PronType=Dem	10	nsubj	_	Gloss=DEM
+8	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	10	aux	_	Gloss=IPFV.AFF
+9	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	10	obj	_	Gloss=3SG
+10	fa	fá	VERB	v	_	2	parataxis:obj	_	Gloss=remplir|SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	Gloss=,
-12	nin	nìn	PRON	prn/dtm	PronType=Dem|Definite-Def	15	nsubj	_	Gloss=DEM
-13	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	15	aux	_	Gloss=IPFV.NEG
-14	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	15	obj	_	Gloss=3SG
-15	fa	fá	VERB	v	_	10	parataxis	_	Gloss=remplir
+12	nin	nìn	PRON	prn/dtm	Definite=Def|PronType=Dem	15	nsubj	_	Gloss=DEM
+13	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	15	aux	_	Gloss=IPFV.NEG
+14	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	15	obj	_	Gloss=3SG
+15	fa	fá	VERB	v	_	10	parataxis	_	Gloss=remplir|SpaceAfter=No
 16	,	,	PUNCT	_	_	15	punct	_	Gloss=,
-17	nin	nìn	PRON	prn/dtm	PronType=Dem|Definite-Def	20	nsubj	_	Gloss=DEM
-18	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	20	aux	_	Gloss=IPFV.AFF
-19	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	20	obj	_	Gloss=3SG
-20	fa	fá	VERB	v	_	15	parataxis	_	Gloss=remplir
+17	nin	nìn	PRON	prn/dtm	Definite=Def|PronType=Dem	20	nsubj	_	Gloss=DEM
+18	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	20	aux	_	Gloss=IPFV.AFF
+19	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	20	obj	_	Gloss=3SG
+20	fa	fá	VERB	v	_	15	parataxis	_	Gloss=remplir|SpaceAfter=No
 21	,	,	PUNCT	_	_	20	punct	_	Gloss=,
-22	nin	nìn	PRON	prn/dtm	PronType=Dem|Definite-Def	25	nsubj	_	Gloss=DEM
-23	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	25	aux	_	Gloss=IPFV.NEG
-24	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	25	obj	_	Gloss=3SG
+22	nin	nìn	PRON	prn/dtm	Definite=Def|PronType=Dem	25	nsubj	_	Gloss=DEM
+23	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	25	aux	_	Gloss=IPFV.NEG
+24	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	25	obj	_	Gloss=3SG
 25	fa	fá	VERB	v	_	20	parataxis	_	Gloss=remplir
 26	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:12
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:12
 # text = sigi ye i kanto ko mun don ?
 1	sigi	sìgi	NOUN	n	_	4	nsubj	_	Gloss=buffle
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
-3	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	4	obj	_	Gloss=REFL
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
+3	i	í	PRON	pers	PronType=Prs	4	obj	_	Gloss=REFL
 4	kanto	kán.to	VERB	v	_	0	root	_	Gloss=s'adresser|Morf=s'adresser,cou,rester
 5	ko	kó	PART	cop	_	7	discourse	_	Gloss=QUOT
 6	mun	mùn	PRON	prn	_	7	nsubj	_	Gloss=quoi
 7	don	dòn	VERB	cop	_	4	parataxis:obj	_	Gloss=PRES
 8	?	?	PUNCT	_	_	4	punct	_	Gloss=?
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:13
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:13
 # text = a ko : òn ko ni n ye i sin kelen biri nin na, o tè ne ka bara fa.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
 3	:	:	PUNCT	_	_	2	punct	_	Gloss=:
 4	òn	ɔn	PRON	_	_	5	nsubj	_	Gloss=EMPR
 5	ko	kó	VERB	cop	_	2	parataxis:obj	_	Gloss=QUOT
 6	ni	ní	SCONJ	conj	_	12	mark	_	Gloss=si
 7	n	ń	PRON	pers	PronType=Prs	12	nsubj	_	Gloss=je
-8	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	12	aux	_	Gloss=PFV.TR
+8	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	12	aux	_	Gloss=PFV.TR
 9	i	í	PRON	pers	PronType=Prs	10	nmod:poss	_	Gloss=2.SG
 10	sin	sín	NOUN	n	_	12	obj	_	Gloss=sein
 11	kelen	kélen	NUM	num	_	10	nummod	_	Gloss=un
 12	biri	bíri	VERB	v	_	21	advcl	_	Gloss=traire
-13	nin	nìn	PRON	prn/dtm	PronType=Dem|Definite-Def	12	obl	_	Gloss=DEM
-14	na	ná	ADP	pp	_	13	case	_	Gloss=dans
+13	nin	nìn	PRON	prn/dtm	Definite=Def|PronType=Dem	12	obl	_	Gloss=DEM
+14	na	ná	ADP	pp	_	13	case	_	Gloss=dans|SpaceAfter=No
 15	,	,	PUNCT	_	_	12	punct	_	Gloss=,
 16	o	ò	PRON	prn	_	21	nsubj	_	Gloss=ce
-17	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	21	aux	_	Gloss=IPFV.NEG
-18	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	20	nmod:poss	_	Gloss=1SG.EMPH
+17	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	21	aux	_	Gloss=IPFV.NEG
+18	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	20	nmod:poss	_	Gloss=1SG.EMPH
 19	ka	ká	ADP	conj	_	18	case	_	Gloss=POSS
 20	bara	bàra	NOUN	n	_	21	obj	_	Gloss=calebasse
-21	fa	fá	VERB	v	_	5	ccomp	_	Gloss=remplir
+21	fa	fá	VERB	v	_	5	ccomp	_	Gloss=remplir|SpaceAfter=No
 22	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:14
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:14
 # text = a ko i lò dè !
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
-3	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	4	obj	_	Gloss=REFL|Morf=REFL,2.SG
+3	i	í	PRON	pers	PronType=Prs	4	obj	_	Gloss=REFL|Morf=REFL,2.SG
 4	lò	lɔ́	VERB	pp	_	2	parataxis:obj	_	Gloss=IN
 5	dè	dɛ́	PART	prt	_	4	discourse	_	Gloss=certes
 6	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:15
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:15
 # text = a ye sin kelen biri.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 3	sin	sín	NOUN	n	_	5	obj	_	Gloss=sein
 4	kelen	kélen	NUM	num	_	3	nummod	_	Gloss=un
-5	biri	bíri	VERB	v	_	0	root	_	Gloss=traire
+5	biri	bíri	VERB	v	_	0	root	_	Gloss=traire|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:16
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:16
 # text = bara fara.
 1	bara	bàra	NOUN	n	_	2	nsubj	_	Gloss=calebasse
-2	fara	fara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=remplir|Morf=remplir,PFV.INTR
+2	fara	fara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=remplir|Morf=remplir,PFV.INTR|SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:17
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:17
 # text = a ye o da tugun.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 3	o	ò	PRON	prn	_	4	nmod:poss	_	Gloss=ce
 4	da	dá	NOUN	n	_	5	obj	_	Gloss=bouche
-5	tugun	túgu	VERB	v	_	0	root	_	Gloss=fermer
+5	tugun	túgu	VERB	v	_	0	root	_	Gloss=fermer|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:17
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:18
 # text = a ye o da tugun.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
-2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=3SG
+2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 3	o	ò	PRON	prn	_	4	nmod:poss	_	Gloss=ce
 4	da	dá	NOUN	n	_	5	obj	_	Gloss=bouche
-5	tugun	túgu	VERB	v	_	0	root	_	Gloss=fermer
+5	tugun	túgu	VERB	v	_	0	root	_	Gloss=fermer|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:19
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:19
 # text = limògòw ye i kanto ko kòrò San, an bè mun nyògòn sòsò ?
 1	limògòw	limɔgɔw	NOUN	n	Number=Plur	4	nsubj	_	Gloss=mouche|Morf=mouche,PL
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
-3	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	4	obj	_	Gloss=REFL
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
+3	i	í	PRON	pers	PronType=Prs	4	obj	_	Gloss=REFL
 4	kanto	kán.to	VERB	v	_	0	root	_	Gloss=s'adresser|Morf=s'adresser,cou,rester
 5	ko	kó	PART	cop	_	13	discourse	_	Gloss=QUOT
 6	kòrò	kɔ̀rɔ	NOUN	n	_	13	vocative	_	Gloss=aîné
-7	San	San	PROPN	n.prop	_	6	appos	_	Gloss=NOM.M|Morf=NOM.M,San
+7	San	San	PROPN	n.prop	_	6	appos	_	Gloss=NOM.M|Morf=NOM.M,San|SpaceAfter=No
 8	,	,	PUNCT	_	_	6	punct	_	Gloss=,
-9	an	án	PRON	pers	PronType=Prs|Number=Plur|Person=1	13	nsubj	_	Gloss=1PL
-10	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	13	aux	_	Gloss=IPFV.AFF
+9	an	án	PRON	pers	Number=Plur|Person=1|PronType=Prs	13	nsubj	_	Gloss=1PL
+10	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	13	aux	_	Gloss=IPFV.AFF
 11	mun	mùn	PRON	prn	_	12	nmod:poss	_	Gloss=quoi
 12	nyògòn	ɲɔ̀gɔn	NOUN	n	_	13	obj	_	Gloss=pareil
 13	sòsò	sɔ̀sɔ	VERB	v	_	4	parataxis:obj	_	Gloss=contredire
 14	?	?	PUNCT	_	_	4	punct	_	Gloss=?
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:20
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:20
 # text = a ko bara nin ko ko ni aw donna a kònò, ko aw tè a fa.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
 3	bara	bàra	NOUN	n	_	5	nsubj	_	Gloss=calebasse
-4	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	3	det	_	Gloss=DEM
+4	nin	nìn	DET	prn/dtm	Definite=Def|PronType=Dem	3	det	_	Gloss=DEM
 5	ko	kó	VERB	cop	_	2	parataxis:obj	_	Gloss=QUOT
 6	ko	kó	PART	cop	_	9	mark	_	Gloss=QUOT
 7	ni	ní	SCONJ	conj	_	9	mark	_	Gloss=si
-8	aw	áw	PRON	pers	PronType=Prs|Number=Plur|Person=2|PronType=Emp	9	nsubj	_	Gloss=2PL.EMPH
-9	donna	donna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	17	advcl	_	Gloss=entrer|Morf=entrer,PFV.INTR
-10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	9	obl	_	Gloss=3SG
-11	kònò	kɔ́nɔ	ADP	pp	_	10	case	_	Gloss=à.l’intérieur
+8	aw	áw	PRON	pers	Number=Plur|Person=2|PronType=Emp	9	nsubj	_	Gloss=2PL.EMPH
+9	donna	donna	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	17	advcl	_	Gloss=entrer|Morf=entrer,PFV.INTR
+10	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	obl	_	Gloss=3SG
+11	kònò	kɔ́nɔ	ADP	pp	_	10	case	_	Gloss=à.l’intérieur|SpaceAfter=No
 12	,	,	PUNCT	_	_	9	punct	_	Gloss=,
 13	ko	kó	PART	cop	_	17	discourse	_	Gloss=QUOT
-14	aw	áw	PRON	pers	PronType=Prs|Number=Plur|Person=2|PronType=Emp	17	nsubj	_	Gloss=2PL.EMPH
-15	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	17	aux	_	Gloss=IPFV.NEG
-16	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	17	obj	_	Gloss=3SG
-17	fa	fá	VERB	v	_	5	parataxis:obj	_	Gloss=remplir
+14	aw	áw	PRON	pers	Number=Plur|Person=2|PronType=Emp	17	nsubj	_	Gloss=2PL.EMPH
+15	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	17	aux	_	Gloss=IPFV.NEG
+16	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	17	obj	_	Gloss=3SG
+17	fa	fá	VERB	v	_	5	parataxis:obj	_	Gloss=remplir|SpaceAfter=No
 18	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:21
-# text = u donna a kònò mètè mètè mètè mètè a ye o da tugun mènèku !
-1	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	2	nsubj	_	Gloss=3PL
-2	donna	donna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=entrer|Morf=entrer,PFV.INTR
-3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	obl	_	Gloss=3SG
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:21
+# text = u donna a kònò mètèmètè mètèmètè a ye o datugun mènèku !
+1	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Gloss=3PL
+2	donna	donna	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=entrer|Morf=entrer,PFV.INTR
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	obl	_	Gloss=3SG
 4	kònò	kɔ́nɔ	ADP	pp	_	3	case	_	Gloss=à.l’intérieur
 5	mètèmètè	mɛ́tɛmɛtɛ	INTJ	onomat	_	2	discourse	_	Gloss=flot.continu
 6	mètèmètè	mɛ́tɛmɛtɛ	INTJ	onomat	_	5	compound:redup	_	Gloss=flot.continu
-7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	10	nsubj	_	Gloss=3SG
-8	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	10	aux	_	Gloss=PFV.TR
+7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Gloss=3SG
+8	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	10	aux	_	Gloss=PFV.TR
 9	o	ò	PRON	prn	_	10	obj	_	Gloss=ce
 10	datugun	dá.tugu	VERB	v	_	2	parataxis	_	Gloss=boucher|Morf=boucher,bouche,fermer
 11	mènèku	mɛ́nɛku	ADV	adv	_	10	obl	_	Gloss=hermétiquement
 12	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:22
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:22
 # text = a tèmèna, a tagara sosow la.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
-2	tèmèna	tɛmɛna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=passer|Morf=passer,PFV.INTR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	tèmèna	tɛmɛna	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=passer|Morf=passer,PFV.INTR|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
-4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
-5	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	2	parataxis	_	Gloss=aller|Morf=aller,PFV.INTR
+4	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=3SG
+5	tagara	tagara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	2	parataxis	_	Gloss=aller|Morf=aller,PFV.INTR
 6	sosow	sosow	NOUN	n	Number=Plur	5	obl	_	Gloss=moustique|Morf=moustique,PL
-7	la	lá	ADP	pp	_	6	case	_	Gloss=dans
+7	la	lá	ADP	pp	_	6	case	_	Gloss=dans|SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:23
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:23
 # text = a ko nin bè a fa, nin tè a fa, nin bè a fa, nin tè a fa !
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
-3	nin	nìn	PRON	prn/dtm	PronType=Dem|Definite-Def	6	nsubj	_	Gloss=DEM
-4	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	6	aux	_	Gloss=IPFV.AFF
-5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	6	obj	_	Gloss=3SG
-6	fa	fá	VERB	v	_	2	parataxis:obj	_	Gloss=remplir
+3	nin	nìn	PRON	prn/dtm	Definite=Def|PronType=Dem	6	nsubj	_	Gloss=DEM
+4	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	6	aux	_	Gloss=IPFV.AFF
+5	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	6	obj	_	Gloss=3SG
+6	fa	fá	VERB	v	_	2	parataxis:obj	_	Gloss=remplir|SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	Gloss=,
-8	nin	nìn	PRON	prn/dtm	PronType=Dem|Definite-Def	11	nsubj	_	Gloss=DEM
-9	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	11	aux	_	Gloss=IPFV.NEG
-10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	11	obj	_	Gloss=3SG
-11	fa	fá	VERB	v	_	6	parataxis	_	Gloss=remplir
+8	nin	nìn	PRON	prn/dtm	Definite=Def|PronType=Dem	11	nsubj	_	Gloss=DEM
+9	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	11	aux	_	Gloss=IPFV.NEG
+10	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	11	obj	_	Gloss=3SG
+11	fa	fá	VERB	v	_	6	parataxis	_	Gloss=remplir|SpaceAfter=No
 12	,	,	PUNCT	_	_	11	punct	_	Gloss=,
-13	nin	nìn	PRON	prn/dtm	PronType=Dem|Definite-Def	16	nsubj	_	Gloss=DEM
-14	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	16	aux	_	Gloss=IPFV.AFF
-15	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	16	obj	_	Gloss=3SG
-16	fa	fá	VERB	v	_	11	parataxis	_	Gloss=remplir
+13	nin	nìn	PRON	prn/dtm	Definite=Def|PronType=Dem	16	nsubj	_	Gloss=DEM
+14	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	16	aux	_	Gloss=IPFV.AFF
+15	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	16	obj	_	Gloss=3SG
+16	fa	fá	VERB	v	_	11	parataxis	_	Gloss=remplir|SpaceAfter=No
 17	,	,	PUNCT	_	_	16	punct	_	Gloss=,
-18	nin	nìn	PRON	prn/dtm	PronType=Dem|Definite-Def	21	nsubj	_	Gloss=DEM
-19	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	21	aux	_	Gloss=IPFV.NEG
-20	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	21	obj	_	Gloss=3SG
+18	nin	nìn	PRON	prn/dtm	Definite=Def|PronType=Dem	21	nsubj	_	Gloss=DEM
+19	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	21	aux	_	Gloss=IPFV.NEG
+20	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	21	obj	_	Gloss=3SG
 21	fa	fá	VERB	v	_	16	parataxis	_	Gloss=remplir
 22	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:24
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:24
 # text = sosow ye i kanto ko e kòrò San ko a dun kèra cògò di ?
 1	sosow	sosow	NOUN	n	Number=Plur	4	nsubj	_	Gloss=moustique|Morf=moustique,PL
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
-3	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	4	obj	_	Gloss=REFL
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
+3	i	í	PRON	pers	PronType=Prs	4	obj	_	Gloss=REFL
 4	kanto	kán.to	VERB	v	_	0	root	_	Gloss=s'adresser|Morf=s'adresser,cou,rester
 5	ko	kó	PART	cop	_	12	discourse	_	Gloss=QUOT
 6	e	ée	INTJ	intj	_	12	discourse	_	Gloss=hé!
 7	kòrò	kɔ̀rɔ	NOUN	n	_	12	vocative	_	Gloss=aîné
 8	San	San	PROPN	n.prop	_	7	appos	_	Gloss=NOM.M
 9	ko	kó	PART	cop	_	12	discourse	_	Gloss=QUOT
-10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	12	nsubj	_	Gloss=3SG
+10	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Gloss=3SG
 11	dun	dùn	PART	prt	_	12	discourse	_	Gloss=TOP.CNTR
-12	kèra	kɛra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	4	parataxis:obj	_	Gloss=faire|Morf=faire,PFV.INTR
+12	kèra	kɛra	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	4	parataxis:obj	_	Gloss=faire|Morf=faire,PFV.INTR
 13	cògò	cógo	NOUN	n	_	12	obl	_	Gloss=manière
 14	di	dì	PRON	prn	_	13	fixed	_	Gloss=comment
 15	?	?	PUNCT	_	_	4	punct	_	Gloss=?
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:25
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:25
 # text = a ko bara nin de ko ni aw donna a kònò, ko aw tè a fa.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
 3	bara	bàra	NOUN	n	_	17	dislocated	_	Gloss=calebasse
-4	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	3	det	_	Gloss=DEM
+4	nin	nìn	DET	prn/dtm	Definite=Def|PronType=Dem	3	det	_	Gloss=DEM
 5	de	dè	PART	prt	_	3	discourse	_	Gloss=FOC
 6	ko	kó	PART	cop	_	17	discourse	_	Gloss=QUOT
 7	ni	ní	SCONJ	conj	_	9	mark	_	Gloss=si
-8	aw	áw	PRON	pers	PronType=Prs|Number=Plur|Person=2|PronType=Emp	9	nsubj	_	Gloss=2PL.EMPH
-9	donna	donna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	17	advcl	_	Gloss=entrer|Morf=entrer,PFV.INTR
-10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	9	obl	_	Gloss=3SG
-11	kònò	kɔ́nɔ	ADP	pp	_	10	case	_	Gloss=à.l’intérieur
+8	aw	áw	PRON	pers	Number=Plur|Person=2|PronType=Emp	9	nsubj	_	Gloss=2PL.EMPH
+9	donna	donna	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	17	advcl	_	Gloss=entrer|Morf=entrer,PFV.INTR
+10	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	obl	_	Gloss=3SG
+11	kònò	kɔ́nɔ	ADP	pp	_	10	case	_	Gloss=à.l’intérieur|SpaceAfter=No
 12	,	,	PUNCT	_	_	9	punct	_	Gloss=,
 13	ko	kó	PART	cop	_	17	discourse	_	Gloss=QUOT
-14	aw	áw	PRON	pers	PronType=Prs|Number=Plur|Person=2|PronType=Emp	17	nsubj	_	Gloss=2PL.EMPH
-15	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	17	aux	_	Gloss=IPFV.NEG
-16	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	17	obj	_	Gloss=3SG
-17	fa	fá	VERB	v	_	2	parataxis:obj	_	Gloss=remplir
+14	aw	áw	PRON	pers	Number=Plur|Person=2|PronType=Emp	17	nsubj	_	Gloss=2PL.EMPH
+15	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	17	aux	_	Gloss=IPFV.NEG
+16	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	17	obj	_	Gloss=3SG
+17	fa	fá	VERB	v	_	2	parataxis:obj	_	Gloss=remplir|SpaceAfter=No
 18	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:26
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:26
 # text = ko ayiwa, ko an be a mafilè !
 1	ko	kó	PART	cop	_	8	discourse	_	Gloss=QUOT
-2	ayiwa	áyiwa	INTJ	intj	_	8	discourse	_	Gloss=bon
+2	ayiwa	áyiwa	INTJ	intj	_	8	discourse	_	Gloss=bon|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
 4	ko	kó	PART	cop	_	8	discourse	_	Gloss=QUOT
-5	an	án	PRON	pers	PronType=Prs|Number=Plur|Person=1	8	nsubj	_	Gloss=1PL
-6	be	bé	AUX	pm	Polarity=Pos|Aspect=Imp	8	aux	_	Gloss=IPFV.AFF
-7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	obj	_	Gloss=3SG
+5	an	án	PRON	pers	Number=Plur|Person=1|PronType=Prs	8	nsubj	_	Gloss=1PL
+6	be	bé	AUX	pm	Aspect=Imp|Polarity=Pos	8	aux	_	Gloss=IPFV.AFF
+7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	obj	_	Gloss=3SG
 8	mafilè	mà.filɛ	VERB	v	_	0	root	_	Gloss=regarder|Morf=regarder,SUPER,regarder
 9	!	!	PUNCT	_	_	8	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:27
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:27
 # text = u donna a kònò, u ye bara fa.
-1	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	2	nsubj	_	Gloss=3PL
-2	donna	donna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=entrer|Morf=entrer,PFV.INTR
-3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	obl	_	Gloss=3SG
-4	kònò	kɔ́nɔ	ADP	pp	_	3	case	_	Gloss=à.l’intérieur
+1	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Gloss=3PL
+2	donna	donna	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=entrer|Morf=entrer,PFV.INTR
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	obl	_	Gloss=3SG
+4	kònò	kɔ́nɔ	ADP	pp	_	3	case	_	Gloss=à.l’intérieur|SpaceAfter=No
 5	,	,	PUNCT	_	_	2	punct	_	Gloss=,
-6	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	9	nsubj	_	Gloss=3PL
-7	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	9	aux	_	Gloss=PFV.TR
+6	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	9	nsubj	_	Gloss=3PL
+7	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	9	aux	_	Gloss=PFV.TR
 8	bara	bàra	NOUN	n	_	9	obj	_	Gloss=calebasse
-9	fa	fá	VERB	v	_	2	parataxis	_	Gloss=remplir
+9	fa	fá	VERB	v	_	2	parataxis	_	Gloss=remplir|SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:28
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:28
 # text = a ye o da tugun mènèku !
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 3	o	ò	PRON	prn	_	4	nmod:poss	_	Gloss=ce
 4	da	dá	NOUN	n	_	5	obj	_	Gloss=bouche
 5	tugun	túgu	VERB	v	_	0	root	_	Gloss=fermer
 6	mènèku	mɛ́nɛku	ADV	adv	_	5	obl	_	Gloss=hermétiquement
 7	!	!	PUNCT	_	_	5	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:29
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:29
 # text = a tagara, a ye bere janba tigè a tagara mininyan kan, mininyan ye i kanto ko e ko a dun kèra cogo di ?
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
-2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	tagara	tagara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=aller|Morf=aller,PFV.INTR|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
-4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	nsubj	_	Gloss=3SG
-5	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	8	aux	_	Gloss=PFV.TR
+4	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Gloss=3SG
+5	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	8	aux	_	Gloss=PFV.TR
 6	bere	bére	NOUN	n	_	8	obj	_	Gloss=bâton
 7	janba	janba	ADJ	adj	_	6	amod	_	Gloss=long|Morf=long,AUG
 8	tigè	tìgɛ	VERB	v	_	2	parataxis	_	Gloss=couper
-9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	10	nsubj	_	Gloss=3SG
-10	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	8	parataxis	_	Gloss=aller|Morf=aller,PFV.INTR
+9	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Gloss=3SG
+10	tagara	tagara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	8	parataxis	_	Gloss=aller|Morf=aller,PFV.INTR
 11	mininyan	míniɲan	NOUN	n	_	10	obl	_	Gloss=python
-12	kan	kàn	ADP	pp	_	11	case	_	Gloss=sur
+12	kan	kàn	ADP	pp	_	11	case	_	Gloss=sur|SpaceAfter=No
 13	,	,	PUNCT	_	_	10	punct	_	Gloss=,
 14	mininyan	míniɲan	NOUN	n	_	17	nsubj	_	Gloss=python
-15	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	17	aux	_	Gloss=PFV.TR
-16	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	17	obj	_	Gloss=REFL
+15	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	17	aux	_	Gloss=PFV.TR
+16	i	í	PRON	pers	PronType=Prs	17	obj	_	Gloss=REFL
 17	kanto	kánto	VERB	v	_	10	parataxis	_	Gloss=s'adresser|Morf=s'adresser,cou,rester
 18	ko	kó	PART	cop	_	23	discourse	_	Gloss=QUOT
 19	e	ée	INTJ	intj	_	23	discourse	_	Gloss=hé!
 20	ko	kó	PART	cop	_	23	discourse	_	Gloss=QUOT
-21	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	23	nsubj	_	Gloss=3SG
+21	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	23	nsubj	_	Gloss=3SG
 22	dun	dún	PART	prt	_	21	discourse	_	Gloss=TOP.CNTR
-23	kèra	kɛra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	17	parataxis:obj	_	Gloss=faire|Morf=faire,PFV.INTR
+23	kèra	kɛra	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	17	parataxis:obj	_	Gloss=faire|Morf=faire,PFV.INTR
 24	cogo	cógo	NOUN	n	_	23	obl	_	Gloss=manière
 25	di	dì	PRON	prn	_	24	fixed	_	Gloss=comment
 26	?	?	PUNCT	_	_	2	punct	_	Gloss=?
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:30
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:30
 # text = a ko nin bere ye i kanto ko e mana i suma nin bereke nin ma, ko ale be janya i ye !
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
-3	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	4	det	_	Gloss=DEM
+3	nin	nìn	DET	prn/dtm	Definite=Def|PronType=Dem	4	det	_	Gloss=DEM
 4	bere	bére	NOUN	n	_	7	nsubj	_	Gloss=bâton
-5	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	7	aux	_	Gloss=PFV.TR
-6	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	7	obj	_	Gloss=REFL
+5	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	7	aux	_	Gloss=PFV.TR
+6	i	í	PRON	pers	PronType=Prs	7	obj	_	Gloss=REFL
 7	kanto	kán.to	VERB	v	_	2	parataxis:obj	_	Gloss=s'adresser|Morf=s'adresser,cou,rester
 8	ko	kó	PART	cop	_	12	discourse	_	Gloss=QUOT
-9	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	12	nsubj	_	Gloss=3SG.EMPH
+9	e	é	PRON	pers	Number=Sing|Person=3|PronType=Emp	12	nsubj	_	Gloss=3SG.EMPH
 10	mana	mána	AUX	pm	Mood=Cnd|Polarity=Pos	12	aux	_	Gloss=COND.AFF
 11	i	í	PRON	pers	PronType=Prs	12	obj	_	Gloss=2.SG
 12	suma	súma	VERB	v	_	21	advcl	_	Gloss=mesurer
-13	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	14	det	_	Gloss=DEM
+13	nin	nìn	DET	prn/dtm	Definite=Def|PronType=Dem	14	det	_	Gloss=DEM
 14	bereke	béreke	NOUN	n	_	12	obl	_	Gloss=bâton
-15	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	14	det	_	Gloss=DEM
-16	ma	mà	ADP	pp	_	14	case	_	Gloss=à
+15	nin	nìn	DET	prn/dtm	Definite=Def|PronType=Dem	14	det	_	Gloss=DEM
+16	ma	mà	ADP	pp	_	14	case	_	Gloss=à|SpaceAfter=No
 17	,	,	PUNCT	_	_	12	punct	_	Gloss=,
 18	ko	kó	PART	cop	_	21	discourse	_	Gloss=QUOT
-19	ale	àle	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	21	nsubj	_	Gloss=3SG.EMPH
-20	be	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	21	aux	_	Gloss=IPFV.AFF
+19	ale	àle	PRON	pers	Number=Sing|Person=3|PronType=Emp	21	nsubj	_	Gloss=3SG.EMPH
+20	be	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	21	aux	_	Gloss=IPFV.AFF
 21	janya	jàn.ya	VERB	v	_	7	parataxis:obj	_	Gloss=allonger|Morf=allonger,long,DEQU
 22	i	í	PRON	pers	PronType=Prs	21	obl	_	Gloss=2.SG
 23	ye	yé	ADP	pp	_	22	case	_	Gloss=PP
 24	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:31
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:31
 # text = a ko an ka an suma !
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
-3	an	án	PRON	pers	PronType=Prs|Number=Plur|Person=1	6	nsubj	_	Gloss=1PL
+3	an	án	PRON	pers	Number=Plur|Person=1|PronType=Prs	6	nsubj	_	Gloss=1PL
 4	ka	ká	AUX	pm	_	6	aux	_	Gloss=OPT
-5	an	án	PRON	pers	PronType=Prs|Number=Plur|Person=1	6	obj	_	Gloss=1PL
+5	an	án	PRON	pers	Number=Plur|Person=1|PronType=Prs	6	obj	_	Gloss=1PL
 6	suma	súma	VERB	v	_	2	parataxis:obj	_	Gloss=mesurer
 7	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:32
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:32
 # text = mininyan ye i la bere fè yòrò min, a ye a ni bere siri kòrr !
 # label = rel_elided
 1	mininyan	míni.ɲan	NOUN	n	_	4	nsubj	_	Gloss=python
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
-3	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	4	obj	_	Gloss=REFL
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
+3	i	í	PRON	pers	PronType=Prs	4	obj	_	Gloss=REFL
 4	la	dá	VERB	v	_	15	acl	_	Gloss=poser
 5	bere	bére	NOUN	n	_	4	obl	_	Gloss=bâton
 6	fè	fɛ̀	ADP	pp	_	5	case	_	Gloss=vers
 7	yòrò	yɔ́rɔ	NOUN	n	_	4	obl	_	Gloss=lieu
-8	min	mín	DET	prn	PronType=Rel	7	det:rel	_	Gloss=REL
+8	min	mín	DET	prn	PronType=Rel	7	det:rel	_	Gloss=REL|SpaceAfter=No
 9	,	,	PUNCT	_	_	4	punct	_	Gloss=,
-10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	15	nsubj	_	Gloss=3SG
-11	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	15	aux	_	Gloss=PFV.TR
-12	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	15	obj	_	Gloss=3SG
+10	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	15	nsubj	_	Gloss=3SG
+11	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	15	aux	_	Gloss=PFV.TR
+12	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	15	obj	_	Gloss=3SG
 13	ni	ní	CCONJ	conj/prep	_	14	cc	_	Gloss=et
 14	bere	bére	NOUN	n	_	12	conj	_	Gloss=bâton
 15	siri	sìri	VERB	v	_	0	root	_	Gloss=lier
 16	kòrr	kɔ́rr	INTJ	onomat	_	15	discourse	_	Gloss=fortement
 17	!	!	PUNCT	_	_	15	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:33
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:33
 # text = a ye o fana ta, a ye o doni.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 3	o	ò	PRON	prn	_	5	obj	_	Gloss=ce
 4	fana	fána	PART	prt	_	3	discourse	_	Gloss=aussi
-5	ta	tà	VERB	v	_	0	root	_	Gloss=prendre
+5	ta	tà	VERB	v	_	0	root	_	Gloss=prendre|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
-7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	10	nsubj	_	Gloss=3SG
-8	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	10	aux	_	Gloss=PFV.TR
+7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Gloss=3SG
+8	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	10	aux	_	Gloss=PFV.TR
 9	o	ò	PRON	prn	_	10	obj	_	Gloss=ce
-10	doni	dòni	VERB	v	_	5	parataxis	_	Gloss=charger
+10	doni	dòni	VERB	v	_	5	parataxis	_	Gloss=charger|SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:34
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:34
 # text = o bèè fèn kelen, a nana suruku ma.
 1	o	ò	PRON	prn	_	0	root	_	Gloss=ce
 2	bèè	bɛ́ɛ	DET	dtm	_	1	det	_	Gloss=tout
 3	fèn	fɛ́n	NOUN	n	_	1	orphan	_	Gloss=chose
-4	kelen	kélen	NUM	num	_	3	nummod	_	Gloss=un
+4	kelen	kélen	NUM	num	_	3	nummod	_	Gloss=un|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=,
-6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	nsubj	_	Gloss=3SG
-7	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	1	parataxis	_	Gloss=venir|Morf=venir,PFV.INTR
+6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Gloss=3SG
+7	nana	nana	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	1	parataxis	_	Gloss=venir|Morf=venir,PFV.INTR
 8	suruku	súruku	NOUN	n	_	7	obl	_	Gloss=hyène
-9	ma	mà	ADP	pp	_	8	case	_	Gloss=à
+9	ma	mà	ADP	pp	_	8	case	_	Gloss=à|SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:35
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:35
 # text = suruku ye i kanto ko e dun ni nin bèè bè taga min ?
 1	suruku	súruku	NOUN	n	_	4	nsubj	_	Gloss=hyène
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
-3	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	4	obj	_	Gloss=REFL
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
+3	i	í	PRON	pers	PronType=Prs	4	obj	_	Gloss=REFL
 4	kanto	kán.to	VERB	v	_	0	root	_	Gloss=s'adresser|Morf=s'adresser,cou,rester
 5	ko	kó	PART	cop	_	12	discourse	_	Gloss=QUOT
-6	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	12	nsubj	_	Gloss=2SG.EMPH
+6	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	12	nsubj	_	Gloss=2SG.EMPH
 7	dun	dùn	PART	prt	_	6	discourse	_	Gloss=TOP.CNTR
 8	ni	ní	CCONJ	conj/prep	_	9	cc	_	Gloss=et
-9	nin	nìn	PRON	prn	PronType=Dem|Definite-Def	6	conj	_	Gloss=DEM
+9	nin	nìn	PRON	prn	Definite=Def|PronType=Dem	6	conj	_	Gloss=DEM
 10	bèè	bɛ́ɛ	DET	dtm	_	9	det	_	Gloss=tout
-11	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	12	aux	_	Gloss=IPFV.AFF
+11	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	12	aux	_	Gloss=IPFV.AFF
 12	taga	tága	VERB	v	_	4	parataxis:obj	_	Gloss=aller
 13	min	mín	PRON	prn	_	12	obl	_	Gloss=où
 14	?	?	PUNCT	_	_	4	punct	_	Gloss=?
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:36
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:36
 # text = a ko an bè taga.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
-3	an	án	PRON	pers	PronType=Prs|Number=Plur|Person=1	5	nsubj	_	Gloss=1PL
-4	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	5	aux	_	Gloss=IPFV.AFF
-5	taga	tága	VERB	v	_	2	parataxis:obj	_	Gloss=aller
+3	an	án	PRON	pers	Number=Plur|Person=1|PronType=Prs	5	nsubj	_	Gloss=1PL
+4	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	5	aux	_	Gloss=IPFV.AFF
+5	taga	tága	VERB	v	_	2	parataxis:obj	_	Gloss=aller|SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:37
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:37
 # text = ni i be se, n bè yèlèn i kan ni n ka minanw, i be taga n danda, an be taga.
 1	ni	ní	SCONJ	conj	_	4	mark	_	Gloss=si
 2	i	í	PRON	pers	PronType=Prs	4	nsubj	_	Gloss=2.SG
-3	be	bé	AUX	pm	Polarity=Pos|Aspect=Imp	4	aux	_	Gloss=IPFV.AFF
-4	se	sé	VERB	v	_	8	advcl	_	Gloss=arriver
+3	be	bé	AUX	pm	Aspect=Imp|Polarity=Pos	4	aux	_	Gloss=IPFV.AFF
+4	se	sé	VERB	v	_	8	advcl	_	Gloss=arriver|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	Gloss=,
 6	n	ń	PRON	pers	PronType=Prs	8	nsubj	_	Gloss=je
-7	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	8	aux	_	Gloss=IPFV.AFF
+7	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	8	aux	_	Gloss=IPFV.AFF
 8	yèlèn	yɛ̀lɛn	VERB	v	_	0	root	_	Gloss=monter
 9	i	í	PRON	pers	PronType=Prs	8	obl	_	Gloss=2.SG
 10	kan	kàn	ADP	pp	_	9	case	_	Gloss=sur
 11	ni	ní	ADP	conj/prep	_	14	case	_	Gloss=et
 12	n	ń	PRON	pers	PronType=Prs	14	nmod:poss	_	Gloss=je
 13	ka	ká	ADP	conj	_	12	case	_	Gloss=POSS
-14	minanw	minanw	NOUN	n	Number=Plur	8	obl	_	Gloss=outils|Morf=outils,PL
+14	minanw	minanw	NOUN	n	Number=Plur	8	obl	_	Gloss=outils|Morf=outils,PL|SpaceAfter=No
 15	,	,	PUNCT	_	_	8	punct	_	Gloss=,
 16	i	í	PRON	pers	PronType=Prs	18	nsubj	_	Gloss=2.SG
-17	be	bé	AUX	pm	Polarity=Pos|Aspect=Imp	18	aux	_	Gloss=IPFV.AFF
+17	be	bé	AUX	pm	Aspect=Imp|Polarity=Pos	18	aux	_	Gloss=IPFV.AFF
 18	taga	tága	VERB	v	_	8	parataxis	_	Gloss=aller
 19	n	ń	PRON	pers	PronType=Prs	20	obj	_	Gloss=je
-20	danda	dɛ́ndɛ	VERB	v	_	18	xcomp	_	Gloss=bien.utiliser
+20	danda	dɛ́ndɛ	VERB	v	_	18	xcomp	_	Gloss=bien.utiliser|SpaceAfter=No
 21	,	,	PUNCT	_	_	20	punct	_	Gloss=,
-22	an	án	PRON	pers	PronType=Prs|Number=Plur|Person=1	24	nsubj	_	Gloss=1PL
-23	be	bé	AUX	pm	Polarity=Pos|Aspect=Imp	24	aux	_	Gloss=IPFV.AFF
-24	taga	tága	VERB	v	_	20	parataxis	_	Gloss=aller
+22	an	án	PRON	pers	Number=Plur|Person=1|PronType=Prs	24	nsubj	_	Gloss=1PL
+23	be	bé	AUX	pm	Aspect=Imp|Polarity=Pos	24	aux	_	Gloss=IPFV.AFF
+24	taga	tága	VERB	v	_	20	parataxis	_	Gloss=aller|SpaceAfter=No
 25	.	.	PUNCT	_	_	8	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:38
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:38
 # text = u ye turaba dò de faga.
-1	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	6	nsubj	_	Gloss=3PL
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	6	aux	_	Gloss=PFV.TR
+1	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	6	nsubj	_	Gloss=3PL
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	6	aux	_	Gloss=PFV.TR
 3	turaba	turaba	NOUN	n	_	6	obj	_	Gloss=taureau|Morf=taureau,AUG
 4	dò	dɔ́	DET	dtm	_	3	det	_	Gloss=certain
 5	de	dè	PART	prt	_	3	discourse	_	Gloss=FOC
-6	faga	fàga	VERB	v	_	0	root	_	Gloss=tuer
+6	faga	fàga	VERB	v	_	0	root	_	Gloss=tuer|SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:39
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:39
 # text = an bè taga ka taga a sogo dun sa.
-1	an	án	PRON	pers	PronType=Prs|Number=Plur|Person=1	3	nsubj	_	Gloss=1PL
-2	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	3	aux	_	Gloss=IPFV.AFF
+1	an	án	PRON	pers	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	Gloss=1PL
+2	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	3	aux	_	Gloss=IPFV.AFF
 3	taga	tága	VERB	v	_	0	root	_	Gloss=aller
 4	ka	kà	AUX	pm	_	5	aux	_	Gloss=INF
 5	taga	tága	VERB	v	_	3	xcomp	_	Gloss=aller
-6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	nmod:poss	_	Gloss=3SG
+6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	nmod:poss	_	Gloss=3SG
 7	sogo	sògo	NOUN	n	_	8	obj	_	Gloss=viande
 8	dun	dún	VERB	v	_	5	xcomp	_	Gloss=manger
-9	sa	sá	PART	prt	_	8	discourse	_	Gloss=enfin
+9	sa	sá	PART	prt	_	8	discourse	_	Gloss=enfin|SpaceAfter=No
 10	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:40
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:40
 # text = a ko hèn ?
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
 3	hèn	hɛn	INTJ	_	_	2	parataxis:obj	_	Gloss=EMPR
 4	?	?	PUNCT	_	_	2	punct	_	Gloss=?
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:41
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:41
 # text = a ko yo !
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
 3	yo	yó	INTJ	intj	_	2	parataxis:obj	_	Gloss=salut
 4	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:42
-# text = a ko ayiwa, n bè taga i nò fè.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:42
+# text = a ko ayiwa, n bè taga i nòfè.
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
-3	ayiwa	áyiwa	INTJ	intj	_	7	discourse	_	Gloss=bon
+3	ayiwa	áyiwa	INTJ	intj	_	7	discourse	_	Gloss=bon|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
-5	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	7	nsubj	_	Gloss=1SG
-6	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	7	aux	_	Gloss=IPFV.AFF
+5	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Gloss=1SG
+6	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	7	aux	_	Gloss=IPFV.AFF
 7	taga	tága	VERB	v	_	2	parataxis:obj	_	Gloss=aller
-8	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	7	obl	_	Gloss=2SG
-9	nòfè	nɔ̀fɛ̀	ADP	pp	_	8	case	_	Gloss=derrière|Morf=derrière,trace,par
+8	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	7	obl	_	Gloss=2SG
+9	nòfè	nɔ̀fɛ̀	ADP	pp	_	8	case	_	Gloss=derrière|Morf=derrière,trace,par|SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:43
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:43
 # text = a ko n be yèlèn i kan
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
-3	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	5	nsubj	_	Gloss=1SG
-4	be	be	AUX	pm	Polarity=Pos|Aspect=Imp	5	aux	_	Gloss=IPFV.AFF
+3	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=1SG
+4	be	be	AUX	pm	Aspect=Imp|Polarity=Pos	5	aux	_	Gloss=IPFV.AFF
 5	yèlèn	yɛ̀lɛn	VERB	v	_	2	parataxis:obj	_	Gloss=monter
-6	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	5	obl	_	Gloss=2SG
+6	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	5	obl	_	Gloss=2SG
 7	kan	kàn	ADP	pp	_	6	case	_	Gloss=sur
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:44
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:44
 # text = a ko ònhòn, i bè yèlèn n kan !
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
-3	ònhòn	ɔ̀nhɔ́n	INTJ	intj	_	7	discourse	_	Gloss=oui
+3	ònhòn	ɔ̀nhɔ́n	INTJ	intj	_	7	discourse	_	Gloss=oui|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
-5	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	7	nsubj	_	Gloss=2SG
-6	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	7	aux	_	Gloss=IPFV.AFF
+5	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	7	nsubj	_	Gloss=2SG
+6	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	7	aux	_	Gloss=IPFV.AFF
 7	yèlèn	yɛ̀lɛn	VERB	v	_	2	parataxis:obj	_	Gloss=monter
-8	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	7	obl	_	Gloss=1SG
+8	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	7	obl	_	Gloss=1SG
 9	kan	kàn	ADP	pp	_	8	case	_	Gloss=sur
 10	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:45
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:45
 # text = òn !
 1	òn	ɔn	INTJ	intj	_	0	root	_	Gloss=Hop!
 2	!	!	PUNCT	_	_	1	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:46
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:46
 # text = sonsan ye i pan ka i fili surukukò rò, ka karafè don a da la.
 1	sonsan	sònsan	NOUN	n	_	4	nsubj	_	Gloss=lièvre
-2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
-3	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	4	obj	_	Gloss=REFL
+2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
+3	i	í	PRON	pers	PronType=Prs	4	obj	_	Gloss=REFL
 4	pan	pán	VERB	v	_	0	root	_	Gloss=sauter
 5	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
-6	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	7	obj	_	Gloss=REFL
+6	i	í	PRON	pers	PronType=Prs	7	obj	_	Gloss=REFL
 7	fili	fìli	VERB	v	_	4	xcomp	_	Gloss=jeter
 8	surukukò	surukukɔ	NOUN	n	_	7	obl	_	Gloss=hyène|Morf=hyène,dos
-9	rò	rɔ́	ADP	pp	_	8	case	_	Gloss=IN
+9	rò	rɔ́	ADP	pp	_	8	case	_	Gloss=IN|SpaceAfter=No
 10	,	,	PUNCT	_	_	7	punct	_	Gloss=,
 11	ka	kà	AUX	pm	_	13	aux	_	Gloss=INF
 12	karafè	kàrafe	NOUN	n	_	13	obj	_	Gloss=mors
 13	don	dòn	VERB	v	_	7	xcomp	_	Gloss=entrer
-14	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	15	nmod:poss	_	Gloss=3SG
+14	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	15	nmod:poss	_	Gloss=3SG
 15	da	dá	NOUN	n	_	13	obl	_	Gloss=bouche
-16	la	lá	ADP	pp	_	15	case	_	Gloss=à
+16	la	lá	ADP	pp	_	15	case	_	Gloss=à|SpaceAfter=No
 17	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:47
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:47
 # text = a ye nugurè sigi tuma min, u bè tagalen, a ko : Mama Ngala ko ko n ka a sanba siginònòkènè dò.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
-2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=3SG
+2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
 3	nugurè	nùgurɛ	NOUN	n	_	4	obj	_	Gloss=sangle
 4	sigi	sìgi	VERB	v	_	10	acl	_	Gloss=asseoir
 5	tuma	tùma	NOUN	n	_	4	obl	_	Gloss=moment
-6	min	mîn	DET	dtm	PronType=Rel	5	det:rel	_	Gloss=REL
+6	min	mîn	DET	dtm	PronType=Rel	5	det:rel	_	Gloss=REL|SpaceAfter=No
 7	,	,	PUNCT	_	_	4	punct	_	Gloss=,
-8	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	10	nsubj	_	Gloss=3PL
+8	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	10	nsubj	_	Gloss=3PL
 9	bè	bɛ́	VERB	cop	_	10	aux	_	Gloss=être
-10	tagalen	tagalen	VERB	ptcp	VerbalForm=Part|Aspect=Perf	0	root	_	Gloss=aller|Morf=aller,PTCP.RES
+10	tagalen	tagalen	VERB	ptcp	Aspect=Perf|VerbForm=Part	0	root	_	Gloss=aller|Morf=aller,PTCP.RES|SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	Gloss=,
-12	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	13	nsubj	_	Gloss=3SG
+12	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	13	nsubj	_	Gloss=3SG
 13	ko	kó	VERB	cop	_	10	parataxis	_	Gloss=QUOT
 14	:	:	PUNCT	_	_	13	punct	_	Gloss=:
 15	Mama	máma	NOUN	n	_	17	nsubj	_	Gloss=Dieu|Morf=Dieu,Dieu
 16	Ngala	ŋála	NOUN	n	_	15	flat	_	Gloss=Dieu
 17	ko	kó	VERB	cop	_	13	parataxis:obj	_	Gloss=QUOT
 18	ko	kó	PART	cop	_	22	discourse	_	Gloss=QUOT
-19	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	22	nsubj	_	Gloss=1SG
-20	ka	ka	AUX	pm	Mood=Subj|Polarity=Aff	22	aux	_	Gloss=SBJV
-21	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	22	obj	_	Gloss=3SG
+19	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	22	nsubj	_	Gloss=1SG
+20	ka	ka	AUX	pm	Mood=Sub|Polarity=Pos	22	aux	_	Gloss=SBJV
+21	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	22	obj	_	Gloss=3SG
 22	sanba	sàma	VERB	v	_	17	parataxis:obj	_	Gloss=rapporter.cadeau
 23	siginònòkènè	sìginɔnɔkɛnɛ	NOUN	n	_	22	obl	_	Gloss=buffle|Morf=buffle,lait,sain
-24	dò	dɔ́	DET	dtm	_	23	det	_	Gloss=certain
+24	dò	dɔ́	DET	dtm	_	23	det	_	Gloss=certain|SpaceAfter=No
 25	.	.	PUNCT	_	_	10	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:48
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:48
 # text = siginònòkènè dò filè ti, nyamògòsanba !
 1	siginònòkènè	sìginɔnɔkɛnɛ	NOUN	n	_	3	obj	_	Gloss=buffle|Morf=buffle,lait,sain
 2	dò	dɔ́	DET	dtm	_	1	det	_	Gloss=certain
 3	filè	fílɛ	VERB	v	_	0	root	_	Gloss=regarder
-4	ti	tí	ADV	adv	_	3	obl	_	Gloss=très.lourd
+4	ti	tí	ADV	adv	_	3	obl	_	Gloss=très.lourd|SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	Gloss=,
 6	nyamògòsanba	ɲɛ́mɔgɔsanba	NOUN	n	_	3	parataxis	_	Gloss=dirigeant|Morf=dirigeant,oeil,homme,rapporter.cadeau
 7	!	!	PUNCT	_	_	3	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:49
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:49
 # text = Mama Ngala ko ko n ka a sanba limògòbarafa.
 1	Mama	Máma	NOUN	n	_	3	nsubj	_	Gloss=Dieu|Morf=Dieu,Dieu
 2	Ngala	ŋála	NOUN	n	_	1	flat	_	Gloss=Dieu
 3	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
 4	ko	kó	PART	cop	_	8	discourse	_	Gloss=QUOT
-5	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	8	nsubj	_	Gloss=1SG
-6	ka	ka	AUX	pm	Mood=Subj|Polarity=Aff	8	aux	_	Gloss=SBJV
-7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	obj	_	Gloss=3SG
+5	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Gloss=1SG
+6	ka	ka	AUX	pm	Mood=Sub|Polarity=Pos	8	aux	_	Gloss=SBJV
+7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	obj	_	Gloss=3SG
 8	sanba	sàma	VERB	v	_	3	parataxis:obj	_	Gloss=rapporter.cadeau
-9	limògòbarafa	límɔgɔbarafa	NOUN	n	_	8	obl	_	Gloss=mouche|Morf=mouche,calebasse,plein
+9	limògòbarafa	límɔgɔbarafa	NOUN	n	_	8	obl	_	Gloss=mouche|Morf=mouche,calebasse,plein|SpaceAfter=No
 10	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:50
-# text = limògòbarafa dè filè ti, nyamògò sanba !
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:50
+# text = limògòbarafa dè filè ti, nyamògòsanba !
 1	limògòbarafa	lìmɔgɔbarafa	NOUN	n	_	3	obj	_	Gloss=mouche|Morf=mouche,calebasse,plein
 2	dè	dɛ́	PART	prt	_	1	discourse	_	Gloss=certes
 3	filè	fílɛ	VERB	v	_	0	root	_	Gloss=regarder
-4	ti	tí	ADV	adv	_	3	obl	_	Gloss=très.lourd
+4	ti	tí	ADV	adv	_	3	obl	_	Gloss=très.lourd|SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	Gloss=,
 6	nyamògòsanba	ɲɛ́mɔgɔsanba	NOUN	n	_	3	parataxis	_	Gloss=dirigeant|Morf=dirigeant,oeil,homme,rapporter.cadeau
 7	!	!	PUNCT	_	_	3	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:51
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:51
 # text = Mama Ngala ko ko n ka a sanba sosobarafa.
 1	Mama	máma	NOUN	n	_	3	nsubj	_	Gloss=Dieu|Morf=Dieu,Dieu
 2	Ngala	ŋála	NOUN	n	_	1	flat	_	Gloss=Dieu
 3	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
 4	ko	kó	PART	cop	_	8	discourse	_	Gloss=QUOT
-5	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	8	nsubj	_	Gloss=1SG
-6	ka	ka	AUX	pm	Mood=Subj|Polarity=Aff	8	aux	_	Gloss=SBJV
-7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	obj	_	Gloss=3SG
+5	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Gloss=1SG
+6	ka	ka	AUX	pm	Mood=Sub|Polarity=Pos	8	aux	_	Gloss=SBJV
+7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	obj	_	Gloss=3SG
 8	sanba	sàma	VERB	v	_	3	parataxis:obj	_	Gloss=rapporter.cadeau
-9	sosobarafa	sòsobarafa	NOUN	n	_	8	obl	_	Gloss=moustique|Morf=moustique,calebasse,plein
+9	sosobarafa	sòsobarafa	NOUN	n	_	8	obl	_	Gloss=moustique|Morf=moustique,calebasse,plein|SpaceAfter=No
 10	.	.	PUNCT	_	_	8	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:52
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:52
 # text = sosobarafa filè ti, nyamògòsanba !
 1	sosobarafa	sòsobarafa	NOUN	n	_	2	obj	_	Gloss=moustique|Morf=moustique,calebasse,plein
 2	filè	fílɛ	VERB	v	_	0	root	_	Gloss=regarder
-3	ti	tí	ADV	adv	_	2	obj	_	Gloss=très.lourd
+3	ti	tí	ADV	adv	_	2	obj	_	Gloss=très.lourd|SpaceAfter=No
 4	,	,	PUNCT	_	_	2	punct	_	Gloss=,
 5	nyamògòsanba	ɲɛ́mɔgɔsanba	NOUN	n	_	2	parataxis	_	Gloss=dirigeant|Morf=dirigeant,oeil,homme,rapporter.cadeau
 6	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:53
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:53
 # text = Mama Ngala ko ko n ka a sanba mininyan kènè dò.
 1	Mama	máma	NOUN	n	_	3	nsubj	_	Gloss=Dieu|Morf=Dieu,Dieu
 2	Ngala	ŋála	NOUN	n	_	1	flat	_	Gloss=Dieu
 3	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
 4	ko	kó	PART	cop	_	8	discourse	_	Gloss=QUOT
-5	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	8	nsubj	_	Gloss=1SG
-6	ka	ka	AUX	pm	Mood=Subj|Polarity=Aff	8	aux	_	Gloss=SBJV
-7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	obj	_	Gloss=3SG
+5	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Gloss=1SG
+6	ka	ka	AUX	pm	Mood=Sub|Polarity=Pos	8	aux	_	Gloss=SBJV
+7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	obj	_	Gloss=3SG
 8	sanba	sàma	VERB	v	_	3	parataxis:obj	_	Gloss=rapporter.cadeau
 9	mininyan	míniɲan	NOUN	n	_	8	obl	_	Gloss=python
 10	kènè	kɛ́nɛ	ADJ	adj	_	9	amod	_	Gloss=sain
-11	dò	dɔ́	DET	dtm	_	9	det	_	Gloss=certain
+11	dò	dɔ́	DET	dtm	_	9	det	_	Gloss=certain|SpaceAfter=No
 12	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:54
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:54
 # text = mininyan kènè dò filè ti, nyamògòsanba !
 1	mininyan	míniɲan	NOUN	n	_	4	obj	_	Gloss=python
 2	kènè	kɛ́nɛ	ADJ	adj	_	1	amod	_	Gloss=sain
 3	dò	dɔ́	DET	dtm	_	1	det	_	Gloss=certain
 4	filè	fílɛ	VERB	v	_	0	root	_	Gloss=regarder
-5	ti	tí	ADV	adv	_	4	obl	_	Gloss=très.lourd
+5	ti	tí	ADV	adv	_	4	obl	_	Gloss=très.lourd|SpaceAfter=No
 6	,	,	PUNCT	_	_	4	punct	_	Gloss=,
 7	nyamògòsanba	ɲɛ́mɔgɔsanba	NOUN	n	_	4	parataxis	_	Gloss=dirigeant|Morf=dirigeant,oeil,homme,rapporter.cadeau
 8	!	!	PUNCT	_	_	4	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:55
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:55
 # text = Mama Ngala ko ko n ka a sanba unhun kèndè dò.
 1	Mama	máma	NOUN	n	_	3	nsubj	_	Gloss=Dieu|Morf=Dieu,Dieu
 2	Ngala	ŋála	NOUN	n	_	1	flat	_	Gloss=Dieu
 3	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
 4	ko	kó	PART	cop	_	8	discourse	_	Gloss=QUOT
-5	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	8	nsubj	_	Gloss=1SG
-6	ka	ka	AUX	pm	Mood=Subj|Polarity=Aff	8	aux	_	Gloss=SBJV
-7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	obj	_	Gloss=3SG
+5	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Gloss=1SG
+6	ka	ka	AUX	pm	Mood=Sub|Polarity=Pos	8	aux	_	Gloss=SBJV
+7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	obj	_	Gloss=3SG
 8	sanba	sàma	VERB	v	_	3	parataxis:obj	_	Gloss=rapporter.cadeau
 9	unhun	ùnhun	NOUN	_	_	8	obl	_	Gloss=CHNT
 10	kèndè	kɛ́ndɛ	ADJ	adj	_	9	amod	_	Gloss=sain
-11	dò	dɔ́	DET	dtm	_	9	det	_	Gloss=certain
+11	dò	dɔ́	DET	dtm	_	9	det	_	Gloss=certain|SpaceAfter=No
 12	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:56
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:56
 # text = unhun kènè dò filè ti, nyamògòsanba!
 1	unhun	ùnhun	NOUN	_	_	4	obj	_	Gloss=CHNT
 2	kènè	kɛ́nɛ	ADJ	adj	_	1	amod	_	Gloss=sain
 3	dò	dɔ́	DET	pp	_	1	det	_	Gloss=IN
 4	filè	fílɛ	VERB	v	_	0	root	_	Gloss=regarder
-5	ti	tí	ADV	adv	_	4	obl	_	Gloss=très.lourd
+5	ti	tí	ADV	adv	_	4	obl	_	Gloss=très.lourd|SpaceAfter=No
 6	,	,	PUNCT	_	_	4	punct	_	Gloss=,
-7	nyamògòsanba	ɲamɔgɔsanba	NOUN	n	_	4	parataxis	_	Gloss=dirigeant|Morf=dirigeant,oeil,homme,cadeau
+7	nyamògòsanba	ɲamɔgɔsanba	NOUN	n	_	4	parataxis	_	Gloss=dirigeant|Morf=dirigeant,oeil,homme,cadeau|SpaceAfter=No
 8	!	!	PUNCT	_	_	4	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:57
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:57
 # text = e!
-1	e	ée	INTJ	intj	_	0	root	_	Gloss=eh!
+1	e	ée	INTJ	intj	_	0	root	_	Gloss=eh!|SpaceAfter=No
 2	!	!	PUNCT	_	_	1	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:58
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:58
 # text = Suruku ko a ko e dògò San!
 1	Suruku	súruku	NOUN	n	_	2	nsubj	_	Gloss=hyène
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
-3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=3SG
 4	ko	kó	VERB	cop	_	2	parataxis	_	Gloss=QUOT
 5	e	ée	INTJ	intj	_	6	discourse	_	Gloss=eh!
 6	dògò	dɔ́gɔ	NOUN	n	_	4	parataxis:obj	_	Gloss=cadet
-7	San	sàn	NOUN	n	_	6	appos	_	Gloss=lièvre
+7	San	sàn	NOUN	n	_	6	appos	_	Gloss=lièvre|SpaceAfter=No
 8	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:59
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:59
 # text = ko unhun kènè dò!
 1	ko	kó	PART	cop	_	2	discourse	_	Gloss=QUOT
 2	unhun	ùnhun	NOUN	_	_	0	root	_	Gloss=CHNT
 3	kènè	kɛ́nɛ	ADJ	adj	_	2	amod	_	Gloss=sain
-4	dò	dɔ́	DET	dtm	_	2	det	_	Gloss=certain
+4	dò	dɔ́	DET	dtm	_	2	det	_	Gloss=certain|SpaceAfter=No
 5	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:60
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:60
 # text = a ko i bè fèn bè latila fo unhun kènè dò!
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
-3	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	7	nsubj	_	Gloss=2SG
-4	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	7	aux	_	Gloss=IPFV.AFF
+3	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	7	nsubj	_	Gloss=2SG
+4	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	7	aux	_	Gloss=IPFV.AFF
 5	fèn	fɛ́n	NOUN	n	_	7	obj	_	Gloss=chose
 6	bè	bɛ́	DET	dtm	_	5	det	_	Gloss=tout
 7	latila	látila	VERB	v	Voice=Cau	2	parataxis:obj	_	Gloss=libérer|Morf=libérer,CAUS,diviser
 8	fo	fó	ADP	prep	_	9	case	_	Gloss=jusqu'à
 9	unhun	ùnhun	NOUN	_	_	7	obl	_	Gloss=CHNT
 10	kènè	kɛ́nɛ	ADJ	adj	_	9	amod	_	Gloss=sain
-11	dò	dɔ́	DET	dtm	_	9	det	_	Gloss=certain
+11	dò	dɔ́	DET	dtm	_	9	det	_	Gloss=certain|SpaceAfter=No
 12	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:61
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:61
 # text = unhun kènè dò dibilen bè n nyèkòrò de!
 1	unhun	ùnhun	NOUN	_	_	5	nsubj	_	Gloss=CHNT
 2	kènè	kɛ́nɛ	ADJ	adj	_	1	amod	_	Gloss=sain
 3	dò	dɔ́	DET	dtm	_	1	det	_	Gloss=certain
-4	dibilen	dibilen	VERB	ptcp	VerbalForm=Part|Aspect=Perf	1	amod	_	Gloss=être.obscur|Morf=être.obscur,PTCP.RES
+4	dibilen	dibilen	VERB	ptcp	Aspect=Perf|VerbForm=Part	1	amod	_	Gloss=être.obscur|Morf=être.obscur,PTCP.RES
 5	bè	bɛ́	VERB	cop	_	0	root	_	Gloss=être
-6	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	5	obl	_	Gloss=1SG
+6	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	5	obl	_	Gloss=1SG
 7	nyèkòrò	ɲɛ́kɔrɔ	ADP	pp	_	6	case	_	Gloss=en.présence.de|Morf=en.présence.de,oeil,sous
-8	de	dè	PART	prt	_	6	discourse	_	Gloss=FOC
+8	de	dè	PART	prt	_	6	discourse	_	Gloss=FOC|SpaceAfter=No
 9	!	!	PUNCT	_	_	5	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:62
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:62
 # text = a ko munna?
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
-3	munna	mùnna	PRON	prn	_	2	parataxis:obj	_	Gloss=pourquoi|Morf=pourquoi,quoi,à
+3	munna	mùnna	PRON	prn	_	2	parataxis:obj	_	Gloss=pourquoi|Morf=pourquoi,quoi,à|SpaceAfter=No
 4	?	?	PUNCT	_	_	2	punct	_	Gloss=?
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:63
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:63
 # text = i tè!
-1	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	2	nsubj	_	Gloss=REFL
-2	tè	tɛ́	VERB	cop	Polarity=Neg	0	root	_	Gloss=COP.NEG
+1	i	í	PRON	pers	PronType=Prs	2	nsubj	_	Gloss=REFL
+2	tè	tɛ́	VERB	cop	Polarity=Neg	0	root	_	Gloss=COP.NEG|SpaceAfter=No
 3	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:64
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:64
 # text = a ko na, awwa!
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
-3	na	nà	VERB	v	_	2	parataxis:obj	_	Gloss=venir
+3	na	nà	VERB	v	_	2	parataxis:obj	_	Gloss=venir|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
-5	awwa	áwà	INTJ	intj	_	3	discourse	_	Gloss=bon
+5	awwa	áwà	INTJ	intj	_	3	discourse	_	Gloss=bon|SpaceAfter=No
 6	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:65
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:65
 # text = u tagara ka taga fo u sera Ala wutala ma a ko:
-1	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	2	nsubj	_	Gloss=3PL
-2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+1	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Gloss=3PL
+2	tagara	tagara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
 3	ka	kà	AUX	pm	_	4	aux	_	Gloss=INF
 4	taga	tága	VERB	v	_	2	xcomp	_	Gloss=aller
 5	fo	fó	SCONJ	prep	_	7	mark	_	Gloss=jusqu'à
-6	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	7	nsubj	_	Gloss=3PL
-7	sera	sera	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	4	advcl	_	Gloss=arriver|Morf=arriver,PFV.INTR
+6	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	7	nsubj	_	Gloss=3PL
+7	sera	sera	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	4	advcl	_	Gloss=arriver|Morf=arriver,PFV.INTR
 8	Ala	Ála	NOUN	n	_	7	obl	_	Gloss=Dieu
 9	wutala	wùtala	NOUN	n	_	8	appos	_	Gloss=Très-haut
 10	ma	mà	ADP	pp	_	8	case	_	Gloss=ADR
-11	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	12	nsubj	_	Gloss=3SG
-12	ko	kó	VERB	cop	_	4	parataxis	_	Gloss=QUOT
+11	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Gloss=3SG
+12	ko	kó	VERB	cop	_	4	parataxis	_	Gloss=QUOT|SpaceAfter=No
 13	:	:	PUNCT	_	_	12	punct	_	Gloss=:
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:66
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:66
 # text = Mama Ngala ko ko n ka a sanba siginònò kènè dò siginònòkènè dò filè ti, nyamògòsanba!
 1	Mama	máma	NOUN	n	_	3	nsubj	_	Gloss=Dieu|Morf=Dieu,Dieu
 2	Ngala	ŋála	NOUN	n	_	1	flat	_	Gloss=Dieu
 3	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
 4	ko	kó	PART	cop	_	8	discourse	_	Gloss=QUOT
-5	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	8	nsubj	_	Gloss=1SG
-6	ka	ka	AUX	pm	Mood=Subj|Polarity=Aff	8	aux	_	Gloss=SBJV
-7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	obj	_	Gloss=3SG
+5	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Gloss=1SG
+6	ka	ka	AUX	pm	Mood=Sub|Polarity=Pos	8	aux	_	Gloss=SBJV
+7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	obj	_	Gloss=3SG
 8	sanba	sàma	VERB	v	_	3	parataxis:obj	_	Gloss=rapporter.cadeau
 9	siginònò	siginɔnɔ	NOUN	n	_	8	obl	_	Gloss=buffle|Morf=buffle,lait
 10	kènè	kɛ́nɛ	ADJ	adj	_	9	amod	_	Gloss=sain
@@ -996,122 +931,113 @@
 12	siginònòkènè	siginɔnɔkɛnɛ	NOUN	n	_	14	obj	_	Gloss=buffle|Morf=buffle,lait,sain
 13	dò	dɔ́	DET	dtm	_	12	det	_	Gloss=certain
 14	filè	fílɛ	VERB	v	_	8	parataxis	_	Gloss=regarder
-15	ti	tí	ADV	adv	_	14	obl	_	Gloss=très.lourd
+15	ti	tí	ADV	adv	_	14	obl	_	Gloss=très.lourd|SpaceAfter=No
 16	,	,	PUNCT	_	_	14	punct	_	Gloss=,
-17	nyamògòsanba	ɲamɔgɔsanba	NOUN	n	_	14	parataxis	_	Gloss=dirigeant|Morf=dirigeant,oeil,homme,cadeau
+17	nyamògòsanba	ɲamɔgɔsanba	NOUN	n	_	14	parataxis	_	Gloss=dirigeant|Morf=dirigeant,oeil,homme,cadeau|SpaceAfter=No
 18	!	!	PUNCT	_	_	3	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:67
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:67
 # text = Mama Ngala ko ko n ka a sanba limògòbatafa.
 1	Mama	máma	NOUN	n	_	3	nsubj	_	Gloss=Dieu|Morf=Dieu,Dieu
 2	Ngala	ŋála	NOUN	n	_	1	flat	_	Gloss=Dieu
 3	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
 4	ko	kó	PART	cop	_	8	discourse	_	Gloss=QUOT
-5	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	8	nsubj	_	Gloss=1SG
-6	ka	ka	AUX	pm	Mood=Subj|Polarity=Aff	8	aux	_	Gloss=SBJV
-7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	obj	_	Gloss=3SG
+5	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Gloss=1SG
+6	ka	ka	AUX	pm	Mood=Sub|Polarity=Pos	8	aux	_	Gloss=SBJV
+7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	obj	_	Gloss=3SG
 8	sanba	sàma	VERB	v	_	3	parataxis:obj	_	Gloss=rapporter.cadeau
-9	limògòbatafa	limɔgɔbatafa	NOUN	n	_	8	obl	_	Gloss=mouche|Morf=mouche,calebasse,plein
+9	limògòbatafa	limɔgɔbatafa	NOUN	n	_	8	obl	_	Gloss=mouche|Morf=mouche,calebasse,plein|SpaceAfter=No
 10	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:68
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:68
 # text = limògòbatafa dò filè ti, nyamògòsanba!
 1	limògòbatafa	limɔgɔbatafa	NOUN	n	_	3	nsubj	_	Gloss=mouche|Morf=mouche,calebasse,plein
 2	dò	dɔ́	DET	dtm	_	1	det	_	Gloss=certain
 3	filè	fílɛ	VERB	v	_	0	root	_	Gloss=regarder
-4	ti	tí	ADV	adv	_	3	obl	_	Gloss=très.lourd
+4	ti	tí	ADV	adv	_	3	obl	_	Gloss=très.lourd|SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	Gloss=,
-6	nyamògòsanba	ɲamɔgɔsanba	NOUN	n	_	3	parataxis	_	Gloss=dirigeant|Morf=dirigeant,oeil,homme,cadeau
+6	nyamògòsanba	ɲamɔgɔsanba	NOUN	n	_	3	parataxis	_	Gloss=dirigeant|Morf=dirigeant,oeil,homme,cadeau|SpaceAfter=No
 7	!	!	PUNCT	_	_	3	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:69
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:69
 # text = Mama Ngala ko ko n ka a sanba sosobatafa.
 1	Mama	máma	NOUN	n	_	3	nsubj	_	Gloss=Dieu|Morf=Dieu,Dieu
 2	Ngala	ŋála	NOUN	n	_	1	flat	_	Gloss=Dieu
 3	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
 4	ko	kó	PART	cop	_	8	discourse	_	Gloss=QUOT
-5	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	8	nsubj	_	Gloss=1SG
-6	ka	ka	AUX	pm	Mood=Subj|Polarity=Aff	8	aux	_	Gloss=SBJV
-7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	obj	_	Gloss=3SG
+5	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Gloss=1SG
+6	ka	ka	AUX	pm	Mood=Sub|Polarity=Pos	8	aux	_	Gloss=SBJV
+7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	obj	_	Gloss=3SG
 8	sanba	sàma	VERB	v	_	3	parataxis:obj	_	Gloss=rapporter.cadeau
-9	sosobatafa	sòsobatafa	NOUN	n	_	8	obl	_	Gloss=moustique|Morf=moustique,calebasse,plein
+9	sosobatafa	sòsobatafa	NOUN	n	_	8	obl	_	Gloss=moustique|Morf=moustique,calebasse,plein|SpaceAfter=No
 10	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:70
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:70
 # text = sosobatafa dò filè ti, nyamògòsanba!
 1	sosobatafa	sòsobatafa	NOUN	n	_	3	obj	_	Gloss=moustique|Morf=moustique,calebasse,plein
 2	dò	dɔ́	DET	dtm	_	1	det	_	Gloss=certain
-3	filè	fílɛ	VERB	v	_	_	_	_	Gloss=regarder
-4	ti	tí	ADV	adv	_	3	obl	_	Gloss=très.lourd
+3	filè	fílɛ	VERB	v	_	0	root	_	Gloss=regarder
+4	ti	tí	ADV	adv	_	3	obl	_	Gloss=très.lourd|SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	Gloss=,
-6	nyamògòsanba	ɲamɔgɔsanba	NOUN	n	_	3	parataxis	_	Gloss=dirigeant|Morf=dirigeant,oeil,homme,cadeau
+6	nyamògòsanba	ɲamɔgɔsanba	NOUN	n	_	3	parataxis	_	Gloss=dirigeant|Morf=dirigeant,oeil,homme,cadeau|SpaceAfter=No
 7	!	!	PUNCT	_	_	3	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:71
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:71
 # text = Mama Ngala ko ko n ka a sanba mininyan kènè dò.
 1	Mama	máma	NOUN	n	_	3	nsubj	_	Gloss=Dieu|Morf=Dieu,Dieu
 2	Ngala	ŋála	NOUN	n	_	1	flat	_	Gloss=Dieu
 3	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
 4	ko	kó	PART	cop	_	8	discourse	_	Gloss=QUOT
-5	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	8	nsubj	_	Gloss=1SG
-6	ka	ka	AUX	pm	Mood=Subj|Polarity=Aff	8	aux	_	Gloss=SBJV
-7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	obj	_	Gloss=3SG
+5	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Gloss=1SG
+6	ka	ka	AUX	pm	Mood=Sub|Polarity=Pos	8	aux	_	Gloss=SBJV
+7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	obj	_	Gloss=3SG
 8	sanba	sàma	VERB	v	_	3	parataxis:obj	_	Gloss=rapporter.cadeau
 9	mininyan	míniɲan	NOUN	n	_	8	obl	_	Gloss=python
 10	kènè	kɛ́nɛ	ADJ	adj	_	9	amod	_	Gloss=sain
-11	dò	dɔ́	DET	dtm	_	9	det	_	Gloss=certain
+11	dò	dɔ́	DET	dtm	_	9	det	_	Gloss=certain|SpaceAfter=No
 12	.	.	PUNCT	_	_	8	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:72
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:72
 # text = mininyan kènè dò filè ti, nyamògòsanba!
 1	mininyan	míniɲan	NOUN	n	_	4	obj	_	Gloss=python
 2	kènè	kɛ́nɛ	ADJ	adj	_	1	amod	_	Gloss=sain
 3	dò	dɔ́	DET	prn	_	1	det	_	Gloss=certain
 4	filè	fílɛ	VERB	v	_	0	root	_	Gloss=regarder
-5	ti	tí	ADV	adv	_	4	obl	_	Gloss=très.lourd
+5	ti	tí	ADV	adv	_	4	obl	_	Gloss=très.lourd|SpaceAfter=No
 6	,	,	PUNCT	_	_	4	punct	_	Gloss=,
-7	nyamògòsanba	ɲamɔgɔsanba	NOUN	n	_	4	parataxis	_	Gloss=dirigeant|Morf=dirigeant,oeil,homme,cadeau
+7	nyamògòsanba	ɲamɔgɔsanba	NOUN	n	_	4	parataxis	_	Gloss=dirigeant|Morf=dirigeant,oeil,homme,cadeau|SpaceAfter=No
 8	!	!	PUNCT	_	_	4	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:73
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:73
 # text = Mama Ngala ko ko n ka a sanba unhun kènè dò.
 1	Mama	máma	NOUN	n	_	3	nsubj	_	Gloss=Dieu|Morf=Dieu,Dieu
 2	Ngala	ŋála	NOUN	n	_	1	flat	_	Gloss=Dieu
 3	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
 4	ko	kó	PART	cop	_	8	discourse	_	Gloss=QUOT
-5	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	8	nsubj	_	Gloss=1SG
-6	ka	ka	AUX	pm	Mood=Subj|Polarity=Aff	8	aux	_	Gloss=SBJV
-7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	obj	_	Gloss=3SG
+5	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Gloss=1SG
+6	ka	ka	AUX	pm	Mood=Sub|Polarity=Pos	8	aux	_	Gloss=SBJV
+7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	obj	_	Gloss=3SG
 8	sanba	sàma	VERB	v	_	3	parataxis:obj	_	Gloss=rapporter.cadeau
 9	unhun	ùnhun	NOUN	_	_	8	obl	_	Gloss=CHNT
 10	kènè	kɛ́nɛ	ADJ	adj	_	9	amod	_	Gloss=sain
-11	dò	dɔ́	DET	dtm	_	9	det	_	Gloss=certain
+11	dò	dɔ́	DET	dtm	_	9	det	_	Gloss=certain|SpaceAfter=No
 12	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:74
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:74
 # text = unhun kènè dò filè ti, nyamògòsanba!
 1	unhun	ùnhun	NOUN	_	_	4	obj	_	Gloss=CHNT
 2	kènè	kɛ́nɛ	ADJ	adj	_	1	amod	_	Gloss=sain
 3	dò	dɔ́	DET	dtm	_	1	det	_	Gloss=certain
 4	filè	fílɛ	VERB	v	_	0	root	_	Gloss=regarder
-5	ti	tí	ADV	adv	_	4	obl	_	Gloss=très.lourd
+5	ti	tí	ADV	adv	_	4	obl	_	Gloss=très.lourd|SpaceAfter=No
 6	,	,	PUNCT	_	_	4	punct	_	Gloss=,
-7	nyamògòsanba	ɲamɔgɔsanba	NOUN	n	_	4	parataxis	_	Gloss=dirigeant|Morf=dirigeant,oeil,homme,cadeau
+7	nyamògòsanba	ɲamɔgɔsanba	NOUN	n	_	4	parataxis	_	Gloss=dirigeant|Morf=dirigeant,oeil,homme,cadeau|SpaceAfter=No
 8	!	!	PUNCT	_	_	4	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:75
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:75
 # text = a ye o bè di Mangala ma Ala wutala fana ko a bèe bila yan a ko boli, i ka taga i biri!
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
-2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=3SG
+2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 3	o	ò	PRON	prn	_	5	obj	_	Gloss=ce
 4	bè	bɛ́ɛ	DET	dtm	_	3	det	_	Gloss=tout
 5	di	dí	VERB	v	_	0	root	_	Gloss=donner
@@ -1121,106 +1047,102 @@
 9	wutala	wùtala	NOUN	n	_	8	appos	_	Gloss=Très-haut
 10	fana	fána	PART	prt	_	8	discourse	_	Gloss=aussi
 11	ko	kó	VERB	cop	_	5	parataxis	_	Gloss=QUOT
-12	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	14	nsubj	_	Gloss=3SG
+12	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Gloss=3SG
 13	bèe	bɛ́ɛ	DET	dtm	_	12	det	_	Gloss=tout
 14	bila	bìla	VERB	v	_	11	ccomp	_	Gloss=mettre
 15	yan	yàn	ADV	adv	_	14	obl	_	Gloss=ici
-16	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	17	nsubj	_	Gloss=3SG
+16	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	17	nsubj	_	Gloss=3SG
 17	ko	kó	VERB	cop	_	11	parataxis	_	Gloss=QUOT
-18	boli	bòli	VERB	v	_	17	parataxis:obj	_	Gloss=courir
+18	boli	bòli	VERB	v	_	17	parataxis:obj	_	Gloss=courir|SpaceAfter=No
 19	,	,	PUNCT	_	_	18	punct	_	Gloss=,
-20	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	22	nsubj	_	Gloss=2SG
-21	ka	ka	AUX	pm	Mood=Subj|Polarity=Aff	22	aux	_	Gloss=SBJV
+20	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	22	nsubj	_	Gloss=2SG
+21	ka	ka	AUX	pm	Mood=Sub|Polarity=Pos	22	aux	_	Gloss=SBJV
 22	taga	tága	VERB	v	_	18	parataxis	_	Gloss=aller
-23	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	24	obj	_	Gloss=REFL
-24	biri	bíri	VERB	v	_	22	xcomp	_	Gloss=courber
+23	i	í	PRON	pers	PronType=Prs	24	obj	_	Gloss=REFL
+24	biri	bíri	VERB	v	_	22	xcomp	_	Gloss=courber|SpaceAfter=No
 25	!	!	PUNCT	_	_	5	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:76
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:76
 # text = sonsannin tagara ka taga i biri.
 1	sonsannin	sonsannin	NOUN	n	_	2	nsubj	_	Gloss=lièvre|Morf=lièvre,DIM
-2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+2	tagara	tagara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
 3	ka	kà	AUX	pm	_	4	aux	_	Gloss=INF
 4	taga	tága	VERB	v	_	2	xcomp	_	Gloss=aller
-5	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	6	obj	_	Gloss=REFL
-6	biri	bíri	VERB	v	_	4	xcomp	_	Gloss=courber
+5	i	í	PRON	pers	PronType=Prs	6	obj	_	Gloss=REFL
+6	biri	bíri	VERB	v	_	4	xcomp	_	Gloss=courber|SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:77
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:77
 # text = Ala wutala ye fèn girinba dò bò wuuu!
 1	Ala	Ála	NOUN	n	_	7	nsubj	_	Gloss=Dieu
 2	wutala	wùtala	NOUN	n	_	1	appos	_	Gloss=Très-haut
-3	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	7	aux	_	Gloss=PFV.TR
+3	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	7	aux	_	Gloss=PFV.TR
 4	fèn	fɛ́n	NOUN	n	_	7	obj	_	Gloss=chose
 5	girinba	girinba	ADJ	adj	_	4	amod	_	Gloss=lourd|Morf=lourd,AUGM
 6	dò	dɔ́	DET	dtm	_	4	det	_	Gloss=certain
 7	bò	bɔ́	VERB	v	_	0	root	_	Gloss=sortir
-8	wuuu	wuuu	INTJ	onomat	_	7	discourse	_	Gloss=_
+8	wuuu	wuuu	INTJ	onomat	_	7	discourse	_	Gloss=_|SpaceAfter=No
 9	!	!	PUNCT	_	_	7	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:78
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:78
 # text = a bè a ci a kòrò yòrò min sonsannin ye i pan ka taga i jò pak!
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
-2	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	4	aux	_	Gloss=IPFV.AFF
-3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	obj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=3SG
+2	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	4	aux	_	Gloss=IPFV.AFF
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=3SG
 4	ci	cì	VERB	v	_	12	acl	_	Gloss=frapper
-5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	obl	_	Gloss=3SG
+5	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	obl	_	Gloss=3SG
 6	kòrò	kɔ́rɔ	ADP	pp	_	5	case	_	Gloss=sous
 7	yòrò	yɔ́rɔ	NOUN	n	_	4	obl	_	Gloss=lieu
 8	min	mîn	DET	dtm	PronType=Rel	7	det:rel	_	Gloss=REL
 9	sonsannin	sonsannin	NOUN	n	_	12	nsubj	_	Gloss=lièvre|Morf=lièvre,DIM
-10	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	12	aux	_	Gloss=PFV.TR
-11	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	12	obj	_	Gloss=REFL
+10	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	12	aux	_	Gloss=PFV.TR
+11	i	í	PRON	pers	PronType=Prs	12	obj	_	Gloss=REFL
 12	pan	pán	VERB	v	_	0	root	_	Gloss=sauter
 13	ka	kà	AUX	pm	_	14	aux	_	Gloss=INF
 14	taga	tága	VERB	v	_	12	xcomp	_	Gloss=aller
-15	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	16	obj	_	Gloss=REFL
+15	i	í	PRON	pers	PronType=Prs	16	obj	_	Gloss=REFL
 16	jò	jɔ̀	VERB	v	_	14	xcomp	_	Gloss=dresser
-17	pak	pak	INTJ	onomat	_	16	discourse	_	Gloss=_
+17	pak	pak	INTJ	onomat	_	16	discourse	_	Gloss=_|SpaceAfter=No
 18	!	!	PUNCT	_	_	12	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:79
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:79
 # text = a ko ònhòn ni ne tun ye kegunya wèrè di i ma i bè n lajigin san fè ne Ala wutala.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
 3	ònhòn	ɔ̀nhɔ́n	INTJ	intj	_	10	discourse	_	Gloss=oui
 4	ni	ní	SCONJ	conj	_	10	mark	_	Gloss=si
-5	ne	nê	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	10	nsubj	_	Gloss=1SG.EMPH
-6	tun	tùn	PART	prt	Tense=Past|Tense=Past	7	aux	_	Gloss=PST
-7	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	10	aux	_	Gloss=PFV.TR
+5	ne	nê	PRON	pers	Number=Sing|Person=1|PronType=Emp	10	nsubj	_	Gloss=1SG.EMPH
+6	tun	tùn	PART	prt	Tense=Past	7	aux	_	Gloss=PST
+7	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	10	aux	_	Gloss=PFV.TR
 8	kegunya	kègun.ya	NOUN	n	_	10	obj	_	Gloss=ruse|Morf=ruse,malin,DEQU
 9	wèrè	wɛ́rɛ	DET	dtm	_	8	det	_	Gloss=autre
 10	di	dí	VERB	v	_	16	advcl	_	Gloss=donner
-11	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	10	obl	_	Gloss=2SG
+11	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	10	obl	_	Gloss=2SG
 12	ma	mà	ADP	pp	_	11	case	_	Gloss=ADR
-13	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	16	nsubj	_	Gloss=2SG
-14	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	16	aux	_	Gloss=IPFV.AFF
-15	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	16	obj	_	Gloss=1SG
+13	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	16	nsubj	_	Gloss=2SG
+14	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	16	aux	_	Gloss=IPFV.AFF
+15	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	16	obj	_	Gloss=1SG
 16	lajigin	lájìgin	VERB	v	Voice=Cau	2	parataxis:obj	_	Gloss=faire.descendre|Morf=faire.descendre,CAUS,descendre
 17	san	sán	NOUN	n	_	16	obl	_	Gloss=ciel
 18	fè	fɛ̀	ADP	pp	_	17	case	_	Gloss=par
-19	ne	nê	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	20	nmod:poss	_	Gloss=1SG.EMPH
+19	ne	nê	PRON	pers	Number=Sing|Person=1|PronType=Emp	20	nmod:poss	_	Gloss=1SG.EMPH
 20	Ala	Ála	NOUN	n	_	16	vocative	_	Gloss=Dieu
-21	wutala	wùtala	NOUN	n	_	20	appos	_	Gloss=Très-haut
+21	wutala	wùtala	NOUN	n	_	20	appos	_	Gloss=Très-haut|SpaceAfter=No
 22	.	.	PUNCT	_	_	16	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:80
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:80
 # text = n ye a ta yòrò min, n ye a bila yen.
-1	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	4	nsubj	_	Gloss=1SG
-2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
-3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	obj	_	Gloss=3SG
+1	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=1SG
+2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=3SG
 4	ta	tà	VERB	v	_	12	acl	_	Gloss=prendre
 5	yòrò	yɔ́rɔ	NOUN	n	_	4	obl	_	Gloss=lieu
-6	min	mîn	DET	dtm	PronType=Rel	5	det	_	Gloss=REL
+6	min	mîn	DET	dtm	PronType=Rel	5	det	_	Gloss=REL|SpaceAfter=No
 7	,	,	PUNCT	_	_	4	punct	_	Gloss=,
-8	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	11	nsubj	_	Gloss=1SG
-9	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	11	aux	_	Gloss=PFV.TR
-10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	11	obj	_	Gloss=3SG
+8	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	Gloss=1SG
+9	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	11	aux	_	Gloss=PFV.TR
+10	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	11	obj	_	Gloss=3SG
 11	bila	bìla	VERB	v	_	0	root	_	Gloss=mettre
-12	yen	yèn	ADV	adv	_	11	obl	_	Gloss=là-bas
+12	yen	yèn	ADV	adv	_	11	obl	_	Gloss=là-bas|SpaceAfter=No
 13	.	.	PUNCT	_	_	11	punct	_	Gloss=.
+

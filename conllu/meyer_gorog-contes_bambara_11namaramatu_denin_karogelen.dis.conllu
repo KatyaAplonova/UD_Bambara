@@ -1,18 +1,16 @@
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:1
-# text = <h>NAMARAMATU DENIN KAROGÈLÈN</h>
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:1
+# text = NAMARAMATU DENIN KAROGÈLÈN
 1	NAMARAMATU	Namaramatu	PROPN	n.prop	_	2	nmod:poss	_	Gloss=NOM.F
 2	DENIN	denin	NOUN	v	_	0	root	_	Gloss=se.taire|Morf=se.taire,DIM
 3	KAROGÈLÈN	karogɛlɛn	NOUN	n	_	2	amod	_	Gloss=surveillance|Morf=surveillance,dur
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:2
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:2
 # text = nsiirinin, nsiirinin
-1	nsiirinin	nsíirinnin	NOUN	n	_	0	root	_	Gloss=conte|Morf=conte,DIM
+1	nsiirinin	nsíirinnin	NOUN	n	_	0	root	_	Gloss=conte|Morf=conte,DIM|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
 3	nsiirinin	nsíirinnin	NOUN	n	_	1	parataxis	_	Gloss=conte|Morf=conte,DIM
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:3
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:3
 # text = ko dennin dò bè yen ko a tògò ye Namaramatu ye.
 1	ko	kó	PART	cop	_	4	discourse	_	Gloss=QUOT
 2	dennin	dénnin	NOUN	n	_	4	nsubj	_	Gloss=fillette|Morf=fillette,enfant,DIM
@@ -20,285 +18,265 @@
 4	bè	bɛ́	VERB	cop	_	0	root	_	Gloss=être
 5	yen	yèn	NOUN	n	_	4	obl	_	Gloss=là-bas
 6	ko	kó	PART	cop	_	9	discourse	_	Gloss=QUOT
-7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	nmod:poss	_	Gloss=3SG
+7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	nmod:poss	_	Gloss=3SG
 8	tògò	tɔ́gɔ	NOUN	n	_	9	nsubj	_	Gloss=nom
 9	ye	yé	VERB	cop	Polarity=Pos	4	parataxis	_	Gloss=EQU
 10	Namaramatu	Namaramatu	PROPN	n.prop	_	9	obl	_	Gloss=NOM.F
-11	ye	yé	ADP	pp	_	10	case	_	Gloss=PP
+11	ye	yé	ADP	pp	_	10	case	_	Gloss=PP|SpaceAfter=No
 12	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:4
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:4
 # text = a bamuso ye a fò ko a ka taga a fakè wele ka na.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nmod:poss	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nmod:poss	_	Gloss=3SG
 2	bamuso	bá.muso	NOUN	n	_	5	nsubj	_	Gloss=mère|Morf=mère,mère,femme
-3	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
-4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	obj	_	Gloss=3SG
+3	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
+4	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	obj	_	Gloss=3SG
 5	fò	fɔ́	VERB	v	_	0	root	_	Gloss=dire
 6	ko	kó	PART	cop	_	9	discourse	_	Gloss=QUOT
-7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	9	nsubj	_	Gloss=3SG
+7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=3SG
 8	ka	ká	AUX	pm	_	9	aux	_	Gloss=OPT
 9	taga	tága	VERB	v	_	5	ccomp	_	Gloss=aller
-10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	11	nmod:poss	_	Gloss=3SG
+10	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	11	nmod:poss	_	Gloss=3SG
 11	fakè	fà.kɛ	NOUN	n	_	12	obj	_	Gloss=père|Morf=père,père,mâle
 12	wele	wéle	VERB	v	_	9	xcomp	_	Gloss=appeler
 13	ka	kà	AUX	pm	_	14	aux	_	Gloss=INF
-14	na	nà	VERB	v	_	12	xcomp	_	Gloss=venir
+14	na	nà	VERB	v	_	12	xcomp	_	Gloss=venir|SpaceAfter=No
 15	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:5
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:5
 # text = a fakè tògò ye Nònsi ye.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nmod:poss	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nmod:poss	_	Gloss=3SG
 2	fakè	fà.kɛ	NOUN	n	_	3	nmod:poss	_	Gloss=père|Morf=père,père,mâle
 3	tògò	tɔ́gɔ	NOUN	n	_	4	nsubj	_	Gloss=nom
 4	ye	yé	VERB	pp	_	0	root	_	Gloss=PP
 5	Nònsi	Nɔ̀nsi	PROPN	n.prop	_	4	obl	_	Gloss=NOM.M
-6	ye	yé	ADP	pp	_	5	case	_	Gloss=PP
+6	ye	yé	ADP	pp	_	5	case	_	Gloss=PP|SpaceAfter=No
 7	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:6
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:6
 # text = a tagara ko baba, ko e ka na dumunni kè.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
-2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	tagara	tagara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
 3	ko	kó	PART	cop	_	9	discourse	_	Gloss=QUOT
-4	baba	bàba	NOUN	n	_	9	vocative	_	Gloss=papa
+4	baba	bàba	NOUN	n	_	9	vocative	_	Gloss=papa|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	Gloss=,
 6	ko	kó	PART	cop	_	9	discourse	_	Gloss=QUOT
-7	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	9	nsubj	_	Gloss=2SG.EMPH
+7	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	9	nsubj	_	Gloss=2SG.EMPH
 8	ka	ká	AUX	pm	_	9	aux	_	Gloss=OPT
 9	na	nà	VERB	v	_	2	parataxis:obj	_	Gloss=venir
 10	dumunni	dúmuni	NOUN	n	_	11	obj	_	Gloss=action.de.manger
-11	kè	kɛ́	VERB	v	_	9	xcomp	_	Gloss=faire
+11	kè	kɛ́	VERB	v	_	9	xcomp	_	Gloss=faire|SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:7
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:7
 # text = ko fònhòn !
 1	ko	kó	PART	cop	_	2	discourse	_	Gloss=QUOT
 2	fònhòn	fɔ̀nhɔn	INTJ	intj	_	0	root	_	Gloss=Foui!
 3	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:8
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:8
 # text = ko e na dumunni kè !
 1	ko	kó	PART	cop	_	5	discourse	_	Gloss=QUOT
-2	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	5	nsubj	_	Gloss=2SG.EMPH
+2	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	5	nsubj	_	Gloss=2SG.EMPH
 3	na	nà	AUX	v	_	5	aux	_	Gloss=venir
 4	dumunni	dúmuni	NOUN	n	_	5	obj	_	Gloss=action.de.manger
 5	kè	kɛ́	VERB	v	_	0	root	_	Gloss=faire
 6	!	!	PUNCT	_	_	5	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:9
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:9
 # text = ko fònhòn !
 1	ko	kó	PART	cop	_	2	discourse	_	Gloss=QUOT
 2	fònhòn	fɔ̀nhɔn	INTJ	intj	_	0	root	_	Gloss=Foui!
 3	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:10
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:10
 # text = a tagara a fò a bamuso ye ko ne ye baba wele, o ko fònhòn !
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
-2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
-3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	obj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	tagara	tagara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=3SG
 4	fò	fɔ́	VERB	v	_	2	xcomp	_	Gloss=dire
-5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	6	nmod:poss	_	Gloss=3SG
+5	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	6	nmod:poss	_	Gloss=3SG
 6	bamuso	bá.muso	NOUN	n	_	4	obl	_	Gloss=mère|Morf=mère,mère,femme
 7	ye	yé	ADP	pp	_	6	case	_	Gloss=PP
 8	ko	kó	PART	cop	_	12	discourse	_	Gloss=QUOT
-9	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	12	nsubj	_	Gloss=1SG.EMPH
+9	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	12	nsubj	_	Gloss=1SG.EMPH
 10	ye	yé	ADP	pp	_	12	aux	_	Gloss=PP
 11	baba	bàba	NOUN	n	_	12	obj	_	Gloss=papa
-12	wele	wéle	VERB	v	_	4	parataxis:obj	_	Gloss=appeler
+12	wele	wéle	VERB	v	_	4	parataxis:obj	_	Gloss=appeler|SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	Gloss=,
 14	o	ò	PRON	prn	_	15	nsubj	_	Gloss=ce
 15	ko	kó	VERB	cop	_	12	parataxis	_	Gloss=QUOT
 16	fònhòn	fɔ̀nhɔn	INTJ	intj	_	15	parataxis:obj	_	Gloss=Foui!
 17	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:11
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:11
 # text = a ye a fò ko sisan ni n tagara bilen tugun, ni n ye baba wele, ni a ko fònhòn, ne bè baba bugò !
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
-2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
-3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	obj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=3SG
+2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=3SG
 4	fò	fɔ́	VERB	v	_	0	root	_	Gloss=dire
 5	ko	kó	PART	cop	_	27	discourse	_	Gloss=QUOT
 6	sisan	sísàn	ADV	n	_	27	obl	_	Gloss=maintenant
 7	ni	ní	SCONJ	conj	_	9	mark	_	Gloss=si
-8	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	9	nsubj	_	Gloss=1SG
-9	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	27	advcl	_	Gloss=aller|Morf=aller,PFV.INTR
+8	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Gloss=1SG
+9	tagara	tagara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	27	advcl	_	Gloss=aller|Morf=aller,PFV.INTR
 10	bilen	bìlen	PART	adv	_	9	discourse	_	Gloss=encore
-11	tugun	túgun	ADV	adv	_	9	obl	_	Gloss=encore
+11	tugun	túgun	ADV	adv	_	9	obl	_	Gloss=encore|SpaceAfter=No
 12	,	,	PUNCT	_	_	9	punct	_	Gloss=,
 13	ni	ní	SCONJ	conj	_	17	mark	_	Gloss=si
-14	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	17	nsubj	_	Gloss=1SG
-15	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	17	aux	_	Gloss=PFV.TR
+14	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	Gloss=1SG
+15	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	17	aux	_	Gloss=PFV.TR
 16	baba	bàba	NOUN	n	_	17	obj	_	Gloss=papa
-17	wele	wéle	VERB	v	_	27	advcl	_	Gloss=appeler
+17	wele	wéle	VERB	v	_	27	advcl	_	Gloss=appeler|SpaceAfter=No
 18	,	,	PUNCT	_	_	17	punct	_	Gloss=,
 19	ni	ní	SCONJ	conj	_	21	mark	_	Gloss=si
-20	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	21	nsubj	_	Gloss=3SG
+20	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	21	nsubj	_	Gloss=3SG
 21	ko	kó	VERB	cop	_	27	advcl	_	Gloss=QUOT
-22	fònhòn	fɔ̀nhɔn	INTJ	intj	_	21	parataxis:obj	_	Gloss=Foui!
+22	fònhòn	fɔ̀nhɔn	INTJ	intj	_	21	parataxis:obj	_	Gloss=Foui!|SpaceAfter=No
 23	,	,	PUNCT	_	_	22	punct	_	Gloss=,
-24	ne	nê	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	27	nsubj	_	Gloss=1SG.EMPH
-25	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	27	aux	_	Gloss=IPFV.AFF
+24	ne	nê	PRON	pers	Number=Sing|Person=1|PronType=Emp	27	nsubj	_	Gloss=1SG.EMPH
+25	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	27	aux	_	Gloss=IPFV.AFF
 26	baba	bàba	NOUN	n	_	27	obj	_	Gloss=papa
 27	bugò	bùgɔ	VERB	v	_	4	parataxis:obj	_	Gloss=frapper
 28	!	!	PUNCT	_	_	4	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:12
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:12
 # text = a tagara ko baba, e na dumunni kè !
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
-2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	tagara	tagara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
 3	ko	kó	PART	cop	_	7	discourse	_	Gloss=QUOT
-4	baba	bàba	NOUN	n	_	6	vocative	_	Gloss=papa
+4	baba	bàba	NOUN	n	_	6	vocative	_	Gloss=papa|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	Gloss=,
-6	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	7	nsubj	_	Gloss=2SG.EMPH
+6	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	7	nsubj	_	Gloss=2SG.EMPH
 7	na	nà	VERB	v	_	2	parataxis:obj	_	Gloss=venir
 8	dumunni	dúmuni	NOUN	n	_	9	obj	_	Gloss=action.de.manger
 9	kè	kɛ́	VERB	v	_	7	xcomp	_	Gloss=faire
 10	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:13
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:13
 # text = a ko fònhòn !
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
 3	fònhòn	fɔ̀nhɔn	INTJ	intj	_	2	parataxis:obj	_	Gloss=Foui!
 4	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:14
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:14
 # text = ko e na dumunni kè !
 1	ko	kó	PART	cop	_	5	discourse	_	Gloss=QUOT
-2	e	ê	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	5	nsubj	_	Gloss=2SG.EMPH
-3	na	nà	AUX	pm	Tense=Fut|Polarity=Pos	5	aux	_	Gloss=CERT
+2	e	ê	PRON	pers	Number=Sing|Person=2|PronType=Emp	5	nsubj	_	Gloss=2SG.EMPH
+3	na	nà	AUX	pm	Polarity=Pos|Tense=Fut	5	aux	_	Gloss=CERT
 4	dumunni	dúmuni	NOUN	n	_	5	obj	_	Gloss=action.de.manger
 5	kè	kɛ́	VERB	v	_	0	root	_	Gloss=faire
 6	!	!	PUNCT	_	_	5	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:15
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:15
 # text = a ko fònhòn !
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
 3	fònhòn	fɔ̀nhɔn	INTJ	intj	_	2	parataxis:obj	_	Gloss=Foui!
 4	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:16
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:16
 # text = a bilen bolila ka na a fò a bamuso fè, a ye muruda ge ka a don a yèrè kun.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	3	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=3SG
 2	bilen	bìlen	PART	adv	_	3	discourse	_	Gloss=encore
-3	bolila	bolila	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=courir|Morf=courir,PFV.INTR
+3	bolila	bolila	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=courir|Morf=courir,PFV.INTR
 4	ka	kà	AUX	pm	_	5	aux	_	Gloss=INF
 5	na	nà	VERB	v	_	3	xcomp	_	Gloss=venir
-6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	obj	_	Gloss=3SG
+6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	obj	_	Gloss=3SG
 7	fò	fɔ́	VERB	v	_	5	xcomp	_	Gloss=dire
-8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	9	nmod:poss	_	Gloss=3SG
+8	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	nmod:poss	_	Gloss=3SG
 9	bamuso	bá.muso	NOUN	n	_	7	obl	_	Gloss=mère|Morf=mère,mère,femme
-10	fè	fɛ̀	ADP	pp	_	9	case	_	Gloss=vers
+10	fè	fɛ̀	ADP	pp	_	9	case	_	Gloss=vers|SpaceAfter=No
 11	,	,	PUNCT	_	_	7	punct	_	Gloss=,
-12	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	15	nsubj	_	Gloss=3SG
-13	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	15	aux	_	Gloss=PFV.TR
+12	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	15	nsubj	_	Gloss=3SG
+13	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	15	aux	_	Gloss=PFV.TR
 14	muruda	muruda	NOUN	n	_	15	obj	_	Gloss=couteau|Morf=couteau,bouche
 15	ge	gɛ́n	VERB	v	_	7	parataxis	_	Gloss=aiguiser
 16	ka	kà	AUX	pm	_	18	aux	_	Gloss=INF
-17	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	18	obj	_	Gloss=3SG
+17	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	18	obj	_	Gloss=3SG
 18	don	dòn	VERB	v	_	15	xcomp	_	Gloss=entrer
-19	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	18	obl	_	Gloss=3SG
+19	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	18	obl	_	Gloss=3SG
 20	yèrè	yɛ̀rɛ	DET	dtm	_	19	det	_	Gloss=même
-21	kun	kùn	ADP	pp	_	19	case	_	Gloss=sur
+21	kun	kùn	ADP	pp	_	19	case	_	Gloss=sur|SpaceAfter=No
 22	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:17
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:17
 # text = ko ni baba ye a fò bilen tugun fònhòn, ko ale bè baba kun tigè !
 1	ko	kó	PART	cop	_	6	discourse	_	Gloss=QUOT
 2	ni	ní	SCONJ	conj	_	6	mark	_	Gloss=si
 3	baba	bàba	NOUN	n	_	6	nsubj	_	Gloss=papa
-4	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	6	aux	_	Gloss=PFV.TR
-5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	6	obj	_	Gloss=3SG
+4	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	6	aux	_	Gloss=PFV.TR
+5	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	6	obj	_	Gloss=3SG
 6	fò	fɔ́	VERB	v	_	16	advcl	_	Gloss=dire
 7	bilen	bìlen	PART	adv	_	6	discourse	_	Gloss=encore
 8	tugun	túgun	ADV	adv	_	6	obl	_	Gloss=encore
-9	fònhòn	fɔ̀nhɔn	INTJ	intj	_	6	parataxis:obj	_	Gloss=Foui!
+9	fònhòn	fɔ̀nhɔn	INTJ	intj	_	6	parataxis:obj	_	Gloss=Foui!|SpaceAfter=No
 10	,	,	PUNCT	_	_	6	punct	_	Gloss=,
 11	ko	kó	PART	cop	_	16	discourse	_	Gloss=QUOT
-12	ale	àle	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	16	nsubj	_	Gloss=3SG.EMPH
-13	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	16	aux	_	Gloss=IPFV.AFF
+12	ale	àle	PRON	pers	Number=Sing|Person=3|PronType=Emp	16	nsubj	_	Gloss=3SG.EMPH
+13	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	16	aux	_	Gloss=IPFV.AFF
 14	baba	bàba	NOUN	n	_	15	nmod:poss	_	Gloss=papa
 15	kun	kùn	NOUN	n	_	16	obj	_	Gloss=tête
 16	tigè	tìgɛ	VERB	v	_	0	root	_	Gloss=couper
 17	!	!	PUNCT	_	_	16	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:18
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:18
 # text = a ko baba, na dumunni kè !
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
-3	baba	bàba	NOUN	n	_	5	vocative	_	Gloss=papa
+3	baba	bàba	NOUN	n	_	5	vocative	_	Gloss=papa|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
 5	na	nà	VERB	v	_	2	parataxis:obj	_	Gloss=venir
 6	dumunni	dúmuni	NOUN	n	_	7	obj	_	Gloss=action.de.manger
 7	kè	kɛ́	VERB	v	_	5	xcomp	_	Gloss=faire
 8	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:19
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:19
 # text = a ko fònhòn !
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
 3	fònhòn	fɔ̀nhɔn	INTJ	intj	_	2	parataxis:obj	_	Gloss=Foui!
 4	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:20
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:20
 # text = baba, na dumunni kè !
-1	baba	bàba	NOUN	n	_	3	vocative	_	Gloss=papa
+1	baba	bàba	NOUN	n	_	3	vocative	_	Gloss=papa|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
 3	na	nà	VERB	v	_	0	root	_	Gloss=venir
 4	dumunni	dúmuni	NOUN	n	_	5	obj	_	Gloss=action.de.manger
 5	kè	kɛ́	VERB	v	_	3	xcomp	_	Gloss=faire
 6	!	!	PUNCT	_	_	3	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:21
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:21
 # text = a ko fònhòn !
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
 3	fònhòn	fɔ̀nhɔn	INTJ	intj	_	2	parataxis:obj	_	Gloss=Foui!
 4	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:22
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:22
 # text = a ye baba kunkolo tigè.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 3	baba	bàba	NOUN	n	_	4	nmod:poss	_	Gloss=papa
 4	kunkolo	kùn.kolo	NOUN	n	_	5	obj	_	Gloss=crâne|Morf=crâne,tête,os
-5	tigè	tìgɛ	VERB	v	_	0	root	_	Gloss=couper
+5	tigè	tìgɛ	VERB	v	_	0	root	_	Gloss=couper|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:23
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:23
 # text = bamuso fana ko ko ale bè kuma, a ye bamuso sin kelen tigè ka boli ka boli ka taga bèn ni fyèntò dò ye ka o ka bere minè, ka taga o jigin kòlòn kònò ka taga bèn ni fulakè dò ye, ka a fò : fulakè, n bè misiw gèn ! ka kè fulakè ka misiw gèn ye.
 # label = long
 1	bamuso	bámuso	NOUN	n	_	3	nsubj	_	Gloss=mère|Morf=mère,mère,femme
 2	fana	fána	PART	prt	_	1	discourse	_	Gloss=aussi
 3	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
 4	ko	kó	PART	cop	_	7	discourse	_	Gloss=QUOT
-5	ale	àlê	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	7	nsubj	_	Gloss=3SG.EMPH
-6	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	7	aux	_	Gloss=IPFV.AFF
-7	kuma	kúma	VERB	v	_	3	ccomp	_	Gloss=parler
+5	ale	àlê	PRON	pers	Number=Sing|Person=3|PronType=Emp	7	nsubj	_	Gloss=3SG.EMPH
+6	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	7	aux	_	Gloss=IPFV.AFF
+7	kuma	kúma	VERB	v	_	3	ccomp	_	Gloss=parler|SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	Gloss=,
-9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	14	nsubj	_	Gloss=3SG
-10	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	14	aux	_	Gloss=PFV.TR
+9	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Gloss=3SG
+10	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	14	aux	_	Gloss=PFV.TR
 11	bamuso	bámuso	NOUN	n	_	12	nmod:poss	_	Gloss=mère|Morf=mère,mère,femme
 12	sin	sín	NOUN	n	_	14	obj	_	Gloss=sein
 13	kelen	kélen	NUM	num	_	12	nummod	_	Gloss=un
@@ -318,7 +296,7 @@
 27	o	ò	PRON	prn	_	29	nmod:poss	_	Gloss=ce
 28	ka	ka	ADP	pp	_	27	case	_	Gloss=POSS
 29	bere	bére	NOUN	n	_	30	obj	_	Gloss=bâton
-30	minè	mìnɛ	VERB	v	_	21	xcomp	_	Gloss=attraper
+30	minè	mìnɛ	VERB	v	_	21	xcomp	_	Gloss=attraper|SpaceAfter=No
 31	,	,	PUNCT	_	_	30	punct	_	Gloss=,
 32	ka	kà	AUX	pm	_	33	aux	_	Gloss=INF
 33	taga	tága	VERB	v	_	30	xcomp	_	Gloss=aller
@@ -332,16 +310,16 @@
 41	ni	ni	ADP	conj	_	42	case	_	Gloss=et
 42	fulakè	fulakɛ	NOUN	n	_	40	obl	_	Gloss=peul|Morf=peul,mâle
 43	dò	dɔ́	DET	dtm	_	42	det	_	Gloss=certain
-44	ye	yé	ADP	pp	_	42	case	_	Gloss=PP
+44	ye	yé	ADP	pp	_	42	case	_	Gloss=PP|SpaceAfter=No
 45	,	,	PUNCT	_	_	40	punct	_	Gloss=,
 46	ka	kà	AUX	pm	_	48	aux	_	Gloss=INF
-47	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	48	_	_	Gloss=3SG
+47	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	48	obj	_	Gloss=3SG
 48	fò	fɔ́	VERB	v	_	40	xcomp	_	Gloss=dire
 49	:	:	PUNCT	_	_	48	punct	_	Gloss=:
-50	fulakè	fulakɛ	NOUN	n	_	55	vocative	_	Gloss=peul|Morf=peul,mâle
+50	fulakè	fulakɛ	NOUN	n	_	55	vocative	_	Gloss=peul|Morf=peul,mâle|SpaceAfter=No
 51	,	,	PUNCT	_	_	50	punct	_	Gloss=,
-52	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	55	nsubj	_	Gloss=1SG
-53	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	55	aux	_	Gloss=IPFV.AFF
+52	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	55	nsubj	_	Gloss=1SG
+53	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	55	aux	_	Gloss=IPFV.AFF
 54	misiw	misiw	NOUN	n	Number=Plur	55	obj	_	Gloss=bovidé|Morf=bovidé,PL
 55	gèn	gɛ́n	VERB	v	_	48	parataxis:obj	_	Gloss=chasser
 56	!	!	PUNCT	_	_	55	punct	_	Gloss=!
@@ -351,22 +329,20 @@
 60	ka	ka	ADP	pp	_	59	case	_	Gloss=POSS
 61	misiw	misiw	NOUN	n	Number=Plur	62	nmod:poss	_	Gloss=bovidé|Morf=bovidé,PL
 62	gèn	gɛ́n	NOUN	n	_	58	obl	_	Gloss=pasteur
-63	ye	yé	ADP	pp	_	62	case	_	Gloss=PP
+63	ye	yé	ADP	pp	_	62	case	_	Gloss=PP|SpaceAfter=No
 64	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:24
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:24
 # text = fulakè nana sunògò.
 1	fulakè	fulakɛ	NOUN	n	_	2	nsubj	_	Gloss=peul|Morf=peul,mâle
-2	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
-3	sunògò	sùnɔgɔ	VERB	v	_	2	xcomp	_	Gloss=dormir
+2	nana	nana	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
+3	sunògò	sùnɔgɔ	VERB	v	_	2	xcomp	_	Gloss=dormir|SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:25
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:25
 # text = a ye fulakè ka misiw nyèdenw bèè bò ka taga a balabala, diye na a fò : fulakè, e ma èndutigènankuru ye ?
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	nsubj	_	Gloss=3SG
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	8	aux	_	Gloss=PFV.TR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	8	aux	_	Gloss=PFV.TR
 3	fulakè	fulakɛ	NOUN	n	_	5	nmod:poss	_	Gloss=peul|Morf=peul,mâle
 4	ka	ká	ADP	conj	_	3	case	_	Gloss=POSS
 5	misiw	misiw	NOUN	n	Number=Plur	6	nmod:poss	_	Gloss=bovidé|Morf=bovidé,PL
@@ -375,45 +351,42 @@
 8	bò	bɔ̀	VERB	v	_	0	root	_	Gloss=arracher
 9	ka	kà	AUX	pm	_	10	aux	_	Gloss=INF
 10	taga	tága	VERB	v	_	8	xcomp	_	Gloss=aller
-11	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	12	aux	_	Gloss=3SG
-12	balabala	bàlabala	VERB	v	_	10	xcomp	_	Gloss=bouillir
+11	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	12	aux	_	Gloss=3SG
+12	balabala	bàlabala	VERB	v	_	10	xcomp	_	Gloss=bouillir|SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	Gloss=,
 14	diye	dìyé	AUX	pm	_	15	aux	_	Gloss=SEQ
 15	na	nà	VERB	v	_	12	xcomp	_	Gloss=venir
-16	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	17	obj	_	Gloss=3SG
+16	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	17	obj	_	Gloss=3SG
 17	fò	fɔ́	VERB	v	_	15	xcomp	_	Gloss=dire
 18	:	:	PUNCT	_	_	17	punct	_	Gloss=:
-19	fulakè	fulakɛ	NOUN	n	_	24	vocative	_	Gloss=peul|Morf=peul,mâle
+19	fulakè	fulakɛ	NOUN	n	_	24	vocative	_	Gloss=peul|Morf=peul,mâle|SpaceAfter=No
 20	,	,	PUNCT	_	_	19	punct	_	Gloss=,
-21	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	24	nsubj	_	Gloss=2SG.EMPH
+21	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	24	nsubj	_	Gloss=2SG.EMPH
 22	ma	má	AUX	pm	_	24	aux	_	Gloss=PFV:NEG
 23	èndutigènankuru	ɛndu.tìgɛ.nin.kuru	NOUN	n	_	24	obj	_	Gloss=EMPR|Morf=EMPR,pois.de.terre,arachide,DIM,boule
 24	ye	yé	VERB	v	_	17	parataxis:obj	_	Gloss=voir
 25	?	?	PUNCT	_	_	8	punct	_	Gloss=?
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:26
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:26
 # text = èndutigènankuruw ?
 1	èndutigènankuruw	ɛndutìgɛninkuru	NOUN	n	_	0	root	_	Gloss=EMPR|Morf=EMPR,pois.de.terre,arachide,DIM,boule
 2	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:27
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:27
 # text = an be èndutigènankuru dun bi !
-1	an	án	PRON	pers	PronType=Prs|Number=Plur|Person=1	4	nsubj	_	Gloss=1PL
-2	be	bé	AUX	pm	Polarity=Pos|Aspect=Imp	4	aux	_	Gloss=IPFV.AFF
+1	an	án	PRON	pers	Number=Plur|Person=1|PronType=Prs	4	nsubj	_	Gloss=1PL
+2	be	bé	AUX	pm	Aspect=Imp|Polarity=Pos	4	aux	_	Gloss=IPFV.AFF
 3	èndutigènankuru	ɛndu.tìgɛ.nin.kuru	NOUN	n	_	4	obj	_	Gloss=EMPR|Morf=EMPR,pois.de.terre,arachide,DIM,boule
 4	dun	dún	VERB	v	_	0	root	_	Gloss=manger
 5	bi	bì	ADV	adv/n	_	4	obl	_	Gloss=aujourd'hui
 6	!	!	PUNCT	_	_	4	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:28
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:28
 # text = fulakè ye a ka misiw nyèdenw dun ka ban tuma min de, misiw o ye nyògòn tuntun.
 # label = rel_elided
 1	fulakè	fulakɛ	NOUN	n	_	7	aux	_	Gloss=peul|Morf=peul,mâle
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	7	aux	_	Gloss=PFV.TR
-3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nmod:poss	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	7	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nmod:poss	_	Gloss=3SG
 4	ka	ká	ADP	conj	_	3	case	_	Gloss=POSS
 5	misiw	misiw	NOUN	n	Number=Plur	6	nmod:poss	_	Gloss=bovidé|Morf=bovidé,PL
 6	nyèdenw	ɲɛdenw	NOUN	n	Number=Plur	7	obj	_	Gloss=globe.de.l'oeil|Morf=globe.de.l'oeil,oeil,enfant,PL
@@ -422,247 +395,231 @@
 9	ban	bán	VERB	v	_	7	xcomp	_	Gloss=terminer
 10	tuma	tùma	NOUN	n	_	9	obl	_	Gloss=moment
 11	min	mín	DET	prn	PronType=Rel	10	det:rel	_	Gloss=REL
-12	de	dè	PART	prt	_	7	discourse	_	Gloss=FOC
+12	de	dè	PART	prt	_	7	discourse	_	Gloss=FOC|SpaceAfter=No
 13	,	,	PUNCT	_	_	7	punct	_	Gloss=,
 14	misiw	misiw	NOUN	n	Number=Plur	18	nsubj	_	Gloss=bovidé|Morf=bovidé,PL
 15	o	ò	DET	prn	_	14	det	_	Gloss=ce
-16	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	18	aux	_	Gloss=PFV.TR
+16	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	18	aux	_	Gloss=PFV.TR
 17	nyògòn	ɲɔ́gɔn	PRON	prn	PronType=Rcp	18	obj	_	Gloss=RECP
-18	tuntun	tù.tù	VERB	v	_	0	root	_	Gloss=heurter|Morf=heurter,heurter
+18	tuntun	tù.tù	VERB	v	_	0	root	_	Gloss=heurter|Morf=heurter,heurter|SpaceAfter=No
 19	.	.	PUNCT	_	_	18	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:29
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:29
 # text = fulakè ye Namaramatu gèn ka a gèn ka a gèn.
 1	fulakè	fulakɛ	NOUN	n	_	4	nsubj	_	Gloss=peul|Morf=peul,mâle
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
 3	Namaramatu	Namaramatu	PROPN	n.prop	_	4	obj	_	Gloss=NOM.F
 4	gèn	gɛ́n	VERB	v	_	0	root	_	Gloss=chasser
 5	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
-6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	obj	_	Gloss=3SG
+6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	obj	_	Gloss=3SG
 7	gèn	gɛ́n	VERB	v	_	4	xcomp	_	Gloss=chasser
 8	ka	kà	AUX	pm	_	10	aux	_	Gloss=INF
-9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	10	obj	_	Gloss=3SG
-10	gèn	gɛ́n	VERB	v	_	7	xcomp	_	Gloss=chasser
+9	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	10	obj	_	Gloss=3SG
+10	gèn	gɛ́n	VERB	v	_	7	xcomp	_	Gloss=chasser|SpaceAfter=No
 11	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:30
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:30
 # text = Namaramatu tagara don numunkè dò fè, ko e ma a ye fulakè nin bè n gèn wa ?
 1	Namaramatu	Namaramatu	PROPN	n.prop	_	2	nsubj	_	Gloss=NOM.F
-2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+2	tagara	tagara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
 3	don	dòn	VERB	v	_	2	xcomp	_	Gloss=entrer
 4	numunkè	nùmu.kɛ	NOUN	n	_	3	obl	_	Gloss=forgeron|Morf=forgeron,forgeron,mâle
 5	dò	dɔ́	DET	dtm	_	4	det	_	Gloss=certain
-6	fè	fɛ̀	ADP	pp	_	4	case	_	Gloss=vers
+6	fè	fɛ̀	ADP	pp	_	4	case	_	Gloss=vers|SpaceAfter=No
 7	,	,	PUNCT	_	_	3	punct	_	Gloss=,
 8	ko	kó	PART	cop	_	12	discourse	_	Gloss=QUOT
-9	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	12	nsubj	_	Gloss=2SG.EMPH
+9	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	12	nsubj	_	Gloss=2SG.EMPH
 10	ma	má	AUX	pm	_	12	aux	_	Gloss=PFV:NEG
-11	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	12	obj	_	Gloss=3SG
+11	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	12	obj	_	Gloss=3SG
 12	ye	yé	VERB	v	_	2	parataxis:obj	_	Gloss=voir
 13	fulakè	fulakɛ	NOUN	n	_	17	nsubj	_	Gloss=peul|Morf=peul,mâle
-14	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	13	det	_	Gloss=DEM
-15	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	17	aux	_	Gloss=IPFV.AFF
+14	nin	nìn	DET	prn/dtm	Definite=Def|PronType=Dem	13	det	_	Gloss=DEM
+15	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	17	aux	_	Gloss=IPFV.AFF
 16	n	ń	PRON	pers	PronType=Prs	17	obj	_	Gloss=je
 17	gèn	gɛ́n	VERB	v	_	12	parataxis	_	Gloss=chasser
 18	wa	wà	PART	prt	_	17	discourse	_	Gloss=Q
 19	?	?	PUNCT	_	_	2	punct	_	Gloss=?
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:31
-# text = ko ne bè na don e ka aprantiya la ka na e ka fènw kè.
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:31
+# text = ko ne bèna don e ka aprantiya la ka na e ka fènw kè.
 1	ko	kó	PART	cop	_	4	discourse	_	Gloss=QUOT
-2	ne	né	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	4	nsubj	_	Gloss=1SG.EMPH
-3	bèna	bɛ́na	AUX	pm	Tense=Fut|Polarity=Pos	4	aux	_	Gloss=FUT
+2	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	4	nsubj	_	Gloss=1SG.EMPH
+3	bèna	bɛ́na	AUX	pm	Polarity=Pos|Tense=Fut	4	aux	_	Gloss=FUT
 4	don	dòn	VERB	v	_	0	root	_	Gloss=entrer
-5	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	7	nmod:poss	_	Gloss=2SG.EMPH
+5	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	7	nmod:poss	_	Gloss=2SG.EMPH
 6	ka	ká	ADP	conj	_	5	case	_	Gloss=POSS
 7	aprantiya	aprantiya	NOUN	n	_	4	obl	_	Gloss=EMPR|Morf=EMPR,ABSTR
 8	la	lá	ADP	pp	_	7	case	_	Gloss=dans
 9	ka	kà	AUX	pm	_	10	aux	_	Gloss=INF
 10	na	nà	VERB	v	_	4	xcomp	_	Gloss=venir
-11	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	13	nmod:poss	_	Gloss=2SG.EMPH
+11	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	13	nmod:poss	_	Gloss=2SG.EMPH
 12	ka	ká	ADP	conj	_	11	case	_	Gloss=POSS
 13	fènw	fɛnw	NOUN	n	Number=Plur	14	obj	_	Gloss=chose|Morf=chose,PL
-14	kè	kɛ́	VERB	v	_	10	xcomp	_	Gloss=faire
+14	kè	kɛ́	VERB	v	_	10	xcomp	_	Gloss=faire|SpaceAfter=No
 15	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:32
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:32
 # text = e ma a ye fulakè nin bè n gèn wa ?
-1	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	4	nsubj	_	Gloss=2SG.EMPH
+1	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	4	nsubj	_	Gloss=2SG.EMPH
 2	ma	má	AUX	pm	_	4	aux	_	Gloss=PFV:NEG
-3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	obj	_	Gloss=3SG
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=3SG
 4	ye	yé	VERB	v	_	0	root	_	Gloss=voir
 5	fulakè	fulakɛ	NOUN	n	_	9	nsubj	_	Gloss=peul|Morf=peul,mâle
-6	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	5	det	_	Gloss=DEM
-7	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	9	aux	_	Gloss=IPFV.AFF
+6	nin	nìn	DET	prn/dtm	Definite=Def|PronType=Dem	5	det	_	Gloss=DEM
+7	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	9	aux	_	Gloss=IPFV.AFF
 8	n	ń	PRON	pers	PronType=Prs	9	obj	_	Gloss=je
 9	gèn	gɛ́n	VERB	v	_	4	parataxis	_	Gloss=chasser
 10	wa	wà	PART	prt	_	9	discourse	_	Gloss=Q
 11	?	?	PUNCT	_	_	4	punct	_	Gloss=?
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:33
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:33
 # text = ko fulakè ka se yan bayi, ko ale be nègè bilen ka o turun fulakè la.
 1	ko	kó	PART	cop	_	4	discourse	_	Gloss=QUOT
 2	fulakè	fulakɛ	NOUN	n	_	4	nsubj	_	Gloss=peul|Morf=peul,mâle
 3	ka	ká	AUX	pm	_	4	aux	_	Gloss=OPT
 4	se	sé	VERB	v	_	0	root	_	Gloss=arriver
 5	yan	yàn	ADV	adv/n	_	4	obl	_	Gloss=ici
-6	bayi	páyi	INTJ	intj	_	4	discourse	_	Gloss=parfaitement!
+6	bayi	páyi	INTJ	intj	_	4	discourse	_	Gloss=parfaitement!|SpaceAfter=No
 7	,	,	PUNCT	_	_	4	punct	_	Gloss=,
 8	ko	kó	PART	cop	_	12	discourse	_	Gloss=QUOT
-9	ale	àle	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	12	nsubj	_	Gloss=3SG.EMPH
-10	be	bé	AUX	pm	Polarity=Pos|Aspect=Imp	12	aux	_	Gloss=IPFV.AFF
+9	ale	àle	PRON	pers	Number=Sing|Person=3|PronType=Emp	12	nsubj	_	Gloss=3SG.EMPH
+10	be	bé	AUX	pm	Aspect=Imp|Polarity=Pos	12	aux	_	Gloss=IPFV.AFF
 11	nègè	nɛ̀gɛ	NOUN	n	_	12	obj	_	Gloss=fer
 12	bilen	bìlen	VERB	v	_	4	parataxis	_	Gloss=rougir
 13	ka	kà	AUX	pm	_	15	aux	_	Gloss=INF
 14	o	ó	PRON	conj	_	15	obj	_	Gloss=DISTR
 15	turun	túru	VERB	v	_	12	xcomp	_	Gloss=planter
 16	fulakè	fulakɛ	NOUN	n	_	15	obl	_	Gloss=peul|Morf=peul,mâle
-17	la	lá	ADP	pp	_	16	case	_	Gloss=dans
+17	la	lá	ADP	pp	_	16	case	_	Gloss=dans|SpaceAfter=No
 18	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:34
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:34
 # text = fulakè bolila.
 1	fulakè	fulakɛ	NOUN	n	_	2	nsubj	_	Gloss=peul|Morf=peul,mâle
-2	bolila	bolila	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=courir|Morf=courir,PFV.INTR
+2	bolila	bolila	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=courir|Morf=courir,PFV.INTR|SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:35
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:35
 # text = a nana sa ko e bè se ka i yèrè lafyè sisan !
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
-2	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	nana	nana	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
 3	sa	sá	NOUN	n	_	2	xcomp	_	Gloss=ici
 4	ko	kó	PART	cop	_	7	discourse	_	Gloss=QUOT
-5	e	é	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	7	nsubj	_	Gloss=2SG.EMPH
-6	bè	bɛ́	AUX	pm	Polarity=Pos|Aspect=Imp	7	aux	_	Gloss=IPFV.AFF
+5	e	é	PRON	pers	Number=Sing|Person=2|PronType=Emp	7	nsubj	_	Gloss=2SG.EMPH
+6	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	7	aux	_	Gloss=IPFV.AFF
 7	se	sé	VERB	v	_	3	parataxis:obj	_	Gloss=arriver
 8	ka	kà	AUX	pm	_	11	aux	_	Gloss=INF
-9	i	í	PRON	pers	PronType=Prs|Reflexive=Yes	11	obj	_	Gloss=REFL
+9	i	í	PRON	pers	PronType=Prs	11	obj	_	Gloss=REFL
 10	yèrè	yɛ̀rɛ	DET	dtm	_	9	det	_	Gloss=même
 11	lafyè	làfyɛ	VERB	v	_	7	xcomp	_	Gloss=se.reposer
 12	sisan	sísan	ADV	adv/n	_	11	obl	_	Gloss=maintenant
 13	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:36
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:36
 # text = a ko ònhòn !
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
 3	ònhòn	ɔ̀nhɔ́n	INTJ	intj	_	2	parataxis:obj	_	Gloss=oui
 4	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:37
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:37
 # text = numukè lara sa ka la ka kili bò.
 1	numukè	nùmu.kɛ	NOUN	n	_	2	nsubj	_	Gloss=forgeron|Morf=forgeron,forgeron,mâle
-2	lara	dára	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=poser|Morf=poser,PFV.INTR
+2	lara	dára	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=poser|Morf=poser,PFV.INTR
 3	sa	sá	PART	prt	_	2	discourse	_	Gloss=enfin
 4	ka	kà	AUX	pm	_	5	aux	_	Gloss=INF
 5	la	dá	VERB	v	_	2	xcomp	_	Gloss=poser
-6	k	k'	AUX	pp	_	9	aux	_	Gloss=INF
-7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	8	nmod:poss	_	Gloss=3SG
+6	k	k'	AUX	pp	_	9	aux	_	Gloss=INF|SpaceAfter=No
+7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	nmod:poss	_	Gloss=3SG
 8	kili	kíli	NOUN	n	_	9	obj	_	Gloss=oeuf
-9	bò	bɔ́	VERB	v	_	5	xcomp	_	Gloss=sortir
+9	bò	bɔ́	VERB	v	_	5	xcomp	_	Gloss=sortir|SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:38
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:38
 # text = a ye nègè bilen ka a bilen ka a bilen, ka a turun numunkèkili la.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
 3	nègè	nɛ̀gɛ	NOUN	n	_	4	obj	_	Gloss=fer
 4	bilen	bìlen	VERB	v	_	0	root	_	Gloss=rougir
 5	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
-6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	obj	_	Gloss=3SG
+6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	obj	_	Gloss=3SG
 7	bilen	bìlen	VERB	v	_	4	xcomp	_	Gloss=rougir
 8	ka	kà	AUX	pm	_	10	aux	_	Gloss=INF
-9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	10	obj	_	Gloss=3SG
-10	bilen	bìlen	VERB	v	_	7	xcomp	_	Gloss=rougir
+9	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	10	obj	_	Gloss=3SG
+10	bilen	bìlen	VERB	v	_	7	xcomp	_	Gloss=rougir|SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	Gloss=,
 12	ka	kà	AUX	pm	_	14	aux	_	Gloss=INF
-13	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	14	obj	_	Gloss=3SG
+13	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	14	obj	_	Gloss=3SG
 14	turun	túru	VERB	v	_	10	xcomp	_	Gloss=planter
 15	numunkèkili	nùmu.kɛ.kíli	NOUN	n	_	14	obl	_	Gloss=forgeron|Morf=forgeron,forgeron,mâle,oeuf
-16	la	lá	ADP	pp	_	15	case	_	Gloss=dans
+16	la	lá	ADP	pp	_	15	case	_	Gloss=dans|SpaceAfter=No
 17	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:39
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:39
 # text = numunkè ye a gèn ka a gèn, ka fò ko : Namaramatu le, ele tògò Namaramatu !
 1	numunkè	nùmu.kɛ	NOUN	n	_	4	nsubj	_	Gloss=forgeron|Morf=forgeron,forgeron,mâle
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
-3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	obj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=3SG
 4	gèn	gɛ́n	VERB	v	_	0	root	_	Gloss=chasser
 5	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
-6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	obj	_	Gloss=3SG
-7	gèn	gɛ́n	VERB	v	_	4	xcomp	_	Gloss=chasser
+6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	obj	_	Gloss=3SG
+7	gèn	gɛ́n	VERB	v	_	4	xcomp	_	Gloss=chasser|SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	Gloss=,
 9	ka	kà	AUX	pm	_	10	aux	_	Gloss=INF
 10	fò	fɔ́	VERB	v	_	7	xcomp	_	Gloss=dire
 11	ko	kó	PART	cop	_	17	mark	_	Gloss=QUOT
 12	:	:	PUNCT	_	_	11	punct	_	Gloss=:
 13	Namaramatu	Namaramatu	PROPN	n.prop	_	17	dislocated	_	Gloss=NOM.F
-14	le	dè	PART	prt	_	13	discourse	_	Gloss=FOC
+14	le	dè	PART	prt	_	13	discourse	_	Gloss=FOC|SpaceAfter=No
 15	,	,	PUNCT	_	_	13	punct	_	Gloss=,
-16	ele	àle	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	17	nmod:poss	_	Gloss=3SG.EMPH
+16	ele	àle	PRON	pers	Number=Sing|Person=3|PronType=Emp	17	nmod:poss	_	Gloss=3SG.EMPH
 17	tògò	tɔ́gɔ	NOUN	n	_	10	parataxis:obj	_	Gloss=nom
 18	Namaramatu	Namaramatu	PROPN	n.prop	_	17	orphan	_	Gloss=NOM.F
 19	!	!	PUNCT	_	_	4	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:40
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:40
 # text = bamusosinkelentigè, ele tògò Namaramatu !
-1	bamusosinkelentigè	bá.muso.sin.kelen.tigɛ	NOUN	n	_	4	dislocated	_	Gloss=mère|Morf=mère,femme,sein,un,couper
+1	bamusosinkelentigè	bá.muso.sin.kelen.tigɛ	NOUN	n	_	4	dislocated	_	Gloss=mère|Morf=mère,femme,sein,un,couper|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
-3	ele	àle	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	4	nmod:posss	_	Gloss=3SG.EMPH
+3	ele	àle	PRON	pers	Number=Sing|Person=3|PronType=Emp	4	nmod:poss	_	Gloss=3SG.EMPH
 4	tògò	tɔ́gɔ	NOUN	n	_	0	root	_	Gloss=nom
 5	Namaramatu	Namaramatu	PROPN	n.prop	_	4	orphan	_	Gloss=NOM.F
 6	!	!	PUNCT	_	_	4	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:41
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:41
 # text = fyèntòjigin kòlòn na, ele tògò Namaramatu !
 1	fyèntòjigin	fíyen.tɔ.jigin	NOUN	n	_	2	nmod:poss	_	Gloss=aveugle|Morf=aveugle,rendre.aveugle,ST,descendre
 2	kòlòn	kɔ̀lɔn	NOUN	n	_	6	dislocated	_	Gloss=puits
-3	na	ná	ADP	pp	_	2	case	_	Gloss=dans
+3	na	ná	ADP	pp	_	2	case	_	Gloss=dans|SpaceAfter=No
 4	,	,	PUNCT	_	_	2	punct	_	Gloss=,
-5	ele	àle	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	6	nmod:poss	_	Gloss=3SG.EMPH
+5	ele	àle	PRON	pers	Number=Sing|Person=3|PronType=Emp	6	nmod:poss	_	Gloss=3SG.EMPH
 6	tògò	tɔ́gɔ	NOUN	n	_	0	root	_	Gloss=nom
 7	Namaramatu	Namaramatu	PROPN	n.prop	_	6	orphan	_	Gloss=NOM.F
 8	!	!	PUNCT	_	_	6	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:42
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:42
 # text = numunkèkàkilitigè, ele tògò Namaramatu !
-1	numunkèkàkilitigè	nùmu.kɛ.ka.kili.tigɛ	NOUN	n	_	4	discourse	_	Gloss=forgeron|Morf=forgeron,forgeron,mâle,POSS,oeuf,couper
+1	numunkèkàkilitigè	nùmu.kɛ.ka.kili.tigɛ	NOUN	n	_	4	discourse	_	Gloss=forgeron|Morf=forgeron,forgeron,mâle,POSS,oeuf,couper|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
-3	ele	àle	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	4	nmod:poss	_	Gloss=3SG.EMPH
+3	ele	àle	PRON	pers	Number=Sing|Person=3|PronType=Emp	4	nmod:poss	_	Gloss=3SG.EMPH
 4	tògò	tɔ́gɔ	NOUN	n	_	0	root	_	Gloss=nom
 5	Namaramatu	Namaramatu	PROPN	n.prop	_	4	orphan	_	Gloss=NOM.F
 6	!	!	PUNCT	_	_	4	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:43
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:43
 # text = Namaramatu le, ele tògò Namaramatu.
 1	Namaramatu	Namaramatu	PROPN	n.prop	_	5	dislocated	_	Gloss=NOM.F
-2	le	dè	PART	prt	_	1	discourse	_	Gloss=FOC
+2	le	dè	PART	prt	_	1	discourse	_	Gloss=FOC|SpaceAfter=No
 3	,	,	PUNCT	_	_	1	punct	_	Gloss=,
-4	ele	àle	PRON	pers	PronType=Prs|Number=Sing|Person=3|PronType=Emp	5	nmod:poss	_	Gloss=3SG.EMPH
+4	ele	àle	PRON	pers	Number=Sing|Person=3|PronType=Emp	5	nmod:poss	_	Gloss=3SG.EMPH
 5	tògò	tɔ̀gɔ	NOUN	n	_	0	root	_	Gloss=hanche|Morf=hanche,pièce.de.raccommodage,nom
-6	Namaramatu	Namaramatu	PROPN	n.prop	_	5	orphan	_	Gloss=NOM.F
+6	Namaramatu	Namaramatu	PROPN	n.prop	_	5	orphan	_	Gloss=NOM.F|SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:44
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:44
 # text = a tagara dugukònòmògò dò fè ko kònò dò bè yen, ko la o la, su fè, a bè na ko, su tè ko, dugu tè gè.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
-2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	tagara	tagara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
 3	dugukònòmògò	dugukɔnɔmɔgɔ	NOUN	n	_	2	obl	_	Gloss=terre|Morf=terre,dans,homme
 4	dò	dɔ́	DET	dtm	_	3	det	_	Gloss=certain
 5	fè	fɛ̀	ADP	pp	_	3	case	_	Gloss=par
@@ -670,131 +627,123 @@
 7	kònò	kɔ̀nɔ	NOUN	n	_	9	nsubj	_	Gloss=oiseau
 8	dò	dɔ́	DET	dtm	_	7	det	_	Gloss=certain
 9	bè	bɛ́	VERB	cop	_	2	parataxis:obj	_	Gloss=être
-10	yen	yèn	ADV	adv	_	9	obl	_	Gloss=là-bas
+10	yen	yèn	ADV	adv	_	9	obl	_	Gloss=là-bas|SpaceAfter=No
 11	,	,	PUNCT	_	_	9	punct	_	Gloss=,
 12	ko	kó	PART	cop	_	22	discourse	_	Gloss=QUOT
 13	la	dá	NOUN	n	_	22	obl	_	Gloss=jour
 14	o	ô	CCONJ	conj	_	15	cc	_	Gloss=DISTR
-15	la	dá	NOUN	n	_	13	conj	_	Gloss=jour
+15	la	dá	NOUN	n	_	13	conj	_	Gloss=jour|SpaceAfter=No
 16	,	,	PUNCT	_	_	13	punct	_	Gloss=,
 17	su	sú	NOUN	n	_	22	obl	_	Gloss=nuit
-18	fè	fɛ̀	ADP	pp	_	17	case	_	Gloss=par
+18	fè	fɛ̀	ADP	pp	_	17	case	_	Gloss=par|SpaceAfter=No
 19	,	,	PUNCT	_	_	17	punct	_	Gloss=,
-20	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	22	nsubj	_	Gloss=3SG
-21	bè	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	22	aux	_	Gloss=IPFV.AFF
+20	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	22	nsubj	_	Gloss=3SG
+21	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	22	aux	_	Gloss=IPFV.AFF
 22	na	nà	VERB	v	_	9	parataxis	_	Gloss=venir
-23	ko	kó	PART	cop	_	27	discourse	_	Gloss=QUOT
+23	ko	kó	PART	cop	_	27	discourse	_	Gloss=QUOT|SpaceAfter=No
 24	,	,	PUNCT	_	_	23	punct	_	Gloss=,
 25	su	sú	NOUN	n	_	27	nsubj	_	Gloss=nuit
-26	tè	tɛ	AUX	pm	Polarity=Neg|Aspect=Imp	27	aux	_	Gloss=IPFV.NEG
-27	ko	kò	VERB	v	_	22	parataxis	_	Gloss=arriver
+26	tè	tɛ	AUX	pm	Aspect=Imp|Polarity=Neg	27	aux	_	Gloss=IPFV.NEG
+27	ko	kò	VERB	v	_	22	parataxis	_	Gloss=arriver|SpaceAfter=No
 28	,	,	PUNCT	_	_	27	punct	_	Gloss=,
 29	dugu	dùgu	NOUN	n	_	31	nsubj	_	Gloss=terre
-30	tè	tɛ	AUX	pm	Polarity=Neg|Aspect=Imp	31	aux	_	Gloss=IPFV.NEG
-31	gè	jɛ́	VERB	v	_	27	parataxis	_	Gloss=blanchir
+30	tè	tɛ	AUX	pm	Aspect=Imp|Polarity=Neg	31	aux	_	Gloss=IPFV.NEG
+31	gè	jɛ́	VERB	v	_	27	parataxis	_	Gloss=blanchir|SpaceAfter=No
 32	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:45
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:45
 # text = a ko mun ?
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
 2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
 3	mun	mùn	PRON	prn	_	2	parataxis:obj	_	Gloss=quoi
 4	?	?	PUNCT	_	_	2	punct	_	Gloss=?
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:46
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:46
 # text = su tè ko, dugu tè gè ?
 1	su	sú	NOUN	n	_	3	nsubj	_	Gloss=nuit
-2	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	3	aux	_	Gloss=IPFV.NEG
-3	ko	kò	VERB	v	_	0	root	_	Gloss=arriver
+2	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	3	aux	_	Gloss=IPFV.NEG
+3	ko	kò	VERB	v	_	0	root	_	Gloss=arriver|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
 5	dugu	dùgu	NOUN	n	_	7	nsubj	_	Gloss=terre
-6	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	7	aux	_	Gloss=IPFV.NEG
+6	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	7	aux	_	Gloss=IPFV.NEG
 7	gè	jɛ́	VERB	v	_	3	parataxis	_	Gloss=blanchir
 8	?	?	PUNCT	_	_	3	punct	_	Gloss=?
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:47
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:47
 # text = ko bòn, an be a ye !
 1	ko	kó	PART	cop	_	7	discourse	_	Gloss=QUOT
-2	bòn	bòn	INTJ	intj	_	7	discourse	_	Gloss=EMPR
+2	bòn	bòn	INTJ	intj	_	7	discourse	_	Gloss=EMPR|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
-4	an	án	PRON	pers	PronType=Prs|Number=Plur|Person=1	7	nsubj	_	Gloss=1PL
-5	be	bé	AUX	pm	Polarity=Pos|Aspect=Imp	7	aux	_	Gloss=IPFV.AFF
-6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	obj	_	Gloss=3SG
+4	an	án	PRON	pers	Number=Plur|Person=1|PronType=Prs	7	nsubj	_	Gloss=1PL
+5	be	bé	AUX	pm	Aspect=Imp|Polarity=Pos	7	aux	_	Gloss=IPFV.AFF
+6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	obj	_	Gloss=3SG
 7	ye	yé	VERB	v	_	0	root	_	Gloss=voir
 8	!	!	PUNCT	_	_	7	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:48
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:48
 # text = a lara sa.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
-2	lara	dára	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=poser|Morf=poser,PFV.INTR
-3	sa	sá	PART	prt	_	2	discourse	_	Gloss=enfin
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	lara	dára	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=poser|Morf=poser,PFV.INTR
+3	sa	sá	PART	prt	_	2	discourse	_	Gloss=enfin|SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:49
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:49
 # text = kònòba nin nana.
 1	kònòba	kɔnɔba	NOUN	n	_	3	nsubj	_	Gloss=oiseau|Morf=oiseau,AUG
-2	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	1	det	_	Gloss=DEM
-3	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
+2	nin	nìn	DET	prn/dtm	Definite=Def|PronType=Dem	1	det	_	Gloss=DEM
+3	nana	nana	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=venir|Morf=venir,PFV.INTR|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:50
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:50
 # text = kònòba kunkolo ye woro ye, Namaramatu kunkolo ye wolonfila ye, kònòba nana : kònòba be dugu min na, su tè ko, dugu tè gè.
 1	kònòba	kɔnɔba	NOUN	n	_	2	nmod:poss	_	Gloss=oiseau|Morf=oiseau,AUGM
 2	kunkolo	kùnkolo	NOUN	n	_	3	nsubj	_	Gloss=crâne|Morf=crâne,tête,os
 3	ye	yé	VERB	cop	Polarity=Pos	0	root	_	Gloss=EQU
 4	woro	wɔ́ɔrɔ	NUM	num	_	3	obl	_	Gloss=six
-5	ye	yé	ADP	pp	_	4	case	_	Gloss=PP
+5	ye	yé	ADP	pp	_	4	case	_	Gloss=PP|SpaceAfter=No
 6	,	,	PUNCT	_	_	3	punct	_	Gloss=,
 7	Namaramatu	Namaramatu	PROPN	n.prop	_	8	nmod:poss	_	Gloss=NOM.F
 8	kunkolo	kùnkolo	NOUN	n	_	9	nsubj	_	Gloss=crâne|Morf=crâne,tête,os
 9	ye	yé	VERB	cop	Polarity=Pos	3	parataxis	_	Gloss=EQU
 10	wolonfila	wólonfìla	NUM	num	_	9	obl	_	Gloss=sept|Morf=sept,deux
-11	ye	yé	ADP	pp	_	10	case	_	Gloss=PP
+11	ye	yé	ADP	pp	_	10	case	_	Gloss=PP|SpaceAfter=No
 12	,	,	PUNCT	_	_	9	punct	_	Gloss=,
 13	kònòba	kɔnɔba	NOUN	n	_	14	nsubj	_	Gloss=oiseau|Morf=oiseau,AUGM
-14	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	9	parataxis	_	Gloss=venir|Morf=venir,PFV.INTR
+14	nana	nana	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	9	parataxis	_	Gloss=venir|Morf=venir,PFV.INTR
 15	:	:	PUNCT	_	_	14	punct	_	Gloss=:
 16	kònòba	kɔnɔba	NOUN	n	_	17	nsubj	_	Gloss=oiseau|Morf=oiseau,AUGM
 17	be	bɛ́	VERB	cop	_	24	acl	_	Gloss=être
 18	dugu	dùgu	NOUN	n	_	17	obl	_	Gloss=terre
 19	min	mîn	DET	dtm	PronType=Rel	18	det:rel	_	Gloss=REL
-20	na	ná	ADP	pp	_	18	case	_	Gloss=à
+20	na	ná	ADP	pp	_	18	case	_	Gloss=à|SpaceAfter=No
 21	,	,	PUNCT	_	_	17	punct	_	Gloss=,
 22	su	sú	NOUN	n	_	24	nsubj	_	Gloss=nuit
-23	tè	tɛ	AUX	pm	Polarity=Neg|Aspect=Imp	24	aux	_	Gloss=IPFV.NEG
-24	ko	kò	VERB	v	_	14	parataxis:obj	_	Gloss=arriver
+23	tè	tɛ	AUX	pm	Aspect=Imp|Polarity=Neg	24	aux	_	Gloss=IPFV.NEG
+24	ko	kò	VERB	v	_	14	parataxis:obj	_	Gloss=arriver|SpaceAfter=No
 25	,	,	PUNCT	_	_	24	punct	_	Gloss=,
 26	dugu	dùgu	NOUN	n	_	28	nsubj	_	Gloss=terre
-27	tè	tɛ	AUX	pm	Polarity=Neg|Aspect=Imp	28	aux	_	Gloss=IPFV.NEG
-28	gè	jɛ́	VERB	v	_	24	parataxis	_	Gloss=blanchir
+27	tè	tɛ	AUX	pm	Aspect=Imp|Polarity=Neg	28	aux	_	Gloss=IPFV.NEG
+28	gè	jɛ́	VERB	v	_	24	parataxis	_	Gloss=blanchir|SpaceAfter=No
 29	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:51
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:51
 # text = Namaramatu ye a fò wiyan wiyan wiyan !
 1	Namaramatu	Namaramatu	PROPN	n.prop	_	4	nsubj	_	Gloss=NOM.F
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
-3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=3SG
 4	fò	fɔ́	VERB	v	_	0	root	_	Gloss=dire
 5	wiyan	wiyan	INTJ	_	_	4	parataxis:obj	_	Gloss=CHNT
 6	wiyan	wiyan	INTJ	_	_	5	compound:redup	_	Gloss=CHNT
 7	wiyan	wiyan	INTJ	_	_	5	compound:redup	_	Gloss=CHNT
 8	!	!	PUNCT	_	_	4	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:52
-# text = kònòba nana kè da kun na, ko waaah ka kògò syèn ka jigin.
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:52
+# text = kònòba nana kè da kunna, ko waaah ka kògò syèn ka jigin.
 1	kònòba	kɔnɔba	NOUN	n	_	2	nsubj	_	Gloss=oiseau|Morf=oiseau,AUG
-2	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
+2	nana	nana	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
 3	kè	kɛ́	VERB	v	_	2	xcomp	_	Gloss=faire
 4	da	dá	NOUN	n	_	3	obl	_	Gloss=bouche
-5	kunna	kùn.na	ADP	pp	_	4	case	_	Gloss=au.dessus|Morf=au.dessus,tête,dans
+5	kunna	kùn.na	ADP	pp	_	4	case	_	Gloss=au.dessus|Morf=au.dessus,tête,dansn|SpaceAfter=No
 6	,	,	PUNCT	_	_	3	punct	_	Gloss=,
 7	ko	kó	PART	cop	_	11	discourse	_	Gloss=QUOT
 8	waaah	waaah	INTJ	_	_	11	discourse	_	Gloss=CHNT
@@ -802,36 +751,34 @@
 10	kògò	kógo	NOUN	n	_	11	obj	_	Gloss=petit.mur
 11	syèn	syɛ́n	VERB	v	_	3	parataxis:obj	_	Gloss=gratter
 12	ka	kà	AUX	pm	_	13	aux	_	Gloss=INF
-13	jigin	jìgin	VERB	v	_	11	xcomp	_	Gloss=descendre
+13	jigin	jìgin	VERB	v	_	11	xcomp	_	Gloss=descendre|SpaceAfter=No
 14	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:53
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:53
 # text = kònòba bilen ye a fò : kònòba be dugu min na, su tè ko, dugu tè gè.
 # label = rel_elided
 1	kònòba	kɔnɔba	NOUN	n	_	5	nsubj	_	Gloss=oiseau|Morf=oiseau,AUG
 2	bilen	bìlen	PART	adv	_	5	discourse	_	Gloss=encore
-3	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
-4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	obj	_	Gloss=3SG
+3	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
+4	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	obj	_	Gloss=3SG
 5	fò	fɔ́	VERB	v	_	0	root	_	Gloss=dire
 6	:	:	PUNCT	_	_	5	punct	_	Gloss=:
 7	kònòba	kɔnɔba	NOUN	n	_	8	nsubj	_	Gloss=oiseau|Morf=oiseau,AUG
 8	be	bɛ́	VERB	cop	Polarity=Pos	15	acl	_	Gloss=BE
 9	dugu	dùgu	NOUN	n	_	8	obl	_	Gloss=terre
 10	min	mín	DET	prn	PronType=Rel	9	det:rel	_	Gloss=REL
-11	na	ná	ADP	pp	_	9	case	_	Gloss=dans
+11	na	ná	ADP	pp	_	9	case	_	Gloss=dans|SpaceAfter=No
 12	,	,	PUNCT	_	_	8	punct	_	Gloss=,
 13	su	sú	NOUN	n	_	15	nsubj	_	Gloss=nuit
-14	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	15	aux	_	Gloss=IPFV.NEG
-15	ko	kò	VERB	v	_	5	parataxis:obj	_	Gloss=arriver
+14	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	15	aux	_	Gloss=IPFV.NEG
+15	ko	kò	VERB	v	_	5	parataxis:obj	_	Gloss=arriver|SpaceAfter=No
 16	,	,	PUNCT	_	_	15	punct	_	Gloss=,
 17	dugu	dùgu	NOUN	n	_	19	nsubj	_	Gloss=terre
-18	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	19	aux	_	Gloss=IPFV.NEG
-19	gè	jɛ́	VERB	v	_	15	parataxis	_	Gloss=blanchir
+18	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	19	aux	_	Gloss=IPFV.NEG
+19	gè	jɛ́	VERB	v	_	15	parataxis	_	Gloss=blanchir|SpaceAfter=No
 20	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:54
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:54
 # text = - wiyan wiyan wiyan !
 1	-	-	PUNCT	_	_	2	punct	_	Gloss=-
 2	wiyan	wiyan	INTJ	_	_	0	root	_	Gloss=CHNT
@@ -839,42 +786,40 @@
 4	wiyan	wiyan	INTJ	_	_	2	compound:redup	_	Gloss=CHNT
 5	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:55
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:55
 # text = a nana don Namaramatu kan ka sigi a kan, a bilen ye a fò : kònòba be dugu min na, su tè ko, dugu tè gè.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	2	nsubj	_	Gloss=3SG
-2	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	nana	nana	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=venir|Morf=venir,PFV.INTR
 3	don	dòn	VERB	v	_	2	xcomp	_	Gloss=entrer
 4	Namaramatu	Namaramatu	PROPN	n.prop	_	3	obl	_	Gloss=NOM.F
 5	kan	kàn	ADP	pp	_	4	case	_	Gloss=sur
 6	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
 7	sigi	sìgi	VERB	v	_	3	xcomp	_	Gloss=asseoir
-8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	obl	_	Gloss=3SG
-9	kan	kàn	ADP	pp	_	8	case	_	Gloss=sur
+8	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	obl	_	Gloss=3SG
+9	kan	kàn	ADP	pp	_	8	case	_	Gloss=sur|SpaceAfter=No
 10	,	,	PUNCT	_	_	7	punct	_	Gloss=,
-11	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	15	nsubj	_	Gloss=3SG
+11	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	15	nsubj	_	Gloss=3SG
 12	bilen	bìlen	PART	adv	_	15	discourse	_	Gloss=encore
-13	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	15	aux	_	Gloss=PFV.TR
-14	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	15	obj	_	Gloss=3SG
+13	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	15	aux	_	Gloss=PFV.TR
+14	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	15	obj	_	Gloss=3SG
 15	fò	fɔ́	VERB	v	_	7	parataxis	_	Gloss=dire
 16	:	:	PUNCT	_	_	15	punct	_	Gloss=:
 17	kònòba	kɔnɔba	NOUN	n	_	18	nsubj	_	Gloss=oiseau|Morf=oiseau,AUGM
 18	be	bɛ́	VERB	cop	_	25	acl	_	Gloss=être
 19	dugu	dùgu	NOUN	n	_	18	obl	_	Gloss=terre
 20	min	mîn	DET	dtm	PronType=Rel	19	det	_	Gloss=REL
-21	na	ná	ADP	pp	_	19	case	_	Gloss=à
+21	na	ná	ADP	pp	_	19	case	_	Gloss=à|SpaceAfter=No
 22	,	,	PUNCT	_	_	18	punct	_	Gloss=,
 23	su	sú	NOUN	n	_	25	nsubj	_	Gloss=nuit
-24	tè	tɛ	AUX	pm	Polarity=Neg|Aspect=Imp	25	aux	_	Gloss=IPFV.NEG
-25	ko	kò	VERB	v	_	15	parataxis:obj	_	Gloss=arriver
+24	tè	tɛ	AUX	pm	Aspect=Imp|Polarity=Neg	25	aux	_	Gloss=IPFV.NEG
+25	ko	kò	VERB	v	_	15	parataxis:obj	_	Gloss=arriver|SpaceAfter=No
 26	,	,	PUNCT	_	_	25	punct	_	Gloss=,
 27	dugu	dùgu	NOUN	n	_	29	nsubj	_	Gloss=terre
-28	tè	tɛ	AUX	pm	Polarity=Neg|Aspect=Imp	29	aux	_	Gloss=IPFV.NEG
-29	gè	jɛ́	VERB	v	_	25	parataxis	_	Gloss=blanchir
+28	tè	tɛ	AUX	pm	Aspect=Imp|Polarity=Neg	29	aux	_	Gloss=IPFV.NEG
+29	gè	jɛ́	VERB	v	_	25	parataxis	_	Gloss=blanchir|SpaceAfter=No
 30	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:56
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:56
 # text = - wiyan wiyan wiyan !
 1	-	-	PUNCT	_	_	2	punct	_	Gloss=-
 2	wiyan	wiyan	INTJ	_	_	0	root	_	Gloss=CHNT
@@ -882,101 +827,97 @@
 4	wiyan	wiyan	INTJ	_	_	2	compound:redup	_	Gloss=CHNT
 5	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:57
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:57
 # text = a ye Namaramatu kunkolo tigè, Namaramatu ye a kunkolo tigè, a ye Namaramatu kunkolo tigè, Namaramatu ye a kunkolo tigè, a ye Namaramatu kunkolo tigè, Namaramatu ye a kunkolo tigè, a ye Namaramatu kunkolo tigè, Namaramatu ye a kunkolo tigè, Namaramatu ta tora saba.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
-2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=3SG
+2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 3	Namaramatu	Namaramatu	PROPN	n.prop	_	4	nmod:poss	_	Gloss=NOM.F
 4	kunkolo	kùnkolo	NOUN	n	_	5	obj	_	Gloss=crâne|Morf=crâne,tête,os
-5	tigè	tìgɛ	VERB	v	_	0	root	_	Gloss=couper
+5	tigè	tìgɛ	VERB	v	_	0	root	_	Gloss=couper|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
 7	Namaramatu	Namaramatu	PROPN	n.prop	_	11	nsubj	_	Gloss=NOM.F
-8	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	11	aux	_	Gloss=PFV.TR
-9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	10	nmod:poss	_	Gloss=3SG
+8	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	11	aux	_	Gloss=PFV.TR
+9	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	10	nmod:poss	_	Gloss=3SG
 10	kunkolo	kùnkolo	NOUN	n	_	11	obj	_	Gloss=crâne|Morf=crâne,tête,os
-11	tigè	tìgɛ	VERB	v	_	5	parataxis	_	Gloss=couper
+11	tigè	tìgɛ	VERB	v	_	5	parataxis	_	Gloss=couper|SpaceAfter=No
 12	,	,	PUNCT	_	_	11	punct	_	Gloss=,
-13	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	17	nsubj	_	Gloss=3SG
-14	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	17	aux	_	Gloss=PFV.TR
+13	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	17	nsubj	_	Gloss=3SG
+14	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	17	aux	_	Gloss=PFV.TR
 15	Namaramatu	Namaramatu	PROPN	n.prop	_	16	nmod:poss	_	Gloss=NOM.F
 16	kunkolo	kùnkolo	NOUN	n	_	17	obj	_	Gloss=crâne|Morf=crâne,tête,os
-17	tigè	tìgɛ	VERB	v	_	11	parataxis	_	Gloss=couper
+17	tigè	tìgɛ	VERB	v	_	11	parataxis	_	Gloss=couper|SpaceAfter=No
 18	,	,	PUNCT	_	_	17	punct	_	Gloss=,
 19	Namaramatu	Namaramatu	PROPN	n.prop	_	23	nsubj	_	Gloss=NOM.F
-20	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	23	aux	_	Gloss=PFV.TR
-21	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	22	nmod:poss	_	Gloss=3SG
+20	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	23	aux	_	Gloss=PFV.TR
+21	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	22	nmod:poss	_	Gloss=3SG
 22	kunkolo	kùnkolo	NOUN	n	_	23	obj	_	Gloss=crâne|Morf=crâne,tête,os
-23	tigè	tìgɛ	VERB	v	_	17	parataxis	_	Gloss=couper
+23	tigè	tìgɛ	VERB	v	_	17	parataxis	_	Gloss=couper|SpaceAfter=No
 24	,	,	PUNCT	_	_	23	punct	_	Gloss=,
-25	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	29	nsubj	_	Gloss=3SG
-26	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	29	aux	_	Gloss=PFV.TR
+25	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	29	nsubj	_	Gloss=3SG
+26	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	29	aux	_	Gloss=PFV.TR
 27	Namaramatu	Namaramatu	PROPN	n.prop	_	28	nmod:poss	_	Gloss=NOM.F
 28	kunkolo	kùnkolo	NOUN	n	_	29	obj	_	Gloss=crâne|Morf=crâne,tête,os
-29	tigè	tìgɛ	VERB	v	_	23	parataxis	_	Gloss=couper
+29	tigè	tìgɛ	VERB	v	_	23	parataxis	_	Gloss=couper|SpaceAfter=No
 30	,	,	PUNCT	_	_	29	punct	_	Gloss=,
 31	Namaramatu	Namaramatu	PROPN	n.prop	_	35	nsubj	_	Gloss=NOM.F
-32	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	35	aux	_	Gloss=PFV.TR
-33	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	34	nmod:poss	_	Gloss=3SG
+32	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	35	aux	_	Gloss=PFV.TR
+33	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	34	nmod:poss	_	Gloss=3SG
 34	kunkolo	kùnkolo	NOUN	n	_	35	obj	_	Gloss=crâne|Morf=crâne,tête,os
-35	tigè	tìgɛ	VERB	v	_	29	parataxis	_	Gloss=couper
+35	tigè	tìgɛ	VERB	v	_	29	parataxis	_	Gloss=couper|SpaceAfter=No
 36	,	,	PUNCT	_	_	35	punct	_	Gloss=,
-37	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	41	nsubj	_	Gloss=3SG
-38	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	41	aux	_	Gloss=PFV.TR
+37	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	41	nsubj	_	Gloss=3SG
+38	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	41	aux	_	Gloss=PFV.TR
 39	Namaramatu	Namaramatu	PROPN	n.prop	_	40	nmod:poss	_	Gloss=NOM.F
 40	kunkolo	kùnkolo	NOUN	n	_	41	obj	_	Gloss=crâne|Morf=crâne,tête,os
-41	tigè	tìgɛ	VERB	v	_	35	parataxis	_	Gloss=couper
+41	tigè	tìgɛ	VERB	v	_	35	parataxis	_	Gloss=couper|SpaceAfter=No
 42	,	,	PUNCT	_	_	41	punct	_	Gloss=,
 43	Namaramatu	Namaramatu	PROPN	n.prop	_	47	nsubj	_	Gloss=NOM.F
-44	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	47	aux	_	Gloss=PFV.TR
-45	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	46	nmod:poss	_	Gloss=3SG
+44	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	47	aux	_	Gloss=PFV.TR
+45	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	46	nmod:poss	_	Gloss=3SG
 46	kunkolo	kùnkolo	NOUN	n	_	47	obj	_	Gloss=crâne|Morf=crâne,tête,os
-47	tigè	tìgɛ	VERB	v	_	41	parataxis	_	Gloss=couper
+47	tigè	tìgɛ	VERB	v	_	41	parataxis	_	Gloss=couper|SpaceAfter=No
 48	,	,	PUNCT	_	_	47	punct	_	Gloss=,
 49	Namaramatu	Namaramatu	PROPN	n.prop	_	50	nmod:poss	_	Gloss=NOM.F
 50	ta	tá	NOUN	n	_	51	nsubj	_	Gloss=propriété
-51	tora	tora	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	47	parataxis	_	Gloss=rester|Morf=rester,PFV.INTR
-52	saba	sàba	NUM	num	_	51	obl	_	Gloss=trois
+51	tora	tora	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	47	parataxis	_	Gloss=rester|Morf=rester,PFV.INTR
+52	saba	sàba	NUM	num	_	51	obl	_	Gloss=trois|SpaceAfter=No
 53	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:58
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:58
 # text = kònòba ta tora fila.
 1	kònòba	kɔnɔba	NOUN	n	_	2	nmod:poss	_	Gloss=oiseau|Morf=oiseau,AUG
 2	ta	tá	NOUN	n	_	3	nsubj	_	Gloss=propriété
-3	tora	tora	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=rester|Morf=rester,PFV.INTR
-4	fila	fìla	NUM	num	_	3	obl	_	Gloss=deux
+3	tora	tora	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=rester|Morf=rester,PFV.INTR
+4	fila	fìla	NUM	num	_	3	obl	_	Gloss=deux|SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:59
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:59
 # text = a ye a fò : kònòba bè dugu min na, su tè ko, dugu te gè :
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
-2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
-3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	obj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=3SG
+2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=3SG
 4	fò	fɔ́	VERB	v	_	0	root	_	Gloss=dire
 5	:	:	PUNCT	_	_	4	punct	_	Gloss=:
 6	kònòba	kɔnɔba	NOUN	n	_	7	nsubj	_	Gloss=oiseau|Morf=oiseau,AUGM
 7	bè	bɛ́	VERB	cop	_	14	acl	_	Gloss=être
 8	dugu	dùgu	NOUN	n	_	7	obl	_	Gloss=terre
 9	min	mîn	DET	dtm	PronType=Rel	8	det:rel	_	Gloss=REL
-10	na	ná	ADP	pp	_	8	case	_	Gloss=à
+10	na	ná	ADP	pp	_	8	case	_	Gloss=à|SpaceAfter=No
 11	,	,	PUNCT	_	_	7	punct	_	Gloss=,
 12	su	sú	NOUN	n	_	14	nsubj	_	Gloss=nuit
-13	tè	tɛ	AUX	pm	Polarity=Neg|Aspect=Imp	14	aux	_	Gloss=IPFV.NEG
-14	ko	kò	VERB	v	_	4	_	_	Gloss=arriver
+13	tè	tɛ	AUX	pm	Aspect=Imp|Polarity=Neg	14	aux	_	Gloss=IPFV.NEG
+14	ko	kò	VERB	v	_	4	parataxis:obj	_	Gloss=arriver|SpaceAfter=No
 15	,	,	PUNCT	_	_	14	punct	_	Gloss=,
 16	dugu	dùgu	NOUN	n	_	18	nsubj	_	Gloss=terre
-17	te	tɛ	AUX	pm	Polarity=Neg|Aspect=Imp	18	aux	_	Gloss=IPFV.NEG
+17	te	tɛ	AUX	pm	Aspect=Imp|Polarity=Neg	18	aux	_	Gloss=IPFV.NEG
 18	gè	jɛ́	VERB	v	_	14	parataxis	_	Gloss=blanchir
 19	:	:	PUNCT	_	_	4	punct	_	Gloss=:
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:60
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:60
 # text = Namaramatu ye a fò : - wiyan wiyan wiyan !
 1	Namaramatu	Namaramatu	PROPN	n.prop	_	4	nsubj	_	Gloss=NOM.F
-2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
-3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	obj	_	Gloss=3SG
+2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=3SG
 4	fò	fɔ́	VERB	v	_	0	root	_	Gloss=dire
 5	:	:	PUNCT	_	_	4	punct	_	Gloss=:
 6	-	-	PUNCT	_	_	7	punct	_	Gloss=-
@@ -985,192 +926,180 @@
 9	wiyan	wiyan	INTJ	_	_	7	compound:redup	_	Gloss=CHNT
 10	!	!	PUNCT	_	_	4	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:61
-# text = - kònòba bè dugu min na, su tè ko, dugu tè ge.
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:61
+# text = - kònòba bè dugu min na, su tè ko, dugu tè gè.
 # label = rel_elided
 1	-	-	PUNCT	_	_	3	punct	_	Gloss=-
 2	kònòba	kɔnɔba	NOUN	n	_	3	nsubj	_	Gloss=oiseau|Morf=oiseau,AUG
 3	bè	bɛ́	VERB	cop	Polarity=Pos	10	acl	_	Gloss=BE
 4	dugu	dùgu	NOUN	n	_	3	obl	_	Gloss=terre
 5	min	mín	DET	prn	PronType=Rel	4	det:rel	_	Gloss=REL
-6	na	ná	ADP	pp	_	4	case	_	Gloss=dans
+6	na	ná	ADP	pp	_	4	case	_	Gloss=dans|SpaceAfter=No
 7	,	,	PUNCT	_	_	3	punct	_	Gloss=,
 8	su	sú	NOUN	n	_	10	nsubj	_	Gloss=nuit
-9	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	10	aux	_	Gloss=IPFV.NEG
-10	ko	kò	VERB	v	_	0	root	_	Gloss=arriver
+9	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	10	aux	_	Gloss=IPFV.NEG
+10	ko	kò	VERB	v	_	0	root	_	Gloss=arriver|SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	Gloss=,
 12	dugu	dùgu	NOUN	n	_	14	nsubj	_	Gloss=terre
-13	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	14	aux	_	Gloss=IPFV.NEG
-14	gè	jɛ́	VERB	v	_	10	parataxis	_	Gloss=blanchir
+13	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	14	aux	_	Gloss=IPFV.NEG
+14	gè	jɛ́	VERB	v	_	10	parataxis	_	Gloss=blanchir|SpaceAfter=No
 15	.	.	PUNCT	_	_	10	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:62
-# text = - wiyan wiyan wiyan.
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:62
+# text = - wiyan wiyan wiyan!
 1	-	-	PUNCT	_	_	2	punct	_	Gloss=-
 2	wiyan	wiyan	INTJ	_	_	0	root	_	Gloss=CHNT
 3	wiyan	wiyan	INTJ	_	_	2	compound:redup	_	Gloss=CHNT
-4	wiyan	wiyan	INTJ	_	_	2	compound:redup	_	Gloss=CHNT
+4	wiyan	wiyan	INTJ	_	_	2	compound:redup	_	Gloss=CHNT|SpaceAfter=No
 5	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:63
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:63
 # text = a ye Namaramatu kunkolo tigè, Namaramatu ye a kunkolo tige.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 3	Namaramatu	Namaramatu	PROPN	n.prop	_	4	nmod:poss	_	Gloss=NOM.F
 4	kunkolo	kùn.kolo	NOUN	n	_	5	obj	_	Gloss=crâne|Morf=crâne,tête,os
-5	tigè	tìgɛ	VERB	v	_	0	root	_	Gloss=couper
+5	tigè	tìgɛ	VERB	v	_	0	root	_	Gloss=couper|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
 7	Namaramatu	Namaramatu	PROPN	n.prop	_	11	nsubj	_	Gloss=NOM.F
-8	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	11	aux	_	Gloss=PFV.TR
-9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	10	nmod:poss	_	Gloss=3SG
+8	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	11	aux	_	Gloss=PFV.TR
+9	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	10	nmod:poss	_	Gloss=3SG
 10	kunkolo	kùn.kolo	NOUN	n	_	11	obj	_	Gloss=crâne|Morf=crâne,tête,os
-11	tige	tìgɛ	VERB	v	_	5	parataxis	_	Gloss=couper
+11	tige	tìgɛ	VERB	v	_	5	parataxis	_	Gloss=couper|SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:64
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:64
 # text = Namaramatu ta tora fila, a ta tora kelen.
 1	Namaramatu	Namaramatu	PROPN	n.prop	_	2	nmod:poss	_	Gloss=NOM.F
 2	ta	tá	NOUN	n	_	3	nsubj	_	Gloss=propriété
-3	tora	tora	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=rester|Morf=rester,PFV.INTR
-4	fila	fìla	NUM	num	_	3	obl	_	Gloss=deux
+3	tora	tora	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=rester|Morf=rester,PFV.INTR
+4	fila	fìla	NUM	num	_	3	obl	_	Gloss=deux|SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	Gloss=,
-6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	7	nmod:poss	_	Gloss=3SG
+6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	nmod:poss	_	Gloss=3SG
 7	ta	tá	NOUN	n	_	8	nsubj	_	Gloss=propriété
-8	tora	tora	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	3	parataxis	_	Gloss=rester|Morf=rester,PFV.INTR
-9	kelen	kélen	NUM	num	_	8	obl	_	Gloss=un
+8	tora	tora	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	3	parataxis	_	Gloss=rester|Morf=rester,PFV.INTR
+9	kelen	kélen	NUM	num	_	8	obl	_	Gloss=un|SpaceAfter=No
 10	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:65
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:65
 # text = a ye a fò kònòba bè dugu min na, su tè ko, dugu tè gè.
 # label = rel_elided
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	nsubj	_	Gloss=3SG
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
-3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	obj	_	Gloss=3SG
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=3SG
 4	fò	fɔ́	VERB	v	_	0	root	_	Gloss=dire
 5	kònòba	kɔnɔba	NOUN	n	_	6	nsubj	_	Gloss=oiseau|Morf=oiseau,AUG
 6	bè	bɛ́	VERB	cop	Polarity=Pos	13	acl	_	Gloss=BE
 7	dugu	dùgu	NOUN	n	_	6	obl	_	Gloss=terre
 8	min	mín	DET	prn	PronType=Rel	7	det:rel	_	Gloss=REL
-9	na	ná	ADP	pp	_	7	case	_	Gloss=dans
+9	na	ná	ADP	pp	_	7	case	_	Gloss=dans|SpaceAfter=No
 10	,	,	PUNCT	_	_	6	punct	_	Gloss=,
 11	su	sú	NOUN	n	_	13	nsubj	_	Gloss=nuit
-12	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	13	aux	_	Gloss=IPFV.NEG
-13	ko	kò	VERB	v	_	4	parataxis:obj	_	Gloss=arriver
+12	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	13	aux	_	Gloss=IPFV.NEG
+13	ko	kò	VERB	v	_	4	parataxis:obj	_	Gloss=arriver|SpaceAfter=No
 14	,	,	PUNCT	_	_	13	punct	_	Gloss=,
 15	dugu	dùgu	NOUN	n	_	17	nsubj	_	Gloss=terre
-16	tè	tɛ́	AUX	pm	Polarity=Neg|Aspect=Imp	17	aux	_	Gloss=IPFV.NEG
-17	gè	jɛ́	VERB	v	_	13	parataxis	_	Gloss=blanchir
+16	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	17	aux	_	Gloss=IPFV.NEG
+17	gè	jɛ́	VERB	v	_	13	parataxis	_	Gloss=blanchir|SpaceAfter=No
 18	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:66
-# text = - wiyan wiyan wiyan.
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:66
+# text = - wiyan wiyan wiyan!
 1	-	-	PUNCT	_	_	2	punct	_	Gloss=-
 2	wiyan	wiyan	INTJ	_	_	0	root	_	Gloss=CHNT
 3	wiyan	wiyan	INTJ	_	_	2	compound:redup	_	Gloss=CHNT
-4	wiyan	wiyan	INTJ	_	_	2	compound:redup	_	Gloss=CHNT
+4	wiyan	wiyan	INTJ	_	_	2	compound:redup	_	Gloss=CHNT|SpaceAfter=No
 5	!	!	PUNCT	_	_	2	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:67
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:67
 # text = a ye Namaramatu ta tigè, Namaramatu ye a ta tigè.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 3	Namaramatu	Namaramatu	PROPN	n.prop	_	4	nmod:poss	_	Gloss=NOM.F
 4	ta	tá	NOUN	n	_	5	obj	_	Gloss=propriété
-5	tigè	tìgɛ	VERB	v	_	0	root	_	Gloss=couper
+5	tigè	tìgɛ	VERB	v	_	0	root	_	Gloss=couper|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
 7	Namaramatu	Namaramatu	PROPN	n.prop	_	11	nsubj	_	Gloss=NOM.F
-8	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	11	aux	_	Gloss=PFV.TR
-9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	10	nmod:poss	_	Gloss=3SG
+8	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	11	aux	_	Gloss=PFV.TR
+9	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	10	nmod:poss	_	Gloss=3SG
 10	ta	tá	NOUN	n	_	11	obj	_	Gloss=propriété
-11	tigè	tìgɛ	VERB	v	_	5	parataxis	_	Gloss=couper
+11	tigè	tìgɛ	VERB	v	_	5	parataxis	_	Gloss=couper|SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:68
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:68
 # text = a ye kònòba nin faga.
-1	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	5	nsubj	_	Gloss=3SG
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	5	aux	_	Gloss=PFV.TR
+1	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 3	kònòba	kɔnɔba	NOUN	n	_	5	obj	_	Gloss=oiseau|Morf=oiseau,AUG
-4	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	3	det	_	Gloss=DEM
-5	faga	fàga	VERB	v	_	0	root	_	Gloss=tuer
+4	nin	nìn	DET	prn/dtm	Definite=Def|PronType=Dem	3	det	_	Gloss=DEM
+5	faga	fàga	VERB	v	_	0	root	_	Gloss=tuer|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:69
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:69
 # text = Namaramatu ta tora kelen ye.
 1	Namaramatu	Namaramatu	PROPN	n.prop	_	2	nmod:poss	_	Gloss=NOM.F
 2	ta	tá	NOUN	n	_	3	nsubj	_	Gloss=propriété
-3	tora	tora	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=rester|Morf=rester,PFV.INTR
+3	tora	tora	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=rester|Morf=rester,PFV.INTR
 4	kelen	kélen	NUM	num	_	3	obl	_	Gloss=un
-5	ye	yé	ADP	pp	_	4	case	_	Gloss=PP
+5	ye	yé	ADP	pp	_	4	case	_	Gloss=PP|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:70
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:70
 # text = dugu gèra.
 1	dugu	dùgu	NOUN	n	_	2	nsubj	_	Gloss=terre
-2	gèra	jɛra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=blanchir|Morf=blanchir,PFV.INTR
+2	gèra	jɛra	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=blanchir|Morf=blanchir,PFV.INTR|SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:71
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:71
 # text = o ye a fò jòn le ye kònòba nin faga, bèè jèra ka a fò ko Namaramatu don !
 1	o	ò	PRON	prn	_	4	nsubj	_	Gloss=ce
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
-3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	4	obj	_	Gloss=3SG
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=3SG
 4	fò	fɔ́	VERB	v	_	0	root	_	Gloss=dire
 5	jòn	jɔ́n	PRON	prn	_	10	nsubj	_	Gloss=qui
 6	le	dè	PART	prt	_	5	discourse	_	Gloss=FOC
-7	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	10	aux	_	Gloss=PFV.TR
+7	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	10	aux	_	Gloss=PFV.TR
 8	kònòba	kɔnɔba	NOUN	n	_	10	obj	_	Gloss=oiseau|Morf=oiseau,AUG
-9	nin	nìn	DET	prn/dtm	PronType=Dem|Definite-Def	8	det	_	Gloss=DEM
-10	faga	fàga	VERB	v	_	4	ccomp	_	Gloss=tuer
+9	nin	nìn	DET	prn/dtm	Definite=Def|PronType=Dem	8	det	_	Gloss=DEM
+10	faga	fàga	VERB	v	_	4	ccomp	_	Gloss=tuer|SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	Gloss=,
 12	bèè	bɛ́ɛ	PRON	prn	_	13	nsubj	_	Gloss=chaque
-13	jèra	jɛra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	10	parataxis	_	Gloss=assembler|Morf=assembler,PFV.INTR
+13	jèra	jɛra	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	10	parataxis	_	Gloss=assembler|Morf=assembler,PFV.INTR
 14	ka	kà	AUX	pm	_	16	aux	_	Gloss=INF
-15	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	16	obj	_	Gloss=3SG
+15	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	16	obj	_	Gloss=3SG
 16	fò	fɔ́	VERB	v	_	13	xcomp	_	Gloss=dire
 17	ko	kó	PART	cop	_	19	discourse	_	Gloss=QUOT
 18	Namaramatu	Namaramatu	PROPN	n.prop	_	19	nsubj	_	Gloss=NOM.F
 19	don	dòn	VERB	cop	_	16	ccomp	_	Gloss=PRES
 20	!	!	PUNCT	_	_	4	punct	_	Gloss=!
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:72
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:72
 # text = Namaramatu bolila ka boli ka taga a yèrè kun fè.
 1	Namaramatu	Namaramatu	PROPN	n.prop	_	2	nsubj	_	Gloss=NOM.F
-2	bolila	bolila	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	0	root	_	Gloss=courir|Morf=courir,PFV.INTR
+2	bolila	bolila	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=courir|Morf=courir,PFV.INTR
 3	ka	kà	AUX	pm	_	4	aux	_	Gloss=INF
 4	boli	bòli	VERB	v	_	2	xcomp	_	Gloss=courir
 5	ka	kà	AUX	pm	_	6	aux	_	Gloss=INF
 6	taga	tága	VERB	v	_	4	xcomp	_	Gloss=aller
-7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	9	nmod:poss	_	Gloss=3SG
+7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	nmod:poss	_	Gloss=3SG
 8	yèrè	yɛ̀rɛ	DET	dtm	_	7	det	_	Gloss=même
 9	kun	kùn	NOUN	n	_	6	obl	_	Gloss=tête
-10	fè	fɛ̀	ADP	pp	_	9	case	_	Gloss=vers
+10	fè	fɛ̀	ADP	pp	_	9	case	_	Gloss=vers|SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
-
-# sent_id = html/meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:73
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:73
 # text = n ye nsiirinin sòrò yòrò min, n ye a bila yen.
 1	n	ń	PRON	pers	PronType=Prs	4	nsubj	_	Gloss=je
-2	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	4	aux	_	Gloss=PFV.TR
+2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
 3	nsiirinin	nsíirin.nin	NOUN	n	_	4	obj	_	Gloss=conte|Morf=conte,DIM
 4	sòrò	sɔ̀rɔ	VERB	v	_	12	acl	_	Gloss=obtenir
 5	yòrò	yɔ́rɔ	NOUN	n	_	4	obl	_	Gloss=lieu
-6	min	mín	DET	prn	PronType=Rel	5	det:rel	_	Gloss=REL
+6	min	mín	DET	prn	PronType=Rel	5	det:rel	_	Gloss=REL|SpaceAfter=No
 7	,	,	PUNCT	_	_	4	punct	_	Gloss=,
 8	n	ń	PRON	pers	PronType=Prs	11	nsubj	_	Gloss=je
-9	ye	yé	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	11	aux	_	Gloss=PFV.TR
-10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	11	obj	_	Gloss=3SG
+9	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	11	aux	_	Gloss=PFV.TR
+10	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	11	obj	_	Gloss=3SG
 11	bila	bìla	VERB	v	_	0	root	_	Gloss=mettre
-12	yen	yèn	ADV	adv/n	_	11	obl	_	Gloss=là-bas
+12	yen	yèn	ADV	adv/n	_	11	obl	_	Gloss=là-bas|SpaceAfter=No
 13	.	.	PUNCT	_	_	11	punct	_	Gloss=.
+

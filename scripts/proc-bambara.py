@@ -137,7 +137,7 @@ def get_udtags(lem, pos, gloss, all_glosses):
 		tags[1].append('Tense=Past')
 	if gloss == 'DEM':
 		tags[1].append('PronType=Dem')
-		tags[1].append('Definite-Def')
+		tags[1].append('Definite=Def')
 	if gloss == '3SG.EMPH':
 		tags[1].append('Number=Sing')
 		tags[1].append('Person=3')
