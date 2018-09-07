@@ -1,0 +1,544 @@
+# sent_id = ko.1
+# text = Maa be kolokuru jalan ta k' o di maa ma, ko k' o kɛ na ye!
+1	Maa	_	NOUN	_	_	5	nsubj	_	_
+2	be	_	AUX	_	_	5	aux	_	_
+3	kolokuru	_	NOUN	_	_	5	obj	_	_
+4	jalan	_	ADJ	_	_	3	amod	_	_
+5	ta	_	VERB	_	_	0	root	_	_
+6	k'	_	AUX	_	_	8	aux	_	_
+7	o	_	PRON	_	_	8	obj	_	_
+8	di	_	VERB	_	_	5	xcomp	_	_
+9	maa	_	NOUN	_	_	8	obl	_	_
+10	ma	_	ADP	_	_	9	case	_	SpaceAfter=No
+11	,	_	PUNCT	_	_	8	punct	_	_
+12	ko	_	PART	_	_	15	discourse	_	_
+13	k'	_	AUX	_	_	15	aux	_	_
+14	o	_	PRON	_	_	15	nsubj	_	_
+15	kɛ	_	VERB	_	_	8	parataxis	_	_
+16	na	_	NOUN	_	_	15	obl	_	_
+17	ye	_	ADP	_	_	16	case	_	SpaceAfter=No
+18	!	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = ko.2
+# text = A ka kan ka bugudanin sigi bamamakɔ da la, ko tɛmɛbaatɔw na sogo san yen.
+1	A	_	PRON	_	_	3	nsubj	_	_
+2	ka	_	AUX	_	_	3	aux	_	_
+3	kan	_	VERB	_	_	0	root	_	_
+4	ka	_	AUX	_	_	6	aux	_	_
+5	bugudanin	_	NOUN	_	_	6	obj	_	_
+6	sigi	_	VERB	_	_	3	xcomp	_	_
+7	bamamakɔ	_	NOUN	_	_	8	nmod:poss	_	_
+8	da	_	NOUN	_	_	6	obl	_	_
+9	la	_	ADP	_	_	8	case	_	SpaceAfter=No
+10	,	_	PUNCT	_	_	3	punct	_	_
+11	ko	_	PART	_	_	15	discourse	_	_
+12	tɛmɛbaatɔw	_	NOUN	_	_	15	nsubj	_	_
+13	na	_	AUX	_	_	15	aux	_	_
+14	sogo	_	NOUN	_	_	15	obj	_	_
+15	san	_	VERB	_	_	3	parataxis:obj	_	_
+16	yen	_	ADV	_	_	15	obl	_	SpaceAfter=No
+17	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = ko.3
+# text = A fɔ ko u delila, ko maa caman bɛ tɛmɛ sira in fɛ yen.
+1	A	_	PRON	_	_	2	nsubj	_	_
+2	fɔ	_	VERB	_	_	0	root	_	_
+3	ko	_	PART	_	_	5	discourse	_	_
+4	u	_	PRON	_	_	5	nsubj	_	_
+5	delila	_	VERB	_	_	2	parataxis:obj	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	2	punct	_	_
+7	ko	_	PART	_	_	11	discourse	_	_
+8	maa	_	NOUN	_	_	11	nsubj	_	_
+9	caman	_	ADJ	_	_	8	amod	_	_
+10	bɛ	_	AUX	_	_	11	aux	_	_
+11	tɛmɛ	_	VERB	_	_	2	parataxis	_	_
+12	sira	_	NOUN	_	_	11	obl	_	_
+13	in	_	DET	_	_	12	det	_	_
+14	fɛ	_	ADP	_	_	12	case	_	_
+15	yen	_	ADV	_	_	11	obl	_	SpaceAfter=No
+16	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = ko.4
+# text = O bɛ wele ko Azawadi.
+1	O	_	PRON	_	_	3	nsubj	_	_
+2	bɛ	_	AUX	_	_	3	aux	_	_
+3	wele	_	VERB	_	_	0	root	_	_
+4	ko	_	PART	_	_	5	discourse	_	_
+5	Azawadi	_	PROPN	_	_	3	obl	_	SpaceAfter=No
+6	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = ko.5
+# text = An b' a dɔn ko ko jamanamara ka kan ka tali kɛ kɔrɔnfɛmaraw ka tarikuw.
+1	An	_	PRON	_	_	4	nsubj	_	_
+2	b'	_	AUX	_	_	4	aux	_	_
+3	a	_	PRON	_	_	4	obj	_	_
+4	dɔn	_	VERB	_	_	0	root	_	_
+5	ko	_	PART	_	_	9	discourse	_	_
+6	ko	_	PART	_	_	9	discourse	_	_
+7	jamanamara	_	NOUN	_	_	9	nsubj	_	_
+8	ka	_	AUX	_	_	9	aux	_	_
+9	kan	_	VERB	_	_	4	ccomp	_	_
+10	ka	_	AUX	_	_	12	aux	_	_
+11	tali	_	NOUN	_	_	12	obj	_	_
+12	kɛ	_	VERB	_	_	4	xcomp	_	_
+13	kɔrɔnfɛmaraw	_	NOUN	_	_	15	nmod:poss	_	_
+14	ka	_	ADP	_	_	13	case	_	_
+15	tarikuw	_	NOUN	_	_	12	obl	_	SpaceAfter=No
+16	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = ko.6
+# text = A bɛ fɔ ko sigi tɛ mɔgɔ sɔn, nka yaala kojugu, o bɛ maa don ko la.
+1	A	_	PRON	_	_	3	nsubj	_	_
+2	bɛ	_	AUX	_	_	3	aux	_	_
+3	fɔ	_	VERB	_	_	0	root	_	_
+4	ko	_	PART	_	_	8	discourse	_	_
+5	sigi	_	NOUN	_	_	8	nsubj	_	_
+6	tɛ	_	AUX	_	_	8	aux	_	_
+7	mɔgɔ	_	NOUN	_	_	8	obj	_	_
+8	sɔn	_	VERB	_	_	3	parataxis:obj	_	SpaceAfter=No
+9	,	_	PUNCT	_	_	8	punct	_	_
+10	nka	_	CCONJ	_	_	11	cc	_	_
+11	yaala	_	VERB	_	_	8	conj	_	_
+12	kojugu	_	ADV	_	_	11	obl	_	SpaceAfter=No
+13	,	_	PUNCT	_	_	11	punct	_	_
+14	o	_	PRON	_	_	17	nsubj	_	_
+15	bɛ	_	AUX	_	_	17	aux	_	_
+16	maa	_	NOUN	_	_	17	obj	_	_
+17	don	_	VERB	_	_	8	parataxis	_	_
+18	ko	_	NOUN	_	_	17	obl	_	_
+19	la	_	ADP	_	_	18	case	_	SpaceAfter=No
+20	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = ko.7
+# text = Olu ye du joli kɛ tomo ye, dugu duman filen kɛ kolon ye, ko olu bɛ ka kɛlɛ kɛ ni Ala ye!
+# label = strange_xcomp
+1	Olu	_	PRON	_	_	5	nsubj	_	_
+2	ye	_	AUX	_	_	5	aux	_	_
+3	du	_	NOUN	_	_	5	obj	_	_
+4	joli	_	PRON	_	_	3	det	_	_
+5	kɛ	_	VERB	_	_	0	root	_	_
+6	tomo	_	NOUN	_	_	5	obl	_	_
+7	ye	_	ADP	_	_	6	case	_	SpaceAfter=No
+8	,	_	PUNCT	_	_	5	punct	_	_
+9	dugu	_	NOUN	_	_	12	obj	_	_
+10	duman	_	ADJ	_	_	9	amod	_	_
+11	filen	_	NOUN	_	_	9	appos	_	_
+12	kɛ	_	VERB	_	_	5	xcomp	_	_
+13	kolon	_	ADJ	_	_	12	obl	_	_
+14	ye	_	ADP	_	_	13	case	_	SpaceAfter=No
+15	,	_	PUNCT	_	_	12	punct	_	_
+16	ko	_	PART	_	_	21	discourse	_	_
+17	olu	_	PRON	_	_	21	nsubj	_	_
+18	bɛ	_	AUX	_	_	21	aux	_	_
+19	ka	_	AUX	_	_	18	fixed	_	_
+20	kɛlɛ	_	NOUN	_	_	21	obj	_	_
+21	kɛ	_	VERB	_	_	12	parataxis	_	_
+22	ni	_	ADP	_	_	23	case	_	_
+23	Ala	_	PROPN	_	_	21	obl	_	_
+24	ye	_	ADP	_	_	23	case	_	SpaceAfter=No
+25	!	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = ko.8
+# text = Sonsannin, n' a bɛ wele ko Jaason, o lafilila kojugu.
+1	Sonsannin	_	NOUN	_	_	11	vocative	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	n'	_	SCONJ	_	_	6	mark	_	_
+4	a	_	PRON	_	_	6	nsubj	_	_
+5	bɛ	_	AUX	_	_	6	aux	_	_
+6	wele	_	VERB	_	_	11	advcl	_	_
+7	ko	_	PART	_	_	8	discourse	_	_
+8	Jaason	_	PROPN	_	_	6	parataxis:obj	_	SpaceAfter=No
+9	,	_	PUNCT	_	_	6	punct	_	_
+10	o	_	PRON	_	_	11	nsubj	_	_
+11	lafilila	_	VERB	_	_	0	root	_	_
+12	kojugu	_	ADV	_	_	11	obl	_	SpaceAfter=No
+13	.	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = ko.9
+# text = Dugutigi ye mɔgɔ bila ka taga a fɔ sonsannin ye ko ɲɛnajɛ bɔtuma surunyana, ko a ka labɛnw kɛ.
+1	Dugutigi	_	NOUN	_	_	4	nsubj	_	_
+2	ye	_	AUX	_	_	4	aux	_	_
+3	mɔgɔ	_	NOUN	_	_	4	obj	_	_
+4	bila	_	VERB	_	_	0	root	_	_
+5	ka	_	AUX	_	_	6	aux	_	_
+6	taga	_	VERB	_	_	4	xcomp	_	_
+7	a	_	PRON	_	_	8	obj	_	_
+8	fɔ	_	VERB	_	_	6	xcomp	_	_
+9	sonsannin	_	NOUN	_	_	8	obl	_	_
+10	ye	_	ADP	_	_	9	case	_	_
+11	ko	_	PART	_	_	14	discourse	_	_
+12	ɲɛnajɛ	_	NOUN	_	_	13	nmod:poss	_	_
+13	bɔtuma	_	NOUN	_	_	14	nsubj	_	_
+14	surunyana	_	VERB	_	_	8	parataxis:obj	_	SpaceAfter=No
+15	,	_	PUNCT	_	_	14	punct	_	_
+16	ko	_	PART	_	_	20	discourse	_	_
+17	a	_	PRON	_	_	19	nmod:poss	_	_
+18	ka	_	ADP	_	_	17	case	_	_
+19	labɛnw	_	NOUN	_	_	20	obj	_	_
+20	kɛ	_	VERB	_	_	14	parataxis	_	SpaceAfter=No
+21	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = ko.10
+# text = A fɔ i dugudenw ye, ko u bɛɛ ka na ni basi sogo, kini, dɛgɛ, ani dumuni duman caman ye.
+1	A	_	PRON	_	_	2	obj	_	_
+2	fɔ	_	VERB	_	_	0	root	_	_
+3	i	_	PRON	_	_	4	nmod:poss	_	_
+4	dugudenw	_	NOUN	_	_	2	obl	_	_
+5	ye	_	ADP	_	_	4	case	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	2	punct	_	_
+7	ko	_	PART	_	_	11	discourse	_	_
+8	u	_	PRON	_	_	11	nsubj	_	_
+9	bɛɛ	_	DET	_	_	8	det	_	_
+10	ka	_	AUX	_	_	11	aux	_	_
+11	na	_	VERB	_	_	2	parataxis:obj	_	_
+12	ni	_	ADP	_	_	13	case	_	_
+13	basi	_	NOUN	_	_	11	obl	_	_
+14	sogo	_	NOUN	_	_	11	obl	_	SpaceAfter=No
+15	,	_	PUNCT	_	_	14	punct	_	_
+16	kini	_	NOUN	_	_	11	obl	_	SpaceAfter=No
+17	,	_	PUNCT	_	_	16	punct	_	_
+18	dɛgɛ	_	NOUN	_	_	11	obl	_	SpaceAfter=No
+19	,	_	PUNCT	_	_	18	punct	_	_
+20	ani	_	CCONJ	_	_	21	cc	_	_
+21	dumuni	_	NOUN	_	_	11	obl	_	_
+22	duman	_	ADJ	_	_	21	amod	_	_
+23	caman	_	ADJ	_	_	21	amod	_	_
+24	ye	_	ADP	_	_	21	case	_	SpaceAfter=No
+25	.	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = ko.11
+# text = Sigidankelen, e ma dɔn ko ɲin si tɛ kologɛlɛya mulukuli ma wa?
+1	Sigidankelen	_	PROPN	_	_	5	vocative	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	e	_	PRON	_	_	5	nsubj	_	_
+4	ma	_	AUX	_	_	5	aux	_	_
+5	dɔn	_	VERB	_	_	0	root	_	_
+6	ko	_	PART	_	_	10	discourse	_	_
+7	ɲin	_	NOUN	_	_	10	nsubj	_	_
+8	si	_	DET	_	_	7	det	_	_
+9	tɛ	_	AUX	_	_	10	aux	_	_
+10	kologɛlɛya	_	VERB	_	_	5	parataxis:obj	_	_
+11	mulukuli	_	NOUN	_	_	10	obl	_	_
+12	ma	_	ADP	_	_	11	case	_	_
+13	wa	_	PART	_	_	10	discourse	_	SpaceAfter=No
+14	?	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = ko.12
+# text = Dugutigi y' a fɔ sonsannin ye ko a ka ɲɛnajɛ ka di, ko su kelen tɛ u fara ɲɔgɔn na.
+1	Dugutigi	_	NOUN	_	_	4	nsubj	_	_
+2	y'	_	AUX	_	_	4	aux	_	_
+3	a	_	PRON	_	_	4	obj	_	_
+4	fɔ	_	VERB	_	_	0	root	_	_
+5	sonsannin	_	NOUN	_	_	4	obl	_	_
+6	ye	_	ADP	_	_	5	case	_	_
+7	ko	_	PART	_	_	12	discourse	_	_
+8	a	_	PRON	_	_	10	nmod:poss	_	_
+9	ka	_	ADP	_	_	8	case	_	_
+10	ɲɛnajɛ	_	NOUN	_	_	12	nsubj	_	_
+11	ka	_	AUX	_	_	12	aux	_	_
+12	di	_	VERB	_	_	4	parataxis:obj	_	SpaceAfter=No
+13	,	_	PUNCT	_	_	12	punct	_	_
+14	ko	_	PART	_	_	19	discourse	_	_
+15	su	_	NOUN	_	_	19	nsubj	_	_
+16	kelen	_	NUM	_	_	15	nummod	_	_
+17	tɛ	_	AUX	_	_	19	aux	_	_
+18	u	_	PRON	_	_	19	obj	_	_
+19	fara	_	VERB	_	_	12	parataxis	_	_
+20	ɲɔgɔn	_	PRON	_	_	19	obl	_	_
+21	na	_	ADP	_	_	20	case	_	SpaceAfter=No
+22	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = ko.13
+# text = U ye yamariya di surukuba ma, ko a k' o laada latilen.
+1	U	_	PRON	_	_	4	nsubj	_	_
+2	ye	_	AUX	_	_	4	aux	_	_
+3	yamariya	_	NOUN	_	_	4	obj	_	_
+4	di	_	VERB	_	_	0	root	_	_
+5	surukuba	_	NOUN	_	_	4	obl	_	_
+6	ma	_	ADP	_	_	5	case	_	SpaceAfter=No
+7	,	_	PUNCT	_	_	4	punct	_	_
+8	ko	_	PART	_	_	13	discourse	_	_
+9	a	_	PRON	_	_	13	nsubj	_	_
+10	k'	_	AUX	_	_	13	aux	_	_
+11	o	_	PRON	_	_	12	nmod:poss	_	_
+12	laada	_	NOUN	_	_	13	obj	_	_
+13	latilen	_	VERB	_	_	4	parataxis:obj	_	SpaceAfter=No
+14	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = ko.14
+# text = Zan tagara foro la, ko a bɛ t' a ɲɛ da sumanw kan.
+1	Zan	_	PROPN	_	_	2	nsubj	_	_
+2	tagara	_	VERB	_	_	0	root	_	_
+3	foro	_	NOUN	_	_	2	obl	_	_
+4	la	_	ADP	_	_	3	case	_	SpaceAfter=No
+5	,	_	PUNCT	_	_	2	punct	_	_
+6	ko	_	PART	_	_	9	discourse	_	_
+7	a	_	PRON	_	_	9	nsubj	_	_
+8	bɛ	_	AUX	_	_	9	aux	_	_
+9	t'	_	VERB	_	_	2	ccomp	_	_
+10	a	_	PRON	_	_	11	nmod:poss	_	_
+11	ɲɛ	_	NOUN	_	_	12	obj	_	_
+12	da	_	VERB	_	_	9	xcomp	_	_
+13	sumanw	_	NOUN	_	_	12	obl	_	_
+14	kan	_	ADP	_	_	13	case	_	SpaceAfter=No
+15	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = ko.15
+# text = a bɛ fɔ ko kɔrɔtɔ ye sogosan ye.
+1	a	_	PRON	_	_	3	nsubj	_	_
+2	bɛ	_	AUX	_	_	3	aux	_	_
+3	fɔ	_	VERB	_	_	0	root	_	_
+4	ko	_	PART	_	_	6	discourse	_	_
+5	kɔrɔtɔ	_	NOUN	_	_	6	nsubj	_	_
+6	ye	_	VERB	_	_	3	ccomp	_	_
+7	sogosan	_	NOUN	_	_	6	obl	_	_
+8	ye	_	ADP	_	_	7	case	_	SpaceAfter=No
+9	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = ko.16
+# text = a bɛ k' i ta i tɛgɛ ma k' i bolonkɔniw kɛ taamashyɛn ye, ko “i ma bolonkɔniw ye?"
+1	a	_	PRON	_	_	5	nsubj	_	_
+2	bɛ	_	AUX	_	_	5	aux	_	_
+3	k'	_	AUX	_	_	2	fixed	_	_
+4	i	_	PRON	_	_	5	obj	_	_
+5	ta	_	VERB	_	_	0	root	_	_
+6	i	_	PRON	_	_	7	nmod:poss	_	_
+7	tɛgɛ	_	NOUN	_	_	5	obl	_	_
+8	ma	_	ADP	_	_	7	case	_	_
+9	k'	_	AUX	_	_	12	aux	_	_
+10	i	_	PRON	_	_	11	nmod:poss	_	_
+11	bolonkɔniw	_	NOUN	_	_	12	nsubj	_	_
+12	kɛ	_	VERB	_	_	5	xcomp	_	_
+13	taamashyɛn	_	NOUN	_	_	12	obl	_	_
+14	ye	_	ADP	_	_	13	case	_	SpaceAfter=No
+15	,	_	PUNCT	_	_	12	punct	_	_
+16	ko	_	PART	_	_	21	discourse	_	_
+17	“	_	PUNCT	_	_	21	punct	_	SpaceAfter=No
+18	i	_	PRON	_	_	21	nsubj	_	_
+19	ma	_	AUX	_	_	21	aux	_	_
+20	bolonkɔniw	_	NOUN	_	_	21	obj	_	_
+21	ye	_	VERB	_	_	12	parataxis	_	SpaceAfter=No
+22	?	_	PUNCT	_	_	21	punct	_	SpaceAfter=No
+23	"	_	PUNCT	_	_	21	punct	_	_
+
+# sent_id = ko.17
+# text = musokɔrɔba tlala ka suyansiirin dɔ da: ko musokɔrɔnin dɔ n' a suɲɔgɔnw y' a denw bɛɛ kelen-kelen dun fo ka se wolonflanan ma.
+1	musokɔrɔba	_	NOUN	_	_	2	nsubj	_	_
+2	tlala	_	VERB	_	_	0	root	_	_
+3	ka	_	AUX	_	_	6	aux	_	_
+4	suyansiirin	_	NOUN	_	_	6	obj	_	_
+5	dɔ	_	DET	_	_	4	det	_	_
+6	da	_	VERB	_	_	2	xcomp	_	SpaceAfter=No
+7	:	_	PUNCT	_	_	2	punct	_	_
+8	ko	_	PART	_	_	19	discourse	_	_
+9	musokɔrɔnin	_	NOUN	_	_	19	nsubj	_	_
+10	dɔ	_	DET	_	_	9	det	_	_
+11	n'	_	CCONJ	_	_	13	cc	_	_
+12	a	_	PRON	_	_	13	nmod:poss	_	_
+13	suɲɔgɔnw	_	NOUN	_	_	9	conj	_	_
+14	y'	_	AUX	_	_	19	aux	_	_
+15	a	_	PRON	_	_	16	nmod:poss	_	_
+16	denw	_	NOUN	_	_	19	obj	_	_
+17	bɛɛ	_	DET	_	_	16	det	_	_
+18	kelen-kelen	_	NUM	_	_	16	nummod	_	_
+19	dun	_	VERB	_	_	2	ccomp	_	_
+20	fo	_	SCONJ	_	_	22	mark	_	_
+21	ka	_	AUX	_	_	22	aux	_	_
+22	se	_	VERB	_	_	19	advcl	_	_
+23	wolonflanan	_	NOUN	_	_	22	obl	_	_
+24	ma	_	ADP	_	_	23	case	_	SpaceAfter=No
+25	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = ko.18
+# text = u ni dugu kolakalilaba dɔ don, ko Mɛnkɔrɔ.
+1	u	_	PRON	_	_	6	nsubj	_	_
+2	ni	_	CCONJ	_	_	4	cc	_	_
+3	dugu	_	NOUN	_	_	4	nmod:poss	_	_
+4	kolakalilaba	_	NOUN	_	_	1	conj	_	_
+5	dɔ	_	DET	_	_	4	det	_	_
+6	don	_	VERB	_	_	0	root	_	SpaceAfter=No
+7	,	_	PUNCT	_	_	6	punct	_	_
+8	ko	_	PART	_	_	9	discourse	_	_
+9	Mɛnkɔrɔ	_	PROPN	_	_	6	obl	_	SpaceAfter=No
+10	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = ko.19
+# text = a selen o ma kokura, o ko a ma, ko a ka kɔɲɔmuso tere de bɛ k' a ka ko bɛɛ gɛlɛya tan.
+1	a	_	PRON	_	_	2	nsubj	_	_
+2	selen	_	VERB	_	_	0	root	_	_
+3	o	_	PRON	_	_	2	obl	_	_
+4	ma	_	ADP	_	_	3	case	_	_
+5	kokura	_	ADV	_	_	2	obl	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	2	punct	_	_
+7	o	_	PRON	_	_	8	nsubj	_	_
+8	ko	_	VERB	_	_	2	parataxis	_	_
+9	a	_	PRON	_	_	8	obl	_	_
+10	ma	_	ADP	_	_	9	case	_	SpaceAfter=No
+11	,	_	PUNCT	_	_	8	punct	_	_
+12	ko	_	PART	_	_	16	discourse	_	_
+13	a	_	PRON	_	_	16	nmod:poss	_	_
+14	ka	_	ADP	_	_	13	case	_	_
+15	kɔɲɔmuso	_	NOUN	_	_	16	nmod:poss	_	_
+16	tere	_	NOUN	_	_	24	nsubj	_	_
+17	de	_	PART	_	_	16	discourse	_	_
+18	bɛ	_	AUX	_	_	24	aux	_	_
+19	k'	_	AUX	_	_	18	fixed	_	_
+20	a	_	PRON	_	_	22	nmod:poss	_	_
+21	ka	_	ADP	_	_	20	case	_	_
+22	ko	_	NOUN	_	_	24	obj	_	_
+23	bɛɛ	_	DET	_	_	22	det	_	_
+24	gɛlɛya	_	VERB	_	_	8	parataxis:obj	_	_
+25	tan	_	ADV	_	_	24	obl	_	SpaceAfter=No
+26	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = ko.20
+# text = a bɛ san caman bɔ bi, a kɔlɔsira Afiriki tilebinyanfan jamanaw kɔnɔ, ko yɛlɛma belebelew donna baloko jogow la an ka duw kɔnɔ, duguba ani togoda bɛɛ la.
+1	a	_	PRON	_	_	5	nsubj	_	_
+2	bɛ	_	AUX	_	_	5	aux	_	_
+3	san	_	NOUN	_	_	5	obj	_	_
+4	caman	_	ADJ	_	_	3	amod	_	_
+5	bɔ	_	VERB	_	_	0	root	_	_
+6	bi	_	ADV	_	_	5	obl	_	SpaceAfter=No
+7	,	_	PUNCT	_	_	5	punct	_	_
+8	a	_	PRON	_	_	9	nsubj	_	_
+9	kɔlɔsira	_	VERB	_	_	5	parataxis	_	_
+10	Afiriki	_	PROPN	_	_	11	nmod:poss	_	_
+11	tilebinyanfan	_	NOUN	_	_	12	nmod:poss	_	_
+12	jamanaw	_	NOUN	_	_	9	obl	_	_
+13	kɔnɔ	_	ADP	_	_	12	case	_	SpaceAfter=No
+14	,	_	PUNCT	_	_	9	punct	_	_
+15	ko	_	PART	_	_	18	discourse	_	_
+16	yɛlɛma	_	NOUN	_	_	18	nsubj	_	_
+17	belebelew	_	ADJ	_	_	16	amod	_	_
+18	donna	_	VERB	_	_	9	ccomp	_	_
+19	baloko	_	NOUN	_	_	20	nmod:poss	_	_
+20	jogow	_	NOUN	_	_	18	obl	_	_
+21	la	_	ADP	_	_	20	case	_	_
+22	an	_	PRON	_	_	24	nmod:poss	_	_
+23	ka	_	ADP	_	_	22	case	_	_
+24	duw	_	NOUN	_	_	18	obl	_	_
+25	kɔnɔ	_	ADP	_	_	24	case	_	SpaceAfter=No
+26	,	_	PUNCT	_	_	18	punct	_	_
+27	duguba	_	NOUN	_	_	18	obl	_	_
+28	ani	_	CCONJ	_	_	29	cc	_	_
+29	togoda	_	NOUN	_	_	27	conj	_	_
+30	bɛɛ	_	DET	_	_	29	det	_	_
+31	la	_	ADP	_	_	29	case	_	SpaceAfter=No
+32	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = ko.21
+# text = an bɛ tigɛ a kan o cogo la, ko nɔgɔ bagama ma fiyɛ u la.
+1	an	_	NOUN	_	_	3	nsubj	_	_
+2	bɛ	_	AUX	_	_	3	aux	_	_
+3	tigɛ	_	VERB	_	_	0	root	_	_
+4	a	_	PRON	_	_	3	obl	_	_
+5	kan	_	ADP	_	_	4	case	_	_
+6	o	_	PRON	_	_	7	nmod:poss	_	_
+7	cogo	_	NOUN	_	_	3	obl	_	_
+8	la	_	ADP	_	_	7	case	_	SpaceAfter=No
+9	,	_	PUNCT	_	_	3	punct	_	_
+10	ko	_	PART	_	_	14	discourse	_	_
+11	nɔgɔ	_	NOUN	_	_	14	nsubj	_	_
+12	bagama	_	ADJ	_	_	11	amod	_	_
+13	ma	_	AUX	_	_	14	aux	_	_
+14	fiyɛ	_	VERB	_	_	3	ccomp	_	_
+15	u	_	PROPN	_	_	14	obl	_	_
+16	la	_	ADP	_	_	15	case	_	SpaceAfter=No
+17	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = ko.22_
+# text = a fɔ bamanakan na wa ko cɛ fɛɛrɛ mana ban, a ka cɛya banna?
+1	a	_	PRON	_	_	2	nsubj	_	_
+2	fɔ	_	VERB	_	_	0	root	_	_
+3	bamanakan	_	NOUN	_	_	2	obl	_	_
+4	na	_	ADP	_	_	3	case	_	_
+5	wa	_	PART	_	_	2	discourse	_	_
+6	ko	_	PART	_	_	10	discourse	_	_
+7	cɛ	_	NOUN	_	_	8	nmod:poss	_	_
+8	fɛɛrɛ	_	NOUN	_	_	10	nsubj	_	_
+9	mana	_	AUX	_	_	10	aux	_	_
+10	ban	_	VERB	_	_	2	parataxis:obj	_	SpaceAfter=No
+11	,	_	PUNCT	_	_	10	punct	_	_
+12	a	_	PROPN	_	_	14	nmod:poss	_	_
+13	ka	_	ADP	_	_	12	case	_	_
+14	cɛya	_	NOUN	_	_	15	nsubj	_	_
+15	banna	_	VERB	_	_	10	parataxis	_	SpaceAfter=No
+16	?	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = ko.23
+# text = ko ne wulila don dɔ sɔgɔma ka taa se kɔrɔnna morilu ma.
+1	ko	_	PART	_	_	3	discourse	_	_
+2	ne	_	PRON	_	_	3	nsubj	_	_
+3	wulila	_	VERB	_	_	0	root	_	_
+4	don	_	NOUN	_	_	3	obl	_	_
+5	dɔ	_	DET	_	_	4	det	_	_
+6	sɔgɔma	_	NOUN	_	_	3	obl	_	_
+7	ka	_	AUX	_	_	8	aux	_	_
+8	taa	_	VERB	_	_	3	xcomp	_	_
+9	se	_	VERB	_	_	8	xcomp	_	_
+10	kɔrɔnna	_	NOUN	_	_	9	obl	_	_
+11	morilu	_	NOUN	_	_	9	obl	_	_
+12	ma	_	ADP	_	_	11	case	_	SpaceAfter=No
+13	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = ko.24
+# text = a kana bɔ i hakilila don si, ko bɛɛ de ta y' i ye, k' i bɛ bɛɛ de ka bila la.
+1	a	_	PRON	_	_	3	nsubj	_	_
+2	kana	_	AUX	_	_	3	aux	_	_
+3	bɔ	_	VERB	_	_	0	root	_	_
+4	i	_	PRON	_	_	5	nmod:poss	_	_
+5	hakilila	_	NOUN	_	_	6	nmod:poss	_	_
+6	don	_	NOUN	_	_	3	obl	_	_
+7	si	_	DET	_	_	6	det	_	SpaceAfter=No
+8	,	_	PUNCT	_	_	3	punct	_	_
+9	ko	_	PART	_	_	15	discourse	_	_
+10	bɛɛ	_	PRON	_	_	12	nmod:poss	_	_
+11	de	_	PART	_	_	10	discourse	_	_
+12	ta	_	NOUN	_	_	15	nsubj	_	_
+13	y'	_	AUX	_	_	15	aux	_	_
+14	i	_	PRON	_	_	15	obj	_	_
+15	ye	_	VERB	_	_	3	ccomp	_	SpaceAfter=No
+16	,	_	PUNCT	_	_	15	punct	_	_
+17	k'	_	PART	_	_	19	discourse	_	_
+18	i	_	PRON	_	_	19	nsubj	_	_
+19	bɛ	_	VERB	_	_	15	parataxis	_	_
+20	bɛɛ	_	DET	_	_	23	det	_	_
+21	de	_	PART	_	_	20	discourse	_	_
+22	ka	_	ADP	_	_	20	case	_	_
+23	bila	_	NOUN	_	_	19	obl	_	_
+24	la	_	ADP	_	_	23	case	_	SpaceAfter=No
+25	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = ko.25
+# text = n' o ma mɔsɔn fyewu, ko n bɛ laban ka falikɛ ni bamuso feere.
+1	n'	_	SCONJ	_	_	4	mark	_	_
+2	o	_	PRON	_	_	4	nsubj	_	_
+3	ma	_	AUX	_	_	4	aux	_	_
+4	mɔsɔn	_	VERB	_	_	10	advcl	_	_
+5	fyewu	_	ADV	_	_	4	obl	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	4	punct	_	_
+7	ko	_	PART	_	_	10	discourse	_	_
+8	n	_	PRON	_	_	10	nsubj	_	_
+9	bɛ	_	AUX	_	_	10	aux	_	_
+10	laban	_	VERB	_	_	0	root	_	_
+11	ka	_	AUX	_	_	15	aux	_	_
+12	falikɛ	_	NOUN	_	_	15	obj	_	_
+13	ni	_	CCONJ	_	_	14	cc	_	_
+14	bamuso	_	NOUN	_	_	12	conj	_	_
+15	feere	_	VERB	_	_	10	xcomp	_	SpaceAfter=No
+16	.	_	PUNCT	_	_	10	punct	_	_
+
+# sent_id = ko.26
+# label = second_pred
+# text = n ka foro fana fililen tɛ to ko kunbɛnni.
+1	n	_	PRON	_	_	3	nmod:poss	_	_
+2	ka	_	ADP	_	_	1	case	_	_
+3	foro	_	NOUN	_	_	7	nsubj	_	_
+4	fana	_	PART	_	_	3	discourse	_	_
+5	fililen	_	VERB	_	_	3	acl	_	_
+6	tɛ	_	AUX	_	_	7	aux	_	_
+7	to	_	VERB	_	_	0	root	_	_
+8	ko	_	PART	_	_	7	discourse	_	_
+9	kunbɛnni	_	NOUN	_	_	7	obl	_	SpaceAfter=No
+10	.	_	PUNCT	_	_	7	punct	_	_
+
