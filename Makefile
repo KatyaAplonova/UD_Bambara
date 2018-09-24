@@ -17,6 +17,8 @@ include remote.mk
 corpusfiles := $(wildcard conllu/*.conllu)
 vertfiles := $(patsubst conllu/%.conllu,vert/%.vert,$(corpusfiles))
 rawfiles := $(filter-out $(patsubst conllu/%,raw/%,$(corpusfiles)), $(patsubst html/%.html,raw/%.conllu,$(wildcard html/*.html)))
+conllufiles := $(patsubst raw/%,conllu/%, $(rawfiles))
+
 
 vert/%.vert: conllu/%.conllu scripts/conllu2vert
 	gawk -f scripts/conllu2vert $< > $@
