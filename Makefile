@@ -27,10 +27,17 @@ print-%:
 raw/%.conllu: html/%.html
 	python3 scripts/proc-bambara.py $< > $@
 
+conllu/%.conllu: raw/%.conllu
+	cat $< | udpipe --parse bambara.model > $@
+
 corbama-ud.vert: $(vertfiles) 
 	mkdir -p vert/
 	cat $(vertfiles) > $@
- 
+
+convert: $(rawfiles)
+
+parse: $(corpusfiles)
+
 compile: corbama-ud.vert config/corbama-ud
 	rm -rf export/data/corbama-ud
 	rm -f export/registry/corbama-ud
