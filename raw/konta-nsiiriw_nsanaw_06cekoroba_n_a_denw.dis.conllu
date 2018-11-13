@@ -1,0 +1,387 @@
+# sent_id = html/konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:1
+# text = <>NSIIRIN 6NAN</>
+1	<>	_	X	_	_	_	_	_	Gloss=_
+2	NSIIRIN	nsíirin	NOUN	n	_	_	_	_	Gloss=conte
+3	6	6	NUM	num	NumType=Card	_	_	_	Gloss=CARDINAL
+4	NAN	nan	NUM	num	NumType=Ord	_	_	_	Gloss=ORD
+5	</>	_	X	_	_	_	_	_	Gloss=_
+
+# sent_id = html/konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:2
+# text = <>Cɛkɔrɔba n'a denw</>
+1	<>	_	X	_	_	_	_	_	Gloss=_
+2	Cɛkɔrɔba	cɛ̀kɔrɔba	NOUN	n	_	_	_	_	Gloss=vieillard|Morf=vieillard,mâle,vieux,AUGM
+3	n'	n'	CCONJ	conj	_	_	_	_	Gloss=et
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+5	denw	denw	NOUN	n	Number=Plur	_	_	_	Gloss=enfant|Morf=enfant,PL
+6	</>	_	X	_	_	_	_	_	Gloss=_
+
+# sent_id = html/konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:3
+# text = Nin kɛra cɛkɔrɔba dɔ n'a denw ye.
+1	Nin	nìn	PRON	prn	_	_	_	_	Gloss=ceci
+2	kɛra	kɛ́ra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=faire|Morf=faire,PFV.INTR
+3	cɛkɔrɔba	cɛ̀kɔrɔba	NOUN	n	_	_	_	_	Gloss=vieillard|Morf=vieillard,mâle,vieux,AUGM
+4	dɔ	dɔ́	DET	dtm	_	_	_	_	Gloss=certain
+5	n'	n'	CCONJ	conj	_	_	_	_	Gloss=et
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+7	denw	denw	NOUN	n	Number=Plur	_	_	_	Gloss=enfant|Morf=enfant,PL
+8	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+9	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:4
+# text = Ala y'a kɛ k'u to sɛnɛ la foro kɔnɔ, cɛkɔrɔba sɛgɛnna.
+1	Ala	Ála	NOUN	n	_	_	_	_	Gloss=Dieu
+2	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	kɛ	kɛ́	VERB	v	_	_	_	_	Gloss=faire
+5	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+6	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+7	to	tó	VERB	v	_	_	_	_	Gloss=rester
+8	sɛnɛ	sɛ̀nɛ	NOUN	n	_	_	_	_	Gloss=culture
+9	la	lá	ADP	pp	_	_	_	_	Gloss=à
+10	foro	fòro	NOUN	n	_	_	_	_	Gloss=champ
+11	kɔnɔ	kɔ́nɔ	ADP	pp	_	_	_	_	Gloss=dans
+12	,	,	PUNCT	_		_	_	_	Gloss=,
+13	cɛkɔrɔba	cɛ̀kɔrɔba	NOUN	n	_	_	_	_	Gloss=vieillard|Morf=vieillard,mâle,vieux,AUGM
+14	sɛgɛnna	sɛ̀gɛnna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=fatiguer|Morf=fatiguer,PFV.INTR
+15	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:5
+# text = A ko a denw ma, k'a bɛ taa bin na ka na.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	denw	denw	NOUN	n	Number=Plur	_	_	_	Gloss=enfant|Morf=enfant,PL
+5	ma	mà	ADP	pp	_	_	_	_	Gloss=ADR
+6	,	,	PUNCT	_		_	_	_	Gloss=,
+7	k'	k'	VERB	cop	_	_	_	_	Gloss=QUOT
+8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+9	bɛ	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+10	taa	táa	VERB	v	_	_	_	_	Gloss=aller
+11	bin	bín	NOUN	n	_	_	_	_	Gloss=herbe
+12	na	ná	ADP	pp	_	_	_	_	Gloss=à
+13	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+14	na	nà	VERB	v	_	_	_	_	Gloss=venir
+15	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:6
+# text = A taara kabini sɔgɔma fo tilelafana dun tuma.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	taara	táara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=aller|Morf=aller,PFV.INTR
+3	kabini	kàbini	X	conj	_	_	_	_	Gloss=depuis|Morf=depuis,depuis,si
+4	sɔgɔma	sɔ̀gɔmà	NOUN	n	_	_	_	_	Gloss=matin
+5	fo	fó	X	prep	_	_	_	_	Gloss=jusqu'à
+6	tilelafana	tìlelafana	NOUN	n	_	_	_	_	Gloss=déjeuner|Morf=déjeuner,soleil,à,repas
+7	dun	dún	VERB	v	_	_	_	_	Gloss=manger
+8	tuma	tùma	NOUN	n	_	_	_	_	Gloss=moment
+9	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:7
+# text = A nalen, a denw y'a ɲininka ko: “Baa, e dun mɛnna!
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	nalen	nalen	VERB	ptcp	VerbForm=Part|Aspect=Perf	_	_	_	Gloss=venir|Morf=venir,PTCP.RES
+3	,	,	PUNCT	_		_	_	_	Gloss=,
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+5	denw	denw	NOUN	n	Number=Plur	_	_	_	Gloss=enfant|Morf=enfant,PL
+6	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+8	ɲininka	ɲìninka	VERB	v	_	_	_	_	Gloss=interroger
+9	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+10	:	:	PUNCT	_		_	_	_	Gloss=:
+11	“	“	X	_	_	_	_	_	Gloss=“
+12	Baa	bàa	NOUN	n	_	_	_	_	Gloss=papa
+13	,	,	PUNCT	_		_	_	_	Gloss=,
+14	e	ê	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	_	_	_	Gloss=2SG.EMPH
+15	dun	dùn	PART	prt	_	_	_	_	Gloss=TOP.CNTR
+16	mɛnna	mɛnna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=durer|Morf=durer,PFV.INTR
+17	!	!	PUNCT	_		_	_	_	Gloss=!
+
+# sent_id = html/konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:8
+# text = Mun de tun bɛ yen?” Cɛkɔrɔba ko: “Ne taara a sɔrɔ numunkɛ ba fila de bɛ jirisunba kelen kɔrɔ, u bɛɛ bɛ nɛgɛ gosi la, u si tulo tɛ si ka nɛgɛgosikan na.” Denw kabara, ko: “Ee!
+1	Mun	mùn	PRON	prn	_	_	_	_	Gloss=quoi
+2	de	dè	PART	prt	_	_	_	_	Gloss=FOC
+3	tun	tùn	PART	prt	Tense=Past|Tense=Past	_	_	_	Gloss=PST
+4	bɛ	bɛ́	VERB	cop	_	_	_	_	Gloss=être
+5	yen	yèn	ADV	adv	_	_	_	_	Gloss=là-bas
+6	?	?	PUNCT	_		_	_	_	Gloss=?
+7	”	”	X	_	_	_	_	_	Gloss=”
+8	Cɛkɔrɔba	cɛ̀kɔrɔba	NOUN	n	_	_	_	_	Gloss=vieillard|Morf=vieillard,mâle,vieux,AUGM
+9	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+10	:	:	PUNCT	_		_	_	_	Gloss=:
+11	“	“	X	_	_	_	_	_	Gloss=“
+12	Ne	nê	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	_	_	_	Gloss=1SG.EMPH
+13	taara	táara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=aller|Morf=aller,PFV.INTR
+14	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+15	sɔrɔ	sɔ̀rɔ	VERB	v	_	_	_	_	Gloss=obtenir
+16	numunkɛ	numunkɛ	NOUN	n	_	_	_	_	Gloss=forgeron|Morf=forgeron,mâle
+17	ba	bà	NOUN	n	_	_	_	_	Gloss=mille
+18	fila	fìla	NUM	num	_	_	_	_	Gloss=deux
+19	de	dè	PART	prt	_	_	_	_	Gloss=FOC
+20	bɛ	bɛ́	VERB	cop	_	_	_	_	Gloss=être
+21	jirisunba	jirisunba	NOUN	n	_	_	_	_	Gloss=arbre|Morf=arbre,arbre,tronc,AUGM
+22	kelen	kélen	NUM	num	_	_	_	_	Gloss=un
+23	kɔrɔ	kɔ́rɔ	ADP	pp	_	_	_	_	Gloss=sous
+24	,	,	PUNCT	_		_	_	_	Gloss=,
+25	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+26	bɛɛ	bɛ́ɛ	DET	dtm	_	_	_	_	Gloss=tout
+27	bɛ	bɛ́	VERB	cop	_	_	_	_	Gloss=être
+28	nɛgɛ	nɛgɛ	NOUN	n	_	_	_	_	Gloss=métal
+29	gosi	gosi	VERB	v	_	_	_	_	Gloss=battre
+30	la	lá	ADP	pp	_	_	_	_	Gloss=à
+31	,	,	PUNCT	_		_	_	_	Gloss=,
+32	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+33	si	sí	PRON	prn	_	_	_	_	Gloss=aucun
+34	tulo	túlo	NOUN	n	_	_	_	_	Gloss=oreille
+35	tɛ	tɛ	AUX	pm	Polarity=Neg|Aspect=Imp	_	_	_	Gloss=IPFV.NEG
+36	si	sí	PRON	prn	_	_	_	_	Gloss=aucun
+37	ka	ka	ADP	pp	_	_	_	_	Gloss=POSS
+38	nɛgɛgosikan	nɛgɛgosikan	NOUN	n	_	_	_	_	Gloss=fer|Morf=fer,battre,cou
+39	na	ná	ADP	pp	_	_	_	_	Gloss=à
+40	.	.	PUNCT	_		_	_	_	Gloss=.
+41	”	”	X	_	_	_	_	_	Gloss=”
+42	Denw	denw	NOUN	n	Number=Plur	_	_	_	Gloss=enfant|Morf=enfant,PL
+43	kabara	kabara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=s'étonner|Morf=s'étonner,PFV.INTR
+44	,	,	PUNCT	_		_	_	_	Gloss=,
+45	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+46	:	:	PUNCT	_		_	_	_	Gloss=:
+47	“	“	X	_	_	_	_	_	Gloss=“
+48	Ee	ée	INTJ	intj	_	_	_	_	Gloss=eh!
+49	!	!	PUNCT	_		_	_	_	Gloss=!
+
+# sent_id = html/konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:9
+# text = Baa, o jiri in ka bon sa dɛ!” O dugujɛ, u nana foro la.
+1	Baa	bàa	NOUN	n	_	_	_	_	Gloss=papa
+2	,	,	PUNCT	_		_	_	_	Gloss=,
+3	o	ò	DET	dtm	_	_	_	_	Gloss=ce
+4	jiri	jíri	NOUN	n	_	_	_	_	Gloss=arbre
+5	in	ìn	DET	dtm	Definite=Def	_	_	_	Gloss=DEF
+6	ka	ka	AUX	pm	Polarity=Pos	_	_	_	Gloss=QUAL.AFF
+7	bon	bòn	VERB	vq	_	_	_	_	Gloss=grand
+8	sa	sá	PART	prt	_	_	_	_	Gloss=enfin
+9	dɛ	dɛ́	PART	prt	_	_	_	_	Gloss=certes
+10	!	!	PUNCT	_		_	_	_	Gloss=!
+11	”	”	X	_	_	_	_	_	Gloss=”
+12	O	ò	DET	dtm	_	_	_	_	Gloss=ce
+13	dugujɛ	dùgujɛ	NOUN	n	_	_	_	_	Gloss=aube|Morf=aube,terre,blanc
+14	,	,	PUNCT	_		_	_	_	Gloss=,
+15	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+16	nana	nàna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=venir|Morf=venir,PFV.INTR
+17	foro	fòro	NOUN	n	_	_	_	_	Gloss=champ
+18	la	lá	ADP	pp	_	_	_	_	Gloss=à
+19	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:10
+# text = A denkɛnin dɔ bɛ yen, o ma tɛmɛ daba ɲɛ saba kan, o fana ko: “Baa n bɛ taa bin na ka na”.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	denkɛnin	denkɛnin	NOUN	n	_	_	_	_	Gloss=fils|Morf=fils,enfant,mâle,DIM
+3	dɔ	dɔ́	DET	dtm	_	_	_	_	Gloss=certain
+4	bɛ	bɛ́	VERB	cop	_	_	_	_	Gloss=être
+5	yen	yèn	ADV	adv	_	_	_	_	Gloss=là-bas
+6	,	,	PUNCT	_		_	_	_	Gloss=,
+7	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+8	ma	ma	AUX	pm	Polarity=Neg|Aspect=Perf	_	_	_	Gloss=PFV.NEG
+9	tɛmɛ	tɛ̀mɛ	VERB	v	_	_	_	_	Gloss=passer
+10	daba	dàba	NOUN	n	_	_	_	_	Gloss=houe
+11	ɲɛ	ɲɛ́	NOUN	n	_	_	_	_	Gloss=fois
+12	saba	sàba	NUM	num	_	_	_	_	Gloss=trois
+13	kan	kàn	ADP	pp	_	_	_	_	Gloss=sur
+14	,	,	PUNCT	_		_	_	_	Gloss=,
+15	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+16	fana	fána	PART	prt	_	_	_	_	Gloss=aussi
+17	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+18	:	:	PUNCT	_		_	_	_	Gloss=:
+19	“	“	X	_	_	_	_	_	Gloss=“
+20	Baa	bàa	NOUN	n	_	_	_	_	Gloss=papa
+21	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	_	_	_	Gloss=1SG
+22	bɛ	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+23	taa	táa	VERB	v	_	_	_	_	Gloss=aller
+24	bin	bín	NOUN	n	_	_	_	_	Gloss=herbe
+25	na	ná	ADP	pp	_	_	_	_	Gloss=à
+26	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+27	na	nà	VERB	v	_	_	_	_	Gloss=venir
+28	”	”	X	_	_	_	_	_	Gloss=”
+29	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:11
+# text = O fana taara kabini sɔgɔma fo tilelafana dun tuma.
+1	O	ò	PRON	prn	_	_	_	_	Gloss=ce
+2	fana	fána	PART	prt	_	_	_	_	Gloss=aussi
+3	taara	taara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=aller|Morf=aller,PFV.INTR
+4	kabini	kàbini	X	prep	_	_	_	_	Gloss=depuis|Morf=depuis,depuis,si
+5	sɔgɔma	sɔ̀gɔmà	NOUN	n	_	_	_	_	Gloss=matin
+6	fo	fó	X	prep	_	_	_	_	Gloss=jusqu'à
+7	tilelafana	tìlelafana	NOUN	n	_	_	_	_	Gloss=déjeuner|Morf=déjeuner,soleil,à,repas
+8	dun	dún	VERB	v	_	_	_	_	Gloss=manger
+9	tuma	tùma	NOUN	n	_	_	_	_	Gloss=moment
+10	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:12
+# text = A nalen, a fa ko a ma: “E tun bɛ mun na yen, e ta tɔ tun tɛ bo kɛ ye bilen!
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	nalen	nalen	VERB	ptcp	VerbForm=Part|Aspect=Perf	_	_	_	Gloss=venir|Morf=venir,PTCP.RES
+3	,	,	PUNCT	_		_	_	_	Gloss=,
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+5	fa	fà	NOUN	n	_	_	_	_	Gloss=père
+6	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+8	ma	mà	ADP	pp	_	_	_	_	Gloss=ADR
+9	:	:	PUNCT	_		_	_	_	Gloss=:
+10	“	“	X	_	_	_	_	_	Gloss=“
+11	E	ê	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	_	_	_	Gloss=2SG.EMPH
+12	tun	tùn	PART	prt	Tense=Past|Tense=Past	_	_	_	Gloss=PST
+13	bɛ	bɛ́	VERB	cop	_	_	_	_	Gloss=être
+14	mun	mùn	PRON	prn	_	_	_	_	Gloss=quoi
+15	na	ná	ADP	pp	_	_	_	_	Gloss=à
+16	yen	yèn	ADV	adv	_	_	_	_	Gloss=là-bas
+17	,	,	PUNCT	_		_	_	_	Gloss=,
+18	e	ê	PRON	pers	PronType=Prs|Number=Sing|Person=2|PronType=Emp	_	_	_	Gloss=2SG.EMPH
+19	ta	tá	NOUN	n	_	_	_	_	Gloss=propriété
+20	tɔ	tɔ̀	NOUN	n	_	_	_	_	Gloss=le.reste
+21	tun	tùn	PART	prt	Tense=Past|Tense=Past	_	_	_	Gloss=PST
+22	tɛ	tɛ́	VERB	cop	Polarity=Neg	_	_	_	Gloss=COP.NEG
+23	bo	bò	NOUN	n	_	_	_	_	Gloss=excrément
+24	kɛ	kɛ́	VERB	v	_	_	_	_	Gloss=faire
+25	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+26	bilen	bìlen	ADV	adv	_	_	_	_	Gloss=encore
+27	!	!	PUNCT	_		_	_	_	Gloss=!
+
+# sent_id = html/konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:13
+# text = Mun tun bɛ yen?” Denkɛ ko: “Baa, kabini ne taara, ka ne sigilen to n bo kunna, kɔnɔ dɔ de tun b'a la ka tɛmɛ, fo sisan de, n'a banna tɛmɛ na.
+1	Mun	mùn	PRON	prn	_	_	_	_	Gloss=quoi
+2	tun	tùn	PART	prt	Tense=Past|Tense=Past	_	_	_	Gloss=PST
+3	bɛ	bɛ́	VERB	cop	_	_	_	_	Gloss=être
+4	yen	yèn	ADV	adv	_	_	_	_	Gloss=là-bas
+5	?	?	PUNCT	_		_	_	_	Gloss=?
+6	”	”	X	_	_	_	_	_	Gloss=”
+7	Denkɛ	dénkɛ	NOUN	n	_	_	_	_	Gloss=fils|Morf=fils,enfant,mâle
+8	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+9	:	:	PUNCT	_		_	_	_	Gloss=:
+10	“	“	X	_	_	_	_	_	Gloss=“
+11	Baa	bàa	NOUN	n	_	_	_	_	Gloss=papa
+12	,	,	PUNCT	_		_	_	_	Gloss=,
+13	kabini	kàbini	X	conj	_	_	_	_	Gloss=depuis|Morf=depuis,depuis,si
+14	ne	nê	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	_	_	_	Gloss=1SG.EMPH
+15	taara	táara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=aller|Morf=aller,PFV.INTR
+16	,	,	PUNCT	_		_	_	_	Gloss=,
+17	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+18	ne	nê	PRON	pers	PronType=Prs|Number=Sing|Person=1|PronType=Emp	_	_	_	Gloss=1SG.EMPH
+19	sigilen	sìgilen	VERB	ptcp	VerbForm=Part|Aspect=Perf	_	_	_	Gloss=asseoir|Morf=asseoir,PTCP.RES
+20	to	tó	VERB	v	_	_	_	_	Gloss=rester
+21	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	_	_	_	Gloss=1SG
+22	bo	bò	NOUN	n	_	_	_	_	Gloss=excrément
+23	kunna	kùnná	ADP	pp	_	_	_	_	Gloss=au.dessus|Morf=au.dessus,tête,à
+24	,	,	PUNCT	_		_	_	_	Gloss=,
+25	kɔnɔ	kɔ̀nɔ	NOUN	n	_	_	_	_	Gloss=oiseau
+26	dɔ	dɔ́	DET	dtm	_	_	_	_	Gloss=certain
+27	de	dè	PART	prt	_	_	_	_	Gloss=FOC
+28	tun	tùn	PART	prt	Tense=Past|Tense=Past	_	_	_	Gloss=PST
+29	b'	b'	VERB	cop	_	_	_	_	Gloss=être
+30	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+31	la	lá	ADP	pp	_	_	_	_	Gloss=à
+32	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+33	tɛmɛ	tɛ̀mɛ	VERB	v	_	_	_	_	Gloss=passer
+34	,	,	PUNCT	_		_	_	_	Gloss=,
+35	fo	fó	X	prep	_	_	_	_	Gloss=jusqu'à
+36	sisan	sísàn	NOUN	n	_	_	_	_	Gloss=maintenant
+37	de	dè	PART	prt	_	_	_	_	Gloss=FOC
+38	,	,	PUNCT	_		_	_	_	Gloss=,
+39	n'	n'	SCONJ	conj	_	_	_	_	Gloss=si
+40	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+41	banna	banna	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=terminer|Morf=terminer,PFV.INTR
+42	tɛmɛ	tɛ̀mɛ	VERB	v	_	_	_	_	Gloss=passer
+43	na	ná	ADP	pp	_	_	_	_	Gloss=à
+44	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:14
+# text = Hali sisan n'i taara, i b'a sɔrɔ a ku ma tunu fɔlɔ”.
+1	Hali	hálì	PART	prt	_	_	_	_	Gloss=même
+2	sisan	sísàn	ADV	adv	_	_	_	_	Gloss=maintenant
+3	n'	n'	SCONJ	conj	_	_	_	_	Gloss=si
+4	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	_	_	_	Gloss=2SG
+5	taara	táara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=aller|Morf=aller,PFV.INTR
+6	,	,	PUNCT	_		_	_	_	Gloss=,
+7	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	_	_	_	Gloss=2SG
+8	b'	b'	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+10	sɔrɔ	sɔ̀rɔ	VERB	v	_	_	_	_	Gloss=obtenir
+11	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+12	ku	kú	NOUN	n	_	_	_	_	Gloss=queue
+13	ma	ma	AUX	pm	Polarity=Neg|Aspect=Perf	_	_	_	Gloss=PFV.NEG
+14	tunu	túnu	VERB	v	_	_	_	_	Gloss=perdre
+15	fɔlɔ	fɔ́lɔ	ADV	adv	_	_	_	_	Gloss=autrefois
+16	”	”	X	_	_	_	_	_	Gloss=”
+17	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:15
+# text = A fa ko, o ye mun kɔnɔ suguya ye, o sigijiri na sɔrɔ?
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	fa	fà	NOUN	n	_	_	_	_	Gloss=père
+3	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+4	,	,	PUNCT	_		_	_	_	Gloss=,
+5	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+6	ye	yé	VERB	cop	Polarity=Pos	_	_	_	Gloss=EQU
+7	mun	mùn	PRON	prn	_	_	_	_	Gloss=quoi
+8	kɔnɔ	kɔ̀nɔ	NOUN	n	_	_	_	_	Gloss=oiseau
+9	suguya	súguya	NOUN	n	_	_	_	_	Gloss=espèce|Morf=espèce,espèce,ABSTR
+10	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+11	,	,	PUNCT	_		_	_	_	Gloss=,
+12	o	ò	DET	dtm	_	_	_	_	Gloss=ce
+13	sigijiri	sigijiri	NOUN	n	_	_	_	_	Gloss=asseoir|Morf=asseoir,arbre
+14	na	nà	AUX	pm	Tense=Fut|Polarity=Pos	_	_	_	Gloss=CERT
+15	sɔrɔ	sɔ̀rɔ	VERB	v	_	_	_	_	Gloss=obtenir
+16	?	?	PUNCT	_		_	_	_	Gloss=?
+
+# sent_id = html/konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:16
+# text = Denkɛ ko: “A tun bɛ i ka kunun jiriba in de kan”.
+1	Denkɛ	dénkɛ	NOUN	n	_	_	_	_	Gloss=fils|Morf=fils,enfant,mâle
+2	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+3	:	:	PUNCT	_		_	_	_	Gloss=:
+4	“	“	X	_	_	_	_	_	Gloss=“
+5	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+6	tun	tùn	PART	prt	Tense=Past|Tense=Past	_	_	_	Gloss=PST
+7	bɛ	bɛ́	VERB	cop	_	_	_	_	Gloss=être
+8	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	_	_	_	Gloss=2SG
+9	ka	ka	ADP	pp	_	_	_	_	Gloss=POSS
+10	kunun	kúnun	NOUN	n	_	_	_	_	Gloss=hier
+11	jiriba	jiriba	NOUN	n	_	_	_	_	Gloss=arbre|Morf=arbre,AUGM
+12	in	ìn	DET	dtm	Definite=Def	_	_	_	Gloss=DEF
+13	de	dè	PART	prt	_	_	_	_	Gloss=FOC
+14	kan	kàn	ADP	pp	_	_	_	_	Gloss=sur
+15	”	”	X	_	_	_	_	_	Gloss=”
+16	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:17
+# text = Fa ko o la: “Bataramɔgɔ!
+1	Fa	fà	NOUN	n	_	_	_	_	Gloss=père
+2	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+3	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+4	la	lá	ADP	pp	_	_	_	_	Gloss=à
+5	:	:	PUNCT	_		_	_	_	Gloss=:
+6	“	“	X	_	_	_	_	_	Gloss=“
+7	Bataramɔgɔ	bataramɔgɔ	NOUN	n	_	_	_	_	Gloss=inutilité|Morf=inutilité,homme
+8	!	!	PUNCT	_		_	_	_	Gloss=!
+
+# sent_id = html/konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:18
+# text = I sera a fɔcogo la”.
+1	I	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	_	_	_	Gloss=2SG
+2	sera	sera	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=arriver|Morf=arriver,PFV.INTR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	fɔcogo	fɔ́cogo	NOUN	n	_	_	_	_	Gloss=dire|Morf=dire,manière
+5	la	lá	ADP	pp	_	_	_	_	Gloss=à
+6	”	”	X	_	_	_	_	_	Gloss=”
+7	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:19
+# text = N y'a ta yɔrɔ min n y'a bila yen.
+1	N	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	_	_	_	Gloss=1SG
+2	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	ta	tà	VERB	v	_	_	_	_	Gloss=prendre
+5	yɔrɔ	yɔ́rɔ	NOUN	n	_	_	_	_	Gloss=lieu
+6	min	mîn	DET	dtm	PronType=Rel	_	_	_	Gloss=REL
+7	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	_	_	_	Gloss=1SG
+8	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+10	bila	bìla	VERB	v	_	_	_	_	Gloss=mettre
+11	yen	yèn	ADV	adv	_	_	_	_	Gloss=là-bas
+12	.	.	PUNCT	_		_	_	_	Gloss=.
+

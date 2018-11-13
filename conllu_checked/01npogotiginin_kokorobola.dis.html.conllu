@@ -1,0 +1,556 @@
+# sent_id = 01npogotiginin_kokorobola.dis.html:1
+# text = NSIIRIN FƆLƆ
+1	NSIIRIN	nsíirin	NOUN	_	_	0	root	_	_
+2	FƆLƆ	fɔ́lɔ	NUM	_	_	1	amod	_	_
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:2
+# text = Npogotiginin Kokɔrɔbɔla
+1	Npogotiginin	npogotiginin	NOUN	n	_	0	root	_	Gloss=jeune.fille|Morf=jeune.fille,cache-sexe.des.filles,maître,DIM
+2	Kokɔrɔbɔla	kokɔrɔbɔla	NOUN	n	_	1	amod	_	Gloss=affaire|Morf=affaire,celui.qui.teste,dessous,sortir,AG.PRM
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:3
+# text = Nin kɛra npogotiginin dɔ ye.
+1	Nin	nìn	PRON	prn	_	2	nsubj	_	Gloss=ceci
+2	kɛra	kɛra	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=faire|Morf=faire,PFV.INTR
+3	npogotiginin	npogotiginin	NOUN	n	_	2	obl	_	Gloss=jeune.fille|Morf=jeune.fille,cache-sexe.des.filles,maître,DIM
+4	dɔ	dɔ́	DET	dtm	_	3	det	_	Gloss=certain
+5	ye	yé	ADP	pp	_	3	case	_	Gloss=PP|SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:4
+# text = A fɔra ko mɔgɔ si kana taa kungo kɔnɔ selidonya fɛ.
+# label = strange ccomp
+1	A	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	fɔra	fɔra	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=dire|Morf=dire,PFV.INTR
+3	ko	kó	PART	cop	_	7	discourse	_	Gloss=QUOT
+4	mɔgɔ	mɔ̀gɔ	NOUN	n	_	7	nsubj	_	Gloss=homme
+5	si	sí	DET	dtm	_	4	det	_	Gloss=aucun
+6	kana	kànâ	AUX	pm	Mood=Imp|Polarity=Neg	7	aux	_	Gloss=PROH
+7	taa	táa	VERB	v	_	2	ccomp	_	Gloss=aller
+8	kungo	kúngo	NOUN	n	_	7	obl	_	Gloss=brousse
+9	kɔnɔ	kɔ́nɔ	ADP	pp	_	8	case	_	Gloss=dans
+10	selidonya	sélidonya	NOUN	n	_	7	obl	_	Gloss=jour.de.fête|Morf=jour.de.fête,prière,jour,ABSTR
+11	fɛ	fɛ̀	ADP	pp	_	10	case	_	Gloss=par|SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:5
+# text = Ale y'i tugu ka taa.
+1	Ale	àlê	PRON	pers	Number=Sing|Person=3|PronType=Emp	4	nsubj	_	Gloss=3SG.EMPH
+2	y'	y'	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR|SpaceAfter=No
+3	i	í	PRON	pers	PronType=Prs	4	obj	_	Gloss=REFL
+4	tugu	túgu	VERB	v	_	0	root	_	Gloss=faire.exprès
+5	ka	kà	AUX	pm	_	6	aux	_	Gloss=INF
+6	taa	táa	VERB	v	_	4	xcomp	_	Gloss=aller|SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:6
+# text = A selen kungo kɔnɔ, a y'a sɔrɔ warabilenw bɛ tulonkɛ la.
+1	A	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	selen	sélen	VERB	ptcp	Aspect=Perf|VerbForm=Part	9	advcl	_	Gloss=arriver|Morf=arriver,PTCP.RES
+3	kungo	kúngo	NOUN	n	_	2	obl	_	Gloss=brousse
+4	kɔnɔ	kɔ́nɔ	ADP	pp	_	3	case	_	Gloss=dans|SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=3SG
+7	y'	y'	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	9	aux	_	Gloss=PFV.TR|SpaceAfter=No
+8	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	obj	_	Gloss=3SG
+9	sɔrɔ	sɔ̀rɔ	VERB	v	_	0	root	_	Gloss=obtenir
+10	warabilenw	warabilenw	NOUN	n	Number=Plur	11	nsubj	_	Gloss=singe.rouge|Morf=singe.rouge,fauve,rouge,PL
+11	bɛ	bɛ́	VERB	cop	_	9	ccomp	_	Gloss=être
+12	tulonkɛ	tulonkɛ	NOUN	n	_	11	obl	_	Gloss=jeu|Morf=jeu,action
+13	la	lá	ADP	pp	_	12	case	_	Gloss=à|SpaceAfter=No
+14	.	.	PUNCT	_	_	9	punct	_	Gloss=.
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:7
+# text = U tun b'a la ka dɔnkilinin dɔ da: «Maa nkɔku nana, maa nkɔku nana, ne ye n sara n fa ɲɔgɔn na, ka n sara n ba ɲɔgɔn na, kuninkelelele ntetelele kunin fɔɲi-fɔɲi».
+1	U	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	3	nsubj	_	Gloss=3PL
+2	tun	tùn	PART	prt	Tense=Past	3	aux	_	Gloss=PST
+3	b'	b'	VERB	cop	_	0	root	_	Gloss=être|SpaceAfter=No
+4	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	3	obl	_	Gloss=3SG
+5	la	lá	ADP	pp	_	4	case	_	Gloss=à
+6	ka	kà	AUX	pm	_	9	aux	_	Gloss=INF
+7	dɔnkilinin	dɔnkilinin	NOUN	n	_	9	obj	_	Gloss=chant|Morf=chant,danse,appeler,DIM
+8	dɔ	dɔ́	DET	dtm	_	7	det	_	Gloss=certain
+9	da	dá	VERB	v	_	3	xcomp	_	Gloss=poser|SpaceAfter=No
+10	:	:	PUNCT	_	_	3	punct	_	Gloss=:
+11	«	«	PUNCT	_	_	14	punct	_	Gloss=«|SpaceAfter=No
+12	Maa	màa	NOUN	n	_	14	nsubj	_	Gloss=homme
+13	nkɔku	nkɔ̀ku	NOUN	n	_	12	appos	_	Gloss=nénuphar
+14	nana	nana	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	3	parataxis:obj	_	Gloss=venir|Morf=venir,PFV.INTR|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	punct	_	Gloss=,
+16	maa	màa	NOUN	n	_	18	nsubj	_	Gloss=homme
+17	nkɔku	nkɔ̀ku	NOUN	n	_	16	appos	_	Gloss=nénuphar
+18	nana	nana	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	14	parataxis	_	Gloss=venir|Morf=venir,PFV.INTR|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	punct	_	Gloss=,
+20	ne	nê	PRON	pers	Number=Sing|Person=1|PronType=Emp	23	nsubj	_	Gloss=1SG.EMPH
+21	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	23	aux	_	Gloss=PFV.TR
+22	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	23	obj	_	Gloss=1SG
+23	sara	sàra	VERB	v	_	18	parataxis	_	Gloss=avertir
+24	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	25	nmod:poss	_	Gloss=1SG
+25	fa	fà	NOUN	n	_	23	obl	_	Gloss=père
+26	ɲɔgɔn	ɲɔ̀gɔn	NOUN	n	_	25	goeswith	_	Gloss=pareil
+27	na	ná	ADP	pp	_	25	case	_	Gloss=à|SpaceAfter=No
+28	,	,	PUNCT	_	_	23	punct	_	Gloss=,
+29	ka	kà	AUX	pm	_	31	aux	_	Gloss=INF
+30	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	31	obj	_	Gloss=1SG
+31	sara	sàra	VERB	v	_	23	xcomp	_	Gloss=avertir
+32	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	33	nmod:poss	_	Gloss=1SG
+33	ba	bá	NOUN	n	_	31	obl	_	Gloss=mère
+34	ɲɔgɔn	ɲɔ̀gɔn	NOUN	n	_	33	goeswith	_	Gloss=pareil
+35	na	ná	ADP	pp	_	33	case	_	Gloss=à|SpaceAfter=No
+36	,	,	PUNCT	_	_	33	punct	_	Gloss=,
+37	kuninkelelele	kuninkelelele	INTJ	n	_	23	discourse	_	Gloss=queue|Morf=queue,DIM,couper.autour
+38	ntetelele	ntètelele	INTJ	n	_	37	parataxis	_	Gloss=plaie.infectée|Morf=plaie.infectée,plaie.infectée
+39	kunin	kunin	INTJ	n	_	38	parataxis	_	Gloss=queue|Morf=queue,DIM
+40	fɔɲi-fɔɲi	fɔɲi-fɔɲi	INTJ	onomat	_	39	parataxis	_	Gloss=CHNT|SpaceAfter=No
+41	»	»	PUNCT	_	_	37	punct	_	Gloss=»|SpaceAfter=No
+42	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:8
+# text = Npogotiginin seginna dugu kɔnɔ, k'o ɲɛfɔ a ba ye.
+1	Npogotiginin	npogotiginin	NOUN	n	_	2	nsubj	_	Gloss=jeune.fille|Morf=jeune.fille,cache-sexe.des.filles,maître,DIM
+2	seginna	seginna	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=revenir|Morf=revenir,PFV.INTR
+3	dugu	dùgu	NOUN	n	_	2	obl	_	Gloss=terre
+4	kɔnɔ	kɔ́nɔ	ADP	pp	_	3	case	_	Gloss=dans|SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+6	k'	k'	AUX	pm	_	8	aux	_	Gloss=INF|SpaceAfter=No
+7	o	ò	PRON	prn	_	8	obj	_	Gloss=ce
+8	ɲɛfɔ	ɲɛ́fɔ	VERB	v	_	2	xcomp	_	Gloss=expliquer|Morf=expliquer,oeil,dire
+9	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	10	nmod:poss	_	Gloss=3SG
+10	ba	bá	NOUN	n	_	8	obl	_	Gloss=mère
+11	ye	yé	ADP	pp	_	10	case	_	Gloss=PP|SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:9
+# text = Kabini a ye dɔnkili in da a ba ye dɔ́rɔn a yɛlɛmana ka kɛ warabilen ye, ka taa kungo kɔnɔ.
+1	Kabini	kàbini	SCONJ	prep	_	6	mark	_	Gloss=depuis|Morf=depuis,depuis,si
+2	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Gloss=3SG
+3	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	6	aux	_	Gloss=PFV.TR
+4	dɔnkili	dɔ̀nkili	NOUN	n	_	6	obj	_	Gloss=chant|Morf=chant,danse,appeler
+5	in	ìn	DET	dtm	Definite=Def	4	det	_	Gloss=DEF
+6	da	dá	VERB	v	_	12	advcl	_	Gloss=poser
+7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	det	_	Gloss=3SG
+8	ba	bá	NOUN	n	_	6	obl	_	Gloss=mère
+9	ye	yé	ADP	pp	_	8	case	_	Gloss=PP
+10	dɔ́rɔn	dɔ́rɔn	SCONJ	adv	_	6	mark	_	Gloss=seulement
+11	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Gloss=3SG
+12	yɛlɛmana	yɛlɛmana	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=changer|Morf=changer,PFV.INTR
+13	ka	kà	AUX	pm	_	14	aux	_	Gloss=INF
+14	kɛ	kɛ́	VERB	v	_	12	xcomp	_	Gloss=faire
+15	warabilen	wárabilen	NOUN	n	_	14	obl	_	Gloss=singe.rouge|Morf=singe.rouge,fauve,rouge
+16	ye	yé	ADP	pp	_	15	case	_	Gloss=PP|SpaceAfter=No
+17	,	,	PUNCT	_	_	12	punct	_	Gloss=,
+18	ka	kà	AUX	pm	_	19	aux	_	Gloss=INF
+19	taa	táa	VERB	v	_	12	xcomp	_	Gloss=aller
+20	kungo	kúngo	NOUN	n	_	19	obl	_	Gloss=brousse
+21	kɔnɔ	kɔ́nɔ	ADP	pp	_	20	case	_	Gloss=dans|SpaceAfter=No
+22	.	.	PUNCT	_	_	12	punct	_	Gloss=.
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:10
+# text = O kɔ, dugu denmisɛnw bɛɛ ye dɔnkili in da ɲɔgɔn fɛ.
+1	O	ò	PRON	prn	_	10	obl	_	Gloss=ce
+2	kɔ	kɔ́	ADP	pp	_	1	case	_	Gloss=après|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+4	dugu	dùgu	NOUN	n	_	5	nmod:poss	_	Gloss=terre
+5	denmisɛnw	denmisɛnw	NOUN	n	Number=Plur	10	nsubj	_	Gloss=enfant|Morf=enfant,enfant,petit,PL
+6	bɛɛ	bɛ́ɛ	DET	dtm	_	5	det	_	Gloss=tout
+7	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	10	aux	_	Gloss=PFV.TR
+8	dɔnkili	dɔ̀nkili	NOUN	n	_	10	obj	_	Gloss=chant|Morf=chant,danse,appeler
+9	in	ìn	DET	dtm	Definite=Def	8	det	_	Gloss=DEF
+10	da	dá	VERB	v	_	0	root	_	Gloss=poser
+11	ɲɔgɔn	ɲɔ́gɔn	PRON	prn	PronType=Rcp	10	obl	_	Gloss=RECP
+12	fɛ	fɛ̀	ADP	pp	_	11	case	_	Gloss=par|SpaceAfter=No
+13	.	.	PUNCT	_	_	10	punct	_	Gloss=.
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:11
+# text = Olu bɛɛ fana yɛlɛmana ka kɛ warabilenw ye, ka taa kungo kɔnɔ.
+1	Olu	òlû	PRON	pers	Number=Plur|PronType=Prs	4	nsubj	_	Gloss=ce.PL2|Morf=ce.PL2,ce,PL2
+2	bɛɛ	bɛ́ɛ	DET	dtm	_	1	det	_	Gloss=tout
+3	fana	fána	PART	prt	_	1	discourse	_	Gloss=aussi
+4	yɛlɛmana	yɛlɛmana	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=changer|Morf=changer,PFV.INTR
+5	ka	kà	AUX	pm	_	6	aux	_	Gloss=INF
+6	kɛ	kɛ́	VERB	v	_	4	xcomp	_	Gloss=faire
+7	warabilenw	warabilenw	NOUN	n	Number=Plur	6	obl	_	Gloss=singe.rouge|Morf=singe.rouge,fauve,rouge,PL
+8	ye	yé	ADP	pp	_	7	case	_	Gloss=PP|SpaceAfter=No
+9	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+10	ka	kà	AUX	pm	_	11	aux	_	Gloss=INF
+11	taa	táa	VERB	v	_	4	xcomp	_	Gloss=aller
+12	kungo	kúngo	NOUN	n	_	11	obl	_	Gloss=brousse
+13	kɔnɔ	kɔ́nɔ	ADP	pp	_	12	case	_	Gloss=dans|SpaceAfter=No
+14	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:12
+# text = Dugumɔgɔw bɛɛ yɛlɛmana ka kɛ warabilenw ye dɔnkili in dali kosɔn fo musokɔrɔnin kelen.
+1	Dugumɔgɔw	Dugumɔgɔw	NOUN	n	Number=Plur	3	nsubj	_	Gloss=terre|Morf=terre,homme,PL
+2	bɛɛ	bɛ́ɛ	DET	dtm	_	1	det	_	Gloss=tout
+3	yɛlɛmana	yɛlɛmana	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=changer|Morf=changer,PFV.INTR
+4	ka	kà	AUX	pm	_	5	aux	_	Gloss=INF
+5	kɛ	kɛ́	VERB	v	_	3	xcomp	_	Gloss=faire
+6	warabilenw	warabilenw	NOUN	n	Number=Plur	5	obl	_	Gloss=singe.rouge|Morf=singe.rouge,fauve,rouge,PL
+7	ye	yé	ADP	pp	_	6	case	_	Gloss=PP
+8	dɔnkili	dɔ̀nkili	NOUN	n	_	10	nmod:poss	_	Gloss=chant|Morf=chant,danse,appeler
+9	in	ìn	DET	dtm	Definite=Def	8	det	_	Gloss=DEF
+10	dali	dáli	NOUN	n	VerbForm=Vnoun	3	obl	_	Gloss=action.de.poser|Morf=action.de.poser,poser,NMLZ
+11	kosɔn	kósɔ̀n	ADP	pp	_	10	case	_	Gloss=à.cause.de|Morf=à.cause.de,affaire
+12	fo	fó	ADP	conj	_	13	case	_	Gloss=jusqu'à
+13	musokɔrɔnin	mùsokɔrɔnin	NOUN	n	_	3	obl	_	Gloss=vieille.femme|Morf=vieille.femme,vieille.femme,femme,vieux,DIM
+14	kelen	kélen	NUM	num	_	13	det	_	Gloss=un|SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:13
+# text = Ale ma sɔn ka a da.
+1	Ale	àlê	PRON	pers	Number=Sing|Person=3|PronType=Emp	3	nsubj	_	Gloss=3SG.EMPH
+2	ma	ma	AUX	pm	Aspect=Perf|Polarity=Neg	3	aux	_	Gloss=PFV.NEG
+3	sɔn	sɔ̀n	VERB	v	_	0	root	_	Gloss=accepter
+4	ka	kà	AUX	pm	_	6	aux	_	Gloss=INF
+5	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	6	obj	_	Gloss=3SG
+6	da	dá	VERB	v	_	3	xcomp	_	Gloss=poser|SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:14
+# text = Jula dɔw tɛmɛntɔ dugu in kɔnɔ, u kabakoyara ka musokɔrɔba in kelen dɔrɔn sɔrɔ yen.
+1	Jula	jùla	NOUN	n	_	3	nsubj	_	Gloss=commerçant
+2	dɔw	dɔw	DET	dtm	Number=Plur	1	det	_	Gloss=certain|Morf=certain,PL
+3	tɛmɛntɔ	tɛ̀mɛntɔ	VERB	ptcp	_	9	advcl	_	Gloss=passer|Morf=passer,CONV
+4	dugu	dùgu	NOUN	n	_	3	obl	_	Gloss=terre
+5	in	ìn	DET	dtm	Definite=Def	4	det	_	Gloss=DEF
+6	kɔnɔ	kɔ́nɔ	ADP	pp	_	4	case	_	Gloss=dans|SpaceAfter=No
+7	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+8	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	9	nsubj	_	Gloss=3PL
+9	kabakoyara	kabakoyara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=étonner|Morf=étonner,s'étonner,affaire,ABSTR,PFV.INTR
+10	ka	kà	AUX	pm	_	15	aux	_	Gloss=INF
+11	musokɔrɔba	mùsokɔrɔba	NOUN	n	_	15	obj	_	Gloss=vieille.femme|Morf=vieille.femme,vieille.femme,femme,vieux,AUGM
+12	in	ìn	DET	dtm	Definite=Def	11	det	_	Gloss=DEF
+13	kelen	kélen	NUM	num	_	11	det	_	Gloss=un
+14	dɔrɔn	dɔ́rɔn	DET	dtm	_	11	det	_	Gloss=seulement
+15	sɔrɔ	sɔ̀rɔ	VERB	v	_	9	xcomp	_	Gloss=obtenir
+16	yen	yèn	ADV	adv	_	15	obl	_	Gloss=là-bas|SpaceAfter=No
+17	.	.	PUNCT	_	_	9	punct	_	Gloss=.
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:15
+# text = U y'a ɲininka: «I ka dugumɔgɔ tɔw taara min?
+1	U	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=3PL
+2	y'	y'	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR|SpaceAfter=No
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=3SG
+4	ɲininka	ɲìninka	VERB	v	_	0	root	_	Gloss=interroger|SpaceAfter=No
+5	:	:	PUNCT	_	_	4	punct	_	Gloss=:
+6	«	«	PUNCT	_	_	11	punct	_	Gloss=«|SpaceAfter=No
+7	I	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	9	nmod:poss	_	Gloss=2SG
+8	ka	ka	ADP	pp	_	7	case	_	Gloss=POSS
+9	dugumɔgɔ	dùgumɔgɔ	NOUN	n	_	11	nsubj	_	Gloss=terre|Morf=terre,homme
+10	tɔw	tɔw	NOUN	n	Number=Plur	9	det	_	Gloss=le.reste|Morf=le.reste,PL
+11	taara	taara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	4	parataxis:obj	_	Gloss=aller|Morf=aller,PFV.INTR
+12	min	mín	ADV	adv	_	11	obl	_	Gloss=où|SpaceAfter=No
+13	?	?	PUNCT	_	_	11	punct	_	Gloss=?
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:16
+# text = » Musokɔrɔba ko, ko dennin dɔ taara kungo kɔnɔ selidonya fɛ.
+1	»	»	PUNCT	_	_	3	punct	_	Gloss=»
+2	Musokɔrɔba	mùsokɔrɔba	NOUN	n	_	3	nsubj	_	Gloss=vieille.femme|Morf=vieille.femme,vieille.femme,femme,vieux,AUGM
+3	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+5	ko	kó	PART	cop	_	8	discourse	_	Gloss=QUOT
+6	dennin	dénnin	NOUN	n	_	8	nsubj	_	Gloss=fillette|Morf=fillette,enfant,DIM
+7	dɔ	dɔ́	DET	dtm	_	6	det	_	Gloss=certain
+8	taara	taara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	3	ccomp	_	Gloss=aller|Morf=aller,PFV.INTR
+9	kungo	kúngo	NOUN	n	_	8	obl	_	Gloss=brousse
+10	kɔnɔ	kɔ́nɔ	ADP	pp	_	9	case	_	Gloss=dans
+11	selidonya	sélidonya	NOUN	n	_	8	obl	_	Gloss=jour.de.fête|Morf=jour.de.fête,prière,jour,ABSTR
+12	fɛ	fɛ̀	ADP	pp	_	11	case	_	Gloss=par|SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:17
+# text = A ye warabilenw sɔrɔ tulonkɛ la u bɛ dɔnkilida la.
+1	A	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=3SG
+2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
+3	warabilenw	warabilenw	NOUN	n	Number=Plur	4	obj	_	Gloss=singe.rouge|Morf=singe.rouge,fauve,rouge,PL
+4	sɔrɔ	sɔ̀rɔ	VERB	v	_	0	root	_	Gloss=obtenir
+5	tulonkɛ	tulonkɛ	NOUN	n	_	4	obl	_	Gloss=jeu|Morf=jeu,action
+6	la	lá	ADP	pp	_	5	case	_	Gloss=à
+7	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	8	nsubj	_	Gloss=3PL
+8	bɛ	bɛ́	VERB	cop	_	4	parataxis	_	Gloss=être
+9	dɔnkilida	dɔnkilida	NOUN	n	_	8	obl	_	Gloss=chant|Morf=chant,danse,appeler,poser
+10	la	lá	ADP	pp	_	9	case	_	Gloss=à|SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:18
+# text = Kabini dennin in seginna dugu kɔnɔ ka segin dɔnkili in kan a ba ye, a yɛlɛmana ka kɛ warabilen ye ka taa kungo kɔnɔ.
+1	Kabini	kàbini	SCONJ	prep	_	4	mark	_	Gloss=depuis|Morf=depuis,depuis,si
+2	dennin	dénnin	NOUN	n	_	4	nsubj	_	Gloss=fillette|Morf=fillette,enfant,DIM
+3	in	ìn	DET	dtm	Definite=Def	2	det	_	Gloss=DEF
+4	seginna	seginna	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	17	advcl	_	Gloss=revenir|Morf=revenir,PFV.INTR
+5	dugu	dùgu	NOUN	n	_	4	obl	_	Gloss=terre
+6	kɔnɔ	kɔ́nɔ	ADP	pp	_	5	case	_	Gloss=dans
+7	ka	kà	AUX	pm	_	8	aux	_	Gloss=INF
+8	segin	sègin	VERB	v	_	4	xcomp	_	Gloss=revenir
+9	dɔnkili	dɔ̀nkili	NOUN	n	_	8	obl	_	Gloss=chant|Morf=chant,danse,appeler
+10	in	ìn	DET	dtm	Definite=Def	9	det	_	Gloss=DEF
+11	kan	kàn	ADP	pp	_	9	case	_	Gloss=sur
+12	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	13	det	_	Gloss=3SG
+13	ba	bá	NOUN	n	_	8	obl	_	Gloss=mère
+14	ye	yé	ADP	pp	_	13	case	_	Gloss=PP|SpaceAfter=No
+15	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+16	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	17	nsubj	_	Gloss=3SG
+17	yɛlɛmana	yɛlɛmana	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=changer|Morf=changer,PFV.INTR
+18	ka	kà	AUX	pm	_	19	aux	_	Gloss=INF
+19	kɛ	kɛ́	VERB	v	_	17	xcomp	_	Gloss=faire
+20	warabilen	wárabilen	NOUN	n	_	19	obl	_	Gloss=singe.rouge|Morf=singe.rouge,fauve,rouge
+21	ye	yé	ADP	pp	_	20	case	_	Gloss=PP
+22	ka	kà	AUX	pm	_	23	aux	_	Gloss=INF
+23	taa	táa	VERB	v	_	19	xcomp	_	Gloss=aller
+24	kungo	kúngo	NOUN	n	_	23	obl	_	Gloss=brousse
+25	kɔnɔ	kɔ́nɔ	ADP	pp	_	24	case	_	Gloss=dans|SpaceAfter=No
+26	.	.	PUNCT	_	_	17	punct	_	Gloss=.
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:19
+# text = O kɔ, dugu mɔgɔw ye dɔnkili in da, u bɛɛ yɛlɛmana ka kɛ warabilen ye ka taa kungo kɔnɔ.
+1	O	ò	PRON	prn	_	9	obl	_	Gloss=ce
+2	kɔ	kɔ́	ADP	pp	_	1	case	_	Gloss=après|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+4	dugu	dùgu	NOUN	n	_	5	nmod:poss	_	Gloss=terre
+5	mɔgɔw	mɔgɔw	NOUN	n	Number=Plur	9	nsubj	_	Gloss=homme|Morf=homme,PL
+6	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	9	aux	_	Gloss=PFV.TR
+7	dɔnkili	dɔ̀nkili	NOUN	n	_	9	obj	_	Gloss=chant|Morf=chant,danse,appeler
+8	in	ìn	DET	dtm	Definite=Def	7	det	_	Gloss=DEF
+9	da	dá	VERB	v	_	0	root	_	Gloss=poser|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	Gloss=,
+11	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	13	nsubj	_	Gloss=3PL
+12	bɛɛ	bɛ́ɛ	DET	dtm	_	11	det	_	Gloss=tout
+13	yɛlɛmana	yɛlɛmana	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	9	parataxis	_	Gloss=changer|Morf=changer,PFV.INTR
+14	ka	kà	AUX	pm	_	15	aux	_	Gloss=INF
+15	kɛ	kɛ́	VERB	v	_	13	xcomp	_	Gloss=faire
+16	warabilen	wárabilen	NOUN	n	_	15	obl	_	Gloss=singe.rouge|Morf=singe.rouge,fauve,rouge
+17	ye	yé	ADP	pp	_	16	case	_	Gloss=PP
+18	ka	kà	AUX	pm	_	19	aux	_	Gloss=INF
+19	taa	táa	VERB	v	_	13	xcomp	_	Gloss=aller
+20	kungo	kúngo	NOUN	n	_	19	obl	_	Gloss=brousse
+21	kɔnɔ	kɔ́nɔ	ADP	pp	_	20	case	_	Gloss=dans|SpaceAfter=No
+22	.	.	PUNCT	_	_	9	punct	_	Gloss=.
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:20
+# text = Nka, ne ma sɔn ka a da, o de y'a to ne ma yɛlɛma.
+1	Nka	ǹka	CCONJ	conj	_	5	cc	_	Gloss=mais|SpaceAfter=No
+2	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+3	ne	nê	PRON	pers	Number=Sing|Person=1|PronType=Emp	5	nsubj	_	Gloss=1SG.EMPH
+4	ma	ma	AUX	pm	Aspect=Perf|Polarity=Neg	5	aux	_	Gloss=PFV.NEG
+5	sɔn	sɔ̀n	VERB	v	_	0	root	_	Gloss=accepter
+6	ka	kà	AUX	pm	_	8	aux	_	Gloss=INF
+7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	obj	_	Gloss=3SG
+8	da	dá	VERB	v	_	5	xcomp	_	Gloss=poser|SpaceAfter=No
+9	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+10	o	ò	PRON	prn	_	14	nsubj	_	Gloss=ce
+11	de	dè	PART	prt	_	10	discourse	_	Gloss=FOC
+12	y'	y'	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	14	aux	_	Gloss=PFV.TR|SpaceAfter=No
+13	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	14	obj	_	Gloss=3SG
+14	to	tó	VERB	v	_	5	parataxis	_	Gloss=rester
+15	ne	nê	PRON	pers	Number=Sing|Person=1|PronType=Emp	17	nsubj	_	Gloss=1SG.EMPH
+16	ma	ma	AUX	pm	Aspect=Perf|Polarity=Neg	17	aux	_	Gloss=PFV.NEG
+17	yɛlɛma	yɛ̀lɛma	VERB	v	_	14	parataxis	_	Gloss=changer|SpaceAfter=No
+18	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:21
+# text = Julaw seginna k'a ɲininka k'o dun ye mun dɔnkili ye ko n'i y'o da k'i bɛ yɛlɛma ka kɛ warabilen ye?
+1	Julaw	julaw	NOUN	n	Number=Plur	2	nsubj	_	Gloss=commerçant|Morf=commerçant,PL
+2	seginna	seginna	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=revenir|Morf=revenir,PFV.INTR
+3	k'	k'	AUX	pm	_	5	aux	_	Gloss=INF|SpaceAfter=No
+4	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	obj	_	Gloss=3SG
+5	ɲininka	ɲìninka	VERB	v	_	2	xcomp	_	Gloss=interroger
+6	k'	k'	PART	cop	_	9	discourse	_	Gloss=QUOT|SpaceAfter=No
+7	o	ò	PRON	prn	_	9	nsubj	_	Gloss=ce
+8	dun	dún	PART	prt	_	7	discourse	_	Gloss=TOP.CNTR
+9	ye	yé	VERB	cop	Polarity=Pos	5	ccomp	_	Gloss=EQU
+10	mun	mùn	PRON	prn	_	11	det	_	Gloss=quoi
+11	dɔnkili	dɔ̀nkili	NOUN	n	_	9	obl	_	Gloss=chant|Morf=chant,danse,appeler
+12	ye	yé	ADP	pp	_	11	case	_	Gloss=PP
+13	ko	kó	PART	cop	_	18	discourse	_	Gloss=QUOT
+14	n'	n'	SCONJ	conj	_	18	mark	_	Gloss=si|SpaceAfter=No
+15	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	18	nsubj	_	Gloss=2SG
+16	y'	y'	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	18	aux	_	Gloss=PFV.TR|SpaceAfter=No
+17	o	ò	PRON	prn	_	18	obj	_	Gloss=ce
+18	da	dá	VERB	v	_	22	advcl	_	Gloss=poser
+19	k'	k'	PART	cop	_	22	discourse	_	Gloss=QUOT|SpaceAfter=No
+20	i	í	PRON	pers	Number=Sing|Person=2|PronType=Prs	22	nsubj	_	Gloss=2SG
+21	bɛ	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	22	aux	_	Gloss=IPFV.AFF
+22	yɛlɛma	yɛ̀lɛma	VERB	v	_	9	parataxis	_	Gloss=changer
+23	ka	kà	AUX	pm	_	24	aux	_	Gloss=INF
+24	kɛ	kɛ́	VERB	v	_	22	xcomp	_	Gloss=faire
+25	warabilen	wárabilen	NOUN	n	_	24	obl	_	Gloss=singe.rouge|Morf=singe.rouge,fauve,rouge
+26	ye	yé	ADP	pp	_	25	case	_	Gloss=PP|SpaceAfter=No
+27	?	?	PUNCT	_	_	2	punct	_	Gloss=?
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:22
+# text = Musokɔrɔba k'ale kɔni tɛ dɔnkili in da dɛ!
+1	Musokɔrɔba	mùsokɔrɔba	NOUN	n	_	2	nsubj	_	Gloss=vieille.femme|Morf=vieille.femme,vieille.femme,femme,vieux,AUGM
+2	k'	k'	VERB	cop	_	0	root	_	Gloss=QUOT|SpaceAfter=No
+3	ale	àlê	PRON	pers	Number=Sing|Person=3|PronType=Emp	8	nsubj	_	Gloss=3SG.EMPH
+4	kɔni	kɔ̀ni	PART	prt	_	3	discourse	_	Gloss=TOP.CNTR2
+5	tɛ	tɛ	AUX	pm	Aspect=Imp|Polarity=Neg	8	aux	_	Gloss=IPFV.NEG
+6	dɔnkili	dɔ̀nkili	NOUN	n	_	8	obj	_	Gloss=chant|Morf=chant,danse,appeler
+7	in	ìn	DET	dtm	Definite=Def	6	det	_	Gloss=DEF
+8	da	dá	VERB	v	_	2	ccomp	_	Gloss=poser
+9	dɛ	dɛ́	PART	prt	_	8	discourse	_	Gloss=certes|SpaceAfter=No
+10	!	!	PUNCT	_	_	2	punct	_	Gloss=!
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:23
+# text = Jula k'a ka yɛlɛn fali kan ka dɔnkili da, k'a tɛna yɛlɛma.
+1	Jula	jùla	NOUN	n	_	2	nsubj	_	Gloss=commerçant
+2	k'	k'	VERB	cop	_	0	root	_	Gloss=QUOT|SpaceAfter=No
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=3SG
+4	ka	ka	AUX	pm	Mood=Sub|Polarity=Pos	5	aux	_	Gloss=SBJV
+5	yɛlɛn	yɛ̀lɛn	VERB	v	_	2	ccomp	_	Gloss=monter
+6	fali	fàli	NOUN	n	_	5	obl	_	Gloss=âne
+7	kan	kàn	ADP	pp	_	6	case	_	Gloss=sur
+8	ka	kà	AUX	pm	_	10	aux	_	Gloss=INF
+9	dɔnkili	dɔ̀nkili	NOUN	n	_	10	obj	_	Gloss=chant|Morf=chant,danse,appeler
+10	da	dá	VERB	v	_	5	xcomp	_	Gloss=poser|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	Gloss=,
+12	k'	k'	PART	cop	_	15	discourse	_	Gloss=QUOT|SpaceAfter=No
+13	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	15	nsubj	_	Gloss=3SG
+14	tɛna	tɛ́nà	AUX	pm	Polarity=Neg|Tense=Fut	15	aux	_	Gloss=FUT.NEG
+15	yɛlɛma	yɛ̀lɛma	VERB	v	_	10	parataxis	_	Gloss=changer|SpaceAfter=No
+16	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:24
+# text = Julaw ko, ko fósì tɛ kɛ musokɔrɔba la, a tɛna yɛlɛma.
+1	Julaw	julaw	NOUN	n	Number=Plur	2	nsubj	_	Gloss=commerçant|Morf=commerçant,PL
+2	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+4	ko	kó	PART	cop	_	7	discourse	_	Gloss=QUOT
+5	fósì	fósì	PRON	prn	_	7	nsubj	_	Gloss=rien
+6	tɛ	tɛ	AUX	pm	Aspect=Imp|Polarity=Neg	7	aux	_	Gloss=IPFV.NEG
+7	kɛ	kɛ́	VERB	v	_	2	ccomp	_	Gloss=faire
+8	musokɔrɔba	mùsokɔrɔba	NOUN	n	_	7	obl	_	Gloss=vieille.femme|Morf=vieille.femme,vieille.femme,femme,vieux,AUGM
+9	la	lá	ADP	pp	_	8	case	_	Gloss=à|SpaceAfter=No
+10	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+11	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	13	nsubj	_	Gloss=3SG
+12	tɛna	tɛ́nà	AUX	pm	Polarity=Neg|Tense=Fut	13	aux	_	Gloss=FUT.NEG
+13	yɛlɛma	yɛ̀lɛma	VERB	v	_	7	parataxis	_	Gloss=changer|SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:25
+# text = Musokɔrɔba ye dɔnkili in da k'a to fali kan.
+1	Musokɔrɔba	mùsokɔrɔba	NOUN	n	_	5	nsubj	_	Gloss=vieille.femme|Morf=vieille.femme,vieille.femme,femme,vieux,AUGM
+2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
+3	dɔnkili	dɔ̀nkili	NOUN	n	_	5	obj	_	Gloss=chant|Morf=chant,danse,appeler
+4	in	ìn	DET	dtm	Definite=Def	3	det	_	Gloss=DEF
+5	da	dá	VERB	v	_	0	root	_	Gloss=poser
+6	k'	k'	AUX	pm	_	8	aux	_	Gloss=INF|SpaceAfter=No
+7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	8	obj	_	Gloss=3SG
+8	to	tó	VERB	v	_	5	xcomp	_	Gloss=rester
+9	fali	fàli	NOUN	n	_	8	obl	_	Gloss=âne
+10	kan	kàn	ADP	pp	_	9	case	_	Gloss=sur|SpaceAfter=No
+11	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:26
+# text = A tilala dɔ́rɔn, a yɛlɛmana ka kɛ warabilen ye.
+1	A	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=3SG
+2	tilala	tilala	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	6	advcl	_	Gloss=diviser|Morf=diviser,PFV.INTR
+3	dɔ́rɔn	dɔ́rɔn	SCONJ	adv	_	2	mark	_	Gloss=seulement|SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+5	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Gloss=3SG
+6	yɛlɛmana	yɛlɛmana	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=changer|Morf=changer,PFV.INTR
+7	ka	kà	AUX	pm	_	8	aux	_	Gloss=INF
+8	kɛ	kɛ́	VERB	v	_	6	xcomp	_	Gloss=faire
+9	warabilen	wárabilen	NOUN	n	_	8	obl	_	Gloss=singe.rouge|Morf=singe.rouge,fauve,rouge
+10	ye	yé	ADP	pp	_	9	case	_	Gloss=PP|SpaceAfter=No
+11	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:27
+# text = A y'i cun duguma ka taa kungo kɔnɔ.
+1	A	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=3SG
+2	y'	y'	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR|SpaceAfter=No
+3	i	í	PRON	pers	PronType=Prs	4	obj	_	Gloss=REFL
+4	cun	cún	VERB	v	_	0	root	_	Gloss=se.laisser.tomber
+5	dugu	dùgu	NOUN	n	_	4	obl	_	Gloss=terre|SpaceAfter=No
+6	ma	mà	ADP	pp	_	5	case	_	Gloss=ADR
+7	ka	kà	AUX	pm	_	8	aux	_	Gloss=INF
+8	taa	táa	VERB	v	_	4	xcomp	_	Gloss=aller
+9	kungo	kúngo	NOUN	n	_	8	obl	_	Gloss=brousse
+10	kɔnɔ	kɔ́nɔ	ADP	pp	_	9	case	_	Gloss=dans|SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:28
+# text = Kabini o kɛra julacɛkɔrɔba ko jula tɔw ma: «Ni min ye dɔnkili in da dɔ́rɔn, o tigi bɛ faga.
+1	Kabini	kàbini	SCONJ	prep	_	3	mark	_	Gloss=depuis|Morf=depuis,depuis,si
+2	o	ò	PRON	prn	_	3	nsubj	_	Gloss=ce
+3	kɛra	kɛra	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	5	compound	_	Gloss=faire|Morf=faire,PFV.INTR
+4	julacɛkɔrɔba	julacɛkɔrɔba	NOUN	n	_	5	nsubj	_	Gloss=commerçant|Morf=commerçant,vieillard,mâle,vieux,AUGM
+5	ko	kó	VERB	cop	_	0	root	_	Gloss=QUOT
+6	jula	jùla	NOUN	n	_	5	obl	_	Gloss=commerçant
+7	tɔw	tɔw	NOUN	n	Number=Plur	6	appos	_	Gloss=le.reste|Morf=le.reste,PL
+8	ma	mà	ADP	pp	_	6	case	_	Gloss=ADR|SpaceAfter=No
+9	:	:	PUNCT	_	_	5	punct	_	Gloss=:
+10	«	«	PUNCT	_	_	16	punct	_	Gloss=«|SpaceAfter=No
+11	Ni	ní	SCONJ	conj	_	16	mark	_	Gloss=si
+12	min	mîn	PRON	prn	PronType=Rel	16	nsubj	_	Gloss=REL
+13	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	16	aux	_	Gloss=PFV.TR
+14	dɔnkili	dɔ̀nkili	NOUN	n	_	16	obj	_	Gloss=chant|Morf=chant,danse,appeler
+15	in	ìn	DET	dtm	Definite=Def	14	det	_	Gloss=DEF
+16	da	dá	VERB	v	_	22	advcl	_	Gloss=poser
+17	dɔ́rɔn	dɔ́rɔn	SCONJ	adv	_	16	mark	_	Gloss=seulement|SpaceAfter=No
+18	,	,	PUNCT	_	_	16	punct	_	Gloss=,
+19	o	ò	PRON	prn	_	20	nmod:poss	_	Gloss=ce
+20	tigi	tìgi	NOUN	n	_	22	nsubj	_	Gloss=maître
+21	bɛ	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	22	aux	_	Gloss=IPFV.AFF
+22	faga	fàga	VERB	v	_	5	ccomp	_	Gloss=tuer|SpaceAfter=No
+23	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:29
+# text = An ka taa ka bɔ dugu in kɔnɔ.
+1	An	án	PRON	pers	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	Gloss=1PL
+2	ka	ka	AUX	pm	Mood=Sub|Polarity=Pos	3	aux	_	Gloss=SBJV
+3	taa	táa	VERB	v	_	0	root	_	Gloss=aller
+4	ka	kà	AUX	pm	_	5	aux	_	Gloss=INF
+5	bɔ	bɔ́	VERB	v	_	3	xcomp	_	Gloss=sortir
+6	dugu	dùgu	NOUN	n	_	5	obl	_	Gloss=terre
+7	in	ìn	DET	dtm	Definite=Def	6	det	_	Gloss=DEF
+8	kɔnɔ	kɔ́nɔ	ADP	pp	_	6	case	_	Gloss=dans|SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:30
+# text = Nin dugu in man ɲi.
+1	Nin	nìn	DET	dtm	Definite=Def|PronType=Dem	2	det	_	Gloss=DEM
+2	dugu	dùgu	NOUN	n	_	5	nsubj	_	Gloss=terre
+3	in	ìn	DET	dtm	Definite=Def	2	det	_	Gloss=DEF
+4	man	man	AUX	pm	Polarity=Neg	5	aux	_	Gloss=QUAL.NEG
+5	ɲi	ɲì	VERB	vq	_	0	root	_	Gloss=bon|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:31
+# text = N'a fɔra ko mɔgɔ kana taa kungo kɔnɔ selidonya fɛ, a kɔrɔ filɛ nin ye.
+1	N'	n'	SCONJ	conj	_	3	mark	_	Gloss=si|SpaceAfter=No
+2	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=3SG
+3	fɔra	fɔra	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	15	advcl	_	Gloss=dire|Morf=dire,PFV.INTR
+4	ko	kó	PART	cop	_	7	discourse	_	Gloss=QUOT
+5	mɔgɔ	mɔ̀gɔ	NOUN	n	_	7	nsubj	_	Gloss=homme
+6	kana	kànâ	AUX	pm	Mood=Imp|Polarity=Neg	7	aux	_	Gloss=PROH
+7	taa	táa	VERB	v	_	3	ccomp	_	Gloss=aller
+8	kungo	kúngo	NOUN	n	_	7	obl	_	Gloss=brousse
+9	kɔnɔ	kɔ́nɔ	ADP	pp	_	8	case	_	Gloss=dans
+10	selidonya	sélidonya	NOUN	n	_	7	obl	_	Gloss=jour.de.fête|Morf=jour.de.fête,prière,jour,ABSTR
+11	fɛ	fɛ̀	ADP	pp	_	10	case	_	Gloss=par|SpaceAfter=No
+12	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+13	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	14	nmod:poss	_	Gloss=3SG
+14	kɔrɔ	kɔ́rɔ	NOUN	n	_	15	nsubj	_	Gloss=dessous
+15	filɛ	fílɛ	VERB	v	_	0	root	_	Gloss=regarder
+16	nin	nìn	PRON	prn	_	15	obl	_	Gloss=ceci
+17	ye	yé	ADP	pp	_	16	case	_	Gloss=PP|SpaceAfter=No
+18	.	.	PUNCT	_	_	15	punct	_	Gloss=.
+
+# sent_id = 01npogotiginin_kokorobola.dis.html:32
+# text = N y'a ta yɔrɔ min, n y'a bila o yɔrɔ la.
+1	N	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=1SG
+2	y'	y'	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR|SpaceAfter=No
+3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=3SG
+4	ta	tà	VERB	v	_	13	acl	_	Gloss=prendre
+5	yɔrɔ	yɔ́rɔ	NOUN	n	_	4	obl	_	Gloss=lieu
+6	min	mîn	DET	dtm	PronType=Rel	5	det	_	Gloss=REL|SpaceAfter=No
+7	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+8	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	Gloss=1SG
+9	y'	y'	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	11	aux	_	Gloss=PFV.TR|SpaceAfter=No
+10	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	11	obj	_	Gloss=3SG
+11	bila	bìla	VERB	v	_	0	root	_	Gloss=mettre
+12	o	ò	DET	dtm	_	13	det	_	Gloss=ce
+13	yɔrɔ	yɔ́rɔ	NOUN	n	_	11	obl	_	Gloss=lieu
+14	la	lá	ADP	pp	_	13	case	_	Gloss=à|SpaceAfter=No
+15	.	.	PUNCT	_	_	11	punct	_	Gloss=.
+

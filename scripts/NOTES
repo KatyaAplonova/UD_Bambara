@@ -1,6 +1,11 @@
-python ../../tools/validate.py --lang bm < meyer_gorog-contes_bambara_01syefan_ani_syedennin.dis.conllu
+python2 ../../tools/validate.py --lang bm < meyer_gorog-contes_bambara_01syefan_ani_syedennin.dis.conllu
 
 cat meyer_gorog-contes_bambara_01syefan_ani_syedennin.dis.conllu | python3 ../scripts/remove-spurious-newlines.py  > l
 python ../../ud-scripts/conllu-spaceafter.py meyer_gorog-contes_bambara_01syefan_ani_syedennin.dis.conllu  > new
 cat meyer_gorog-contes_bambara_01syefan_ani_syedennin.dis.conllu | python3 ../scripts/fix-errors.py >l
 
+for training a model
+udpipe --train bambara.model conllu/*.conllu
+
+for parse
+cat raw/meyer_gorog-contes_bambara_02mansake_denmuso_furuli.dis.conllu | udpipe --parse bambara.model

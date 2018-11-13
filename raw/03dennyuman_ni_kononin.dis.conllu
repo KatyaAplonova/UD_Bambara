@@ -1,0 +1,759 @@
+# sent_id = html/03dennyuman_ni_kononin.dis.html:1
+# text = <>NSIIRI SABANAN</>
+1	<>	_	X	_	_	_	_	_	Gloss=_
+2	NSIIRI	nsíiri	NOUN	n	_	_	_	_	Gloss=conte
+3	SABANAN	sábanan	ADJ	adj	NumType=Ord	_	_	_	Gloss=troisième|Morf=troisième,trois,ORD
+4	</>	_	X	_	_	_	_	_	Gloss=_
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:2
+# text = <>Den ɲuman ni Kɔnɔnin</>
+1	<>	_	X	_	_	_	_	_	Gloss=_
+2	Den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+3	ɲuman	ɲùman	ADJ	adj	_	_	_	_	Gloss=bon
+4	ni	ni	X	conj	_	_	_	_	Gloss=et
+5	Kɔnɔnin	kɔnɔnin	NOUN	n	_	_	_	_	Gloss=oiseau|Morf=oiseau,DIM
+6	</>	_	X	_	_	_	_	_	Gloss=_
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:3
+# text = Nin kɛra den dɔ ye.
+1	Nin	nìn	PRON	prn	_	_	_	_	Gloss=ceci
+2	kɛra	kɛra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=faire|Morf=faire,PFV.INTR
+3	den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+4	dɔ	dɔ́	DET	dtm	_	_	_	_	Gloss=certain
+5	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+6	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:4
+# text = Den nin ka ɲin kosɛbɛ.
+1	Den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+2	nin	nìn	DET	dtm	PronType=Dem|Definite=Def	_	_	_	Gloss=DEM
+3	ka	ka	AUX	pm	Polarity=Pos	_	_	_	Gloss=QUAL.AFF
+4	ɲin	ɲìn	VERB	vq	_	_	_	_	Gloss=bon
+5	kosɛbɛ	kósɛbɛ	ADV	adv	_	_	_	_	Gloss=très.bien|Morf=très.bien,affaire,sérieux
+6	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:5
+# text = A bɛ koɲuman dɔrɔn de kɛ.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	bɛ	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+3	koɲuman	kóɲuman	NOUN	n	_	_	_	_	Gloss=bien|Morf=bien,affaire,bon
+4	dɔrɔn	dɔ́rɔn	DET	dtm	_	_	_	_	Gloss=seulement
+5	de	dè	PART	prt	_	_	_	_	Gloss=FOC
+6	kɛ	kɛ́	VERB	v	_	_	_	_	Gloss=faire
+7	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:6
+# text = K'a to a bamuso bɛ yen, k'a to a facɛ bɛ yen.
+1	K'	k'	AUX	pm	_	_	_	_	Gloss=INF
+2	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+3	to	tó	VERB	v	_	_	_	_	Gloss=rester
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+5	bamuso	bámuso	NOUN	n	_	_	_	_	Gloss=mère|Morf=mère,mère,féminin
+6	bɛ	bɛ́	VERB	cop	_	_	_	_	Gloss=être
+7	yen	yèn	ADV	adv	_	_	_	_	Gloss=là-bas
+8	,	,	PUNCT	_		_	_	_	Gloss=,
+9	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+11	to	tó	VERB	v	_	_	_	_	Gloss=rester
+12	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+13	facɛ	facɛ	NOUN	n	_	_	_	_	Gloss=père|Morf=père,mâle
+14	bɛ	bɛ́	VERB	cop	_	_	_	_	Gloss=être
+15	yen	yèn	ADV	adv	_	_	_	_	Gloss=là-bas
+16	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:7
+# text = Don dɔ, fɔɲɔba wulila, a ye kɔnɔ fitinin dɔ bennen ye yiri kɔrɔ.
+1	Don	dón	NOUN	n	_	_	_	_	Gloss=jour
+2	dɔ	dɔ́	DET	dtm	_	_	_	_	Gloss=certain
+3	,	,	PUNCT	_		_	_	_	Gloss=,
+4	fɔɲɔba	fɔ́ɲɔba	NOUN	n	_	_	_	_	Gloss=vent.AUG|Morf=vent.AUG,vent,AUGM
+5	wulila	wulila	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=se.lever|Morf=se.lever,PFV.INTR
+6	,	,	PUNCT	_		_	_	_	Gloss=,
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+8	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+9	kɔnɔ	kɔ̀nɔ	NOUN	n	_	_	_	_	Gloss=oiseau
+10	fitinin	fítinin	ADJ	adj	_	_	_	_	Gloss=petit
+11	dɔ	dɔ́	DET	dtm	_	_	_	_	Gloss=certain
+12	bennen	bènnen	VERB	ptcp	VerbForm=Part|Aspect=Perf	_	_	_	Gloss=tomber.RES|Morf=tomber.RES,tomber,PTCP.RES
+13	ye	yé	VERB	v	_	_	_	_	Gloss=voir
+14	yiri	yíri	NOUN	n	_	_	_	_	Gloss=arbre
+15	kɔrɔ	kɔ́rɔ	ADP	pp	_	_	_	_	Gloss=sous
+16	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:8
+# text = A y'a ta walasa fɔɲɔ kana kɔnɔnin nin faga, walasa sanji kan'a faga.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	ta	tà	VERB	v	_	_	_	_	Gloss=prendre
+5	walasa	wálasa	SCONJ	conj	_	_	_	_	Gloss=pour.que
+6	fɔɲɔ	fɔ́ɲɔ	NOUN	n	_	_	_	_	Gloss=vent
+7	kana	kànâ	AUX	pm	Polarity=Neg|Mood=Imp	_	_	_	Gloss=PROH
+8	kɔnɔnin	kɔnɔnin	NOUN	n	_	_	_	_	Gloss=oiseau|Morf=oiseau,DIM
+9	nin	nìn	DET	dtm	PronType=Dem|Definite=Def	_	_	_	Gloss=DEM
+10	faga	fàga	VERB	v	_	_	_	_	Gloss=tuer
+11	,	,	PUNCT	_		_	_	_	Gloss=,
+12	walasa	wálasa	SCONJ	conj	_	_	_	_	Gloss=pour.que
+13	sanji	sánji	NOUN	n	_	_	_	_	Gloss=pluie|Morf=pluie,ciel,eau
+14	kan'	kàn'	AUX	pm	Polarity=Neg|Mood=Imp	_	_	_	Gloss=PROH
+15	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+16	faga	fàga	VERB	v	_	_	_	_	Gloss=tuer
+17	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:9
+# text = A ye kɔnɔnin balo fo k'a bonya.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	kɔnɔnin	kɔnɔnin	NOUN	n	_	_	_	_	Gloss=oiseau|Morf=oiseau,DIM
+4	balo	bálo	VERB	v	_	_	_	_	Gloss=vivre
+5	fo	fó	X	conj	_	_	_	_	Gloss=jusqu'à
+6	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+7	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+8	bonya	bònya	VERB	v	_	_	_	_	Gloss=grossir|Morf=grossir,grand,DEQU
+9	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:10
+# text = A ye kɔnɔnin ladon koɲuman; ka kɔnɔnin labila.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	kɔnɔnin	kɔnɔnin	NOUN	n	_	_	_	_	Gloss=oiseau|Morf=oiseau,DIM
+4	ladon	ládòn	VERB	v	Voice=Cau	_	_	_	Gloss=faire.entrer|Morf=faire.entrer,CAUS,entrer
+5	koɲuman	kóɲuman	ADV	adv	_	_	_	_	Gloss=bien|Morf=bien,affaire,bon
+6	;	;	PUNCT	_		_	_	_	Gloss=;
+7	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+8	kɔnɔnin	kɔnɔnin	NOUN	n	_	_	_	_	Gloss=oiseau|Morf=oiseau,DIM
+9	labila	lábìla	VERB	v	Voice=Cau	_	_	_	Gloss=laisser.partir|Morf=laisser.partir,CAUS,mettre
+10	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:11
+# text = Kɔnɔnin tagara.
+1	Kɔnɔnin	kɔnɔnin	NOUN	n	_	_	_	_	Gloss=oiseau|Morf=oiseau,DIM
+2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=aller|Morf=aller,PFV.INTR
+3	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:12
+# text = Ala tora a ka dɔnnin na ka kɔngɔ ben dugu nin kan.
+1	Ala	Ála	NOUN	n	_	_	_	_	Gloss=Dieu
+2	tora	tora	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=rester|Morf=rester,PFV.INTR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	ka	ka	ADP	pp	_	_	_	_	Gloss=POSS
+5	dɔnnin	dɔ́nni	NOUN	n	VerbForm=Vnoun	_	_	_	Gloss=connaissance|Morf=connaissance,connaître,NMLZ
+6	na	ná	ADP	pp	_	_	_	_	Gloss=à
+7	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+8	kɔngɔ	kɔ́ngɔ	NOUN	n	_	_	_	_	Gloss=faim
+9	ben	bèn	VERB	v	_	_	_	_	Gloss=tomber
+10	dugu	dùgu	NOUN	n	_	_	_	_	Gloss=terre
+11	nin	nìn	DET	dtm	PronType=Dem|Definite=Def	_	_	_	Gloss=DEM
+12	kan	kàn	ADP	pp	_	_	_	_	Gloss=sur
+13	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:13
+# text = Kɔngɔba.
+1	Kɔngɔba	kɔ́ngɔba	NOUN	n	_	_	_	_	Gloss=famine|Morf=famine,faim,AUGM
+2	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:14
+# text = Ka dugu nin ɲɛni, ka dugumɔgɔw fasa, k'u tɔrɔ.
+1	Ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+2	dugu	dùgu	NOUN	n	_	_	_	_	Gloss=terre
+3	nin	nìn	DET	dtm	PronType=Dem|Definite=Def	_	_	_	Gloss=DEM
+4	ɲɛni	ɲɛ́ni	VERB	v	_	_	_	_	Gloss=réduire.à.la.misère
+5	,	,	PUNCT	_		_	_	_	Gloss=,
+6	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+7	dugumɔgɔw	dugumɔgɔw	NOUN	n	Number=Plur	_	_	_	Gloss=terre|Morf=terre,homme,PL
+8	fasa	fàsa	VERB	v	_	_	_	_	Gloss=rendre.consistant
+9	,	,	PUNCT	_		_	_	_	Gloss=,
+10	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+11	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+12	tɔrɔ	tɔ́rɔ	VERB	v	_	_	_	_	Gloss=faire.souffrir
+13	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:15
+# text = Kɔnɔnin wulila, a bɛ fɛ ka den nin ka ɲuman sar'a ye.
+1	Kɔnɔnin	kɔnɔnin	NOUN	n	_	_	_	_	Gloss=oiseau|Morf=oiseau,DIM
+2	wulila	wulila	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=se.lever|Morf=se.lever,PFV.INTR
+3	,	,	PUNCT	_		_	_	_	Gloss=,
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+5	bɛ	bɛ́	VERB	cop	_	_	_	_	Gloss=être
+6	fɛ	fɛ̀	ADP	pp	_	_	_	_	Gloss=par
+7	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+8	den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+9	nin	nìn	DET	dtm	PronType=Dem|Definite=Def	_	_	_	Gloss=DEM
+10	ka	ka	ADP	pp	_	_	_	_	Gloss=POSS
+11	ɲuman	ɲùman	ADJ	adj	_	_	_	_	Gloss=bon
+12	sar'	sar'	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=mourir|Morf=mourir,PFV.INTR
+13	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+14	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+15	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:16
+# text = Kɔnɔnin tagara ɲɔ kumu caman jamana jan dɔ la.
+1	Kɔnɔnin	kɔnɔnin	NOUN	n	_	_	_	_	Gloss=oiseau|Morf=oiseau,DIM
+2	tagara	tagara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=aller|Morf=aller,PFV.INTR
+3	ɲɔ	ɲɔ̀	NOUN	n	_	_	_	_	Gloss=mil
+4	kumu	kùmu	ADJ	adj	_	_	_	_	Gloss=aigre
+5	caman	cáman	ADJ	adj	AdjType=Attr	_	_	_	Gloss=nombreux|Morf=nombreux,nombreux,ADJ
+6	jamana	jàmana	NOUN	n	_	_	_	_	Gloss=pays
+7	jan	jàn	ADJ	adj	_	_	_	_	Gloss=long
+8	dɔ	dɔ́	DET	dtm	_	_	_	_	Gloss=certain
+9	la	lá	ADP	pp	_	_	_	_	Gloss=à
+10	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:17
+# text = A nana min kɛ a ye den nin ko ɲininka.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=venir|Morf=venir,PFV.INTR
+3	min	mîn	PRON	prn	PronType=Rel	_	_	_	Gloss=REL
+4	kɛ	kɛ́	VERB	v	_	_	_	_	Gloss=faire
+5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+6	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+7	den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+8	nin	nìn	DET	dtm	PronType=Dem|Definite=Def	_	_	_	Gloss=DEM
+9	ko	kó	NOUN	n	_	_	_	_	Gloss=affaire
+10	ɲininka	ɲìninka	VERB	v	_	_	_	_	Gloss=interroger
+11	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:18
+# text = O ɲininkali kɛra dɔnkilinin ye.
+1	O	ò	DET	dtm	_	_	_	_	Gloss=ce
+2	ɲininkali	ɲìninkali	NOUN	n	VerbForm=Vnoun	_	_	_	Gloss=interrogation|Morf=interrogation,interroger,NMLZ
+3	kɛra	kɛra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=faire|Morf=faire,PFV.INTR
+4	dɔnkilinin	dɔnkilinin	NOUN	n	_	_	_	_	Gloss=chant|Morf=chant,danse,appeler,DIM
+5	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+6	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:19
+# text = O dɔnkili nin na, kɔnɔ ko den ka cɛrɛ ta ka na n'a ye; a b'a yɛrɛ yuguyugu.
+1	O	ò	DET	dtm	_	_	_	_	Gloss=ce
+2	dɔnkili	dɔ̀nkili	NOUN	n	_	_	_	_	Gloss=chant|Morf=chant,danse,appeler
+3	nin	nìn	DET	dtm	PronType=Dem|Definite=Def	_	_	_	Gloss=DEM
+4	na	ná	ADP	pp	_	_	_	_	Gloss=à
+5	,	,	PUNCT	_		_	_	_	Gloss=,
+6	kɔnɔ	kɔ̀nɔ	NOUN	n	_	_	_	_	Gloss=oiseau
+7	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+8	den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+9	ka	ka	AUX	pm	Mood=Sub|Polarity=Pos	_	_	_	Gloss=SBJV
+10	cɛrɛ	cɛ̀rɛ	NOUN	n	_	_	_	_	Gloss=corbeille
+11	ta	tà	VERB	v	_	_	_	_	Gloss=prendre
+12	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+13	na	nà	VERB	v	_	_	_	_	Gloss=venir
+14	n	n'	CCONJ	conj	_	_	_	_	Gloss=et
+15	None	None	X	_	_	_	_	_	Gloss=None
+16	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+17	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+18	;	;	PUNCT	_		_	_	_	Gloss=;
+19	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+20	b	b'	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+21	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+22	yɛrɛ	yɛ̀rɛ̂	DET	dtm	_	_	_	_	Gloss=même
+23	yuguyugu	yúguyugu	VERB	v	_	_	_	_	Gloss=secouer
+24	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:20
+# text = Cɛnin nana ni cɛrɛ ye.
+1	Cɛnin	cɛ̀nin	NOUN	n	_	_	_	_	Gloss=jeune.homme|Morf=jeune.homme,mâle,DIM
+2	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=venir|Morf=venir,PFV.INTR
+3	ni	ni	X	conj	_	_	_	_	Gloss=et
+4	cɛrɛ	cɛ̀rɛ	NOUN	n	_	_	_	_	Gloss=corbeille
+5	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+6	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:21
+# text = kɔnɔ y'a yɛrɛ yuguyugu fo ka cɛrɛ nin fa ɲɔ na, ɲɔ ɲuman.
+1	kɔnɔ	kɔ̀nɔ	NOUN	n	_	_	_	_	Gloss=oiseau
+2	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	yɛrɛ	yɛ̀rɛ̂	DET	dtm	_	_	_	_	Gloss=même
+5	yuguyugu	yúguyugu	VERB	v	_	_	_	_	Gloss=secouer
+6	fo	fó	X	conj	_	_	_	_	Gloss=jusqu'à
+7	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+8	cɛrɛ	cɛ̀rɛ	NOUN	n	_	_	_	_	Gloss=corbeille
+9	nin	nìn	DET	dtm	PronType=Dem|Definite=Def	_	_	_	Gloss=DEM
+10	fa	fá	VERB	v	_	_	_	_	Gloss=remplir
+11	ɲɔ	ɲɔ̀	NOUN	n	_	_	_	_	Gloss=mil
+12	na	ná	ADP	pp	_	_	_	_	Gloss=à
+13	,	,	PUNCT	_		_	_	_	Gloss=,
+14	ɲɔ	ɲɔ̀	NOUN	n	_	_	_	_	Gloss=mil
+15	ɲuman	ɲùman	ADJ	adj	_	_	_	_	Gloss=bon
+16	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:22
+# text = Den nin ye ɲɔ nin ta ka taa susu, k'a kɛ to ye, k'a bila a bamuso n'a facɛ ye.
+1	Den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+2	nin	nìn	DET	dtm	PronType=Dem|Definite=Def	_	_	_	Gloss=DEM
+3	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+4	ɲɔ	ɲɔ̀	NOUN	n	_	_	_	_	Gloss=mil
+5	nin	nìn	DET	dtm	PronType=Dem|Definite=Def	_	_	_	Gloss=DEM
+6	ta	tà	VERB	v	_	_	_	_	Gloss=prendre
+7	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+8	taa	táa	VERB	v	_	_	_	_	Gloss=aller
+9	susu	sùsu	VERB	v	_	_	_	_	Gloss=piler
+10	,	,	PUNCT	_		_	_	_	Gloss=,
+11	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+12	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+13	kɛ	kɛ́	VERB	v	_	_	_	_	Gloss=faire
+14	to	tò	NOUN	n	_	_	_	_	Gloss=“tô”
+15	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+16	,	,	PUNCT	_		_	_	_	Gloss=,
+17	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+18	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+19	bila	bìla	VERB	v	_	_	_	_	Gloss=mettre
+20	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+21	bamuso	bámuso	NOUN	n	_	_	_	_	Gloss=mère|Morf=mère,mère,féminin
+22	n'	n'	CCONJ	conj	_	_	_	_	Gloss=et
+23	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+24	facɛ	facɛ	NOUN	n	_	_	_	_	Gloss=père|Morf=père,mâle
+25	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+26	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:23
+# text = Olu nana to nin sɔrɔ, u y'a ɲininga, ko: "I ye to nin bɔ min?"
+1	Olu	òlû	PRON	pers	PronType=Prs|Number=Plur	_	_	_	Gloss=ce.PL2|Morf=ce.PL2,ce,PL2
+2	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=venir|Morf=venir,PFV.INTR
+3	to	tò	NOUN	n	_	_	_	_	Gloss=“tô”
+4	nin	nìn	DET	dtm	PronType=Dem|Definite=Def	_	_	_	Gloss=DEM
+5	sɔrɔ	sɔ̀rɔ	VERB	v	_	_	_	_	Gloss=obtenir
+6	,	,	PUNCT	_		_	_	_	Gloss=,
+7	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+8	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+10	ɲininga	ɲìninka	VERB	v	_	_	_	_	Gloss=interroger
+11	,	,	PUNCT	_		_	_	_	Gloss=,
+12	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+13	:	:	PUNCT	_		_	_	_	Gloss=:
+14	"	"	PUNCT	_		_	_	_	Gloss="
+15	I	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	_	_	_	Gloss=2SG
+16	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+17	to	tò	NOUN	n	_	_	_	_	Gloss=“tô”
+18	nin	nìn	DET	dtm	PronType=Dem|Definite=Def	_	_	_	Gloss=DEM
+19	bɔ	bɔ́	VERB	v	_	_	_	_	Gloss=sortir
+20	min	mín	ADV	adv	_	_	_	_	Gloss=où
+21	?	?	PUNCT	_		_	_	_	Gloss=?
+22	"	"	PUNCT	_		_	_	_	Gloss="
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:24
+# text = A ko: "Ala de y'a d'an ma."
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+3	:	:	PUNCT	_		_	_	_	Gloss=:
+4	"	"	PUNCT	_		_	_	_	Gloss="
+5	Ala	Ála	NOUN	n	_	_	_	_	Gloss=Dieu
+6	de	dè	PART	prt	_	_	_	_	Gloss=FOC
+7	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+9	d'	d'	VERB	v	_	_	_	_	Gloss=donner
+10	an	án	PRON	pers	PronType=Prs|Number=Plur|Person=1	_	_	_	Gloss=1PL
+11	ma	mà	ADP	pp	_	_	_	_	Gloss=ADR
+12	.	.	PUNCT	_		_	_	_	Gloss=.
+13	"	"	PUNCT	_		_	_	_	Gloss="
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:25
+# text = U ma da den nin ka kuma na.
+1	U	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+2	ma	ma	AUX	pm	Polarity=Neg|Aspect=Perf	_	_	_	Gloss=PFV.NEG
+3	da	dá	VERB	v	_	_	_	_	Gloss=poser
+4	den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+5	nin	nìn	DET	dtm	PronType=Dem|Definite=Def	_	_	_	Gloss=DEM
+6	ka	ka	ADP	pp	_	_	_	_	Gloss=POSS
+7	kuma	kúma	NOUN	n	_	_	_	_	Gloss=parole
+8	na	ná	ADP	pp	_	_	_	_	Gloss=à
+9	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:26
+# text = Kɔnɔ tora n'a bɛ na ni ɲɔ ye ka di den nin ma.
+1	Kɔnɔ	kɔ̀nɔ	NOUN	n	_	_	_	_	Gloss=oiseau
+2	tora	tora	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=rester|Morf=rester,PFV.INTR
+3	n'	n'	CCONJ	conj	_	_	_	_	Gloss=et
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+5	bɛ	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+6	na	nà	VERB	v	_	_	_	_	Gloss=venir
+7	ni	ni	X	conj	_	_	_	_	Gloss=et
+8	ɲɔ	ɲɔ̀	NOUN	n	_	_	_	_	Gloss=mil
+9	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+10	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+11	di	dí	VERB	v	_	_	_	_	Gloss=donner
+12	den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+13	nin	nìn	DET	dtm	PronType=Dem|Definite=Def	_	_	_	Gloss=DEM
+14	ma	mà	ADP	pp	_	_	_	_	Gloss=ADR
+15	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:27
+# text = Den nin b'a kɛ to ye k'a di a bangebaaw ma.
+1	Den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+2	nin	nìn	DET	dtm	PronType=Dem|Definite=Def	_	_	_	Gloss=DEM
+3	b'	b'	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+5	kɛ	kɛ́	VERB	v	_	_	_	_	Gloss=faire
+6	to	tò	NOUN	n	_	_	_	_	Gloss=“tô”
+7	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+8	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+9	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+10	di	dí	VERB	v	_	_	_	_	Gloss=donner
+11	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+12	bangebaaw	bangebaaw	NOUN	n	Number=Plur	_	_	_	Gloss=parent|Morf=parent,naître,AG.OCC,PL
+13	ma	mà	ADP	pp	_	_	_	_	Gloss=ADR
+14	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:28
+# text = Den nin somɔgɔw ko: "N'an ma fɛɛrɛ ɲini ko nin na, a bɛna na kɛ baara ye an bolo.
+1	Den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+2	nin	nìn	DET	dtm	PronType=Dem|Definite=Def	_	_	_	Gloss=DEM
+3	somɔgɔw	somɔgɔw	NOUN	n	Number=Plur	_	_	_	Gloss=personne.de.la.famille|Morf=personne.de.la.famille,maison,homme,PL
+4	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+5	:	:	PUNCT	_		_	_	_	Gloss=:
+6	"	"	PUNCT	_		_	_	_	Gloss="
+7	N'	n'	SCONJ	conj	_	_	_	_	Gloss=si
+8	an	án	PRON	pers	PronType=Prs|Number=Plur|Person=1	_	_	_	Gloss=1PL
+9	ma	ma	AUX	pm	Polarity=Neg|Aspect=Perf	_	_	_	Gloss=PFV.NEG
+10	fɛɛrɛ	fɛ̀ɛrɛ	NOUN	n	_	_	_	_	Gloss=moyen
+11	ɲini	ɲíni	VERB	v	_	_	_	_	Gloss=chercher
+12	ko	kó	NOUN	n	_	_	_	_	Gloss=affaire
+13	nin	nìn	DET	dtm	PronType=Dem|Definite=Def	_	_	_	Gloss=DEM
+14	na	ná	ADP	pp	_	_	_	_	Gloss=à
+15	,	,	PUNCT	_		_	_	_	Gloss=,
+16	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+17	bɛna	bɛ́na	AUX	pm	Tense=Fut|Polarity=Pos	_	_	_	Gloss=FUT
+18	na	nà	VERB	v	_	_	_	_	Gloss=venir
+19	kɛ	kɛ́	VERB	v	_	_	_	_	Gloss=faire
+20	baara	báara	NOUN	n	_	_	_	_	Gloss=travail
+21	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+22	an	án	PRON	pers	PronType=Prs|Number=Plur|Person=1	_	_	_	Gloss=1PL
+23	bolo	bólo	ADP	pp	_	_	_	_	Gloss=CNTRL
+24	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:29
+# text = ”Don dɔ, a facɛ dogora.
+1	”	”	X	_	_	_	_	_	Gloss=”
+2	Don	dón	NOUN	n	_	_	_	_	Gloss=jour
+3	dɔ	dɔ́	DET	dtm	_	_	_	_	Gloss=certain
+4	,	,	PUNCT	_		_	_	_	Gloss=,
+5	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+6	facɛ	facɛ	NOUN	n	_	_	_	_	Gloss=père|Morf=père,mâle
+7	dogora	dogora	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=cacher|Morf=cacher,PFV.INTR
+8	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:30
+# text = A b 'a fɛ ka den nin ka gundo dɔn.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	b	b'	VERB	cop	_	_	_	_	Gloss=être
+3	None	None	X	_	_	_	_	_	Gloss=None
+4	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+5	fɛ	fɛ̀	ADP	pp	_	_	_	_	Gloss=par
+6	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+7	den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+8	nin	nìn	DET	dtm	PronType=Dem|Definite=Def	_	_	_	Gloss=DEM
+9	ka	ka	ADP	pp	_	_	_	_	Gloss=POSS
+10	gundo	gùndo	NOUN	n	_	_	_	_	Gloss=secret
+11	dɔn	dɔ́n	VERB	v	_	_	_	_	Gloss=connaître
+12	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:31
+# text = A b'a fɛ k'a ye fɛn min bɛ na ni ɲɔ nin ye ka na di den nin ma.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	b'	b'	VERB	cop	_	_	_	_	Gloss=être
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	fɛ	fɛ̀	ADP	pp	_	_	_	_	Gloss=par
+5	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+7	ye	yé	VERB	v	_	_	_	_	Gloss=voir
+8	fɛn	fɛ́n	NOUN	n	_	_	_	_	Gloss=chose
+9	min	mîn	DET	dtm	PronType=Rel	_	_	_	Gloss=REL
+10	bɛ	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+11	na	nà	VERB	v	_	_	_	_	Gloss=venir
+12	ni	ni	X	conj	_	_	_	_	Gloss=et
+13	ɲɔ	ɲɔ̀	NOUN	n	_	_	_	_	Gloss=mil
+14	nin	nìn	DET	dtm	PronType=Dem|Definite=Def	_	_	_	Gloss=DEM
+15	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+16	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+17	na	nà	VERB	v	_	_	_	_	Gloss=venir
+18	di	dí	VERB	v	_	_	_	_	Gloss=donner
+19	den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+20	nin	nìn	DET	dtm	PronType=Dem|Definite=Def	_	_	_	Gloss=DEM
+21	ma	mà	ADP	pp	_	_	_	_	Gloss=ADR
+22	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:32
+# text = A tora o la fo tile nana gwan.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	tora	tora	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=rester|Morf=rester,PFV.INTR
+3	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+4	la	lá	ADP	pp	_	_	_	_	Gloss=à
+5	fo	fó	X	conj	_	_	_	_	Gloss=jusqu'à
+6	tile	tìle	NOUN	n	_	_	_	_	Gloss=soleil
+7	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=venir|Morf=venir,PFV.INTR
+8	gwan	gwàn	VERB	v	_	_	_	_	Gloss=chauffer
+9	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:33
+# text = Dɔɔnin, kɔnɔnin nana ka dɔnkili da.
+1	Dɔɔnin	dɔ́ɔnin	ADV	adv	_	_	_	_	Gloss=un.peu
+2	,	,	PUNCT	_		_	_	_	Gloss=,
+3	kɔnɔnin	kɔnɔnin	NOUN	n	_	_	_	_	Gloss=oiseau|Morf=oiseau,DIM
+4	nana	nana	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=venir|Morf=venir,PFV.INTR
+5	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+6	dɔnkili	dɔ̀nkili	NOUN	n	_	_	_	_	Gloss=chant|Morf=chant,danse,appeler
+7	da	dá	VERB	v	_	_	_	_	Gloss=poser
+8	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:34
+# text = Den bɔra ni cɛrɛ ye.
+1	Den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+2	bɔra	bɔra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=sortir|Morf=sortir,PFV.INTR
+3	ni	ni	X	conj	_	_	_	_	Gloss=et
+4	cɛrɛ	cɛ̀rɛ	NOUN	n	_	_	_	_	Gloss=corbeille
+5	ye	yé	ADP	pp	_	_	_	_	Gloss=PP
+6	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:35
+# text = A y'a yɛrɛ yuguyugu ka cɛrɛ nin fa.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	yɛrɛ	yɛ̀rɛ̂	DET	dtm	_	_	_	_	Gloss=même
+5	yuguyugu	yúguyugu	VERB	v	_	_	_	_	Gloss=secouer
+6	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+7	cɛrɛ	cɛ̀rɛ	NOUN	n	_	_	_	_	Gloss=corbeille
+8	nin	nìn	DET	dtm	PronType=Dem|Definite=Def	_	_	_	Gloss=DEM
+9	fa	fá	VERB	v	_	_	_	_	Gloss=remplir
+10	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:36
+# text = Den ye ɲɔ nin ta, k'a b'a kɔ don yɔrɔ min na dɔrɔn a facɛ bɔra, a ko: "I nalonman nin; i b'a to a bɛ taa ɲɔ nin yuguyugu yɔrɔ wɛrɛ!
+1	Den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	ɲɔ	ɲɔ̀	NOUN	n	_	_	_	_	Gloss=mil
+4	nin	nìn	DET	dtm	PronType=Dem|Definite=Def	_	_	_	Gloss=DEM
+5	ta	tà	VERB	v	_	_	_	_	Gloss=prendre
+6	,	,	PUNCT	_		_	_	_	Gloss=,
+7	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+9	b'	b'	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+11	kɔ	kɔ́	NOUN	n	_	_	_	_	Gloss=dos
+12	don	dòn	VERB	v	_	_	_	_	Gloss=entrer
+13	yɔrɔ	yɔ́rɔ	NOUN	n	_	_	_	_	Gloss=lieu
+14	min	mîn	DET	dtm	PronType=Rel	_	_	_	Gloss=REL
+15	na	ná	ADP	pp	_	_	_	_	Gloss=à
+16	dɔ́rɔn	dɔ́rɔn	ADV	adv	_	_	_	_	Gloss=seulement
+17	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+18	facɛ	facɛ	NOUN	n	_	_	_	_	Gloss=père|Morf=père,mâle
+19	bɔra	bɔra	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=sortir|Morf=sortir,PFV.INTR
+20	,	,	PUNCT	_		_	_	_	Gloss=,
+21	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+22	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+23	:	:	PUNCT	_		_	_	_	Gloss=:
+24	"	"	PUNCT	_		_	_	_	Gloss="
+25	I	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	_	_	_	Gloss=2SG
+26	nalonman	nalonman	ADJ	adj	AdjType=Attr	_	_	_	Gloss=bête|Morf=bête,ADJ
+27	nin	nìn	DET	dtm	PronType=Dem|Definite=Def	_	_	_	Gloss=DEM
+28	;	;	PUNCT	_		_	_	_	Gloss=;
+29	i	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	_	_	_	Gloss=2SG
+30	b'	b'	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+31	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+32	to	tó	VERB	v	_	_	_	_	Gloss=rester
+33	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+34	bɛ	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+35	taa	táa	VERB	v	_	_	_	_	Gloss=aller
+36	ɲɔ	ɲɔ̀	NOUN	n	_	_	_	_	Gloss=mil
+37	nin	nìn	DET	dtm	PronType=Dem|Definite=Def	_	_	_	Gloss=DEM
+38	yuguyugu	yúguyugu	VERB	v	_	_	_	_	Gloss=secouer
+39	yɔrɔ	yɔ́rɔ	NOUN	n	_	_	_	_	Gloss=lieu
+40	wɛ́rɛ	wɛ́rɛ	DET	dtm	_	_	_	_	Gloss=autre
+41	!	!	PUNCT	_		_	_	_	Gloss=!
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:37
+# text = A ye kɔnɔ nin mina ka t'a bila bondo kɔnɔ ko walasa a bɛn'a yɛrɛ yuguyugu k'o fa.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	kɔnɔ	kɔ̀nɔ	NOUN	n	_	_	_	_	Gloss=oiseau
+4	nin	nìn	DET	dtm	PronType=Dem|Definite=Def	_	_	_	Gloss=DEM
+5	mina	mìna	VERB	v	_	_	_	_	Gloss=attraper
+6	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+7	t'	t'	VERB	v	_	_	_	_	Gloss=aller
+8	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+9	bila	bìla	VERB	v	_	_	_	_	Gloss=mettre
+10	bondo	bòndo	NOUN	n	_	_	_	_	Gloss=petit.grenier.en.pisé
+11	kɔnɔ	kɔ́nɔ	ADP	pp	_	_	_	_	Gloss=dans
+12	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+13	walasa	wálasa	SCONJ	conj	_	_	_	_	Gloss=pour.que
+14	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+15	bɛn	bɛ́n'	AUX	pm	Tense=Fut|Polarity=Pos	_	_	_	Gloss=FUT
+16	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+17	yɛrɛ	yɛ̀rɛ̂	DET	dtm	_	_	_	_	Gloss=même
+18	yuguyugu	yúguyugu	VERB	v	_	_	_	_	Gloss=secouer
+19	k'	k'	AUX	pm	_	_	_	_	Gloss=INF
+20	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+21	fa	fá	VERB	v	_	_	_	_	Gloss=remplir
+22	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:38
+# text = Facɛman tora natabaya fɛ ka kɔnɔnin tugu bondo kɔnɔ.
+1	Facɛman	facɛman	NOUN	n	AdjType=Attr	_	_	_	Gloss=père|Morf=père,mâle,mâle,ADJ
+2	tora	tora	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=rester|Morf=rester,PFV.INTR
+3	natabaya	nàtabaya	NOUN	n	_	_	_	_	Gloss=cupidité|Morf=cupidité,pingre,cupidité,AUGM,ABSTR
+4	fɛ	fɛ̀	ADP	pp	_	_	_	_	Gloss=par
+5	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+6	kɔnɔnin	kɔnɔnin	NOUN	n	_	_	_	_	Gloss=oiseau|Morf=oiseau,DIM
+7	tugu	túgu	VERB	v	_	_	_	_	Gloss=fermer
+8	bondo	bòndo	NOUN	n	_	_	_	_	Gloss=petit.grenier.en.pisé
+9	kɔnɔ	kɔ́nɔ	ADP	pp	_	_	_	_	Gloss=dans
+10	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:39
+# text = Sanni dugu ka jɛ, kɔnɔnin sara.
+1	Sanni	sánni	SCONJ	conj	_	_	_	_	Gloss=avant.de
+2	dugu	dùgu	NOUN	n	_	_	_	_	Gloss=terre
+3	ka	ka	AUX	pm	Mood=Sub|Polarity=Pos	_	_	_	Gloss=SBJV
+4	jɛ	jɛ́	VERB	v	_	_	_	_	Gloss=blanchir
+5	,	,	PUNCT	_		_	_	_	Gloss=,
+6	kɔnɔnin	kɔnɔnin	NOUN	n	_	_	_	_	Gloss=oiseau|Morf=oiseau,DIM
+7	sara	sara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=mourir|Morf=mourir,PFV.INTR
+8	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:40
+# text = Facɛman solila ka wuli, a tun b'a kɔnɔ k'a bɛ na bondo falen sɔrɔ.
+1	Facɛman	facɛman	NOUN	n	AdjType=Attr	_	_	_	Gloss=père|Morf=père,mâle,mâle,ADJ
+2	solila	solila	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=être.matinal|Morf=être.matinal,PFV.INTR
+3	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+4	wuli	wúli	VERB	v	_	_	_	_	Gloss=se.lever
+5	,	,	PUNCT	_		_	_	_	Gloss=,
+6	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+7	tun	tùn	PART	prt	Tense=Past|Tense=Past	_	_	_	Gloss=PST
+8	b	b'	VERB	cop	_	_	_	_	Gloss=être
+9	'	'	X	_	_	_	_	_	Gloss='
+10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+11	kɔnɔ	kɔ́nɔ	ADP	pp	_	_	_	_	Gloss=dans
+12	k'	k'	VERB	cop	_	_	_	_	Gloss=QUOT
+13	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+14	bɛ	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+15	na	nà	VERB	v	_	_	_	_	Gloss=venir
+16	bondo	bòndo	NOUN	n	_	_	_	_	Gloss=petit.grenier.en.pisé
+17	falen	fálen	VERB	ptcp	VerbForm=Part|Aspect=Perf	_	_	_	Gloss=rempli|Morf=rempli,remplir,PTCP.RES
+18	sɔrɔ	sɔ̀rɔ	VERB	v	_	_	_	_	Gloss=obtenir
+19	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:41
+# text = A nan'a sɔrɔ kɔnɔ sara.
+1	A	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+2	nan'	nan'	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=venir|Morf=venir,PFV.INTR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	sɔrɔ	sɔ̀rɔ	VERB	v	_	_	_	_	Gloss=obtenir
+5	kɔnɔ	kɔ̀nɔ	NOUN	n	_	_	_	_	Gloss=oiseau
+6	sara	sara	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=mourir|Morf=mourir,PFV.INTR
+7	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:42
+# text = Ala fana y'o mɔgɔ sugu dan ka bila dugukolo kan.
+1	Ala	Ála	NOUN	n	_	_	_	_	Gloss=Dieu
+2	fana	fána	PART	prt	_	_	_	_	Gloss=aussi
+3	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+4	o	ò	DET	dtm	_	_	_	_	Gloss=ce
+5	mɔgɔ	mɔ̀gɔ	NOUN	n	_	_	_	_	Gloss=homme
+6	sugu	súgu	NOUN	n	_	_	_	_	Gloss=espèce
+7	dan	dán	VERB	v	_	_	_	_	Gloss=créer
+8	ka	kà	AUX	pm	_	_	_	_	Gloss=INF
+9	bila	bìla	VERB	v	_	_	_	_	Gloss=mettre
+10	dugukolo	dùgukolo	NOUN	n	_	_	_	_	Gloss=terre|Morf=terre,terre,os
+11	kan	kàn	ADP	pp	_	_	_	_	Gloss=sur
+12	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:43
+# text = Hali n'a ye fɛn sɔrɔ, ali n'a ye nafolo d'a ma, a bɛ laban faantanya de la.
+1	Hali	hálì	PART	prt	_	_	_	_	Gloss=même
+2	n'	n'	SCONJ	conj	_	_	_	_	Gloss=si
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+5	fɛn	fɛ́n	NOUN	n	_	_	_	_	Gloss=chose
+6	sɔrɔ	sɔ̀rɔ	VERB	v	_	_	_	_	Gloss=obtenir
+7	,	,	PUNCT	_		_	_	_	Gloss=,
+8	ali	hálì	PART	prt	_	_	_	_	Gloss=même
+9	n'	n'	SCONJ	conj	_	_	_	_	Gloss=si
+10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+11	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+12	nafolo	nàfolo	NOUN	n	_	_	_	_	Gloss=biens
+13	d'	d'	VERB	v	_	_	_	_	Gloss=donner
+14	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+15	ma	mà	ADP	pp	_	_	_	_	Gloss=ADR
+16	,	,	PUNCT	_		_	_	_	Gloss=,
+17	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+18	bɛ	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+19	laban	lában	VERB	v	Voice=Cau	_	_	_	Gloss=finir|Morf=finir,CAUS,terminer
+20	faantanya	fàantanya	NOUN	n	_	_	_	_	Gloss=pauvreté|Morf=pauvreté,force,PRIV,ABSTR
+21	de	dè	PART	prt	_	_	_	_	Gloss=FOC
+22	la	lá	ADP	pp	_	_	_	_	Gloss=à
+23	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:44
+# text = N'a ye fɛn sɔrɔ cogo o cogo, a bɛ ban.
+1	N'	n'	SCONJ	conj	_	_	_	_	Gloss=si
+2	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+3	ye	ye	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+4	fɛn	fɛ́n	NOUN	n	_	_	_	_	Gloss=chose
+5	sɔrɔ	sɔ̀rɔ	VERB	v	_	_	_	_	Gloss=obtenir
+6	cogo	cógo	NOUN	n	_	_	_	_	Gloss=manière
+7	o	ô	CCONJ	conj	_	_	_	_	Gloss=DISTR
+8	cogo	cógo	NOUN	n	_	_	_	_	Gloss=manière
+9	,	,	PUNCT	_		_	_	_	Gloss=,
+10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+11	bɛ	bɛ	AUX	pm	Polarity=Pos|Aspect=Imp	_	_	_	Gloss=IPFV.AFF
+12	ban	bán	VERB	v	_	_	_	_	Gloss=terminer
+13	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:45
+# text = Facɛman ni bamusoman wulila den nin kama.
+1	Facɛman	facɛman	NOUN	n	AdjType=Attr	_	_	_	Gloss=père|Morf=père,mâle,mâle,ADJ
+2	ni	ni	X	conj	_	_	_	_	Gloss=et
+3	bamusoman	bamusoman	NOUN	n	AdjType=Attr	_	_	_	Gloss=mère|Morf=mère,fille,femme,ADJ
+4	wulila	wulila	VERB	v	Aspect=Perf|Valency=1|Polarity=Pos	_	_	_	Gloss=se.lever|Morf=se.lever,PFV.INTR
+5	den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+6	nin	nìn	DET	dtm	PronType=Dem|Definite=Def	_	_	_	Gloss=DEM
+7	kama	kámà	ADP	pp	_	_	_	_	Gloss=pour|Morf=pour,cou,ADR
+8	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:46
+# text = Den fana k'u ka nata de y'u bila o la.
+1	Den	dén	NOUN	n	_	_	_	_	Gloss=enfant
+2	fana	fána	PART	prt	_	_	_	_	Gloss=aussi
+3	k'	k'	VERB	cop	_	_	_	_	Gloss=QUOT
+4	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+5	ka	ka	ADP	pp	_	_	_	_	Gloss=POSS
+6	nata	nàta	NOUN	n	_	_	_	_	Gloss=cupidité
+7	de	dè	PART	prt	_	_	_	_	Gloss=FOC
+8	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+9	u	ù	PRON	pers	PronType=Prs|Number=Plur|Person=3	_	_	_	Gloss=3PL
+10	bila	bìla	VERB	v	_	_	_	_	Gloss=mettre
+11	o	ò	PRON	prn	_	_	_	_	Gloss=ce
+12	la	lá	ADP	pp	_	_	_	_	Gloss=à
+13	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:47
+# text = I k'a dɔn ko nata muso tɛ na ɲuman tobi.
+1	I	í	PRON	pers	PronType=Prs|Number=Sing|Person=2	_	_	_	Gloss=2SG
+2	k'	k'	AUX	pm	Mood=Sub|Polarity=Pos	_	_	_	Gloss=SBJV
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	dɔn	dɔ́n	VERB	v	_	_	_	_	Gloss=connaître
+5	ko	kó	VERB	cop	_	_	_	_	Gloss=QUOT
+6	nata	nàta	NOUN	n	_	_	_	_	Gloss=cupidité
+7	muso	mùso	NOUN	n	_	_	_	_	Gloss=femme
+8	tɛ	tɛ	AUX	pm	Polarity=Neg|Aspect=Imp	_	_	_	Gloss=IPFV.NEG
+9	na	ná	NOUN	n	_	_	_	_	Gloss=sauce
+10	ɲuman	ɲùman	ADJ	adj	_	_	_	_	Gloss=bon
+11	tobi	tóbi	VERB	v	_	_	_	_	Gloss=cuire
+12	.	.	PUNCT	_		_	_	_	Gloss=.
+
+# sent_id = html/03dennyuman_ni_kononin.dis.html:48
+# text = N y'a ta yɔrɔ min, n y'a bila yen.
+1	N	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	_	_	_	Gloss=1SG
+2	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+3	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+4	ta	tà	VERB	v	_	_	_	_	Gloss=prendre
+5	yɔrɔ	yɔ́rɔ	NOUN	n	_	_	_	_	Gloss=lieu
+6	min	mîn	DET	dtm	PronType=Rel	_	_	_	Gloss=REL
+7	,	,	PUNCT	_		_	_	_	Gloss=,
+8	n	ń	PRON	pers	PronType=Prs|Number=Sing|Person=1	_	_	_	Gloss=1SG
+9	y'	y'	AUX	pm	Aspect=Perf|Valency=2|Polarity=Pos	_	_	_	Gloss=PFV.TR
+10	a	à	PRON	pers	PronType=Prs|Number=Sing|Person=3	_	_	_	Gloss=3SG
+11	bila	bìla	VERB	v	_	_	_	_	Gloss=mettre
+12	yen	yèn	ADV	adv	_	_	_	_	Gloss=là-bas
+13	.	.	PUNCT	_		_	_	_	Gloss=.
+
